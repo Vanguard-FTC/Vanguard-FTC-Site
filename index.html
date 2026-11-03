@@ -6,7 +6,7 @@
     <meta name="theme-color" content="#110020" />
     <title>Vanguard — Equipe FTC 37520</title>
     <meta name="description" content="Vanguard, equipe FIRST Tech Challenge 37520 do SESI Apucarana." />
-    <link rel="icon" type="image/png" href="media/Team-logo.png" />
+    <link rel="icon" type="image/png" href="media/Team-logo-clean.png" />
     <link rel="apple-touch-icon" href="media/Team-logo.png" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -19,8 +19,8 @@
   </head>
   <body>
     <header id="siteHeader">
-      <a href="#" class="brand">
-        <span class="brand-mark" aria-hidden="true"><span></span><span></span><span></span><span></span></span>
+      <a href="#" class="brand" aria-label="Vanguard — início">
+        <img src="media/Team-logo-clean.png" alt="" class="brand-logo" width="32" height="32" />
         VANGUARD
       </a>
       <nav class="nav-links" id="navLinks">
@@ -278,7 +278,7 @@
             </p>
           </div>
           <figure class="photo impact-image" data-reveal="scale" style="--rd: 0.2s">
-            <img src="media/Projeto_social_FTC.jpeg" alt="Projeto social da Vanguard" loading="lazy" decoding="async" />
+            <img src="media/projeto_social.jpeg" alt="Projeto social da Vanguard" loading="lazy" decoding="async" />
             <figcaption class="photo-caption">Projeto social · Vanguard</figcaption>
           </figure>
           <div class="impact-stats" data-reveal="up" style="--rd: 0.18s">
@@ -292,18 +292,81 @@
       </section>
 
       <!-- ============ Patrocinadores ============ -->
-      <section class="section">
+      <section class="section" id="patrocinadores">
         <div class="g">
           <div class="sponsors-head" data-reveal="up">
             <div class="label"><span class="n">06</span> &nbsp;Patrocinadores</div>
             <h2>Apoiado por</h2>
           </div>
-          <div class="sponsor-line" data-reveal="up" style="--rd: 0.1s">
-            <span class="sponsor-item">Patrocinador 01</span>
-            <span class="sponsor-item">Patrocinador 02</span>
-            <span class="sponsor-item">Patrocinador 03</span>
-            <span class="sponsor-item">Patrocinador 04</span>
-            <span class="sponsor-item">Patrocinador 05</span>
+
+          <div class="sponsors" data-reveal="up" style="--rd: 0.1s">
+
+            <!-- ---------- Patrocínio Ouro (grade fixa) ---------- -->
+            <div class="team-divider"><span class="team-divider-num">01</span><span class="team-divider-label">Patrocínio Ouro</span><span class="team-divider-line"></span></div>
+            <div class="sponsor-grid sponsor-grid--main">
+              <a class="sponsor" href="https://www.instagram.com/ihardinfo/" target="_blank" rel="noopener noreferrer">
+                <span class="sponsor-plate"><img src="media/sponsors/Ihard-logo.png" alt="iHard Informática e Tecnologia" loading="lazy" /></span>
+                <span class="sponsor-name">iHard · Informática e Tecnologia</span>
+              </a>
+            </div>
+
+            <!-- ---------- Apoio (carrossel infinito) ----------
+                 Para cada apoiador, copie um bloco <a class="sponsor"> ... </a>.
+                 PNG/SVG aparecem inteiros; JPG preenche a placa.
+                 Sem site? Troque <a ...> por <div class="sponsor"> e </a> por </div>. -->
+            <div class="team-divider"><span class="team-divider-num">02</span><span class="team-divider-label">Apoio</span><span class="team-divider-line"></span></div>
+            <div class="sponsor-rail" data-rail>
+              <div class="sponsor-track" tabindex="0" aria-label="Apoiadores — arraste para ver mais">
+
+                <a class="sponsor" href="SITE-DO-APOIADOR" target="_blank" rel="noopener noreferrer">
+                  <span class="sponsor-plate"><img src="media/sponsors/serralheria_caldeira_transparente.png" alt="Serralheria Caldeira" loading="lazy" /></span>
+                  <span class="sponsor-name">Serralheria Caldeira</span>
+                </a>
+
+                <a class="sponsor" href="SITE-DO-APOIADOR" target="_blank" rel="noopener noreferrer">
+                  <span class="sponsor-plate"><img src="media/sponsors/VDP_logo.jpeg" alt="VDP Eletrônica Industrial" loading="lazy" /></span>
+                  <span class="sponsor-name">VDP · Eletrônica Industrial</span>
+                </a>
+
+                <a class="sponsor" href="SITE-DO-APOIADOR" target="_blank" rel="noopener noreferrer">
+                  <span class="sponsor-plate"><img src="media/sponsors/fattec_logo.jpeg" alt="Fattec Manutenção" loading="lazy" /></span>
+                  <span class="sponsor-name">Fattec · Manutenção</span>
+                </a>
+
+                <a class="sponsor" href="SITE-DO-APOIADOR" target="_blank" rel="noopener noreferrer">
+                  <span class="sponsor-plate sponsor-plate--fill"><img src="media/sponsors/G.A. Calhas_logo.jpg" alt="G.A. Calhas e Rufos" loading="lazy" /></span>
+                  <span class="sponsor-name">G.A. · Calhas e Rufos</span>
+                </a>
+
+                <a class="sponsor" href="SITE-DO-APOIADOR" target="_blank" rel="noopener noreferrer">
+                  <span class="sponsor-plate"><img src="media/sponsors/apoiador1.png" alt="Nome do apoiador" loading="lazy" /></span>
+                  <span class="sponsor-name">Nome do apoiador</span>
+                </a>
+
+                <a class="sponsor" href="SITE-DO-APOIADOR" target="_blank" rel="noopener noreferrer">
+                  <span class="sponsor-plate"><img src="media/sponsors/apoiador1.png" alt="Nome do apoiador" loading="lazy" /></span>
+                  <span class="sponsor-name">Nome do apoiador</span>
+                </a>
+
+                <a class="sponsor" href="SITE-DO-APOIADOR" target="_blank" rel="noopener noreferrer">
+                  <span class="sponsor-plate"><img src="media/sponsors/apoiador1.png" alt="Nome do apoiador" loading="lazy" /></span>
+                  <span class="sponsor-name">Nome do apoiador</span>
+                </a>
+                <!-- repita o bloco acima para cada apoiador -->
+
+                <a class="sponsor sponsor--cta" href="https://www.instagram.com/vanguardftc_/" target="_blank" rel="noopener noreferrer">
+                  <span class="sponsor-plate">+ Sua marca aqui</span>
+                  <span class="sponsor-name">Seja patrocinador</span>
+                </a>
+              </div>
+              <div class="rail-ui">
+                <button class="rail-btn" type="button" data-dir="-1" aria-label="Anterior">←</button>
+                <div class="rail-progress" aria-hidden="true"><span></span></div>
+                <span class="rail-count" aria-hidden="true"></span>
+                <button class="rail-btn" type="button" data-dir="1" aria-label="Próximo">→</button>
+              </div>
+            </div>
+
           </div>
         </div>
       </section>

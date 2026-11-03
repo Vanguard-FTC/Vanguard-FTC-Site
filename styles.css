@@ -1,3 +1,4 @@
+@charset "UTF-8";
 :root {
   --bg: #110020;
   --bg-alt: #180031;
@@ -87,11 +88,13 @@ header.scrolled {
   display: flex; align-items: center; gap: 10px;
   font-family: var(--font-display); font-weight: 600; font-size: 15px; letter-spacing: .02em;
 }
-.brand-mark { width: 15px; height: 15px; position: relative; flex: none; }
-.brand-mark span { position: absolute; left: 50%; top: 50%; width: 1.5px; height: 100%; background: var(--accent); transform: translate(-50%, -50%); }
-.brand-mark span:nth-child(2) { transform: translate(-50%, -50%) rotate(90deg); }
-.brand-mark span:nth-child(3) { transform: translate(-50%, -50%) rotate(45deg); }
-.brand-mark span:nth-child(4) { transform: translate(-50%, -50%) rotate(-45deg); }
+.brand-logo {
+  width: 32px; height: 32px; flex: none;
+  object-fit: contain;
+  transition: transform .4s var(--ease), width .4s ease, height .4s ease;
+}
+.brand:hover .brand-logo { transform: scale(1.08); }
+header.scrolled .brand-logo { width: 28px; height: 28px; }
 
 .nav-links { display: flex; gap: clamp(20px, 2.6vw, 40px); }
 .nav-links a,
@@ -107,7 +110,7 @@ header.scrolled {
 .nav-links a:hover::after { transform: scaleX(1); }
 
 .nav-cta { letter-spacing: .1em; display: flex; align-items: center; gap: 8px; white-space: nowrap; }
-.nav-cta::after { content: "→"; color: var(--accent); transition: transform .3s ease; }
+.nav-cta::after { content: "\2192"; color: var(--accent); transition: transform .3s ease; }
 .nav-cta:hover::after { transform: translateX(4px); }
 
 .nav-toggle {
@@ -226,13 +229,26 @@ header.scrolled {
   mix-blend-mode: multiply; opacity: var(--veil);
   transition: opacity .6s var(--ease);
 }
-.photo:hover img { filter: none; }
-.photo:hover::after { opacity: 0; }
+/* hover: a foto "sai" da moldura (sobe e vai p/ esquerda), ganha cor
+   e a moldura amarela acende; a legenda ganha um traço amarelo */
+.photo::before { transition: opacity .6s var(--ease); }
+.photo img { transition: filter .6s var(--ease), transform .6s var(--ease); }
+.photo::after { transition: opacity .6s var(--ease), transform .6s var(--ease); }
+.photo:hover::before { opacity: .9; }
+.photo:hover img { filter: none; transform: translate(-6px, -6px); }
+.photo:hover::after { opacity: 0; transform: translate(-6px, -6px); }
 .photo-caption {
   position: absolute; left: 16px; bottom: 14px; right: 16px; z-index: 2;
   font-family: var(--font-mono); font-size: 10.5px; letter-spacing: .14em; text-transform: uppercase;
-  color: var(--ink); text-shadow: 0 1px 8px rgba(0, 0, 0, .7);
+  color: var(--ink); text-shadow: 0 1px 8px rgba(0, 0, 0, .7);  transition: transform .6s var(--ease);
 }
+.photo-caption::before {
+  content: ""; display: inline-block; vertical-align: middle;
+  width: 0; height: 1px; margin-right: 0; background: var(--accent);
+  transition: width .5s var(--ease), margin .5s var(--ease);
+}
+.photo:hover .photo-caption { transform: translate(-6px, -6px); }
+.photo:hover .photo-caption::before { width: 22px; margin-right: 10px; }
 
 /* ---------- Identidade ---------- */
 #equipe { overflow: hidden; }
@@ -362,22 +378,85 @@ header.scrolled {
   max-height: 78vh;          /* nunca mais alta que a tela */
 }
 
-/* ---------- Patrocinadores ---------- */
+/* ---------- Patrocinadores ----------
+   Colunas por tela: Ouro 3 / 2 / 1 · Apoio 5 / 4 / 3 / 2
+   A imagem preenche a placa toda (corta o que sobrar).
+   Escolher a parte visível (no HTML): style="--focus: top" / "left" / "30% 50%" */
 .sponsors-head { grid-column: 2 / 8; }
 .sponsors-head h2 { font-size: clamp(28px, 4.4vw, 52px); }
-.sponsor-line {
-  grid-column: 2 / 12; margin-top: min(7vh, 60px);
-  display: flex; flex-wrap: wrap; align-items: center;
-  border-block: 1px solid var(--line);
+.sponsors { grid-column: 2 / 12; margin-top: min(7vh, 60px); }
+.sponsors .team-divider:first-child { padding-top: 0; }
+
+.sponsor-grid {
+  --cols: 5;
+  display: grid; gap: clamp(24px, 3vw, 36px) clamp(16px, 2vw, 28px);
+  grid-template-columns: repeat(var(--cols), minmax(0, 1fr));
+  padding-right: 12px; /* espaço p/ a moldura do hover não encostar na margem */
 }
-.sponsor-item {
-  padding: 26px clamp(20px, 2.6vw, 40px);
-  font-family: var(--font-display); font-size: clamp(14px, 1.4vw, 18px); letter-spacing: .02em;
-  color: var(--ink-faint); border-right: 1px solid var(--line);
-  transition: color .35s ease;
+.sponsor-grid--main { --cols: 3; }
+
+.sponsor { position: relative; isolation: isolate; display: flex; flex-direction: column; gap: 12px; min-width: 0; }
+.sponsor::before { /* moldura amarela atrás da placa, igual às fotos */
+  content: ""; position: absolute; z-index: -1; pointer-events: none;
+  top: 8px; left: 8px; width: 100%; aspect-ratio: 16 / 9;
+  border: 1px solid var(--accent); opacity: 0;
+  transition: opacity .45s var(--ease), transform .45s var(--ease);
 }
-.sponsor-item:last-child { border-right: none; }
-.sponsor-item:hover { color: var(--accent); }
+.sponsor-plate {
+  --focus: center;    /* parte da imagem que fica visível ao cortar */
+  position: relative; overflow: hidden;
+  display: block; aspect-ratio: 16 / 9;
+  /* vinheta: centro claro, bordas puxando para o roxo da equipe */
+  background:
+    radial-gradient(ellipse 70% 75% at 50% 45%, #fff 0%, #F7F5FA 45%, #E4DCEE 82%, #CFC3DE 100%);
+  box-shadow:
+    inset 0 0 0 1px rgba(255, 255, 255, .7),
+    inset 0 -30px 50px -30px rgba(90, 24, 154, .35);
+  transition: transform .45s var(--ease), box-shadow .45s var(--ease);
+}
+.sponsor-plate img {
+  /* preenche a placa inteira; o que sobrar da imagem é cortado */
+  position: absolute; inset: 0;
+  width: 100%; height: 100%; max-width: none;
+  object-fit: cover; object-position: var(--focus);
+  transition: transform .45s var(--ease);
+}
+/* PNG / SVG (logo com fundo transparente): mostra inteira, com margem, sem cortar */
+.sponsor-plate img:is([src$=".png" i], [src$=".svg" i]),
+.sponsor-plate--fit img {
+  left: 8%; top: 10%; width: 84%; height: 80%;
+  object-fit: contain;
+}
+/* forçar preencher (cortando) mesmo sendo PNG */
+.sponsor-plate--fill img {
+  left: 0; top: 0; width: 100%; height: 100%;
+  object-fit: cover;
+}
+.sponsor-name {
+  font-family: var(--font-mono); font-size: 10.5px; letter-spacing: .12em;
+  text-transform: uppercase; color: var(--ink-dim);
+  overflow-wrap: anywhere;
+  transition: color .3s ease;
+}
+.sponsor:hover .sponsor-plate {
+  transform: translate(-4px, -4px);
+  box-shadow:
+    inset 0 0 0 1px rgba(255, 255, 255, .7),
+    inset 0 -30px 50px -30px rgba(242, 194, 48, .45);
+}
+.sponsor:hover .sponsor-plate img { transform: scale(1.04); }
+.sponsor:hover::before { opacity: .7; transform: translate(4px, 4px); }
+.sponsor:hover .sponsor-name { color: var(--accent); }
+
+/* placa "Sua marca aqui" */
+.sponsor--cta::before { display: none; }
+.sponsor--cta .sponsor-plate {
+  display: grid; place-items: center; padding: 8%;
+  background: transparent; box-shadow: none; border: 1px dashed var(--line-strong);
+  font-family: var(--font-mono); font-size: 11.5px; letter-spacing: .12em;
+  text-transform: uppercase; color: var(--accent); text-align: center;
+}
+.sponsor--cta:hover .sponsor-plate { border-color: var(--accent); box-shadow: none; }
 
 /* ---------- CTA final ---------- */
 .final {
@@ -423,9 +502,10 @@ footer { border-top: 1px solid var(--line); padding: 40px var(--pad-x); }
 /* ---------- Laptop (≤1200px) ---------- */
 @media (max-width: 1200px) {
   .identity-copy, .team-image { grid-column: 1 / 7; }
-  .identity-head, .team-list, .sponsor-line { grid-column: 1 / 13; }
+  .identity-head, .team-list, .sponsors { grid-column: 1 / 13; }
   .identity-stats { grid-column: 8 / 13; }
   .robot-head, .team-head, .sponsors-head { grid-column: 1 / 9; }
+  .sponsor-grid { --cols: 4; }
 
   .impact-head, .impact-copy, .impact-stats { grid-column: 1 / 7; }
   .impact-image { grid-column: 7 / 13; }
@@ -476,11 +556,10 @@ footer { border-top: 1px solid var(--line); padding: 40px var(--pad-x); }
   .t-id { grid-row: span 2; }
   .t-role { grid-column: 2; text-align: left; }
 
-  .sponsor-line { flex-direction: column; align-items: stretch; }
-  .sponsor-item { border-right: none; border-bottom: 1px solid var(--line); text-align: center; padding: 20px 0; }
-  .sponsor-item:last-child { border-bottom: none; }
-
   #equipe::before { font-size: 46vw; right: 0; bottom: -6vw; }
+
+  .sponsor-grid { --cols: 3; }
+  .sponsor-grid--main { --cols: 2; }
 }
 
 /* ---------- Celular (≤768px) ---------- */
@@ -519,6 +598,13 @@ footer { border-top: 1px solid var(--line); padding: 40px var(--pad-x); }
 
   .stat-line .v { min-width: 64px; }
   .team-divider { padding-top: 36px; }
+
+  /* patrocinadores: 2 por linha nos apoiadores, moldura menor */
+  .sponsor-grid { --cols: 2; gap: 24px 14px; padding-right: 0; }
+  .sponsor-grid--main { --cols: 1; }
+  .sponsor-name { font-size: 9.5px; letter-spacing: .08em; }
+  .sponsor--cta .sponsor-plate { font-size: 10px; }
+
   .final-links { flex-direction: column; gap: 22px; }
   .foot-row { flex-direction: column; }
 }
@@ -530,9 +616,117 @@ footer { border-top: 1px solid var(--line); padding: 40px var(--pad-x); }
   .impact-image { max-height: 80vh; }
 }
 
+/* Celular / touch: sem hover, placas ficam paradas */
+@media (hover: none) {
+  .photo:hover img, .photo:hover::after, .photo:hover .photo-caption { transform: none; }
+  .sponsor:hover .sponsor-plate { transform: none; }
+  .sponsor:hover::before { opacity: 0; }
+}
+
 /* ---------- Movimento reduzido ---------- */
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
   *, *::before, *::after { animation: none !important; transition: none !important; }
   [data-reveal], .hero-foot, .hero-title em { opacity: 1; transform: none; }
 }
+
+/* =========================================================
+   Carrossel de apoiadores — minimalista
+   Placa central em destaque; laterais menores, em tons de cinza.
+   (escala / opacidade / cinza de cada placa vêm do script.js)
+   ========================================================= */
+.sponsor-rail {
+  --per-view: 4.2;          /* placas visíveis por vez (aprox.) */
+  --rail-gap: clamp(16px, 2vw, 32px);
+  position: relative;
+}
+.sponsor-track {
+  position: relative;
+  display: flex; gap: var(--rail-gap);
+  overflow-x: auto; overscroll-behavior-x: contain;
+  scroll-snap-type: x mandatory; scroll-behavior: smooth;
+  padding: 8px 0;
+  scrollbar-width: none;
+  cursor: grab; user-select: none; -webkit-user-select: none;
+  -webkit-mask-image: linear-gradient(to right, transparent 0, #000 6%, #000 94%, transparent 100%);
+          mask-image: linear-gradient(to right, transparent 0, #000 6%, #000 94%, transparent 100%);
+}
+.sponsor-track::-webkit-scrollbar { display: none; }
+.sponsor-track:focus-visible { outline: 1px solid var(--accent); outline-offset: -1px; }
+.sponsor-track.dragging { cursor: grabbing; scroll-snap-type: none; scroll-behavior: auto; }
+.sponsor-track.dragging .sponsor { pointer-events: none; }
+.sponsor-track img { -webkit-user-drag: none; user-select: none; }
+
+.sponsor-track > .sponsor {
+  flex: 0 0 var(--item-w, 220px);
+  scroll-snap-align: center;
+  transform: scale(var(--sc, 1));
+  transform-origin: 50% 40%;
+  opacity: var(--op, 1);
+}
+.sponsor-track > .sponsor::before { display: none; }          /* sem moldura deslocada aqui */
+.sponsor-track .sponsor:hover .sponsor-plate { transform: none; }
+
+/* logos laterais em cinza, central em cor */
+.sponsor-track .sponsor-plate img {
+  filter: grayscale(var(--gs, 0));
+  transition: filter .5s var(--ease), transform .6s var(--ease);
+}
+/* hover: a logo cresce de leve e, nas laterais, ganha cor */
+.sponsor-track .sponsor:hover .sponsor-plate img {
+  filter: grayscale(0);
+  transform: scale(1.06);
+}
+
+/* detalhe marcante: linha amarela que "desenha" na base da placa central */
+.sponsor-track .sponsor-plate::after {
+  content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 2px; z-index: 1;
+  background: var(--accent);
+  transform: scaleX(0); transform-origin: left;
+  transition: transform .7s var(--ease);
+}
+.sponsor-track > .sponsor.is-active .sponsor-plate::after { transform: scaleX(1); }
+
+/* legenda: índice + nome */
+.sponsor-track .sponsor-name {
+  display: flex; gap: 10px; align-items: baseline;
+  transition: color .4s ease;
+}
+.sponsor-track .sponsor-name::before {
+  content: attr(data-n);
+  color: var(--ink-faint); transition: color .4s ease;
+}
+.sponsor-track > .sponsor.is-active .sponsor-name { color: var(--ink); }
+.sponsor-track > .sponsor.is-active .sponsor-name::before { color: var(--accent); }
+
+/* controles */
+.rail-ui { display: flex; align-items: center; gap: 16px; margin-top: 22px; }
+.rail-btn {
+  flex: none; width: 40px; height: 40px;
+  display: grid; place-items: center;
+  background: none; border: 1px solid var(--line-strong); color: var(--ink);
+  font-family: var(--font-mono); font-size: 15px; cursor: pointer;
+  transition: border-color .3s ease, color .3s ease, opacity .3s ease;
+}
+.rail-btn:hover:not(:disabled) { border-color: var(--accent); color: var(--accent); }
+.rail-btn:disabled { opacity: .3; cursor: default; }
+.rail-progress { position: relative; flex: 1; height: 1px; background: var(--line); overflow: hidden; }
+.rail-progress span {
+  position: absolute; inset: 0 auto 0 0; width: var(--thumb, 30%);
+  background: var(--accent);
+  transform: translateX(var(--thumb-x, 0%));
+  transition: transform .15s linear;
+}
+.rail-count {
+  flex: none; min-width: 64px; text-align: right;
+  font-family: var(--font-mono); font-size: 11px; letter-spacing: .1em; color: var(--ink-faint);
+}
+.rail-count b { color: var(--ink); font-weight: 500; }
+
+@media (max-width: 1200px) { .sponsor-rail { --per-view: 3.2; } }
+@media (max-width: 980px)  { .sponsor-rail { --per-view: 2.4; } }
+@media (max-width: 560px)  {
+  .sponsor-rail { --per-view: 1.5; --rail-gap: 12px; }
+  .rail-btn { width: 36px; height: 36px; }
+}
+@media (prefers-reduced-motion: reduce) { .sponsor-track { scroll-behavior: auto; } }

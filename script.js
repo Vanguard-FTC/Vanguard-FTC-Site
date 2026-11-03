@@ -70,20 +70,21 @@
   const isApple = /Mac|iPhone|iPad|iPod/.test(navigator.platform || ua) || /iPhone|iPad|iPod|Macintosh/.test(ua);
   const isMobile = /Android|iPhone|iPad|iPod|Mobile/i.test(ua);
 
-  document.querySelectorAll('a[data-email]').forEach((link) => {
-    link.addEventListener('click', (e) => {
-      const email = link.dataset.email;
-      copyText(email).then((ok) => {
-        showToast(ok ? `E-mail copiado: ${email}` : email);
-      });
-
-      // Apple e celulares têm app de e-mail: deixa o mailto seguir normalmente
-      if (isApple || isMobile) return;
-
-      e.preventDefault();
-      const gmail = `https://mail.google.com/mail/?view=cm&fs=1&to=${encodeURIComponent(email)}`;
-      window.open(gmail, '_blank', 'noopener');
+  // delegado: funciona também nas cópias criadas pelo carrossel infinito
+  document.addEventListener('click', (e) => {
+    const link = e.target.closest('a[data-email]');
+    if (!link || e.defaultPrevented) return;
+    const email = link.dataset.email;
+    copyText(email).then((ok) => {
+      showToast(ok ? `E-mail copiado: ${email}` : email);
     });
+
+    // Apple e celulares têm app de e-mail: deixa o mailto seguir normalmente
+    if (isApple || isMobile) return;
+
+    e.preventDefault();
+    const gmail = `https://mail.google.com/mail/?view=cm&fs=1&to=${encodeURIComponent(email)}`;
+    window.open(gmail, '_blank', 'noopener');
   });
 
   /* ---------- Entrada do hero ---------- */
@@ -360,4 +361,155 @@
 
     setRunning(true);
   })();
+
+
+  /* ---------- Carrossel de apoiadores (infinito) ----------
+     As placas são duplicadas antes e depois da lista original; quando a
+     rolagem para numa cópia, o script pula sem animação para a placa
+     equivalente da lista original, então nunca chega ao fim.
+     Mouse: arrasta com inércia. Celular: dedo. Teclado: ← →.
+     Clicar numa placa lateral traz ela para o centro; na central, abre o link. */
+  document.querySelectorAll('[data-rail]').forEach((rail) => {
+    const track = rail.querySelector('.sponsor-track');
+    if (!track || !track.children.length) return;
+    const prev = rail.querySelector('[data-dir="-1"]');
+    const next = rail.querySelector('[data-dir="1"]');
+    const bar = rail.querySelector('.rail-progress span');
+    const count = rail.querySelector('.rail-count');
+    const pad2 = (n) => String(n).padStart(2, '0');
+
+    // numera as originais e cria uma cópia antes e outra depois
+    const originals = [...track.children];
+    const n = originals.length;
+    originals.forEach((it, i) => it.querySelector('.sponsor-name')?.setAttribute('data-n', pad2(i + 1)));
+    const makeClones = () => originals.map((it) => {
+      const c = it.cloneNode(true);
+      c.classList.add('is-clone');
+      c.setAttribute('aria-hidden', 'true');
+      c.querySelectorAll('a, button').forEach((el) => el.setAttribute('tabindex', '-1'));
+      if (c.matches('a')) c.setAttribute('tabindex', '-1');
+      return c;
+    });
+    track.prepend(...makeClones());
+    track.append(...makeClones());
+    const items = [...track.children];          // 3 × n
+
+    let step = 1, active = -1, frame = 0, settleTimer = 0, busy = false;
+
+    const centerOf = (i) => items[i].offsetLeft + items[i].offsetWidth / 2 - track.clientWidth / 2;
+
+    // pula sem animação (usado para "dar a volta")
+    const jump = (left) => {
+      track.classList.add('dragging');           // desliga snap e smooth por um instante
+      track.scrollLeft = left;
+      requestAnimationFrame(() => requestAnimationFrame(() => {
+        if (!down) track.classList.remove('dragging');
+      }));
+    };
+
+    function layout() {
+      const per = parseFloat(getComputedStyle(rail).getPropertyValue('--per-view')) || 4;
+      const gap = parseFloat(getComputedStyle(track).columnGap) || 16;
+      const w = track.clientWidth;
+      const itemW = Math.max(120, (w - gap * (per - 1)) / per);
+      rail.style.setProperty('--item-w', `${itemW}px`);
+      step = itemW + gap;
+      const real = active < 0 ? 0 : active % n;
+      jump(centerOf(n + real));                  // mantém a placa atual no centro
+      render();
+    }
+
+    function render() {
+      frame = 0;
+      const center = track.scrollLeft + track.clientWidth / 2;
+      let nearest = 0, best = Infinity;
+      items.forEach((it, i) => {
+        const d = (it.offsetLeft + it.offsetWidth / 2 - center) / step;
+        const a = Math.min(Math.abs(d), 2);
+        it.style.setProperty('--sc', `${1 - a * 0.07}`);
+        it.style.setProperty('--op', `${Math.max(0.4, 1 - a * 0.32)}`);
+        it.style.setProperty('--gs', `${Math.min(1, a)}`);
+        if (Math.abs(d) < best) { best = Math.abs(d); nearest = i; }
+      });
+      if (nearest !== active) {
+        items[active]?.classList.remove('is-active');
+        items[nearest].classList.add('is-active');
+        active = nearest;
+      }
+      const real = active % n;
+      if (bar) {
+        bar.style.setProperty('--thumb', `${100 / n}%`);
+        bar.style.setProperty('--thumb-x', `${real * 100}%`);
+      }
+      if (count) count.innerHTML = `<b>${pad2(real + 1)}</b> / ${pad2(n)}`;
+    }
+
+    // quando a rolagem para numa cópia, volta para a lista do meio
+    function settle() {
+      if (down) return;
+      busy = false;
+      if (active < n) jump(track.scrollLeft + n * step);
+      else if (active >= 2 * n) jump(track.scrollLeft - n * step);
+    }
+    track.addEventListener('scroll', () => {
+      if (!frame) frame = requestAnimationFrame(render);
+      clearTimeout(settleTimer);
+      settleTimer = setTimeout(settle, 140);
+    }, { passive: true });
+
+    const goTo = (i) => {
+      track.scrollTo({ left: centerOf(Math.max(0, Math.min(items.length - 1, i))), behavior: reduceMotion ? 'auto' : 'smooth' });
+    };
+    // evita clicar rápido demais e passar das cópias antes de "dar a volta"
+    const nudge = (dir) => { if (busy) return; busy = true; goTo(active + dir); setTimeout(() => { busy = false; }, 500); };
+    prev?.addEventListener('click', () => nudge(-1));
+    next?.addEventListener('click', () => nudge(1));
+    track.addEventListener('keydown', (e) => {
+      if (e.key === 'ArrowRight') { e.preventDefault(); nudge(1); }
+      if (e.key === 'ArrowLeft') { e.preventDefault(); nudge(-1); }
+    });
+
+    // arrastar com o mouse (toque usa a rolagem nativa)
+    let down = false, moved = false, startX = 0, startScroll = 0, lastX = 0, lastT = 0, vel = 0;
+    track.addEventListener('pointerdown', (e) => {
+      if (e.pointerType !== 'mouse' || e.button !== 0) return;
+      down = true; moved = false;
+      startX = lastX = e.clientX; startScroll = track.scrollLeft;
+      lastT = performance.now(); vel = 0;
+    });
+    addEventListener('pointermove', (e) => {
+      if (!down) return;
+      const dx = e.clientX - startX;
+      if (!moved && Math.abs(dx) > 5) { moved = true; track.classList.add('dragging'); }
+      if (!moved) return;
+      let left = startScroll - dx;
+      // dá a volta durante o arraste também
+      const set = n * step, base = centerOf(n);
+      if (left < base - set * 0.5) { left += set; startScroll += set; }
+      else if (left > base + set * 1.5) { left -= set; startScroll -= set; }
+      track.scrollLeft = left;
+      const now = performance.now();
+      vel = (e.clientX - lastX) / Math.max(1, now - lastT);
+      lastX = e.clientX; lastT = now;
+    });
+    addEventListener('pointerup', () => {
+      if (!down) return;
+      down = false;
+      if (!moved) return;
+      const target = Math.round((track.scrollLeft - vel * 220 - centerOf(0)) / step);
+      track.classList.remove('dragging');
+      goTo(target);                               // inércia + centraliza
+    });
+
+    // clique: arraste não abre link; placa lateral vem para o centro
+    track.addEventListener('click', (e) => {
+      if (moved) { e.preventDefault(); e.stopPropagation(); moved = false; return; }
+      const i = items.indexOf(e.target.closest('.sponsor'));
+      if (i > -1 && i !== active) { e.preventDefault(); e.stopPropagation(); goTo(i); }
+    }, true);
+    track.addEventListener('dragstart', (e) => e.preventDefault());
+
+    new ResizeObserver(layout).observe(track);
+    layout();
+  });
 })();
