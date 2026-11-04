@@ -511,5 +511,18 @@
 
     new ResizeObserver(layout).observe(track);
     layout();
+      /* ---------- Transição do hero ao rolar ---------- */
+  (function heroScrollFade() {
+    const hero = $('.hero');
+    if (!hero || reduceMotion) return;
+    let queued = false;
+    const update = () => {
+      queued = false;
+      const p = Math.min(1, Math.max(0, scrollY / (hero.offsetHeight * 0.9)));
+      hero.style.setProperty('--hero-p', p.toFixed(3));
+    };
+    addEventListener('scroll', () => { if (!queued) { queued = true; requestAnimationFrame(update); } }, { passive: true });
+    update();
+  })();
   });
 })();
