@@ -1,0 +1,233 @@
+s2306 | ⟦0/⟧⟦1/⟧ ⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧Figura ⟦/4⟧13‑2: Chave de playoff com 8 ALIANÇAS
+s2307 | ⟦0⟧⟦/0⟧Se uma PARTIDA de Playoff precisar ser repetida, conforme descrito na Seção ⟦1⟧13.2⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧Repetição de PARTIDAS⟦/3⟧, ou se for necessário jogar uma PARTIDA adicional por causa de empate, as equipes serão avisadas de quando a PARTIDA acontecerá. É dado um intervalo mínimo de 8 minutos para as equipes prepararem os seus ROBÔS antes da PARTIDA, a menos que todas as equipes fiquem prontas antes (⟦4⟧T406⟦/4⟧). A PARTIDA afetada deve ser disputada antes do início da rodada seguinte.
+s2308 | 13.7.3 Chave com 2 ALIANÇAS e Horários Típicos
+s2309 | Figura 13‑3: Chave de playoff com 2 ALIANÇAS
+s2310 | Tabela 13‑3: Horários típicos da chave de playoff com 2 ALIANÇAS
+s2311 | Rodada
+s2312 | PARTIDA
+s2313 | Superior/⟦2/⟧ Inferior
+s2314 | ⟦0⟧⟦1⟧Intervalo⟦2/⟧ ⟦/1⟧⟦/0⟧⟦3⟧(min)⟦/3⟧
+s2315 | ⟦0⟧⟦1⟧Próxima PARTIDA⟦2/⟧ ⟦/1⟧⟦/0⟧⟦3⟧(nº da PARTIDA (cor da ALIANÇA))⟦/3⟧
+s2316 | CAMPO
+s2317 | Azul
+s2318 | Vermelho
+s2319 | Azul
+s2320 | Vermelho
+s2321 | Vencedor
+s2322 | Perdedor
+s2323 | Início⟦1/⟧ estimado (min)
+s2324 | Intervalo de 15 minutos
+s2325 | Escolha dos Juízes* (1), Prêmio Innovate/Design/Control (1)
+s2326 | Finais
+s2327 | Intervalo de 15 minutos
+s2328 | Prêmio Sustain/Reach/Connect (1)
+s2329 | Finais
+s2330 | Intervalo de 15 minutos
+s2331 | Prêmio Think (1)
+s2332 | Finais
+s2333 | Prêmios: Compass*, Finalistas, Vencedores e Prêmio Inspire (1)
+s2334 | * se necessário
+s2335 | ⟦0⟧⟦1⟧**Os prêmios podem ser entregues após o fim da chave de playoff, a critério do ⟦/1⟧⟦/0⟧Diretor do Evento. ⟦2/⟧
+s2336 | 13.7.4 Chave com 4 ALIANÇAS e Horários Típicos
+s2337 | Figura 13‑4: Chave de playoff com 4 ALIANÇAS
+s2338 | Tabela 13‑4: Horários típicos do playoff com 4 ALIANÇAS
+s2339 | Rodada
+s2340 | PARTIDA
+s2341 | Superior/⟦2/⟧ Inferior
+s2342 | ⟦0⟧⟦1⟧Intervalo⟦2/⟧ ⟦/1⟧⟦/0⟧⟦3⟧(min)⟦/3⟧
+s2343 | ⟦0⟧⟦1⟧Próxima PARTIDA⟦2/⟧ ⟦/1⟧⟦/0⟧⟦3⟧(nº da PARTIDA (cor da ALIANÇA))⟦/3⟧
+s2344 | CAMPO
+s2345 | Azul
+s2346 | Vermelho
+s2347 | Azul
+s2348 | Vermelho
+s2349 | Vencedor
+s2350 | Perdedor
+s2351 | Início⟦1/⟧ estimado (min)
+s2352 | Superior
+s2353 | Superior
+s2354 | Intervalo de 15 minutos
+s2355 | Inferior
+s2356 | 4º
+s2357 | Superior
+s2358 | Intervalo de 15 minutos
+s2359 | Escolha dos Juízes* (1), Prêmio Design (1), Prêmio Reach (1)
+s2360 | Inferior
+s2361 | 3º
+s2362 | Intervalo de 15 minutos
+s2363 | Prêmio Control (1), Prêmio Innovate (1), Prêmio Sustain (1)
+s2364 | Finais
+s2365 | Intervalo de 15 minutos
+s2366 | Prêmio Connect (1), Prêmio Think (1)
+s2367 | Finais
+s2368 | Prêmios: Compass*, Finalistas, Vencedores e Prêmio Inspire (2, 1)
+s2369 | *Se necessário
+s2370 | ⟦0⟧**Os prêmios podem ser entregues após o fim da chave de playoff, a critério do Diretor do Evento.⟦/0⟧ ⟦1/⟧
+s2371 | 13.7.5 Chave com 6 ALIANÇAS e Horários Típicos
+s2372 | Figura 13‑5: Chave de playoff com 6 ALIANÇAS
+s2373 | Tabela 13‑5: Horários típicos da chave de playoff com 6 ALIANÇAS
+s2374 | Rodada
+s2375 | PARTIDA
+s2376 | Superior/⟦2/⟧ Inferior
+s2377 | ⟦0⟧⟦1⟧Intervalo⟦2/⟧ ⟦/1⟧⟦/0⟧⟦3⟧(min)⟦/3⟧
+s2378 | ⟦0⟧⟦1⟧Próxima PARTIDA⟦2/⟧ ⟦/1⟧⟦/0⟧⟦3⟧(nº da PARTIDA (cor da ALIANÇA))⟦/3⟧
+s2379 | CAMPO
+s2380 | Azul
+s2381 | Vermelho
+s2382 | Azul
+s2383 | Vermelho
+s2384 | Vencedor
+s2385 | Perdedor
+s2386 | Início⟦1/⟧ estimado (min)
+s2387 | Superior
+s2388 | Superior
+s2389 | Superior
+s2390 | Superior
+s2391 | Inferior
+s2392 | 5º empatado
+s2393 | Inferior
+s2394 | Superior
+s2395 | Inferior
+s2396 | 4º
+s2397 | Intervalo de 15 minutos
+s2398 | Escolha dos Juízes* (1), Prêmio Design (2, 1), Prêmio Reach (2, 1)
+s2399 | Inferior
+s2400 | 3º
+s2401 | Intervalo de 15 minutos
+s2402 | Prêmio Control (2, 1), Prêmio Innovate (2, 1), Prêmio Sustain (2, 1)
+s2403 | Finais
+s2404 | Intervalo de 15 minutos
+s2405 | Prêmio Connect (2, 1), Prêmio Think (2, 1)
+s2406 | Finais*
+s2407 | Prêmios: Compass*, Finalistas, Vencedores e Prêmio Inspire (3, 2, 1)
+s2408 | * se necessário
+s2409 | ⟦0⟧**Os prêmios podem ser entregues após o fim da chave de playoff, a critério do Diretor do Evento.⟦/0⟧ ⟦1/⟧
+s2410 | 13.7.6 Chave com 8 ALIANÇAS e Horários Típicos
+s2411 | Figura 13‑6: Chave de playoff com 8 ALIANÇAS
+s2412 | Tabela 13‑6: Horários típicos da chave de playoff com 8 ALIANÇAS
+s2413 | Rodada
+s2414 | PARTIDA
+s2415 | Superior/⟦2/⟧ Inferior
+s2416 | ⟦0⟧⟦1⟧Intervalo⟦2/⟧ ⟦/1⟧⟦/0⟧⟦3⟧(min)⟦/3⟧
+s2417 | ⟦0⟧⟦1⟧Próxima PARTIDA⟦2/⟧ ⟦/1⟧⟦/0⟧⟦3⟧(nº da PARTIDA (cor da ALIANÇA))⟦/3⟧
+s2418 | CAMPO
+s2419 | Azul
+s2420 | Vermelho
+s2421 | Azul
+s2422 | Vermelho
+s2423 | Vencedor
+s2424 | Perdedor
+s2425 | Início⟦1/⟧ estimado (min)
+s2426 | Superior
+s2427 | Superior
+s2428 | Superior
+s2429 | Superior
+s2430 | Inferior
+s2431 | 7º empatado
+s2432 | Inferior
+s2433 | Superior
+s2434 | Superior
+s2435 | Inferior
+s2436 | 5º empatado
+s2437 | Inferior
+s2438 | Superior
+s2439 | Inferior
+s2440 | 4º
+s2441 | Intervalo de 15 minutos
+s2442 | Escolha dos Juízes* (1), Prêmio Design (3, 2, 1), Prêmio Reach (3, 2, 1)
+s2443 | Inferior
+s2444 | 3º
+s2445 | Intervalo de 15 minutos
+s2446 | Prêmio Control (3, 2, 1), Prêmio Innovate (3, 2, 1), Prêmio Sustain (3, 2, 1)
+s2447 | Finais
+s2448 | Intervalo de 15 minutos
+s2449 | Prêmio Connect (3, 2, 1), Prêmio Think (3, 2, 1)
+s2450 | Finais*
+s2451 | Prêmios: Compass*, Finalistas, Vencedores e Prêmio Inspire (3, 2, 1)
+s2452 | * se necessário
+s2453 | **Os prêmios podem ser entregues após o fim da chave de playoff, a critério do Diretor do Evento.
+s2454 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧13.8 Eventos com Duas Divisõe⟦/4⟧s
+s2455 | Os eventos com duas divisões normalmente são eventos maiores, realizados como 2 eventos de competição diferentes (por exemplo, 2 Torneios Classificatórios paralelos, cada um com no mínimo 2 CAMPOS), com avaliação dos juízes simultânea para todas as equipes. Depois que as PARTIDAS de Playoff terminam em cada divisão, as 2 ALIANÇAS vencedoras das divisões disputam entre si para definir o vencedor geral do evento.
+s2456 | O avanço a partir de um evento com duas divisões é definido na Seção ⟦0⟧13.8.1⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Pontos de Avanço em Eventos com Duas Divisões⟦/2⟧.
+s2457 | Em eventos com duas divisões, as equipes podem ser distribuídas entre as divisões por alguns métodos diferentes, descritos brevemente abaixo. Para os detalhes completos, consulte a documentação do software de gestão do evento. O método usado fica a critério do Parceiro de Entrega do Programa local.
+s2458 | A. ⟦0⟧Distribuição aleatória⟦/0⟧ – a distribuição aleatória pega a lista de equipes, embaralha e divide ao meio. Se não for possível formar divisões do mesmo tamanho, o software sorteia qual divisão terá uma equipe a mais.
+s2459 | B. ⟦0⟧Método FIM⟦/0⟧ – o algoritmo se baseia no processo desenvolvido pela ⟦1⟧FIRST ⟦/1⟧in Michigan (FIM) e usa uma abordagem de “aleatorização por força bruta”. Ele tenta equilibrar o desempenho dos ROBÔS mantendo um bom grau de aleatoriedade. As equipes são classificadas por uma métrica de desempenho na qualificação baseada nos seus dois melhores eventos, depois divididas em quartis e distribuídas entre as divisões de modo que cada quartil seja representado igualmente. As distribuições são avaliadas segundo várias métricas para garantir que as divisões fiquem equilibradas.
+s2460 | C. ⟦0⟧Distribuição alternada⟦/0⟧ – a distribuição alternada ordena a lista de equipes pelo número e distribui as equipes alternando entre as divisões ao percorrer a lista. O menor número de equipe vai para a Divisão 1, o próximo para a Divisão 2, depois Divisão 1 e assim por diante.
+s2461 | D. ⟦0⟧Divisão por ligas filhas⟦/0⟧ (disponível apenas para League Tournaments) – o algoritmo tenta equilibrar a representação de cada liga filha em cada divisão.
+s2462 | E. ⟦0⟧Método OPR⟦/0⟧ – o algoritmo tenta equilibrar o desempenho dos ROBÔS entre as divisões. Ele calcula o Offensive Power Rating (OPR) de cada equipe em cada evento oficial de que ela participou na temporada atual e seleciona o maior OPR de cada equipe. Depois, classifica todas as equipes pelo maior OPR e as distribui alternadamente entre as divisões, do maior para o menor OPR.
+s2463 | F. ⟦0⟧Manual⟦/0⟧ – o Parceiro de Entrega do Programa pode enviar uma lista de equipes distribuídas manualmente.
+s2464 | Além das regras listadas nas seções anteriores do manual, os eventos com duas divisões têm as seguintes regras:
+s2465 | ⟦0⟧⟦/0⟧⟦1⟧T801 ⟦/1⟧⟦2⟧*As divisões usarão chaves de playoff do mesmo tamanho.⟦/2⟧⟦3⟧⟦4⟧ O número de ALIANÇAS de playoff será definido com base no número de equipes elegíveis para o playoff na divisão menor, ⟦/4⟧⟦/3⟧conforme a Tabela 13‑2.
+s2466 | ⟦0⟧⟦/0⟧⟦1⟧T802 ⟦/1⟧⟦2⟧*Em eventos com duas divisões, os prêmios são concedidos no nível do evento.⟦/2⟧ Todos os prêmios são avaliados e concedidos no nível do torneio, e não no nível da divisão.
+s2467 | ⟦0⟧⟦/0⟧⟦1⟧T803 ⟦/1⟧⟦2⟧*Em eventos com duas divisões, a quantidade de prêmios se baseia no total de equipes.⟦/2⟧ O número de prêmios distribuídos em um evento com duas divisões é definido pela Tabela 6‑1.
+s2468 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧13.8.1 Pontos de Avanço em Eventos com Duas Divisões⟦/2⟧
+s2469 | Em eventos com duas divisões, os pontos de avanço são calculados conforme a Tabela 4‑1, exceto os pontos de avanço do playoff, que são calculados conforme a Tabela 13‑7 abaixo.
+s2470 | ⟦0⟧⟦/0⟧⟦1⟧Tabela ⟦/1⟧13‑7: Pontos de avanço do playoff em eventos com duas divisões
+s2471 | Categoria
+s2472 | Pontos de avanço obtidos
+s2473 | Avanço no playoff
+s2474 | 40 pontos para o 1⟦0⟧º⟦/0⟧ Lugar (Vencedores)
+s2475 | 20 pontos para o 2⟦0⟧º⟦/0⟧ Lugar (Finalistas)
+s2476 | 10 pontos para todos os Finalistas de Divisão
+s2477 | 5 pontos para todos os 3⟦0⟧º⟦/0⟧ Lugares de Divisão
+s2478 | ⟦0⟧13.8.2 Playoffs em Eventos com Duas ⟦/0⟧Divisões
+s2479 | Cada divisão disputa um torneio padrão, conforme descrito na Seção ⟦0⟧13.6⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧PARTIDAS de Qualificação⟦/2⟧, seguido dos Playoffs da Divisão, que definem a ALIANÇA Vencedora da Divisão. Essas 2 ALIANÇAS Vencedoras de Divisão têm o seu histórico de vitórias e derrotas zerado e se enfrentam em uma chave de dupla eliminação com 2 ALIANÇAS.
+s2480 | As divisões são classificadas pelos critérios da Tabela 13‑1, excluindo a PONTUAÇÃO DE CLASSIFICAÇÃO.
+s2481 | ⟦0⟧Figura ⟦/0⟧13‑7: Chave da grande final de playoff com 2 ALIANÇAS (duas divisões)
+s2482 | Os eventos com duas divisões disputarão as chaves de playoff de cada divisão e, depois, as duas ALIANÇAS jogarão conforme a Figura 13‑7. A primeira a vencer 2 PARTIDAS será a ALIANÇA vencedora do evento. Um exemplo de horários do playoff em evento com duas divisões é mostrado na Tabela 13‑8.⟦0/⟧ ⟦1/⟧
+s2483 | ⟦0⟧Tabela ⟦/0⟧13‑8: Horários típicos da chave de playoff com 6 ALIANÇAS em evento com duas divisões
+s2484 | Rodada
+s2485 | PARTIDA
+s2486 | Superior/⟦2/⟧ Inferior
+s2487 | ⟦0⟧⟦1⟧Intervalo⟦2/⟧ ⟦/1⟧⟦/0⟧⟦3⟧(min)⟦/3⟧
+s2488 | ⟦0⟧⟦1⟧Próxima PARTIDA⟦2/⟧ ⟦/1⟧⟦/0⟧⟦3⟧(nº da PARTIDA (cor da ALIANÇA))⟦/3⟧
+s2489 | CAMPO
+s2490 | Azul
+s2491 | Vermelho
+s2492 | Azul
+s2493 | Vermelho
+s2494 | Vencedor
+s2495 | Perdedor
+s2496 | Início⟦1/⟧ estimado (min)
+s2497 | Superior
+s2498 | Superior
+s2499 | Superior
+s2500 | Superior
+s2501 | Inferior
+s2502 | 5º empatado
+s2503 | Inferior
+s2504 | Superior
+s2505 | Inferior
+s2506 | 4º
+s2507 | Intervalo de 15 minutos
+s2508 | Inferior
+s2509 | 3º
+s2510 | Intervalo de 15 minutos
+s2511 | Finais
+s2512 | Intervalo de 15 minutos
+s2513 | Finais*
+s2514 | Fim dos Playoffs de Divisão / Escolha dos Juízes* (1), Prêmio Design (3, 2, 1), Prêmio Reach (3, 2, 1)
+s2515 | Finais do Evento 1
+s2516 | DivA
+s2517 | DivB
+s2518 | Intervalo de 15 minutos
+s2519 | Prêmio Control (3, 2, 1), Prêmio Innovate (3, 2, 1), Prêmio Sustain (3, 2, 1)
+s2520 | Finais do Evento 2
+s2521 | DivA
+s2522 | DivB
+s2523 | Intervalo de 15 minutos
+s2524 | Prêmio Connect (3, 2, 1), Prêmio Think (3, 2, 1)
+s2525 | Finais do Evento 3*
+s2526 | DivA
+s2527 | DivB
+s2528 | Prêmios: Compass*, Finalistas de Divisão, Vencedores de Divisão, Finalista do Evento, Vencedores do Evento e Prêmio Inspire (3, 2, 1)
+s2529 | * se necessário
+s2530 | **Os prêmios podem ser entregues após o fim da chave de playoff, a critério do Diretor do Evento.
+s2531 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧14 Torneios de Liga (L)⟦/3⟧
+s2532 | Nem todas as regiões oferecem participação em ligas. As Ligas são grupos fechados de equipes que jogam em vários eventos League Meet diferentes, normalmente distribuídos ao longo de várias semanas ou meses. Todas as equipes de uma mesma Liga deveriam ter a oportunidade de jogar um número aproximadamente igual de PARTIDAS. Todas as equipes da Liga deveriam jogar no mínimo 10 PARTIDAS de League Meet.
+s2533 | Nos eventos League Meet, cada equipe joga de 5 a 6 PARTIDAS de Qualificação, conforme descrito na Seção ⟦0⟧13.6⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧PARTIDAS de Qualificação⟦/2⟧, mas não há PARTIDAS de Playoff nem avaliação de prêmios.
+s2534 | Além do comportamento descrito na Seção ⟦0⟧10.6.1⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧CARTÕES AMARELOS e VERMELHOS⟦/2⟧, as ADVERTÊNCIAS VERBAIS e os CARTÕES também são zerados ao final de cada evento League Meet.
+s2535 | As equipes só podem pertencer a 1 Liga por temporada e só podem participar de 1 League Tournament por temporada. Uma equipe pode participar de uma Liga fora da sua região, desde que seja a única liga de que participa. Uma equipe não pode avançar de um League Tournament para um Campeonato Regional fora da sua região, a menos que os Parceiros de Entrega do Programa das duas regiões tenham concordado em transferir a equipe para a nova região durante toda a temporada.
+s2536 | Os League Tournaments funcionam da mesma forma que um Torneio Classificatório, incluindo a avaliação dos juízes e o avanço, exceto que a classificação da qualificação descrita na Seção ⟦0⟧13.6⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧PARTIDAS de Qualificação⟦/2⟧, usada tanto para a Seleção de ALIANÇAS quanto para os Pontos de Desempenho na Rodada de Qualificação, é calculada somando as 10 melhores PARTIDAS de cada equipe jogadas em qualquer League Meet e as PARTIDAS jogadas no League Tournament. As melhores PARTIDAS são definidas pela ordem de critérios da Tabela 13‑1.
+s2537 | Equipes que jogaram menos de 10 PARTIDAS em League Meets terão PONTOS DE CLASSIFICAÇÃO, Pontos de PARTIDA e todos os critérios de pontuação efetivamente iguais a 0 nas PARTIDAS que faltam.
+s2538 | O avanço nos League Tournaments (Tabela 4‑1) é calculado usando apenas o desempenho da equipe no League Tournament, exceto o Desempenho na Rodada de Qualificação, que se baseia na Classificação do League Tournament, que inclui as 10 melhores PARTIDAS de League Meet, conforme descrito acima.

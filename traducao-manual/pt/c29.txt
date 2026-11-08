@@ -1,0 +1,56 @@
+s2656 | NECTAR
+s2657 | bolas de polietileno Gopher ResisDent™ de aproximadamente 3,6 pol. (9,1 cm)
+s2658 | CONSOLE DO OPERADOR (OPERATOR CONSOLE)
+s2659 | o conjunto de COMPONENTES e MECANISMOS usado pela EQUIPE DE PILOTAGEM para enviar comandos ao ROBÔ
+s2660 | PARK
+s2661 | conquista de pontuação em que o ROBÔ deve se mover de modo a ficar pelo menos parcialmente na ZONA DE CARREGAMENTO
+s2662 | PRENSAR/PRENSAGEM (PIN/PINNING)
+s2663 | ação de um ROBÔ que impede o movimento de um ROBÔ adversário por contato, direto ou indireto (como contra um elemento do CAMPO)
+s2664 | POLLEN
+s2665 | bolas de polietileno Gopher ResisDent™ amarelas de 2,8 pol. (7,1 cm)
+s2666 | RP POLLINATOR 1
+s2667 | RP obtido quando o número de TOMBAMENTOS (TIPS) é igual ou superior ao limite
+s2668 | RP POLLINATOR 2
+s2669 | RP obtido quando o número de TOMBAMENTOS (TIPS) é igual ou superior ao limite
+s2670 | PORTFÓLIO (PORTFOLIO)
+s2671 | documento usado como parte do processo de avaliação dos juízes, com os requisitos descritos na ⟦0⟧A201⟦/0⟧
+s2672 | PONTOS DE CLASSIFICAÇÃO (RANKING POINTS – RP)
+s2673 | creditados a uma equipe com base no desempenho da sua ALIANÇA nas PARTIDAS de Qualificação
+s2674 | PONTUAÇÃO DE CLASSIFICAÇÃO (RANKING SCORE – RS)
+s2675 | a média de PONTOS DE CLASSIFICAÇÃO obtidos por uma equipe nas suas PARTIDAS de Qualificação
+s2676 | CARTÃO VERMELHO (RED CARD)
+s2677 | penalidade aplicada pelo ÁRBITRO Principal por comportamento grave do ROBÔ ou de membro da equipe, ou por violações graves de regras, que resulta na equipe ser DESCLASSIFICADA da PARTIDA.
+s2678 | ÁRBITRO (REFEREE)
+s2679 | oficial certificado pela ⟦0⟧FIRST⟦/0⟧ para aplicar as regras do jogo da temporada atual; uma função de voluntário do evento
+s2680 | REPETIDO (REPEATED)
+s2681 | descreve ações que acontecem mais de uma vez em uma mesma PARTIDA
+s2682 | ROBÔ (ROBOT)
+s2683 | um conjunto eletromecânico construído por uma equipe ⟦0⟧FIRST⟦/0⟧ Tech Challenge para jogar o jogo da temporada atual, que inclui todos os sistemas básicos necessários para participar ativamente do jogo – energia, comunicação, controle e locomoção pelo CAMPO
+s2684 | ROBOT CONTROLLER
+s2685 | dispositivo Android (um REV Control Hub (REV-31-1595) ou um smartphone Android ligado a um REV Expansion Hub (REV-31-1153)) que executa o app ROBOT CONTROLLER para controlar o ROBÔ, conforme definido na ⟦0⟧R701⟦/0⟧
+s2686 | PLACA DO ROBÔ (ROBOT SIGN)
+s2687 | conjunto obrigatório fixado no ROBÔ que identifica ao mesmo tempo o número da equipe do ROBÔ e a sua ALIANÇA
+s2688 | ELEMENTO DE PONTUAÇÃO (SCORING ELEMENT)
+s2689 | os ELEMENTOS DE PONTUAÇÃO de BIOBUZZ são o POLLEN e o NECTAR
+s2690 | ESTRATÉGICO (STRATEGIC)
+s2691 | descreve ações feitas com o objetivo de obter vantagem competitiva
+s2692 | CONFIGURAÇÃO INICIAL (STARTING CONFIGURATION)
+s2693 | a configuração física com a qual o ROBÔ começa a PARTIDA
+s2694 | ESTUDANTE (STUDENT)
+s2695 | pessoa que não concluiu o ensino médio, o ensino secundário ou o nível equivalente na sua REGIÃO DE ORIGEM até 1º de setembro
+s2696 | SUBSTITUTA (SURROGATE)
+s2697 | equipe sorteada pelo software de gestão do evento para jogar uma PARTIDA de Qualificação extra
+s2698 | RP SWARM
+s2699 | RP obtido quando a soma dos pontos de LEAVE + PARK é igual ou superior ao limite
+s2700 | TELEOP
+s2701 | o terceiro período de cada PARTIDA, que dura 2 minutos (2:00) e é chamado de período teleoperado (TELEOP). Durante o TELEOP, os PILOTOS operam os ROBÔS remotamente
+s2702 | TILE
+s2703 | a superfície do piso do CAMPO é formada por 36 TILES de espuma macia encaixáveis
+s2704 | TOMBAMENTO/TOMBADA (TIP/TIPPED)
+s2705 | critério de pontuação em que a HIVE passa de um estado estável para o outro, com a CELL voltada para baixo passando a ser a CELL voltada para cima, e o amortecedor da HIVE que antes não estava encostado na armação passa a encostar na armação
+s2706 | FORNECEDOR (VENDOR)
+s2707 | fonte comercial legítima de itens COTS que cumpre os critérios definidos na Seção ⟦0⟧12⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Regras de Construção do ROBÔ (R)⟦/2⟧
+s2708 | ADVERTÊNCIA VERBAL (VERBAL WARNING)
+s2709 | aviso dado pela equipe do evento ou pelo ÁRBITRO Principal
+s2710 | CARTÃO AMARELO (YELLOW CARD)
+s2711 | aviso dado pelo ÁRBITRO Principal por comportamento grave do ROBÔ ou de membro da equipe, ou por violações graves de regras

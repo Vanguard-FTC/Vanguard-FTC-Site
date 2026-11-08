@@ -1,0 +1,76 @@
+s2230 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧13.6 PARTIDAS de Qualificação⟦/5⟧
+s2231 | ⟦0⟧⟦/0⟧⟦1⟧13.6.1 Cronograma⟦/1⟧
+s2232 | O cronograma das PARTIDAS de Qualificação é disponibilizado o quanto antes, no máximo 15 minutos antes do horário previsto para o início das PARTIDAS de Qualificação. Somente as equipes elegíveis que concluíram o check-in no horário serão incluídas no cronograma, conforme a ⟦0⟧I102⟦/0⟧.
+s2233 | As equipes terão acesso ao cronograma por uma ou mais das seguintes formas: 1 cópia impressa, aviso de cópia impressa afixada publicamente que pode ser fotografada e/ou exibição digital local do cronograma. Os cronogramas também podem estar disponíveis no site ⟦0⟧FTC-Events⟦/0⟧. Cada cronograma de qualificação é formado por uma série de rodadas, em que cada equipe joga 1 PARTIDA por rodada.
+s2234 | Todos os tipos de evento programarão 5 ou 6 PARTIDAS de Qualificação por equipe, conforme definido pelo Diretor do Evento com base no tempo disponível no cronograma. O ⟦0⟧FIRST⟦/0⟧ Championship, os ⟦1⟧FIRST⟦/1⟧ Premier Events e os Torneios de Campeonato Regional podem programar mais PARTIDAS por equipe, a critério da Sede da ⟦2⟧FIRST ⟦/2⟧e do Diretor do Evento.
+s2235 | O cronograma de PARTIDAS é usado para coordenar as PARTIDAS de um evento. A Figura 13‑1 detalha as informações mostradas em cada cronograma. As PARTIDAS como SUBSTITUTA são descritas na Seção ⟦0⟧13.6.2⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Designação das PARTIDAS⟦/2⟧.
+s2236 | ⟦0⟧⟦/0⟧⟦1⟧Figura ⟦/1⟧13‑1: Exemplo de cronograma de PARTIDAS
+s2237 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧⟦6⟧⟦/6⟧13.6.2 Designação das PARTIDAS
+s2238 | O software de gestão de eventos da ⟦0⟧FIRST⟦/0⟧ designa a cada equipe 1 parceira de ALIANÇA em cada PARTIDA de Qualificação, usando um algoritmo predefinido, e as equipes não podem trocar as PARTIDAS de Qualificação designadas. O algoritmo usa os seguintes critérios, em ordem de prioridade:
+s2239 | 1. garantir que cada equipe tenha pelo menos o tempo mínimo exigido entre PARTIDAS (varia conforme o tamanho do evento)
+s2240 | 2. minimizar o número de vezes em que uma equipe é aliada de uma mesma equipe
+s2241 | 3. minimizar o número de vezes em que uma equipe joga contra uma mesma equipe
+s2242 | 4. minimizar o uso de SUBSTITUTAS (equipes ⟦0⟧sorteadas pelo software de gestão do evento para jogar uma PARTIDA de Qualificação extra⟦/0⟧)
+s2243 | 5. distribuir de forma equilibrada as PARTIDAS jogadas na ALIANÇA azul e na vermelha
+s2244 | Para mais informações sobre o algoritmo de programação das PARTIDAS, consulte o ⟦1⟧site do software Idle Loop⟦/1⟧.
+s2245 | Todas as equipes recebem o mesmo número de PARTIDAS de Qualificação, igual ao número de rodadas, a menos que o número de equipes multiplicado pelo número de PARTIDAS não seja divisível por 4. Nesse caso, o software de gestão de eventos da ⟦0⟧FIRST⟦/0⟧ sorteia algumas equipes para jogar uma PARTIDA extra. Para fins de cálculo da classificação, essas equipes são designadas como SUBSTITUTAS na PARTIDA extra. Se uma equipe jogar uma PARTIDA como SUBSTITUTA, isso é indicado no cronograma de PARTIDAS com um * após o número da equipe; será sempre a sua terceira PARTIDA de Qualificação, e o resultado da PARTIDA não afeta a classificação da equipe. No entanto, os CARTÕES AMARELOS e VERMELHOS aplicados às SUBSTITUTAS são levados para as PARTIDAS seguintes.
+s2246 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧Se uma equipe estiver programada para jogar PARTIDAS consecutivas (por exemplo, as PARTIDAS de Qualificação 40 e 41), ela terá um intervalo mínimo, conforme a ⟦2⟧T406⟦/2⟧, antes da sua próxima PARTIDA.
+s2247 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧13.6.3 Classificação na Qualificação⟦/2⟧
+s2248 | PONTOS DE CLASSIFICAÇÃO (RP) são unidades ⟦0⟧creditadas a uma equipe com base no desempenho da sua ALIANÇA nas PARTIDAS de Qualificação⟦/0⟧. Esses pontos são concedidos a cada equipe elegível ao final de cada PARTIDA de Qualificação, conforme a Tabela 10‑2.
+s2249 | A PONTUAÇÃO DE CLASSIFICAÇÃO (RANKING SCORE – RS) de uma equipe é ⟦0⟧a média de PONTOS DE CLASSIFICAÇÃO obtidos pela equipe nas suas PARTIDAS de Qualificação ⟦/0⟧(excluindo qualquer PARTIDA como SUBSTITUTA).
+s2250 | Todas as equipes que participam das PARTIDAS de Qualificação são classificadas pela PONTUAÇÃO DE CLASSIFICAÇÃO. Se o número de equipes presentes for ‘n’, elas são classificadas de ‘1’ a ‘n’, sendo ‘1’ a equipe com a maior PONTUAÇÃO DE CLASSIFICAÇÃO e ‘n’ a equipe com a menor.
+s2251 | As PARTIDAS como SUBSTITUTA são excluídas de todos os cálculos. Uma PARTIDA em que a equipe é DESCLASSIFICADA contribui com 0 para todos os critérios de ordenação.
+s2252 | As equipes são classificadas em ordem, usando os critérios de ordenação definidos na ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧Tabela 13‑1.
+s2253 | ⟦0⟧Tabela ⟦/0⟧13‑1: Critérios de classificação nas PARTIDAS de Qualificação
+s2254 | Ordem
+s2255 | Critério
+s2256 | 1⟦1⟧º⟦/1⟧
+s2257 | PONTUAÇÃO DE CLASSIFICAÇÃO (RS)
+s2258 | 2⟦1⟧º⟦/1⟧
+s2259 | Média de pontos de PARTIDA da ALIANÇA, sem contar FALTAS LEVES e FALTAS GRAVES (média de pontos de PARTIDA menos FALTAS)
+s2260 | 3⟦1⟧º⟦/1⟧
+s2261 | Média do número de TOMBAMENTOS (TIPS)
+s2262 | 4⟦1⟧º⟦/1⟧
+s2263 | Média de pontos no AUTO
+s2264 | 5⟦1⟧º⟦/1⟧
+s2265 | Ordenação aleatória pelo software de gestão de eventos da ⟦0⟧FIRST⟦/0⟧
+s2266 | ⟦0⟧⟦/0⟧⟦1⟧T601 ⟦/1⟧⟦2⟧*Na Qualificação, a DESCLASSIFICAÇÃO se aplica apenas à equipe DESCLASSIFICADA.⟦/2⟧ Durante as PARTIDAS de Qualificação, a DESCLASSIFICAÇÃO de uma equipe não afeta a sua parceira de ALIANÇA.⟦3⟧⟦/3⟧
+s2267 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧⟦6⟧⟦/6⟧⟦7⟧13.7 PARTIDAS de Playoff⟦/7⟧⟦8⟧⟦/8⟧
+s2268 | As PARTIDAS de Playoff vêm depois das PARTIDAS de Qualificação. Nos Playoffs, as equipes jogam em ALIANÇAS fixas, escolhidas durante a seleção de ALIANÇAS, e avançam por uma chave de dupla eliminação para determinar o vencedor do evento. As equipes não ganham PONTOS DE CLASSIFICAÇÃO; elas avançam conforme vencem ou perdem PARTIDAS. Se uma equipe for DESCLASSIFICADA durante as PARTIDAS de Playoff, a DESCLASSIFICAÇÃO se aplica a toda a ALIANÇA, e todas as equipes da ALIANÇA recebem 0 pontos de PARTIDA.
+s2269 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧T701 ⟦/2⟧⟦3⟧*Envie um ou dois representantes ESTUDANTES.⟦/3⟧ Cada equipe deve escolher e enviar no mínimo um e no máximo dois representantes ESTUDANTES da equipe à ARENA no horário designado para a seleção de ALIANÇAS (normalmente logo após a última PARTIDA de Qualificação programada) para representar a equipe.
+s2270 | Violação: as equipes que não enviarem representante ficam inelegíveis para o torneio de playoff
+s2271 | Se uma equipe ausente fosse líder de ALIANÇA, todos os líderes de ALIANÇA de classificação inferior sobem 1 posição.
+s2272 | Se uma equipe não pretende participar do torneio de playoff, ela deveria informar de forma proativa o Diretor do Evento e o ÁRBITRO Principal o quanto antes.
+s2273 | ⟦0⟧⟦/0⟧⟦1⟧T702 ⟦/1⟧⟦2⟧*Equipes que recusam não podem ser escolhidas. ⟦/2⟧Um CAPITÃO DA ALIANÇA não pode convidar uma equipe que tenha recusado o convite de outra ALIANÇA para participar do torneio de playoff.
+s2274 | Violação: o CAPITÃO DA ALIANÇA deve fazer outra escolha
+s2275 | Um líder de ALIANÇA que recusar o convite de outra ALIANÇA pode convidar equipes para a sua ALIANÇA, mas não pode ser convidado para outra ALIANÇA.
+s2276 | ⟦0⟧⟦/0⟧⟦1⟧T703 ⟦/1⟧⟦2⟧*Não há equipes reservas nas PARTIDAS de Playoff.⟦/2⟧ Uma ALIANÇA não pode pedir uma equipe reserva em uma PARTIDA de Playoff.
+s2277 | Recomenda-se que as equipes considerem a confiabilidade ao escolher parceiras, porque todas as equipes de uma ALIANÇA devem jogar em cada rodada do torneio de playoff.
+s2278 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧T704 ⟦/2⟧⟦3⟧*Durante as PARTIDAS de Playoff, as equipes podem ter mais acesso à ARENA. ⟦/3⟧A critério do Diretor do Evento, durante as PARTIDAS de Playoff, as equipes podem precisar de membros extras para fazer a manutenção do ROBÔ entre as PARTIDAS a tempo. Cada equipe pode ter até 3 membros adicionais na equipe de pit para ajudar nos reparos necessários do ROBÔ. Esses membros deveriam receber o mesmo acesso à ARENA que a EQUIPE DE PILOTAGEM, mas não podem participar de nenhuma PARTIDA.
+s2279 | Essa permissão de membros adicionais na equipe de pit depende do local e fica a critério do Diretor do Evento.
+s2280 | ⟦0⟧⟦/0⟧⟦1⟧T705 ⟦/1⟧⟦2⟧*DESCLASSIFICAÇÕES múltiplas têm tratamento especial.⟦/2⟧ Durante as PARTIDAS de Playoff, 1 ou mais DESCLASSIFICAÇÕES de ALIANÇA são tratadas da seguinte forma:
+s2281 | A. se uma ALIANÇA for DESCLASSIFICADA, a ALIANÇA DESCLASSIFICADA perde
+s2282 | B. se as duas ALIANÇAS forem DESCLASSIFICADAS, perde a que foi DESCLASSIFICADA primeiro, cronologicamente
+s2283 | C. se, na percepção do ÁRBITRO Principal, as duas ALIANÇAS forem DESCLASSIFICADAS ao mesmo tempo, a PARTIDA termina empatada
+s2284 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧13.7.1 Processo de Seleção de ALIANÇAS
+s2285 | Ao final das PARTIDAS de Qualificação, as equipes mais bem classificadas se tornam líderes de ALIANÇA. O ⟦0⟧representante ESTUDANTE designado de cada líder de ALIANÇA ⟦/0⟧é chamado de CAPITÃO DA ALIANÇA. Esse representante pode mudar entre a seleção de ALIANÇAS e as PARTIDAS de Playoff.
+s2286 | As ALIANÇAS classificadas são designadas, em ordem, ALIANÇA 1, ALIANÇA 2 etc., até o número máximo de ALIANÇAS mostrado na Tabela 13‑2. Usando o processo de seleção de ALIANÇAS descrito nesta seção, cada líder de ALIANÇA escolhe 1 outra equipe para se juntar à sua ALIANÇA.
+s2287 | Se a equipe aceitar, ela passa a fazer parte daquela ALIANÇA. Se o convite de um líder de ALIANÇA a outro líder de ALIANÇA for aceito, todos os líderes de ALIANÇA abaixo sobem 1 posição. A equipe mais bem classificada ainda não escolhida se torna o novo líder de ALIANÇA.
+s2288 | Se não for possível formar o número de ALIANÇAS completas da Tabela 13‑2 (por exemplo, por excesso de recusas ou por equipes que foram embora antes), o evento continuará com ALIANÇAS incompletas. ALIANÇAS com 0 equipes darão vitória automática ao adversário, e a PARTIDA será pulada. ALIANÇAS com apenas 1 equipe jogarão a PARTIDA 1 contra 2.
+s2289 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧13.7.2 Chave das PARTIDAS de Playoff⟦/3⟧
+s2290 | A chave das PARTIDAS de Playoff é como se determinam os vencedores do evento.
+s2291 | O número de ALIANÇAS de um evento é determinado pelo número de equipes elegíveis para os Playoffs, com base em todas as equipes que participaram das PARTIDAS de Qualificação, conforme a Tabela 13‑2.
+s2292 | Equipes que se inscreveram no evento mas não compareceram, e equipes que participam dos Prêmios mas não estão incluídas nas PARTIDAS de Qualificação, não entram na definição do tamanho da chave de Playoff. Equipes que participaram das PARTIDAS de Qualificação mas não pretendem participar da chave de Playoff entram na definição do tamanho da chave de Playoff.
+s2293 | ⟦0⟧⟦1⟧Tabela ⟦/1⟧⟦/0⟧⟦2⟧13⟦/2⟧⟦3⟧‑⟦/3⟧⟦4⟧2⟦/4⟧⟦5⟧: Número de ALIANÇAS de playoff com base em todas as equipes participantes das PARTIDAS de Qualificação⟦/5⟧
+s2294 | Total de equipes elegíveis para o playoff
+s2295 | Número de ALIANÇAS de playoff formadas
+s2296 | 4 a 10 equipes
+s2297 | 11 a 20 equipes
+s2298 | 21 a 40 equipes
+s2299 | 41 a 64 equipes
+s2300 | ⟦0⟧Veja a Seção ⟦/0⟧⟦1⟧13.8⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧Eventos com Duas Divisões⟦/3⟧⟦4⟧ para as regras adicionais relacionadas a duas divisões. ⟦/4⟧
+s2301 | O torneio de dupla eliminação tem uma chave superior e uma chave inferior, que se ajustam ao número de ALIANÇAS. Em torneios com 2 ALIANÇAS, elas se enfrentam diretamente na final.
+s2302 | Todas as ALIANÇAS começam na chave superior. Se uma ALIANÇA vencer uma PARTIDA na chave superior, ela permanece na chave superior. Se uma ALIANÇA perder uma PARTIDA na chave superior, ela passa para a chave inferior. As ALIANÇAS na chave inferior devem vencer todas as PARTIDAS seguintes para continuar no torneio, ou seja, ao perder 2 PARTIDAS no total, estão fora do torneio.
+s2303 | Em caso de empate, joga-se outra PARTIDA até que haja 1 vencedor.
+s2304 | Na Rodada 1, a ALIANÇA mais bem classificada é designada como ALIANÇA vermelha. Nas rodadas seguintes, a cor da ALIANÇA é definida conforme a Figura 13‑2, independentemente da classificação da ALIANÇA no início do torneio de playoff.
+s2305 | Como mostrado na Figura 13‑2, as PARTIDAS de Playoff têm até 6 rodadas, com intervalos entre as rodadas finais. Os intervalos começam depois que os RESULTADOS da última PARTIDA forem publicados. As colunas Blue Gap e Red Gap indicam o tempo aproximado entre as PARTIDAS de cada ALIANÇA. O horário previsto de início da PARTIDA programada é o horário indicado no cronograma de PARTIDAS ou 8 minutos após o fim da PARTIDA anterior de qualquer uma das ALIANÇAS, o que ocorrer por último, conforme a ⟦0⟧T406⟦/0⟧.

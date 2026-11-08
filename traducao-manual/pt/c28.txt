@@ -1,0 +1,115 @@
+s2539 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧15 ⟦6⟧FIRST⟦/6⟧ Championship ⟦/5⟧(C)
+s2540 | No⟦0⟧ FIRST⟦/0⟧ Championship 2026-2027, as equipes são divididas em 6 divisões. Cada divisão disputa um torneio padrão, conforme descrito na Seção ⟦1⟧13.6⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧PARTIDAS de Qualificação⟦/3⟧ e na Seção ⟦4⟧13.7⟦/4⟧⟦5⟧ ⟦/5⟧⟦6⟧PARTIDAS de Playoff⟦/6⟧, para definir as ALIANÇAS Vencedoras de Divisão. Essas 6 ALIANÇAS Vencedoras de Divisão seguem para os Playoffs do Championship, no(s) CAMPO(S) do ⟦7⟧FIRST⟦/7⟧ Championship, para definir os Campeões do ⟦8⟧FIRST⟦/8⟧ Tech Challenge Championship, conforme a ⟦9⟧15.5⟦/9⟧⟦10⟧ ⟦/10⟧⟦11⟧Playoffs do ⟦12⟧FIRST⟦/12⟧ Championship ⟦/11⟧.
+s2541 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧15.1 Modificações nos Prêmios⟦/4⟧
+s2542 | O processo de avaliação dos juízes pode ser modificado no ⟦0⟧FIRST⟦/0⟧ Championship para se adaptar às limitações do local e ao grande número de equipes no evento. Quaisquer modificações no processo ou nos prêmios serão publicadas até a última Team Update regularmente programada, conforme descrito na Seção ⟦1⟧1.7.3⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧Team Updates⟦/3⟧.
+s2543 | Os prêmios da Seção ⟦0⟧6⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Prêmios (A)⟦/2⟧ são todos concedidos somente em cada divisão, exceto conforme mostrado na Tabela 15‑1.
+s2544 | ⟦0⟧⟦/0⟧⟦1⟧Tabela ⟦/1⟧15‑1: Prêmios do FIRST Championship
+s2545 | Prêmio
+s2546 | Por divisão
+s2547 | ⟦1⟧⟦2⟧FIRST⟦/2⟧⟦/1⟧⟦3⟧ Championship⟦/3⟧
+s2549 | 1⟦0⟧º⟦/0⟧, 2⟦1⟧º⟦/1⟧ e 3⟦2⟧º ⟦/2⟧Lugar
+s2551 | Lista ⟦1⟧FIRST⟦/1⟧ Leadership
+s2552 | Prêmio Compass
+s2553 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧⟦6⟧⟦/6⟧⟦7⟧⟦/7⟧⟦8⟧⟦/8⟧15.2 Modificação do Jogo
+s2554 | A quantidade, o tipo e a distribuição dos ELEMENTOS DE PONTUAÇÃO e os limites das conquistas de pontuação (RP) podem ser ajustados para o torneio de BIOBUZZ do ⟦0⟧FIRST⟦/0⟧ Championship. Quaisquer modificações do jogo serão publicadas até a última Team Update regularmente programada, conforme descrito na ⟦1⟧Seção ⟦/1⟧⟦2⟧1.7.3⟦/2⟧⟦3⟧ ⟦/3⟧⟦4⟧Team Updates⟦/4⟧.
+s2555 | Todos os CAMPOS das divisões ficarão sobre plataformas elevadas aproximadamente 24 pol. (60,95 cm) acima do chão. Todos os membros das EQUIPES DE PILOTAGEM e da EQUIPE DE CAMPO ficarão no nível do chão. Parte dos CAMPOS de treino também será elevada para uso das equipes. Para ver exemplos de como é o CAMPO elevado, assista ao vídeo de apresentação do CAMPO do Kickoff.
+s2556 | Os perímetros de todos os CAMPOS das divisões serão fixados no lugar e não terão as Perimeter Straps da AndyMark.
+s2557 | Alguns ou todos os CAMPOS das divisões também podem ter modificações adicionais que mudam a sua aparência, incluindo adesivos diferentes ou adicionais, revestimentos metálicos, mudanças de material e luzes. Todo esforço será feito para que essas modificações sejam exclusivamente estéticas e não afetem o desempenho do CAMPO nem o projeto dos ROBÔS. Os detalhes dessas modificações serão publicados até a última Team Update regularmente programada, conforme descrito na ⟦0⟧Seção ⟦/0⟧⟦1⟧1.7.3⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧Team Updates⟦/3⟧.
+s2558 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧15.3 ALIANÇAS de 3 ROBÔS⟦/2⟧
+s2559 | As ALIANÇAS no ⟦0⟧FIRST⟦/0⟧ Championship serão formadas por 3 ROBÔS. Antes de cada torneio de playoff de divisão, as ALIANÇAS são selecionadas pelo processo descrito na Seção ⟦1⟧13.7.1⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧Processo de Seleção de ALIANÇAS⟦/3⟧; no entanto, o processo continua com uma 2⟦4⟧ª⟦/4⟧ rodada de seleção, da seguinte forma:
+s2560 | ⟦0⟧Rodada 2: ⟦/0⟧usa-se o mesmo método para a segunda escolha de cada líder de ALIANÇA, mas a ordem de seleção é invertida: a ALIANÇA 8 escolhe primeiro e a ALIANÇA 1 escolhe por último. Esse processo resulta em 8 ALIANÇAS de 3 equipes cada.
+s2561 | As ALIANÇAS podem começar cada uma das suas PARTIDAS com quaisquer 2 dos 3 ROBÔS da sua ALIANÇA durante as PARTIDAS de Playoff de Divisão e do Championship. As ALIANÇAS não precisam informar à EQUIPE DE CAMPO quais 2 ROBÔS jogarão antes da PARTIDA, mas não podem atrasar o início da PARTIDA, conforme a ⟦0⟧G301⟦/0⟧, por tomar uma decisão tardia.
+s2562 | Por exemplo, uma ALIANÇA que decide que um conjunto diferente de 2 ROBÔS jogará a PARTIDA depois que 2 ROBÔS já saíram da fila provavelmente estará atrasando a PARTIDA.
+s2563 | ⟦0⟧⟦/0⟧⟦1⟧⟦2⟧C301 ⟦/2⟧⟦/1⟧⟦3⟧*As repetições usam os mesmos ROBÔS.⟦/3⟧ Se uma PARTIDA de Playoff precisar ser repetida, os 2 ROBÔS usados na repetição devem ser os mesmos da PARTIDA original. A única exceção é: se, na opinião do ÁRBITRO Principal, a FALHA DA ARENA deixou um ROBÔ inoperante, os ROBÔS podem ser trocados. Se for jogada uma PARTIDA adicional por causa de empate, quaisquer 2 dos 3 ROBÔS podem jogar a PARTIDA adicional.⟦4⟧⟦5⟧ ⟦/5⟧⟦/4⟧
+s2564 | ⟦0⟧⟦1⟧As equipes do FIRST⟦/1⟧⟦/0⟧⟦2⟧ Tech Challenge jogam muito mais PARTIDAS no ⟦3⟧FIRST ⟦/3⟧Championship do que na maioria dos eventos, e há muito mais equipes no evento. Escolher um 3⟦4⟧º⟦/4⟧ ROBÔ dá a cada ALIANÇA um ROBÔ reserva embutido e flexibilidade para montar a aliança pensando em diferentes estratégias de PARTIDA.⟦/2⟧
+s2565 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧15.4 Equipes de Pit no ⟦4⟧FIRST ⟦/4⟧Championship⟦/3⟧⟦5⟧⟦/5⟧
+s2566 | Cada equipe de uma ALIANÇA que joga os Playoffs do ⟦0⟧FIRST⟦/0⟧ Championship pode ter 3 membros adicionais de equipe de pit dentro da ARENA para ajudar na estratégia pré-PARTIDA, no reparo e manutenção do ROBÔ e em outras funções de apoio à equipe, conforme a ⟦1⟧T704⟦/1⟧. Os membros adicionais da equipe de pit devem permanecer nas áreas de pit da ARENA.
+s2567 | Os membros adicionais da equipe podem ser adultos ou ESTUDANTES.
+s2568 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧15.5 Playoffs do ⟦5⟧FIRST ⟦/5⟧Championship ⟦/4⟧
+s2569 | Mais informações sobre a estrutura do torneio de playoff do ⟦2⟧FIRST Championship serão divulgadas em uma futura Team Update.⟦/2⟧
+s2570 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧16 Glossário⟦/3⟧
+s2571 | As definições e os termos a seguir são usados no jogo BIOBUZZ do ⟦1⟧FIRST⟦/1⟧ Tech Challenge. Os termos definidos aparecem em LETRAS MAIÚSCULAS ao longo do manual (por exemplo, ALIANÇA). As regras da competição significam o que dizem literalmente. Se uma palavra não tiver definição no jogo, use o seu significado comum do dia a dia. Nesta tradução, os termos estão em português com o original em inglês entre parênteses e seguem a ordem alfabética do original.
+s2572 | Termo
+s2573 | Definição
+s2574 | ALIANÇA (ALLIANCE)
+s2575 | uma cooperação entre 2 equipes ⟦0⟧FIRST⟦/0⟧ Tech Challenge
+s2576 | ÁREA DA ALIANÇA (ALLIANCE AREA)
+s2577 | um volume de aproximadamente 97 pol. (246,40 cm) de largura por 54 pol. (137,15 cm) de profundidade, com altura infinita, formado pela fita na cor da ALIANÇA aplicada sobre o piso fora do CAMPO
+s2578 | CAPITÃO DA ALIANÇA (ALLIANCE CAPTAIN)
+s2579 | o representante ESTUDANTE designado de cada líder de ALIANÇA
+s2580 | ARENA
+s2581 | inclui todos os elementos da infraestrutura do jogo necessários para jogar o jogo FTC da temporada, incluindo: o CAMPO, os ELEMENTOS DE PONTUAÇÃO, a área de fila, a área de mídia das equipes e todo o equipamento necessário para o controle do CAMPO, o controle dos ROBÔS e a contagem de pontos
+s2582 | FALHA DA ARENA (ARENA FAULT)
+s2583 | um erro na operação da ARENA
+s2584 | AUTO
+s2585 | os primeiros 30 segundos da PARTIDA, durante os quais os PILOTOS não podem enviar comandos aos seus ROBÔS, de modo que os ROBÔS operam apenas com as suas instruções pré-programadas
+s2586 | CELL
+s2587 | uma estrutura tridimensional que pode conter NECTAR e POLLEN
+s2588 | CHASSI (CHASSIS)
+s2589 | o MECANISMO PRINCIPAL do ROBÔ que permite que ele se desloque pelo CAMPO
+s2590 | COMPONENTE (COMPONENT)
+s2591 | qualquer peça na sua configuração mais básica, que não pode ser desmontada sem danificar ou destruir a peça, ou alterar a sua função fundamental
+s2592 | CONTÍNUO (CONTINUOUS)
+s2593 | descreve durações maiores que aproximadamente 10 segundos
+s2594 | CONTROLE (CONTROL)
+s2595 | ação de um ROBÔ em que o ELEMENTO DE PONTUAÇÃO está totalmente apoiado no ROBÔ ou preso dentro, sobre ou embaixo dele, ou em que o ROBÔ empurra intencionalmente um ELEMENTO DE PONTUAÇÃO para um local desejado ou em uma direção preferida (ou seja, “pastoreio” / herding). O CONTROLE exige contato com o ROBÔ, direto ou indireto, por meio de outros ELEMENTOS DE PONTUAÇÃO. Normalmente, o CONTROLE exige que uma das seguintes condições seja verdadeira:
+s2596 | O ELEMENTO DE PONTUAÇÃO está totalmente apoiado no ROBÔ
+s2597 | O ROBÔ está movendo o ELEMENTO DE PONTUAÇÃO em uma direção preferida com uma face plana ou côncava do ROBÔ
+s2598 | COTS
+s2599 | uma peça padrão (ou seja, não feita sob encomenda), normalmente disponível para compra por todas as equipes em um FORNECEDOR
+s2600 | CIRCUITO PERSONALIZADO (CUSTOM CIRCUIT)
+s2601 | qualquer item elétrico ativo que não seja um atuador (especificado na ⟦0⟧R501⟦/0⟧) nem um dispositivo de regulação de energia (especificado na ⟦1⟧R505⟦/1⟧)
+s2602 | DESATIVADO (DISABLED)
+s2603 | O ÁRBITRO instrui a equipe a parar o ROBÔ, o que desativa todas as saídas e deixa o ROBÔ inoperante pelo restante da PARTIDA
+s2604 | DESCLASSIFICADO (DISQUALIFIED)
+s2605 | situação em que a equipe recebe 0 pontos de PARTIDA e 0 PONTOS DE CLASSIFICAÇÃO em uma PARTIDA de Qualificação, ou que faz a sua ALIANÇA receber 0 pontos de PARTIDA em uma PARTIDA de Playoff
+s2606 | TREINADOR DE PILOTAGEM (DRIVE COACH)
+s2607 | um guia ou conselheiro
+s2608 | EQUIPE DE PILOTAGEM (DRIVE TEAM)
+s2609 | um grupo de até 4 pessoas da mesma equipe ⟦0⟧FIRST⟦/0⟧ Tech Challenge, responsável pelo desempenho da equipe em uma PARTIDA específica
+s2610 | PILOTO (DRIVER)
+s2611 | quem opera e controla o ROBÔ
+s2612 | DRIVER STATION
+s2613 | dispositivo Android (smartphone ou REV Driver Hub) que executa o app DRIVER STATION para se comunicar com o ROBÔ, conforme a ⟦0⟧R901⟦/0⟧
+s2614 | ITEM FABRICADO (FABRICATED ITEM)
+s2615 | qualquer COMPONENTE ou MECANISMO que tenha sido alterado, construído, fundido, montado, elaborado, criado, cortado, tratado termicamente, usinado, manufaturado, modificado, pintado, produzido, revestido ou concebido, parcial ou totalmente, na forma final em que será usado no ROBÔ
+s2616 | CAMPO (FIELD)
+s2617 | uma área de aproximadamente 144 pol. por 144 pol. (365,75 cm por 365,75 cm), delimitada pela superfície interna das paredes
+s2618 | EQUIPE DE CAMPO (FIELD STAFF)
+s2619 | voluntários presentes na ARENA e ao redor dela, responsáveis por garantir que as PARTIDAS ocorram de forma eficiente, justa e segura, com espírito de cooperação, ⟦0⟧Profissionalismo Cortês⟦/0⟧⟦1⟧⟦2⟧⟦3⟧®⟦/3⟧⟦/2⟧⟦/1⟧ e generosidade
+s2620 | FLOWER
+s2621 | uma estrutura no CAMPO na qual POLLEN e NECTAR podem ser colocados por cima, e POLLEN pode ser retirado por baixo
+s2622 | FTA
+s2623 | Consultor Técnico da ⟦0⟧FIRST⟦/0⟧ (FIRST Technical Advisor)
+s2624 | GARDEN
+s2625 | um volume de aproximadamente 23 pol. (58,40 cm) por 2 pol. (5,10 cm) de largura, com altura infinita, definido pela borda externa da fita azul ou vermelha nos cantos opostos do CAMPO
+s2626 | HIVE
+s2627 | uma estrutura biestável composta por duas CELLS e um conjunto de ligação que gira em um pivô
+s2628 | REGIÃO DE ORIGEM (HOME REGION)
+s2629 | a região à qual a equipe está designada e somente a partir de cujos eventos ela pode avançar
+s2630 | JOGADOR HUMANO (HUMAN PLAYER)
+s2631 | responsável pelos ELEMENTOS DE PONTUAÇÃO
+s2632 | INSPETOR (INSPECTOR)
+s2633 | pessoa designada pela ⟦0⟧FIRST⟦/0⟧ para avaliar com precisão e eficiência a legalidade de uma peça ou do ROBÔ inteiro; uma função de voluntário do evento
+s2634 | JUIZ (JUDGE)
+s2635 | voluntários que definem as equipes que recebem prêmios nos eventos
+s2636 | LANÇAR/LANÇAMENTO (LAUNCH/LAUNCHING)
+s2637 | ação de um ROBÔ em que o ELEMENTO DE PONTUAÇÃO é disparado no ar, impulsionado pelo chão para um local desejado ou em uma direção preferida, ou arremessado com força
+s2638 | LEAVE
+s2639 | conquista de pontuação em que o ROBÔ deve se mover de modo a não estar mais encostado na parede do perímetro
+s2640 | ZONA DE CARREGAMENTO (LOADING ZONE)
+s2641 | um volume de aproximadamente 23 pol. (58,40 cm) de largura por 11 pol. (27,95 cm) de profundidade, com altura infinita, delimitado por fita vermelha ou azul e pelos perímetros adjacentes do CAMPO
+s2642 | LRI
+s2643 | INSPETOR Principal de ROBÔS (Lead ROBOT INSPECTOR)
+s2644 | FALTA GRAVE (MAJOR FOUL)
+s2645 | um crédito de 20 pontos no total de pontos de PARTIDA do adversário
+s2646 | MECANISMO PRINCIPAL (MAJOR MECHANISM)
+s2647 | um grupo de COMPONENTES e/ou MECANISMOS montados juntos para atender a pelo menos 1 desafio do jogo: locomoção do ROBÔ, manipulação de ELEMENTOS DE PONTUAÇÃO, manipulação de elementos do CAMPO ou realização de uma tarefa pontuável sem a ajuda de outro ROBÔ
+s2648 | PARTIDA (MATCH)
+s2649 | um período AUTO de 30 segundos, um período de transição de 8 segundos entre o AUTO e o TELEOP e um período TELEOP de 2 minutos, nos quais o ROBÔ joga o jogo da temporada atual
+s2650 | MECANISMO (MECHANISM)
+s2651 | um conjunto de COMPONENTES que fornece uma funcionalidade específica no ROBÔ. Um MECANISMO pode ser desmontado (e depois remontado) em COMPONENTES individuais sem danificar as peças.
+s2652 | FALTA LEVE (MINOR FOUL)
+s2653 | um crédito de 5 pontos no total de pontos de PARTIDA do adversário
+s2654 | MOMENTÂNEO (MOMENTARY)
+s2655 | descreve durações menores que aproximadamente 3 segundos
