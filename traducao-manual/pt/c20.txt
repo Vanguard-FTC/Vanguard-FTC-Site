@@ -1,0 +1,84 @@
+s1680 | - ⟦0⟧danos aos TILES do CAMPO⟦/0⟧
+s1681 | - ⟦0⟧consumo de bateria ⟦/0⟧
+s1682 | - ⟦0⟧transporte do ROBÔ⟦/0⟧
+s1683 | ⟦0⟧⟦1⟧- ⟦/1⟧⟦/0⟧⟦2⟧desempenho geral do ROBÔ⟦3⟧⟦/3⟧⟦4⟧⟦5⟧⟦6⟧⟦7/⟧ ⟦/6⟧⟦/5⟧⟦/4⟧⟦/2⟧
+s1684 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧R105 ⟦/3⟧⟦4⟧O ROBÔ deve permanecer como um único conjunto, e há limites para o quanto ele pode se expandir.⟦/4⟧ Depois que a PARTIDA começa, os ROBÔS podem se expandir além da CONFIGURAÇÃO INICIAL, mas continuam sujeitos a limites de tamanho em relação ao ROBÔ, com base na CONFIGURAÇÃO INICIAL. Os limites de tamanho são:
+s1685 | ⟦0⟧A. Depois do início da PARTIDA, os ROBÔS podem se expandir além da CONFIGURAÇÃO INICIAL, mas devem sempre permanecer dentro de um volume de 18 pol. (45,70 cm) por 24 pol. (61,0 cm) por 29 pol. (73,65 cm) de altura quando totalmente expandidos, conforme a ⟦/0⟧⟦1⟧G416⟦/1⟧,
+s1686 | B. os ROBÔS devem ser fisicamente limitados para caber nesses limites, sem o uso de software, e
+s1687 | C. os ROBÔS não podem ser projetados para soltar COMPONENTES deliberadamente.
+s1688 | O volume-limite de tamanho é definido em relação à superfície do CAMPO e orientado de modo que a dimensão de 29 pol. (73,65 cm) seja sempre a altura vertical acima da superfície do CAMPO.
+s1689 | Figura 12‑1: Limite de expansão – vista superior
+s1690 | Figura 12‑2: Limite de expansão – vista lateral
+s1691 | O volume de tamanho é definido em relação à superfície do CAMPO e orientado de modo que a dimensão de 29 pol. (73,65 cm) seja sempre a altura vertical acima da superfície do CAMPO.
+s1692 | Os ROBÔS são medidos nas configurações “estáveis” que usariam no jogo normal no CAMPO (ou seja, com todas as rodas tocando os TILES). Se um ROBÔ ficar levemente “inclinado” por causa de interações no CAMPO, isso não viola esta regra se o ROBÔ ainda couber no volume de tamanho ao voltar a uma configuração estável.
+s1693 | ⟦0⟧As equipes deveriam estar preparadas para demonstrar aos INSPETORES que o seu ROBÔ não tem nenhuma configuração em que fique fora do volume de tamanho. Os ROBÔS devem mostrar as suas extensões mecânicas máximas durante o processo de inspeção. Um ROBÔ que possa exceder mecanicamente o limite de tamanho estaria em violação, mesmo que tenha software limitando a posição da extensão durante a PARTIDA. (⟦/0⟧⟦1⟧Figura 12‑3⟦/1⟧⟦2⟧)⟦/2⟧
+s1694 | ⟦0⟧⟦1⟧Figura ⟦/1⟧⟦/0⟧⟦2⟧12⟦/2⟧⟦3⟧‑⟦/3⟧⟦4⟧3⟦/4⟧⟦5⟧: Limite de expansão – violação do limite de tamanho⟦/5⟧
+s1695 | ⟦0⟧Um ROBÔ com um único MECANISMO que pode se estender para os dois lados do ROBÔ seria permitido, desde que a dimensão total na extensão mecânica máxima não exceda o limite de tamanho. (⟦/0⟧⟦1⟧Figura 12‑4⟦/1⟧⟦2⟧)⟦/2⟧
+s1696 | ⟦0⟧⟦1⟧Figura ⟦/1⟧⟦/0⟧⟦2⟧12⟦/2⟧⟦3⟧‑⟦/3⟧⟦4⟧4⟦/4⟧⟦5⟧: Limite de expansão – extensão permitida⟦/5⟧
+s1697 | ⟦0⟧Um ROBÔ com vários MECANISMOS não ligados mecanicamente, que possam se estender para os dois lados do ROBÔ ao mesmo tempo, NÃO seria permitido se a dimensão horizontal total na extensão mecânica máxima exceder o limite de tamanho (⟦/0⟧⟦1⟧Figura 12‑5⟦/1⟧⟦2⟧).⟦/2⟧
+s1698 | ⟦0⟧⟦1⟧⟦2⟧Figura ⟦/2⟧⟦/1⟧⟦/0⟧⟦3⟧⟦4⟧12⟦/4⟧⟦/3⟧⟦5⟧⟦6⟧‑⟦/6⟧⟦/5⟧⟦7⟧⟦8⟧5⟦/8⟧⟦/7⟧⟦9⟧⟦10⟧: Limite de expansão – extensão simultânea⟦/10⟧⟦/9⟧
+s1699 | ⟦0⟧Um ROBÔ com uma extensão em um pivô que gira no plano horizontal seria permitido, desde que a dimensão total não exceda o limite de tamanho em nenhum ponto do seu percurso (⟦/0⟧⟦1⟧Figura 12‑6⟦/1⟧⟦2⟧).⟦/2⟧
+s1700 | ⟦0⟧⟦1⟧⟦2⟧Figura ⟦/2⟧⟦/1⟧⟦/0⟧⟦3⟧⟦4⟧12⟦/4⟧⟦/3⟧⟦5⟧⟦6⟧‑⟦/6⟧⟦/5⟧⟦7⟧⟦8⟧6⟦/8⟧⟦/7⟧⟦9⟧⟦10⟧: Limite de expansão – extensão giratória⟦/10⟧⟦/9⟧
+s1701 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧12.2 Jogo Limpo e Prevenção de Danos
+s1702 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧R201 ⟦/2⟧⟦3⟧*⟦4⟧Os ROBÔS deveriam ser projetados para não danificar nada nem fazer bagunça na ARENA.⟦/4⟧ ⟦/3⟧O ROBÔ não pode representar risco de fazer bagunça nem perigo para qualquer coisa na ARENA.
+s1703 | A intenção desta regra é que as equipes⟦1⟧⟦2⟧ projetem os seus ROBÔS de forma a evitar danos à ARENA e minimizar o risco de os ROBÔS soltarem materiais que exijam limpeza e possam causar danos e/ou atrasos nas PARTIDAS.⟦/2⟧⟦/1⟧
+s1704 | ⟦0⟧Espera-se que os ELEMENTOS DE PONTUAÇÃO sofram um desgaste razoável ao serem manuseados pelos ROBÔS, como arranhões ou marcas. Fazer sulcos, arrancar pedaços ou marcar ELEMENTOS DE PONTUAÇÃO de forma rotineira e repetida são violações desta regra e da ⟦/0⟧⟦1⟧G406⟦/1⟧⟦2⟧. ⟦/2⟧
+s1705 | Exemplos de características do ROBÔ com “risco de dano” incluem, entre outros:
+s1706 | A. ⟦0⟧dispositivos de tração com características conhecidas por danificar o piso de TILES,⟦/0⟧
+s1707 | B. ⟦0⟧COMPONENTES com cantos vivos ou saliências pontiagudas expostas, e⟦/0⟧
+s1708 | C. ⟦0⟧partes com superfícies abrasivas que arranham objetos que se esfregam nelas.⟦/0⟧
+s1709 | Exemplos de características do ROBÔ com “risco de fazer bagunça” incluem, entre outros:
+s1710 | D. ⟦0⟧uso excessivo de lubrificantes que possam respingar ou pingar durante a operação do ROBÔ,⟦/0⟧
+s1711 | E. ⟦0⟧qualquer COMPONENTE que não esteja bem preso, incluindo lastro solto, como areia, grãos de café, areia de gato, purpurina ou esferas de rolamento, de modo que possa cair no CAMPO durante uma PARTIDA,⟦/0⟧
+s1712 | F. ⟦0⟧materiais líquidos ou em gel,⟦/0⟧
+s1713 | G. ⟦0⟧selante de pneus, e⟦/0⟧
+s1714 | H. ⟦0⟧outros lubrificantes, incluindo grafite em pó.⟦/0⟧
+s1715 | ⟦0⟧⟦/0⟧⟦1⟧R202 ⟦/1⟧⟦2⟧*Projete os ROBÔS e os CONSOLES DO OPERADOR pensando em segurança e jogo limpo⟦/2⟧⟦3⟧⟦4⟧.⟦/4⟧⟦/3⟧ As peças do ROBÔ e do CONSOLE DO OPERADOR não podem ser feitas de materiais perigosos, ser inseguras, causar condições inseguras ou interferir nas operações de outros ROBÔS ou da EQUIPE DE CAMPO.
+s1716 | Exemplos de itens que podem violar esta regra incluem, entre outros:
+s1717 | A. ⟦0⟧escudos, cortinas ou quaisquer outros dispositivos projetados ou usados unicamente para limitar a visão de membros da EQUIPE DE PILOTAGEM,⟦/0⟧
+s1718 | B. ⟦0⟧dispositivos de áudio que gerem som em volume suficiente para distrair ou que imitem os sons da PARTIDA,⟦/0⟧
+s1719 | C. ⟦0⟧quaisquer dispositivos ou decorações destinados especificamente a interferir nas capacidades de sensoriamento remoto de outro ROBÔ, incluindo sistemas de visão, medidores de distância acústicos, sonares, detectores de proximidade infravermelhos etc. Isso inclui imagens no seu ROBÔ que usem ou imitem de perto AprilTags 36h11,⟦/0⟧
+s1720 | D. ⟦0⟧gases inflamáveis ou qualquer dispositivo destinado a produzir chamas ou efeitos pirotécnicos,⟦/0⟧
+s1721 | E. ⟦0⟧materiais perigosos, como mercúrio líquido ou chumbo,⟦/0⟧
+s1722 | F. ⟦0⟧fontes de luz de alta intensidade usadas no ROBÔ só deveriam ficar acesas por pouco tempo, durante a mira, e podem atrair maior escrutínio; as equipes podem ser solicitadas a desativar ou modificar a sua iluminação, a critério do ÁRBITRO Principal e/ou do LRI,⟦/0⟧
+s1723 | G. ⟦0⟧materiais de origem animal,⟦/0⟧
+s1724 | H. ⟦0⟧qualquer dispositivo projetado para danificar ou virar ROBÔS adversários, ⟦/0⟧
+s1725 | I. ⟦0⟧dispositivos ou condições que representem risco desnecessário de enroscamento,⟦/0⟧
+s1726 | J. ⟦0⟧iluminação decorativa ou funcional que pisque a mais de 5 Hz atrairá maior escrutínio, e as equipes podem ser solicitadas a desativar ou modificar a sua iluminação, a critério do ÁRBITRO Principal e/ou do LRI, e⟦/0⟧
+s1727 | K. ⟦0⟧outros itens não listados que violem o espírito da regra sobre segurança e jogo limpo.⟦/0⟧
+s1728 | ⟦0⟧⟦/0⟧⟦1⟧R203 ⟦/1⟧⟦2⟧*Os ROBÔS devem ser projetados para ser retirados rapidamente do CAMPO sem precisar de energia.⟦/2⟧ Os ROBÔS devem permitir a retirada de ELEMENTOS DE PONTUAÇÃO do ROBÔ e a retirada do ROBÔ dos elementos do CAMPO com o ROBÔ desligado.
+s1729 | Alguns eventos podem permitir que as equipes usem a energia do ROBÔ durante o reset do CAMPO (por exemplo, dirigir o ROBÔ até a borda do CAMPO), mas os ROBÔS deveriam ser projetados de modo que isso não seja necessário.
+s1730 | ⟦0⟧⟦/0⟧⟦1⟧R204 ⟦/1⟧⟦2⟧*Não se agarre ao piso.⟦/2⟧⟦3⟧ ⟦/3⟧Os ROBÔS não podem usar nenhum MECANISMO projetado para aumentar a força para baixo, seja agarrando as superfícies do CAMPO, seja usando algum tipo de fluxo de ar gerado para produzir sucção para baixo.
+s1731 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧12.3 Fabricação⟦/4⟧
+s1732 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦4⟧R301 ⟦/4⟧⟦/3⟧⟦5⟧*MECANISMOS COTS são permitidos, mas têm limites.⟦/5⟧ São proibidos MECANISMOS PRINCIPAIS COTS projetados especificamente para cumprir uma tarefa do jogo. ⟦6⟧As exceções permitidas a esta regra são:⟦/6⟧
+s1733 | A. CHASSIS de tração COTS, desde que nenhuma das peças individuais viole outras regras, e
+s1734 | B. MECANISMOS PRINCIPAIS COTS criados como parte dos ⟦0⟧StarterBots oficiais do ⟦1⟧FIRST⟦/1⟧ Tech Challenge⟦/0⟧⟦2⟧.⟦/2⟧
+s1735 | As peças COTS têm o objetivo de ajudar as equipes a projetar e construir MECANISMOS do ROBÔ para cumprir tarefas do jogo e resolver desafios, mas não se destinam a ser soluções prontas, feitas especificamente para cumprir os objetivos do jogo.
+s1736 | Um fornecedor que venda a fabricação “sob desenho” (build to print) de soluções específicas disponíveis publicamente vai contra o espírito desta regra.
+s1737 | ⟦0⟧⟦/0⟧⟦1⟧R302 ⟦/1⟧⟦2⟧*Peças COTS permitidas e matérias-primas podem ser modificadas.⟦/2⟧⟦3⟧⟦4⟧ ⟦/4⟧⟦/3⟧Matérias-primas permitidas e peças COTS permitidas podem ser modificadas (furadas, cortadas, pintadas etc.), desde que nenhuma outra regra seja violada.
+s1738 | Matéria-prima se refere a material de construção não acabado, incluindo, entre outros:
+s1739 | ⟦0⟧⟦1⟧A. ⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧chapas,⟦/3⟧⟦/2⟧
+s1740 | ⟦0⟧⟦1⟧B. ⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧perfis extrudados,⟦/3⟧⟦/2⟧
+s1741 | ⟦0⟧⟦1⟧C. ⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧metais, plástico, borracha e madeira, e⟦/3⟧⟦/2⟧
+s1742 | ⟦0⟧⟦1⟧D. ⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧ímãs.⟦/3⟧⟦/2⟧
+s1743 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧R303 ⟦/2⟧⟦3⟧*Itens COTS devem ter um único grau de liberdade (DoF).⟦/3⟧⟦4⟧⟦5⟧ ⟦/5⟧⟦/4⟧COMPONENTES e MECANISMOS COTS não podem ter mais de um grau de liberdade mecânico (DoF, Degree of Freedom). Exemplos de MECANISMOS e COMPONENTES COTS permitidos, com um único grau de liberdade, são:
+s1744 | A. kit de corrediça linear,
+s1745 | B. kit de atuador linear,
+s1746 | C. caixas de redução de velocidade única (sem troca de marcha),
+s1747 | D. polia,
+s1748 | E. mesa giratória,
+s1749 | F. fuso, e
+s1750 | G. garra de um único DoF.
+s1751 | As exceções permitidas a esta regra são:
+s1752 | H. dispositivos com catraca (chaves, rolamentos etc.),
+s1753 | I. rodas holonômicas (omni ou mecanum),
+s1754 | J. kits de odometria com rodas passivas (dead-wheel),
+s1755 | K. itens que transmitem movimento entre COMPONENTES desalinhados (como juntas universais, acoplamentos flexíveis de eixo e itens semelhantes), e
+s1756 | L. itens que ligam estruturas em ângulos variáveis (como articulações com rótula, terminais rotulares e itens semelhantes).
+s1757 | A intenção desta regra também se estende a proibir COMPONENTES individuais altamente especializados, projetados apenas para serem montados em um COMPONENTE COTS com vários DoF.
+s1758 | O teste geral para um MECANISMO de um único grau de liberdade é se a orientação e a posição de cada COMPONENTE do MECANISMO podem, de modo geral, ser previstas a partir da orientação e da posição de um único COMPONENTE (como a entrada) do sistema.
+s1759 | Exemplo 1: Uma tração mecanum é formada por 4 módulos de tração independentes, cada um com um único DoF (desconsiderando o DoF das rodas mecanum, conforme permitido por esta regra), presos a uma estrutura comum (por exemplo, o CHASSI). O MECANISMO como um todo continua tendo um único DoF.
+s1760 | Exemplo 2: Os módulos de odometria com rodas passivas, permitidos por esta regra, normalmente são compostos por uma roda de 1 DoF (desconsiderando o efeito da roda holonômica), que fornece o movimento para frente/para trás, e uma mola, que fornece um movimento adicional distinto, rotacional ou vertical, criando um sistema de 2 DoF.
+s1761 | Exemplo 3: Garras simples, compostas por um único atuador que move 2 mandíbulas ao mesmo tempo ou por dois atuadores que controlam cada um uma mandíbula independente, em geral têm um único DoF. No entanto, garras que incorporam atuadores adicionais que fornecem movimentos extras de torção e/ou flexão (como um punho) acrescentam graus de liberdade, o que é proibido em MECANISMOS COTS.
+s1762 | ⟦0⟧⟦/0⟧⟦1⟧R304 ⟦/1⟧⟦2⟧*Software, projetos e peças personalizados podem ser reutilizados de um ano para outro⟦/2⟧⟦3⟧⟦4⟧.⟦/4⟧⟦/3⟧ São permitidos software do ROBÔ, projetos e ITENS FABRICADOS criados antes do Kickoff.
+s1763 | ⟦0⟧⟦/0⟧⟦1⟧R305 ⟦/1⟧⟦2⟧*ELEMENTOS DE PONTUAÇÃO não podem ser usados na construção do ROBÔ.⟦/2⟧⟦3⟧ ⟦/3⟧Os ELEMENTOS DE PONTUAÇÃO da temporada atual, ou réplicas deles, não podem ser usados como parte da construção do ROBÔ.

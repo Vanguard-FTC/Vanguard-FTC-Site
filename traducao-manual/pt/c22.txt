@@ -1,0 +1,130 @@
+s1897 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧12.6 Distribuição de Energia⟦/3⟧
+s1898 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧R601 ⟦/2⟧⟦3⟧*Os ROBÔS podem ter apenas 1 bateria principal⟦/3⟧⟦4⟧⟦5⟧.⟦/5⟧⟦/4⟧ Os ROBÔS devem ter 1, e somente 1, bateria principal NiMH de 12 V aprovada. Essa bateria é a única fonte permitida de energia elétrica para o sistema de controle e a atuação do ROBÔ durante a competição, e deve estar inalterada em relação ao estado de fábrica, exceto:
+s1899 | A. o fusível pode ser substituído por um mini fusível de lâmina ATM de 20 A em linha, COTS equivalente, instalado conforme a ⟦0⟧R610⟦/0⟧, e
+s1900 | B. os conectores instalados podem ser substituídos por outros conectores comuns, como Anderson Powerpole, XT30 ou qualquer conector com capacidade de potência comparável.
+s1901 | As únicas baterias principais de ROBÔ permitidas são:
+s1902 | Tabela 12‑4: Baterias principais de ROBÔ permitidas
+s1903 | Bateria
+s1904 | Código da peça
+s1905 | Observações
+s1906 | AndyMark Flat Pack Battery DC 12V
+s1907 | am-5290
+s1908 | goBILDA 12V NiMH Nested Battery
+s1909 | Matrix 12V 3000mAh NiMH
+s1910 | Pode estar identificada como “Modern Robotics”
+s1911 | REV 12V Slim Battery
+s1912 | REV-31-1302
+s1913 | Studica 12V 3000mAh NiMH
+s1914 | TETRIX MAX 12V 3000mAh NiMH
+s1915 | Antigo 739023
+s1916 | WATTOS 12V Battery
+s1917 | WT-NMH1230
+s1918 | Há muitas outras baterias de estilo semelhante disponíveis em vários FORNECEDORES, mas somente os fabricantes e códigos listados são permitidos nos eventos ⟦1⟧FIRST⟦/1⟧ Tech Challenge.
+s1919 | ⟦0⟧Outras baterias podem ser usadas em dispositivos autônomos, conforme listado na ⟦/0⟧⟦1⟧R602⟦/1⟧⟦2⟧.⟦/2⟧
+s1920 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧R602 ⟦/2⟧⟦3⟧*Outras baterias só são permitidas em dispositivos periféricos autônomos e LEDs. ⟦/3⟧Podem ser usados power banks USB COTS com capacidade de até 100 Wh (27.000 mAh a 3,7 V), com saída máxima de 5 V/5 A ou de 12 V/5 A via USB-PD por porta, e baterias integradas a dispositivos autônomos, como câmeras (por exemplo, câmeras do tipo GoPro), desde que:
+s1921 | A. não forneçam energia a nenhum dos atuadores do ROBÔ, e
+s1922 | B. não sejam usadas por nenhum dispositivo que receba sinais de controle do sistema de controle do ROBÔ (ou seja, os power banks USB COTS devem permanecer eletricamente isolados dos sistemas de energia do ROBÔ). As exceções à parte B desta regra são:
+s1923 | i. hubs USB alimentados, e
+s1924 | ii. smartphones usados como ROBOT CONTROLLER.
+s1925 | Qualquer dispositivo que receba sinais de um REV Control Hub ou Expansion Hub deve ser alimentado pela bateria principal do ROBÔ.
+s1926 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧R603 ⟦/2⟧⟦3⟧*Ligue a bateria do ROBÔ por meio do Interruptor Principal de Energia.⟦/3⟧ Exatamente um interruptor principal de energia deve controlar toda a energia fornecida pela bateria do ROBÔ a todos os dispositivos de regulação de energia do ROBÔ (exceto conforme especificado na ⟦4⟧R602⟦/4⟧), de modo que todas as seguintes condições sejam cumpridas:
+s1927 | A. deve ser um dos seguintes interruptores de energia aprovados:
+s1928 | Tabela 12‑5: Interruptores de energia permitidos
+s1929 | Interruptor de energia
+s1930 | Código da peça
+s1931 | AndyMark FTC Power Switch w/ Bracket
+s1932 | am-4969
+s1933 | goBILDA Floodgate Power Switch
+s1934 | REV Switch Cable and Bracket
+s1935 | REV-31-1387
+s1936 | Studica On/Off Power Switch Kit
+s1937 | TETRIX R/C Switch Kit
+s1938 | WATTOS Power Switch Kit
+s1939 | WTS-SW1220
+s1940 | B. deve estar montado ou localizado em um lugar acessível à equipe, longe de peças móveis de alta velocidade e de pontos de esmagamento, e
+s1941 | C. interruptores de energia secundários podem ser usados na linha de 12 V depois do interruptor principal de energia.
+s1942 | Não há exigência específica de localização para o interruptor principal de energia, mas ele deveria ficar longe de peças móveis de alta velocidade e de pontos de esmagamento. As equipes podem montar o interruptor principal de energia atrás de painéis removíveis.
+s1943 | O interruptor principal de energia deveria ser montado no ROBÔ de forma que fique protegido do contato entre ROBÔS, para evitar acionamento acidental ou danos.
+s1944 | ⟦0⟧⟦/0⟧⟦1⟧R604 ⟦/1⟧⟦2⟧*Os fusíveis devem ser usados conforme indicado e não podem ser modificados⟦/2⟧. A intenção desta regra é que as equipes usem os fusíveis conforme indicado pelo fabricante do dispositivo e não tentem obter vantagem competitiva modificando os fusíveis, substituindo-os por fusíveis com ponto de desarme maior ou por fusíveis de rearme automático.
+s1945 | ⟦0⟧⟦/0⟧⟦1⟧R605 ⟦/1⟧⟦2⟧*A estrutura do ROBÔ não pode ser usada como caminho de corrente.⟦/2⟧ Toda a fiação e os dispositivos elétricos devem estar eletricamente isolados da estrutura do ROBÔ. A estrutura do ROBÔ não pode ser usada para conduzir corrente elétrica. O aterramento elétrico dos eletrônicos do sistema de controle na estrutura do ROBÔ só é permitido se todas as seguintes condições forem cumpridas:
+s1946 | A. as cintas/cabos usados devem ser das seguintes peças aprovadas:
+s1947 | Tabela 12‑6: Cintas de aterramento permitidas
+s1948 | Cinta de aterramento
+s1949 | Código da peça
+s1950 | AndyMark Resistive Grounding Strap
+s1951 | am-4648a
+s1952 | REV Resistive Grounding Strap
+s1953 | REV-31-1269
+s1954 | Swyft Grounding Cable
+s1955 | SR-Ground-01
+s1956 | B. a cinta/cabo deve se ligar diretamente a um COMPONENTE totalmente COTS com conector XT30 e também deve se ligar diretamente à estrutura do ROBÔ (pelo terminal resistivo), e
+s1957 | C. nenhum COMPONENTE ou MECANISMO do ROBÔ é projetado para aterrar eletricamente a estrutura do ROBÔ no CAMPO.
+s1958 | ⟦0⟧Para mais detalhes sobre a instalação da cinta de aterramento, consulte o⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧⟦3⟧ROBOT Wiring Guide (Guia de Fiação do ROBÔ)⟦/3⟧.⟦/2⟧
+s1959 | ⟦0⟧⟦/0⟧⟦1⟧R606 ⟦/1⟧⟦2⟧*O ROBOT CONTROLLER e o sistema elétrico do ROBÔ devem poder ser inspecionados.⟦/2⟧ Os COMPONENTES elétricos do ROBÔ devem ser montados pensando na acessibilidade, da seguinte forma:
+s1960 | A. todos os dispositivos de regulação de energia (conforme a ⟦0⟧R505⟦/0⟧), a fiação associada e todos os fusíveis devem poder ficar visíveis para inspeção, e
+s1961 | B. o dispositivo ROBOT CONTROLLER deve ser montado no ROBÔ de modo que as luzes de diagnóstico, ou a tela do dispositivo, se houver, possam ficar visíveis para inspeção.
+s1962 | “Visível para inspeção” não exige que os itens estejam visíveis com o ROBÔ na CONFIGURAÇÃO INICIAL ou normalmente durante uma PARTIDA, desde que a equipe consiga torná-los visíveis durante o processo de inspeção, se necessário.
+s1963 | Recomenda-se fortemente que as equipes deixem as luzes de diagnóstico visíveis em todas as configurações do ROBÔ usadas no jogo normal. Se os LEDs de diagnóstico não estiverem visíveis durante uma PARTIDA, a EQUIPE DE CAMPO pode não conseguir dar suporte completo à equipe.
+s1964 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧R607 ⟦/2⟧⟦3⟧*Circuitos Personalizados não podem fornecer energia regulada acima de 5 V, a menos que alimentem apenas LEDs.⟦/3⟧ Qualquer ⟦4⟧item elétrico ativo que não seja um atuador (especificado na ⟦/4⟧⟦5⟧R501⟦/5⟧) nem um dispositivo de regulação de energia (especificado na ⟦6⟧R505⟦/6⟧) é considerado CIRCUITO PERSONALIZADO (CUSTOM CIRCUIT). CIRCUITOS PERSONALIZADOS não podem fornecer tensões de saída reguladas acima de 5 V, exceto se usados exclusivamente para alimentar LEDs. CIRCUITOS PERSONALIZADOS podem repassar a tensão não regulada da bateria.
+s1965 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧R608 ⟦/2⟧⟦3⟧*Todos os dispositivos de regulação de energia devem ser ligados e alimentados por portas aprovadas.⟦/3⟧ Todos os dispositivos de regulação de energia (⟦4⟧R505⟦/4⟧) devem ser alimentados conforme as instruções do fabricante, e a tabela a seguir deve ser atendida:
+s1966 | Tabela 12‑7: Requisitos de alimentação dos dispositivos de regulação de energia
+s1967 | Dispositivo de regulação de energia
+s1968 | Código da peça
+s1969 | Forma de alimentação
+s1970 | goBILDA 6V Servo Power Injector
+s1971 | Alimentado somente pelos conectores XT30 do dispositivo, pela bateria principal do ROBÔ
+s1972 | REV Control Hub /
+s1973 | REV Expansion Hub
+s1974 | REV-31-1153 /
+s1975 | REV-31-1595
+s1976 | Alimentado somente pelos conectores XT30 do dispositivo, pela bateria principal do ROBÔ
+s1977 | REV Servo Power Module
+s1978 | REV-11-1144
+s1979 | Alimentado somente pelos bornes de parafuso e somente pela bateria principal do ROBÔ
+s1980 | REV Robotics Servo Hub
+s1981 | REV-11-1855
+s1982 | Alimentado somente pelos terminais de energia e somente pela bateria principal do ROBÔ
+s1983 | REV SPARKmini
+s1984 | REV-31-1230
+s1985 | Alimentado somente pela entrada de energia e somente pela bateria principal do ROBÔ
+s1986 | Studica Servo Power Block
+s1987 | Alimentado somente pelo conector de energia JST-VH e somente pela bateria principal do ROBÔ
+s1988 | ⟦0⟧⟦/0⟧⟦1⟧R609 ⟦/1⟧⟦2⟧*Use fios com bitola adequada.⟦/2⟧ Todos os circuitos devem usar fio isolado com bitola adequada:
+s1989 | Tabela 12‑8: Requisitos de bitola dos fios
+s1990 | Aplicação
+s1991 | Bitola mínima do fio
+s1992 | Alimentação da bateria principal de 12 V
+s1993 | 18 AWG
+s1994 | (19 SWG ou 1 mm⟦0⟧2⟦/0⟧)
+s1995 | Alimentação de motores (salvo indicação em contrário)
+s1996 | Circuito protegido por fusível de 11 a 20 A
+s1997 | Alimentação de motores – motores TETRIX MAX 12V DC, REV Robotics Core Hex (REV-14-1300)
+s1998 | 22 AWG
+s1999 | (22 SWG ou 0,5 mm⟦0⟧2⟦/0⟧)
+s2000 | PWM / Servo
+s2001 | LEDs (5 V / 12 V)
+s2002 | Circuito protegido por fusível de ≤10 A
+s2003 | Circuitos de nível de sinal (ou seja, circuitos que consomem ⟦1⟧≤1 A contínuo e cuja fonte não consegue fornecer &gt;1 A, incluindo, entre outras, ⟦/1⟧as conexões I2C, DIO, analógicas, de encoder e RS485)
+s2004 | 28 AWG
+s2005 | (29 SWG ou 0,08 mm⟦0⟧2⟦/0⟧)
+s2006 | Fios integrados originalmente presos a dispositivos COTS permitidos, ou fios incluídos/vendidos pelo fabricante, são considerados parte do dispositivo e, por padrão, permitidos. Esses fios estão isentos desta regra.
+s2007 | Para demonstrar o cumprimento destas regras, as equipes deveriam usar, se possível, fios com a bitola claramente identificada. Se for usada fiação sem identificação, as equipes deveriam estar preparadas para demonstrar que o fio usado cumpre os requisitos desta regra (por exemplo, amostras do fio e comprovação de que têm a bitola exigida).
+s2008 | Combinar vários fios menores em paralelo não pode ser usado para criar um fio maior equivalente que cumpra os requisitos mínimos de seção transversal.
+s2009 | ⟦0⟧⟦/0⟧⟦1⟧R610 ⟦/1⟧⟦2⟧*Use as cores de fio especificadas para cada barramento. ⟦/2⟧Os fios do barramento principal de 12 V e do barramento auxiliar de +5 V devem ter código de cores em todo o seu comprimento. Devem ser usadas as seguintes cores:
+s2010 | A. positivo (por exemplo, +12 V CC / +5 V Aux): vermelho, amarelo, branco, marrom ou preto com listra, e
+s2011 | B. negativo (por exemplo, comum/GND): preto ou azul.
+s2012 | Observação: esta regra não se aplica a outros tipos de fio, incluindo, entre outros: fiação de motores, fiação de nível de sinal (por exemplo, fios de encoders e sensores), cabos e extensões de servo, ou fios presos originalmente pelo fabricante a dispositivos permitidos.
+s2013 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦3⟧R611 ⟦/3⟧⟦/2⟧⟦4⟧*Hubs USB alimentados devem obter energia de fontes aprovadas.⟦/4⟧⟦5⟧⟦6⟧ Os hubs USB alimentados usados no ROBÔ só podem ser alimentados de uma das seguintes formas: ⟦/6⟧⟦/5⟧
+s2014 | A. por um power bank USB COTS aprovado, conforme a ⟦0⟧R602⟦/0⟧, ou
+s2015 | B. pela porta de energia auxiliar de 5 V do REV Expansion Hub ou do REV Control Hub.
+s2016 | ⟦0⟧⟦/0⟧⟦1⟧R612 ⟦/1⟧⟦2⟧*Não modifique os caminhos críticos de energia.⟦/2⟧ CIRCUITOS PERSONALIZADOS não podem alterar diretamente os caminhos de energia ou de controle entre:
+s2017 | A. a bateria do ROBÔ e o interruptor principal de energia,
+s2018 | B. o interruptor principal de energia e um dispositivo de regulação de energia (conforme a ⟦0⟧R603⟦/0⟧),
+s2019 | C. quaisquer dois dispositivos de regulação de energia (conforme a ⟦0⟧R607⟦/0⟧), ou
+s2020 | D. os dispositivos de regulação de energia e os atuadores.
+s2021 | Interfaces elétricas dinâmicas (incluindo contatos deslizantes lineares) ou interfaces elétricas de rotação contínua (incluindo anéis coletores / slip rings) colocadas em qualquer um desses caminhos devem ser itens COTS não modificados; interfaces elétricas desse tipo personalizadas ou fabricadas são proibidas.
+s2022 | Circuitos personalizados de monitoramento de tensão de alta impedância ou de monitoramento de corrente de baixa impedância ligados ao sistema elétrico do ROBÔ são aceitáveis se o efeito nos caminhos de energia for insignificante.
+s2023 | Alterar um caminho de energia inclui, entre outros, alterar a tensão do caminho de energia usando um conversor boost (elevador de tensão CC) ou buck (abaixador de tensão CC), ou alterar de outra forma a tensão CC naturalmente variável fornecida pela bateria do ROBÔ para criar uma tensão CC constante.
+s2024 | ⟦0⟧⟦1⟧São proibidos dispositivos que modifiquem os sinais de controle ou a energia dos atuadores (exceto os permitidos pela ⟦/1⟧⟦/0⟧⟦2⟧R505⟦/2⟧⟦3⟧⟦4⟧), como o goBILDA Servo Travel Tuner.⟦/4⟧⟦/3⟧
+s2025 | ⟦0⟧⟦/0⟧⟦1⟧R613 ⟦/1⟧⟦2⟧*Não misture alimentação em um dispositivo de regulação de energia nem entre dispositivos.⟦/2⟧ As seguintes regras devem ser seguidas ao usar a energia de qualquer dispositivo de regulação de energia (conforme a ⟦3⟧R505⟦/3⟧):
+s2026 | A. sensores, encoders e outros dispositivos devem ser alimentados exclusivamente pelo dispositivo de regulação de energia ao qual estão ligados. Não use fontes de energia externas (por exemplo, circuitos personalizados ou um segundo hub) para alimentá-los,

@@ -1,0 +1,133 @@
+s1764 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧12.4 Regras da PLACA DO ROBÔ⟦/4⟧
+s1765 | A PLACA DO ROBÔ (ROBOT SIGN) é ⟦0⟧um conjunto obrigatório que é fixado no ROBÔ⟦/0⟧. A PLACA DO ROBÔ ⟦1⟧identifica ao mesmo tempo o número da equipe do ROBÔ e a sua ALIANÇA⟦/1⟧ para a EQUIPE DE CAMPO. Os critérios usados na redação destas regras incluem:
+s1766 | - Maximizar a capacidade da EQUIPE DE CAMPO de identificar o número da equipe e a ALIANÇA de um ROBÔ,
+s1767 | - Minimizar o desafio de projeto na criação das PLACAS DO ROBÔ, e
+s1768 | - Aumentar a padronização na exibição da identificação do ROBÔ.
+s1769 | Um modelo de PLACA DO ROBÔ está disponível para download nos tamanhos ⟦0⟧US Letter⟦/0⟧ e ⟦1⟧A4⟦/1⟧.
+s1770 | ⟦0⟧⟦/0⟧⟦1⟧R401 ⟦/1⟧⟦2⟧*No mínimo duas PLACAS DO ROBÔ por ROBÔ.⟦/2⟧⟦3⟧⟦4⟧ ⟦/4⟧⟦/3⟧⟦5⟧⟦6⟧As PLACAS DO ROBÔ ⟦/6⟧⟦/5⟧devem ser colocadas em pelo menos 2 locais diferentes do ROBÔ. Esses locais devem estar em superfícies opostas ou adjacentes do ROBÔ, com pelo menos 90 graus de diferença. Todas as superfícies do ROBÔ visíveis para a EQUIPE DE CAMPO podem ser usadas para colocar as PLACAS DO ROBÔ, incluindo o topo do ROBÔ. As PLACAS DO ROBÔ devem cumprir os seguintes critérios:
+s1771 | A. ser feitas de material resistente,
+s1772 | B. ter no mínimo 6,5 polegadas (16,5 cm) de largura,
+s1773 | C. ter no mínimo 2,5 polegadas (6,4 cm) de altura (Figura 12‑7), e
+s1774 | D. ser sustentadas pela estrutura/armação do ROBÔ.
+s1775 | A intenção desta regra é que a EQUIPE DE CAMPO consiga ver facilmente as PLACAS DO ROBÔ a pelo menos 12 pés (3,65 metros) de distância antes, durante e depois da PARTIDA.
+s1776 | As PLACAS DO ROBÔ deveriam ser resistentes o bastante para suportar as exigências das PARTIDAS, mas não há orientação específica sobre o que é resistente o bastante. As equipes deveriam fazer um esforço de boa-fé com o que tiverem disponível.
+s1777 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧Figura ⟦/4⟧12‑7: Dimensões da PLACA DO ROBÔ com o número da equipe
+s1778 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧R402 ⟦/2⟧⟦3⟧*As PLACAS DO ROBÔ indicam a sua ALIANÇA⟦/3⟧⟦4⟧⟦5⟧. ⟦/5⟧⟦/4⟧Cada PLACA DO ROBÔ deve conter um retângulo com fundo opaco vermelho ou azul sólido de pelo menos 6,5 pol. por 2,5 pol. (16,50 cm por 6,35 cm) para indicar a cor da ALIANÇA (Figura 12‑7), conforme definido no cronograma de PARTIDAS do evento. São proibidas marcações visíveis nas PLACAS DO ROBÔ, quando instaladas no ROBÔ, além das seguintes:
+s1779 | A. as exigidas pela ⟦0⟧R403⟦/0⟧,
+s1780 | B. pequenas quantidades de fita de gancho e laço (velcro), fixadores rígidos ou equivalentes funcionais,
+s1781 | C. áreas estreitas de cores diferentes expostas em cantos, dobras ou recortes,
+s1782 | D. marcações estreitas no fundo usadas somente como gabarito, e
+s1783 | E. as placas não podem ser energizadas nem depender de energia de qualquer fonte para iluminar/revelar a cor da ALIANÇA.
+s1784 | PLACAS DO ROBÔ reversíveis ou configuráveis não podem deixar a cor da ALIANÇA oposta visível para a EQUIPE DE CAMPO, exceto quando permitido por esta regra.
+s1785 | ⟦0⟧⟦/0⟧⟦1⟧Figura ⟦/1⟧12‑8: Retângulo de ALIANÇA de tamanho mínimo
+s1786 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧R403 ⟦/2⟧⟦3⟧*Número da equipe nas PLACAS DO ROBÔ.⟦/3⟧⟦4⟧ ⟦/4⟧Os números das equipes devem ser exibidos e posicionados na PLACA DO ROBÔ como mostrado na Figura 12‑7, na Figura 12‑9 e na Figura 12‑10 e cumprir os seguintes critérios adicionais:
+s1787 | A. ser formados por algarismos arábicos (por exemplo, 1, 2, 3, 4) brancos, opacos e sólidos, com aproximadamente 2,25 pol. (5,70 cm) de altura,
+s1788 | B. deve haver no mínimo cerca de 0,25 pol. (0,60 cm) de fundo ao redor dos números,
+s1789 | C. os números não podem ser empilhados verticalmente (Figura 12‑10),
+s1790 | D. ser feitos de materiais resistentes, e
+s1791 | E. não podem ser energizados nem depender de energia de qualquer fonte para iluminar/revelar os números.
+s1792 | ⟦0⟧Figura ⟦/0⟧12‑9: Número válido para a equipe 21001 jogando na ALIANÇA azul
+s1793 | ⟦0⟧Figura ⟦/0⟧12‑10: Exemplos de orientação do número para a equipe 1355 jogando na ALIANÇA azul
+s1794 | Se uma equipe em um evento não tiver PLACAS DO ROBÔ totalmente válidas e não houver impressora colorida ou outro meio disponível no evento para criar uma PLACA DO ROBÔ válida, o ÁRBITRO Principal pode aprovar um substituto alternativo para uso no evento.
+s1795 | Os números das equipes deveriam ser resistentes o bastante para suportar as exigências das PARTIDAS, mas não há orientação específica sobre o que é resistente o bastante. As equipes deveriam fazer um esforço de boa-fé com o que tiverem disponível. Se houver poucos materiais disponíveis em um evento, as PLACAS DO ROBÔ substitutas podem ser simplesmente escritas à mão em papel comum.
+s1796 | Pequenos elementos decorativos e falhas nos números são aceitáveis, desde que o número da equipe continue legível a 12 pés (3,65 metros) de distância e possa ser identificado com uma olhada rápida.
+s1797 | Exemplos de números de equipe proibidos nas PLACAS DO ROBÔ incluem, entre outros:
+s1798 | ⟦0⟧⟦1⟧- ⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧números de equipe visíveis apenas em plástico gravado iluminado pela borda⟦/3⟧⟦/2⟧
+s1799 | ⟦0⟧⟦1⟧- ⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧números em display de LED⟦4⟧⟦5/⟧ ⟦/4⟧⟦/3⟧⟦/2⟧
+s1800 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧12.5 Motores e Atuadores⟦/3⟧
+s1801 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧R501 ⟦/2⟧⟦3⟧⟦4⟧*⟦/4⟧Somente motores específicos são permitidos.⟦/3⟧⟦5⟧ ⟦/5⟧Os únicos atuadores do tipo motor permitidos são:
+s1802 | ⟦0⟧Tabela ⟦/0⟧12‑1: Motores permitidos
+s1803 | Nome do motor
+s1804 | Códigos de peça disponíveis
+s1805 | Observações
+s1806 | ⟦0⟧⟦1⟧AndyMark⟦/1⟧⟦/0⟧⟦2⟧ NeveRest 12V DC⟦/2⟧
+s1807 | am-3104, am-3104b
+s1808 | ⟦0⟧⟦1⟧AndyMark ⟦/1⟧⟦/0⟧⟦2⟧NeveRest Hex 12V DC⟦/2⟧
+s1809 | am-3104c
+s1810 | ⟦0⟧⟦1⟧goBILDA⟦/1⟧⟦/0⟧⟦2⟧ Yellow Jacket 520x Series 12V DC⟦/2⟧
+s1811 | 5201-0002-0026 etc.
+s1812 | séries 5201, 5202, 5203 e 5204
+s1813 | goBILDA 5000 Series 12V DC
+s1814 | 5000-0002-4008 etc.
+s1815 | ⟦0⟧⟦1⟧Modern Robotics⟦/1⟧⟦/0⟧⟦2⟧ / MATRIX 12V DC⟦/2⟧
+s1816 | Fora de linha
+s1817 | ⟦0⟧⟦1⟧NFR Products ⟦/1⟧⟦/0⟧⟦2⟧Yuksel 12V DC⟦/2⟧
+s1818 | NFR-600-100-000
+s1819 | ⟦0⟧⟦1⟧REV Robotics⟦/1⟧⟦/0⟧⟦2⟧ HD Hex 12V DC⟦/2⟧
+s1820 | REV-41-1291
+s1821 | ⟦0⟧⟦1⟧REV Robotics⟦/1⟧⟦/0⟧⟦2⟧ Core Hex 12V DC⟦/2⟧
+s1822 | REV-41-1300
+s1823 | ⟦0⟧⟦1⟧Studica Robotics ⟦/1⟧⟦/0⟧⟦2⟧Maverick 12V DC⟦/2⟧
+s1824 | ⟦0⟧SWYFT Robotics⟦/0⟧ SWYFT Spike Motor
+s1825 | SR-MOTOR-DC-01
+s1826 | ⟦0⟧TETRIX MAX⟦/0⟧ 12V DC
+s1827 | Fora de linha
+s1828 | ⟦0⟧⟦1⟧TETRIX MAX⟦/1⟧⟦/0⟧⟦2⟧ TorqueNADO 12V DC⟦/2⟧
+s1829 | ⟦0⟧⟦1⟧WATTOS ⟦/1⟧⟦/0⟧⟦2⟧Stingray 12V DC⟦/2⟧
+s1830 | WDM12
+s1831 | ⟦0⟧Motores de vibração e de foco automático instalados de fábrica em dispositivos de computação COTS (por exemplo, o motor de vibração de um smartphone); só podem ser usados como parte do dispositivo e não podem ser removidos e/ou reaproveitados. Esses motores não contam para o limite da ⟦/0⟧⟦1⟧R503⟦/1⟧⟦2⟧.⟦/2⟧
+s1832 | ⟦0⟧Motores integrados a um sensor COTS (por exemplo, LIDAR, sonar de varredura), desde que o dispositivo não seja modificado, exceto para facilitar a fixação. Esses motores não contam para o limite da ⟦/0⟧⟦1⟧R503⟦/1⟧⟦2⟧.⟦/2⟧
+s1833 | Outros motores podem ser incluídos na lista de motores permitidos em futuras atualizações do Manual de Competição.
+s1834 | Muitos motorredutores permitidos são vendidos com etiquetas referentes ao conjunto completo. Esses motores podem ser usados com ou sem a caixa de redução fornecida e/ou com qualquer outra caixa de redução compatível.
+s1835 | ⟦0⟧⟦/0⟧⟦1⟧R502 ⟦/1⟧⟦2⟧*O uso de servos é restrito.⟦/2⟧ Os atuadores do tipo servo devem cumprir os requisitos abaixo. Os servos devem ser compatíveis com os dispositivos de regulação de energia com os quais serão usados (conforme a ⟦3⟧R505⟦/3⟧) e podem incluir interfaces adicionais de saída de posição do servo (por exemplo, realimentação de posição por 4º fio).
+s1836 | Tabela 12‑2: Requisitos dos servos a 6 V
+s1837 | Classe do atuador
+s1838 | Potência mecânica de saída
+s1839 | Corrente de travamento (stall)
+s1840 | Exemplos de servos (incluindo, entre outros)
+s1841 | Servo
+s1842 | ≤ 8 watts a 6 V
+s1843 | ≤ 4 ampères a 6 V
+s1844 | AndyMark High-Torque Servos (am-4954)
+s1845 | Axon MAX+ Servo (Axon MAX+)
+s1846 | DSSERVO 35KG Coreless (DS3235MG)
+s1847 | FEETECH Digital Servo (FT5335M-FB)
+s1848 | goBILDA Dual Mode Servo (2000-0025-0003)
+s1849 | REV Robotics Smart Servo (REV-41-1097)
+s1850 | Studica Multi-Mode Smart Servo (75002)
+s1851 | Servo linear
+s1852 | ≤ 1 ampère a 6 V
+s1853 | Actuonix Micro Linear Servo (P8-100-252-12-R)
+s1854 | Hitec Linear Servo (HLS12-3050-6V)
+s1855 | Studica Linear Servo RC Actuator (75014)
+s1856 | ⟦0⟧A potência mecânica de saída do servo⟦/0⟧ é aproximada pela seguinte fórmula (usando os dados a 6 V informados pelo fabricante):
+s1857 | ⟦0⟧· ⟦/0⟧⟦1⟧Potência mecânica de saída⟦/1⟧ = ⟦2⟧0,25⟦/2⟧ x (⟦3⟧Torque de travamento⟦/3⟧ em ⟦4⟧N·m⟦/4⟧) x (⟦5⟧Velocidade sem carga⟦/5⟧ em ⟦6⟧rad/s⟦/6⟧)
+s1858 | ⟦0⟧Os servos devem cumprir os dois requisitos para poderem ser usados. Consulte o documento ⟦/0⟧⟦1⟧Inspection Quick Reference⟦/1⟧⟦2⟧ para ver a lista de servos pré-aprovados; caso contrário, as equipes devem ser capazes de apresentar documentação que comprove as especificações do servo. Use a ⟦/2⟧⟦3⟧calculadora online⟦/3⟧⟦4⟧ para verificar o cumprimento do limite de potência de saída.⟦/4⟧
+s1859 | Se o fabricante não fornecer especificações a 6 V, podem ser usadas especificações para qualquer tensão acima de 6 V.
+s1860 | A corrente de travamento é a máxima corrente de travamento possível do dispositivo na tensão especificada, independentemente de quaisquer limites de software ajustáveis pelo usuário ou pelo FORNECEDOR que possam existir no servo.
+s1861 | É importante garantir que a tensão fornecida pelo dispositivo de regulação de energia previsto esteja dentro da faixa de tensão de operação do servo desejado. O REV Control Hub e o REV Expansion Hub fornecem 5 V aos servos, e o goBILDA Servo Power Injector, o REV Servo Power Module, o Studica Servo Power Block e o REV Servo Hub fornecem 6 V aos servos. Embora praticamente todos os servos sejam compatíveis com 6 V, servos com faixa de tensão de operação de 6 a 8,4 V CC, por exemplo, podem não funcionar corretamente quando recebem apenas 5 V.
+s1862 | ⟦0⟧⟦/0⟧⟦1⟧R503 ⟦/1⟧⟦2⟧*Os ROBÔS são limitados a um total de 8 motores e 8 servos.⟦/2⟧⟦3⟧ ⟦/3⟧Um ROBÔ não pode ter mais de 8 motores e 8 servos das listas de atuadores permitidos da ⟦4⟧R501⟦/4⟧ e da ⟦5⟧R502⟦/5⟧, somando todos os MECANISMOS usados em todas as configurações.
+s1863 | Se um ROBÔ tiver várias configurações usadas em um mesmo evento, com MECANISMOS diferentes, a soma total de todos os motores e servos deve ser menor ou igual ao limite definido nesta regra.
+s1864 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧R504 ⟦/2⟧⟦3⟧*Não modifique atuadores, a menos que seja explicitamente permitido.⟦/3⟧ O sistema mecânico e elétrico integrado de qualquer motor ou servo não pode ser modificado. Os motores e servos usados no ROBÔ não podem ser modificados de nenhuma forma, exceto:
+s1865 | A. os suportes de fixação e/ou o eixo/interface de saída (incluindo pinhões) podem ser modificados para facilitar a ligação física do motor ao ROBÔ e à parte acionada,
+s1866 | B. os fios elétricos podem ser cortados no comprimento necessário e podem ser adicionados conectores ou emendas com fiação adicional (conforme a ⟦0⟧R609⟦/0⟧), e invólucros puramente elétricos podem ser substituídos por equivalentes funcionais,
+s1867 | C. os servos podem ser modificados conforme especificado pelo fabricante (por exemplo, configurar limites por software ou modificar para rotação contínua),
+s1868 | D. podem ser aplicadas etiquetas para indicar a finalidade do dispositivo, a conexão, o desempenho funcional etc., desde que a etiqueta aplicada pela equipe não cubra as marcações usadas para identificar o dispositivo,
+s1869 | E. pode ser aplicado isolamento nos terminais elétricos,
+s1870 | F. reparos, desde que o desempenho e as especificações originais não sejam alterados, e
+s1871 | G. manutenção recomendada pelo fabricante.
+s1872 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧R505 ⟦/3⟧⟦4⟧*Todos os atuadores devem ser controlados e alimentados por dispositivos aprovados.⟦/4⟧ Com exceção de servos, ventoinhas ou motores integrados a sensores de dispositivos de computação COTS permitidos na ⟦5⟧R501⟦/5⟧, ⟦6⟧⟦7⟧todos os sinais de controle dos atuadores devem partir de um dispositivo de regulação de energia. ⟦/7⟧⟦/6⟧Os únicos dispositivos de regulação de energia para atuadores permitidos no ROBÔ são:
+s1873 | Tabela 12‑3: Reguladores de energia e limites
+s1874 | Dispositivo de regulação de energia
+s1875 | Código da peça
+s1876 | Limite de carga por dispositivo
+s1877 | goBILDA 6V Servo Power Injector
+s1878 | 2 servos por porta
+s1879 | Portas de motor do REV Control Hub ou Expansion Hub
+s1880 | REV-31-1153 /⟦1/⟧ REV-31-1595
+s1881 | 2 motores por porta
+s1882 | Portas de servo do REV Control Hub ou Expansion Hub
+s1883 | REV-31-1153 /⟦1/⟧ REV-31-1595
+s1884 | 2 servos por porta
+s1885 | REV Servo Power Module
+s1886 | REV-11-1144
+s1887 | 2 servos por porta
+s1888 | REV Robotics Servo Hub
+s1889 | REV-11-1855
+s1890 | 2 servos por porta
+s1891 | REV SPARKmini
+s1892 | REV-31-1230
+s1893 | 2 motores por dispositivo
+s1894 | Studica Servo Power Block
+s1895 | 2 servos por porta
+s1896 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧R506 ⟦/2⟧⟦3⟧*É proibido o uso de relés, eletroímãs e atuadores solenoides elétricos.⟦/3⟧ É proibida a atuação eletromecânica por meio de relés adicionais, eletroímãs, atuadores solenoides elétricos ou sistemas relacionados. Além disso, também é proibido o uso de relés e eletroímãs.
