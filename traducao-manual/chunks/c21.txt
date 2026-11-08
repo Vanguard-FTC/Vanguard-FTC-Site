@@ -1,0 +1,133 @@
+s1764	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧12.4 ROBOT SIGN Rules⟦/4⟧
+s1765	A ROBOT SIGN is ⟦0⟧a required assembly which attaches to the ROBOT⟦/0⟧. A ROBOT SIGN ⟦1⟧simultaneously identifies a ROBOT’S team number as well as its ALLIANCE affiliation⟦/1⟧ for FIELD STAFF. Criteria used in writing these rules include the following:
+s1766	- Maximize FIELD STAFF’S ability to determine team number and ALLIANCE of a ROBOT,
+s1767	- Minimize the amount of design challenge in creating ROBOT SIGNS, and
+s1768	- Increase consistency in displaying ROBOT identification.
+s1769	A template ROBOT SIGN is available for download in ⟦0⟧US Letter⟦/0⟧ and ⟦1⟧A4⟦/1⟧ size.
+s1770	⟦0⟧⟦/0⟧⟦1⟧R401 ⟦/1⟧⟦2⟧*Minimum of two ROBOT SIGNS per ROBOT.⟦/2⟧⟦3⟧⟦4⟧ ⟦/4⟧⟦/3⟧⟦5⟧⟦6⟧ROBOT SIGNS ⟦/6⟧⟦/5⟧must be placed in at least 2 separate locations on the ROBOT. These locations must be on opposite or adjacent surfaces of the ROBOT, ≥90 degrees apart. All ROBOT surfaces visible to FIELD STAFF can be used for placing ROBOT SIGNS including the top of the ROBOT. ROBOT SIGNS must meet the following criteria:
+s1771	A. be made of a robust material,
+s1772	B. minimally be 6.5 inches (16.5 cm) wide,
+s1773	C. minimally be 2.5 inches (6.4 cm) tall (Figure 12‑7), and
+s1774	D. be supported by the structure/frame of the ROBOT.
+s1775	The intent of this rule is for FIELD STAFF to easily view ROBOT SIGNS from at least 12 feet (3.65 meters) away before, during, and after the MATCH.
+s1776	ROBOT SIGNS should be robust enough to withstand the rigors of MATCH play, but there is no specific guidance on what is robust enough. Teams should make a good faith effort with whatever they have available.
+s1777	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧Figure ⟦/4⟧12‑7: Team Number ROBOT SIGN Sizing
+s1778	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧R402 ⟦/2⟧⟦3⟧*ROBOT SIGNS indicate your ALLIANCE⟦/3⟧⟦4⟧⟦5⟧. ⟦/5⟧⟦/4⟧Each ROBOT SIGN must contain a rectangle with a solid red or blue opaque background at least 6.5 in. by 2.5 in. (16.50 cm by 6.35 cm) in size to indicate their ALLIANCE color (Figure 12‑7), as assigned in the MATCH schedule at the event. Visible markings on ROBOT SIGNS when installed on the ROBOT, other than the following, are prohibited:
+s1779	A. those required per ⟦0⟧R403⟦/0⟧,
+s1780	B. small amounts of hook-and-loop tape, hard fasteners, or functional equivalents,
+s1781	C. narrow areas of differing colors exposed at corners, folds, or cutouts,
+s1782	D. narrow markings on background solely for template purposes, and
+s1783	E. cannot be powered or rely on power from any sources to illuminate/reveal ALLIANCE color.
+s1784	ROBOT SIGNS that are reversible or configurable must not allow the opposite ALLIANCE color to be visible to FIELD STAFF, except where permitted by this rule.
+s1785	⟦0⟧⟦/0⟧⟦1⟧Figure ⟦/1⟧12‑8: Minimum sized ALLIANCE rectangle
+s1786	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧R403 ⟦/2⟧⟦3⟧*Team number on ROBOT SIGNS.⟦/3⟧⟦4⟧ ⟦/4⟧Team numbers must be displayed and positioned on the ROBOT SIGN as shown in Figure 12‑7, Figure 12‑9, and Figure 12‑10 and meet the following additional criteria:
+s1787	A. consist of solid opaque white Arabic numbers (e.g., 1,2,3,4) which are approximately 2.25 in. (5.70 cm) tall,
+s1788	B. there must be a minimum of approximately 0.25 in. (0.60 cm) of background surrounding the numbers,
+s1789	C. numbers may not be vertically stacked (Figure 12‑10),
+s1790	D. be made of robust materials, and
+s1791	E. cannot be powered or rely on power from any sources to illuminate/reveal numbers.
+s1792	⟦0⟧Figure ⟦/0⟧12‑9: Legal number for team 21001 playing on the blue ALLIANCE
+s1793	⟦0⟧Figure ⟦/0⟧12‑10: Team number orientation examples for team 1355 playing on the blue ALLIANCE
+s1794	If a team at an event does not have completely legal ROBOT SIGNS, and there is no color printer or other means available at the event to create a legal ROBOT SIGN, the Head REFEREE may approve an alternate substitute for use at the event.
+s1795	Team numbers should be robust enough to withstand the rigors of MATCH play, but there is no specific guidance on what is robust enough. Teams should make a good faith effort with whatever they have available. If there are limited materials available at an event, substitute ROBOT SIGNS may be simply handwritten on plain paper.
+s1796	Small decorative elements and gaps in numbers are okay as long as the team number remains legible from 12 feet (3.65 meters) away and is discernable from a quick glance.
+s1797	Examples of prohibited team numbers on ROBOT SIGNS include, but not limited to:
+s1798	⟦0⟧⟦1⟧- ⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧team numbers only visible by edge lit engraved plastic⟦/3⟧⟦/2⟧
+s1799	⟦0⟧⟦1⟧- ⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧LED Display numbers⟦4⟧⟦5/⟧ ⟦/4⟧⟦/3⟧⟦/2⟧
+s1800	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧12.5 Motors & Actuators⟦/3⟧
+s1801	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧R501 ⟦/2⟧⟦3⟧⟦4⟧*⟦/4⟧Only specific motors are allowed.⟦/3⟧⟦5⟧ ⟦/5⟧The only allowed motor actuators are:
+s1802	⟦0⟧Table ⟦/0⟧12‑1: Motor allowances
+s1803	Motor Name
+s1804	Part Numbers Available
+s1805	Notes
+s1806	⟦0⟧⟦1⟧AndyMark⟦/1⟧⟦/0⟧⟦2⟧ NeveRest 12V DC⟦/2⟧
+s1807	am-3104, am-3104b
+s1808	⟦0⟧⟦1⟧AndyMark ⟦/1⟧⟦/0⟧⟦2⟧NeveRest Hex 12V DC⟦/2⟧
+s1809	am-3104c
+s1810	⟦0⟧⟦1⟧goBILDA⟦/1⟧⟦/0⟧⟦2⟧ Yellow Jacket 520x Series 12V DC⟦/2⟧
+s1811	5201-0002-0026, etc.
+s1812	5201, 5202, 5203, and 5204 series
+s1813	goBILDA 5000 Series 12V DC
+s1814	5000-0002-4008, etc.
+s1815	⟦0⟧⟦1⟧Modern Robotics⟦/1⟧⟦/0⟧⟦2⟧ / MATRIX 12V DC⟦/2⟧
+s1816	Discontinued
+s1817	⟦0⟧⟦1⟧NFR Products ⟦/1⟧⟦/0⟧⟦2⟧Yuksel 12V DC⟦/2⟧
+s1818	NFR-600-100-000
+s1819	⟦0⟧⟦1⟧REV Robotics⟦/1⟧⟦/0⟧⟦2⟧ HD Hex 12V DC⟦/2⟧
+s1820	REV-41-1291
+s1821	⟦0⟧⟦1⟧REV Robotics⟦/1⟧⟦/0⟧⟦2⟧ Core Hex 12V DC⟦/2⟧
+s1822	REV-41-1300
+s1823	⟦0⟧⟦1⟧Studica Robotics ⟦/1⟧⟦/0⟧⟦2⟧Maverick 12V DC⟦/2⟧
+s1824	⟦0⟧SWYFT Robotics⟦/0⟧ SWYFT Spike Motor
+s1825	SR-MOTOR-DC-01
+s1826	⟦0⟧TETRIX MAX⟦/0⟧ 12V DC
+s1827	Discontinued
+s1828	⟦0⟧⟦1⟧TETRIX MAX⟦/1⟧⟦/0⟧⟦2⟧ TorqueNADO 12V DC⟦/2⟧
+s1829	⟦0⟧⟦1⟧WATTOS ⟦/1⟧⟦/0⟧⟦2⟧Stingray 12V DC⟦/2⟧
+s1830	WDM12
+s1831	⟦0⟧Factory installed vibration and autofocus motors resident in COTS computing devices (e.g., rumble motor in a smartphone); can only be used as part of the device and cannot be removed and/or repurposed. These motors do not count toward the limit in ⟦/0⟧⟦1⟧R503⟦/1⟧⟦2⟧.⟦/2⟧
+s1832	⟦0⟧Motors integral to a COTS sensor (e.g., LIDAR, scanning sonar), provided the device is not modified except to facilitate mounting. These motors do not count toward the limit in ⟦/0⟧⟦1⟧R503⟦/1⟧⟦2⟧.⟦/2⟧
+s1833	Additional motors may be added to the legal motor list in future Competition Manual updates.
+s1834	Many legal gearmotors are sold with labeling based on the entire assembly. These motors may be used with or without the provided gearbox, and/or with any other compatible gearbox.
+s1835	⟦0⟧⟦/0⟧⟦1⟧R502 ⟦/1⟧⟦2⟧*Servo usage is restricted.⟦/2⟧ Servo actuators must meet the requirements below. Servos must be compatible with the power regulation devices they are ultimately used with (per ⟦3⟧R505⟦/3⟧) and may include additional servo position output interfaces (e.g., 4th Wire Position Feedback).
+s1836	Table 12‑2: Servo Requirements at 6V
+s1837	Actuator Class
+s1838	Mechanical Output Power
+s1839	Stall Current
+s1840	Example Servos (including, but not limited to)
+s1841	Servo
+s1842	≤ 8 watts @6V
+s1843	≤ 4 amps @6V
+s1844	AndyMark High-Torque Servos (am-4954)
+s1845	Axon MAX+ Servo (Axon MAX+)
+s1846	DSSERVO 35KG Coreless (DS3235MG)
+s1847	FEETECH Digital Servo (FT5335M-FB)
+s1848	goBILDA Dual Mode Servo (2000-0025-0003)
+s1849	REV Robotics Smart Servo (REV-41-1097)
+s1850	Studica Multi-Mode Smart Servo (75002)
+s1851	Linear Servo
+s1852	≤ 1 amp @6V
+s1853	Actuonix Micro Linear Servo (P8-100-252-12-R)
+s1854	Hitec Linear Servo (HLS12-3050-6V)
+s1855	Studica Linear Servo RC Actuator (75014)
+s1856	⟦0⟧Servo mechanical output power⟦/0⟧ is approximated by the following formula (using 6V data reported by manufacturer):
+s1857	⟦0⟧· ⟦/0⟧⟦1⟧Mechanical Output Power⟦/1⟧ = ⟦2⟧0.25⟦/2⟧ x (⟦3⟧Stall Torque⟦/3⟧ in ⟦4⟧N-m⟦/4⟧) x (⟦5⟧No Load Speed⟦/5⟧ in ⟦6⟧rad/s⟦/6⟧)
+s1858	⟦0⟧Servos must meet both requirements to be legal for use. Refer to the ⟦/0⟧⟦1⟧Inspection Quick Reference⟦/1⟧⟦2⟧ document for a list of servos that are pre-approved, otherwise teams must be able to provide documentation verifying servo specifications. Use the ⟦/2⟧⟦3⟧online calculator⟦/3⟧⟦4⟧ to verify output power compliance.⟦/4⟧
+s1859	If a manufacturer does not provide 6V specs, any specs for voltages that exceed 6V are allowed to be used.
+s1860	Stall current is the maximum stall current possible for the device at the specified voltage, regardless of any user or VENDOR adjustable software limits that may be available within the servo.
+s1861	It is important to ensure the voltage provided by the intended power regulation device is within the operating voltage range of the desired servo. The REV Control Hub and REV Expansion Hub provide 5V to servos, and the goBILDA Servo Power Injector, REV Servo Power Module, Studica Servo Power Block, and REV Servo Hub provide 6V to servos. While virtually all servos are compatible with 6V, servos with an operating voltage range of 6-8.4 DCV, for example, may not work properly when only provided 5V.
+s1862	⟦0⟧⟦/0⟧⟦1⟧R503 ⟦/1⟧⟦2⟧*ROBOTS are limited to a total of 8 motors and 8 servos.⟦/2⟧⟦3⟧ ⟦/3⟧A ROBOT may not have more than 8 motors and 8 servos from the allowable actuator lists per ⟦4⟧R501⟦/4⟧ and ⟦5⟧R502⟦/5⟧ for all MECHANISMS used in all configurations.
+s1863	If a ROBOT has multiple configurations used at a single event which use different MECHANISMS, the sum total of all motors and servos must be less than or equal to the limit set in this rule.
+s1864	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧R504 ⟦/2⟧⟦3⟧*Do not modify actuators unless explicitly allowed.⟦/3⟧ The integral mechanical and electrical system of any motor or servo must not be modified. Motors and servos used on the ROBOT shall not be modified in any way, except as follows:
+s1865	A. the mounting brackets and/or output shaft/interface (including pinion gears) may be modified to facilitate the physical connection of the motor to the ROBOT and actuated part,
+s1866	B. the electrical leads may be trimmed to length as necessary and connectors or splices to additional wiring may be added (per ⟦0⟧R609⟦/0⟧), and purely electrical enclosures can be substituted with functionally equivalent replacements,
+s1867	C. servos may be modified as specified by the manufacturer (e.g., setting soft limits or modification for continuous rotation),
+s1868	D. labeling may be applied to indicate device purpose, connectivity, functional performance, etc. as long as the team applied label does not obstruct the markings used to identify the device,
+s1869	E. insulation may be applied to electrical terminals,
+s1870	F. repairs, provided the original performance and specifications are unchanged, and
+s1871	G. maintenance recommended by the manufacturer.
+s1872	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧R505 ⟦/3⟧⟦4⟧*All actuators must be controlled and powered through approved devices.⟦/4⟧ With the exception of servos, fans, or motors integral to sensors of COTS computing devices permitted in ⟦5⟧R501⟦/5⟧, a⟦6⟧⟦7⟧ll actuator control signals must originate from a power regulating device. ⟦/7⟧⟦/6⟧The only power regulating devices for actuators permitted on the ROBOT are:
+s1873	Table 12‑3: Power Regulators and Limits
+s1874	Power Regulating Device
+s1875	Part Number
+s1876	Load Limit per Device
+s1877	goBILDA 6V Servo Power Injector
+s1878	2 Servos per Port
+s1879	REV Control Hub or Expansion Hub Motor Ports
+s1880	REV-31-1153 /⟦1/⟧ REV-31-1595
+s1881	2 Motors per Port
+s1882	REV Control Hub or Expansion Hub Servo Ports
+s1883	REV-31-1153 /⟦1/⟧ REV-31-1595
+s1884	2 Servos per Port
+s1885	REV Servo Power Module
+s1886	REV-11-1144
+s1887	2 Servos per Port
+s1888	REV Robotics Servo Hub
+s1889	REV-11-1855
+s1890	2 Servos per Port
+s1891	REV SPARKmini
+s1892	REV-31-1230
+s1893	2 Motors per Device
+s1894	Studica Servo Power Block
+s1895	2 Servos per Port
+s1896	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧R506 ⟦/2⟧⟦3⟧*The use of relays, electromagnets, and electrical solenoid actuators is prohibited.⟦/3⟧ The application of electromechanical actuation through the use of additional relays, electromagnets, electrical solenoid actuators, or related systems is prohibited. In addition, the use of relays and electromagnets is also prohibited.

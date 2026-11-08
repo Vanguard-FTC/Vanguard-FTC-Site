@@ -1,0 +1,93 @@
+s1454	REPEATED instances of a ROBOT CONTROLLING 5 or more SCORING ELEMENTS are likely to be perceived as STRATEGIC, even if the ROBOT has a “keep 4 and discard the rest” sorting mechanism.
+s1455	Examples of interaction with a SCORING ELEMENT that are not “CONTROL” and would not be a violation of this rule include, but are not limited to:
+s1456	D. ⟦0⟧“bulldozing” (inadvertent contact with a SCORING ELEMENT while in the path of the ROBOT moving about the FIELD)⟦/0⟧
+s1457	E. ⟦0⟧“deflecting” (being hit by a SCORING ELEMENT that bounces into or off a ROBOT), or⟦/0⟧
+s1458	F. ⟦0⟧SCORING ELEMENTS that have been LAUNCHED by a ROBOT that are no longer in contact with the ROBOT.⟦/0⟧
+s1459	⟦0⟧⟦/0⟧⟦1⟧⟦2⟧G408 ⟦/2⟧⟦/1⟧⟦3⟧Don’t CONTROL opponent NECTAR. ⟦/3⟧⟦4⟧⟦5⟧A ROBOT may not CONTROL the opponent’s NECTAR. ⟦/5⟧⟦/4⟧
+s1460	⟦0⟧⟦1⟧Violation: VERBAL WARNING. YELLOW CARD per MATCH⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧,⟦/3⟧⟦/2⟧⟦4⟧⟦5⟧ if ⟦/5⟧⟦/4⟧⟦6⟧⟦7⟧STRATEGIC⟦/7⟧⟦/6⟧⟦8⟧⟦9⟧. ⟦/9⟧⟦/8⟧
+s1461	REPEATED instances of a ROBOT CONTROLLING an opponent’s NECTAR are likely to be perceived as STRATEGIC, even if the ROBOT has a sorting mechanism that automatically discards opponent NECTAR by returning it to approximately its original state.
+s1462	⟦0⟧⟦/0⟧⟦1⟧G409 ⟦/1⟧⟦2⟧Don’t catch SCORING ELEMENTS.⟦/2⟧ A ROBOT may not catch or deflect a SCORING ELEMENT released by a TIPPED HIVE unless and until that SCORING ELEMENT contacts anything else besides that ROBOT.
+s1463	Violation: VERBAL WARNING. YELLOW CARD per MATCH, if STRATEGIC.
+s1464	The intent of this rule is for the POLLEN and NECTAR that spills out of a TIPPED HIVE to hit the TILE floor before it is collected by any ROBOT. It is not the intent to penalize accidental catches of SCORING ELEMENTS of ROBOTS that happen to be under a TIPPING HIVE.
+s1465	Teams are encouraged to design their ROBOTS such that they are unable to accidentally catch SCORING ELEMENTS. This could involve guards to prevent SCORING ELEMENTS from accidentally becoming stuck on top of the ROBOT. ROBOT features of this type will make it more obvious to REFEREES that the team is not employing catching as a strategy and avoid being determined to be in violation of this rule.
+s1466	Examples of actions that are likely to be perceived as STRATEGIC include, but are not limited to:
+s1467	A. ⟦0⟧A ROBOT REPEATEDLY is stopped underneath the HIVE waiting for a TIP to occur and collect SCORING ELEMENTS that fall. ⟦/0⟧
+s1468	B. ⟦0⟧A ROBOT has a MECHANISM at the top of their ROBOT that opens wide to accept SCORING ELEMENTS, and it is used to catch falling SCORING ELEMENTS as the ROBOT drives under the HIVE.⟦/0⟧
+s1469	C. ⟦0⟧A ROBOT REPEATEDLY positions itself so multiple SCORING ELEMENTS that fall from the HIVE hit the ROBOT and move with an advantageous vector before contacting anything else.⟦/0⟧
+s1470	Examples of actions that are likely to ⟦1⟧⟦2⟧not⟦/2⟧⟦/1⟧ be perceived as STRATEGIC include, but are not limited to:
+s1471	D. ⟦0⟧A ROBOT drives under the HIVE and has one or two POLLEN land on a flat surface of their ROBOT while driving by.⟦/0⟧
+s1472	E. ⟦0⟧A ROBOT that is no longer functioning remains stationary under the HIVE and has SCORING ELEMENTS collect on the top of their ROBOT.⟦/0⟧
+s1473	⟦0⟧⟦/0⟧⟦1⟧G410 ⟦/1⟧⟦2⟧NECTAR only goes into FLOWERS with one minute left⟦/2⟧⟦3⟧⟦4⟧.⟦/4⟧⟦/3⟧⟦5⟧ ⟦/5⟧ROBOTS may not enter NECTAR into the FLOWER scoring volume until the last 60 seconds of the MATCH.
+s1474	Violation: MAJOR FOUL per NECTAR.
+s1475	⟦0⟧See Section ⟦/0⟧⟦1⟧10.5.2⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧FLOWER Scoring Criteria⟦/3⟧⟦4⟧ for details on the FLOWER scoring volume. ⟦/4⟧
+s1476	The primary FIELD timer display is the cue to indicate when there is 60 seconds left in the MATCH.
+s1477	Teams are encouraged to make it obvious and unambiguous to REFEREES that they are not placing NECTAR into a FLOWER too early.
+s1478	⟦0⟧⟦/0⟧⟦1⟧G411 ⟦/1⟧⟦2⟧*Do not hoard SCORING ELEMENTS.⟦/2⟧⟦3⟧⟦4⟧ ⟦/4⟧⟦/3⟧⟦5⟧An ALLIANCE may not STRATEGICALLY prevent the opposing ALLIANCE from accessing⟦/5⟧ SCORING ELEMENTS.
+s1479	Violation: MAJOR FOUL and YELLOW CARD per MATCH.
+s1480	An ALLIANCE using their own NECTAR and/or POLLEN for scoring is not a violation of this rule.
+s1481	Corralling relevant SCORING ELEMENTS into a limited portion of the FIELD and/or actively positioning a ROBOT to prevent opposing ALLIANCE access is a violation of this rule. A GARDEN is not a protected zone.
+s1482	⟦0⟧⟦/0⟧⟦1⟧11.4.4 ROBOT⟦/1⟧
+s1483	⟦0⟧⟦/0⟧⟦1⟧G412 ⟦/1⟧⟦2⟧*ROBOTS must be under control.⟦/2⟧ A ROBOT must not pose an undue hazard to a human or an ARENA element during a MATCH in the following ways:
+s1484	A. the ROBOT or anything it CONTROLS, i.e., a SCORING ELEMENT, disrupts anything outside the FIELD or contacts a human that is outside the FIELD, or
+s1485	B. the ROBOT operation is dangerous.
+s1486	Violation: DISABLED and VERBAL WARNING. DISABLED and YELLOW CARD per MATCH, if subsequent violations occur during the event.
+s1487	Please be conscious of REFEREES and other FIELD STAFF working around the ARENA who may be in close proximity to your ROBOT.
+s1488	Examples of violations include, but are not limited to:
+s1489	A. ⟦0⟧wildly flailing outside the FIELD,⟦/0⟧
+s1490	B. ⟦0⟧knocking over a DRIVER STATION stand,⟦/0⟧
+s1491	C. ⟦0⟧moving/damaging the FIELD timer display, or⟦/0⟧
+s1492	D. ⟦0⟧contacting FIELD STAFF or a DRIVE TEAM member outside the FIELD.⟦/0⟧
+s1493	ROBOT contact with ARENA elements outside the FIELD, such as a DRIVER STATION stand, the floor outside the FIELD, or the FIELD wall perimeter outside of the FIELD is not a violation of this rule.
+s1494	⟦0⟧⟦/0⟧⟦1⟧⟦2⟧G413 ⟦/2⟧⟦/1⟧⟦3⟧*ROBOTS must stop when instructed.⟦/3⟧⟦4⟧⟦5⟧ If a team is instructed to DISABLE their ROBOT by a REFEREE per ⟦/5⟧⟦/4⟧⟦6⟧T402⟦/6⟧⟦7⟧⟦8⟧, a DRIVE TEAM member must press the (⟦/8⟧⟦/7⟧⟦9⟧⟦10⟧■⟦/10⟧⟦/9⟧⟦11⟧⟦12⟧) stop button on the DRIVER STATION app and set down their controllers.⟦/12⟧⟦/11⟧
+s1495	Violation: VERBAL WARNING. RED CARD, if STRATEGIC.
+s1496	⟦0⟧⟦/0⟧⟦1⟧G414 ⟦/1⟧⟦2⟧*ROBOTS must be identifiable. ⟦/2⟧A ROBOT’S team number and ALLIANCE color must not become indeterminate, as perceived by the Head REFEREE.
+s1497	Violation: VERBAL WARNING. YELLOW CARD, if STRATEGIC.
+s1498	Teams are encouraged to robustly affix their ROBOT SIGNS to their ROBOT in highly visible locations such that they do not easily fall off or become obscured during normal gameplay.
+s1499	Corrective action such as revising ROBOT SIGNS may be requested before the ROBOT participates in a subsequent MATCH.
+s1500	⟦0⟧⟦/0⟧⟦1⟧G415 ⟦/1⟧⟦2⟧*Watch your ARENA interaction.⟦/2⟧ A ROBOT is prohibited from the following interactions with an ARENA element, except for SCORING ELEMENTS:
+s1501	A. grabbing,
+s1502	B. grasping,
+s1503	C. attaching to,
+s1504	D. becoming entangled with, or
+s1505	E. suspending from.
+s1506	Violation: VERBAL WARNING. YELLOW CARD per MATCH, if STRATEGIC. DISABLED if the Head REFEREE perceives that damage is likely.
+s1507	Corrective action (such as removing the offending MECHANISM, and/or re-inspection) may be required before the ROBOT will be allowed to compete in subsequent MATCHES.
+s1508	ROBOTS with a concave shape that wraps partially around a FLOWER for purposes such as to aid in alignment would not be in violation of this rule.
+s1509	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧G416 ⟦/5⟧⟦6⟧ROBOTS have construction limits.⟦/6⟧ ROBOTS may not violate the limits outlined in ⟦7⟧R105⟦/7⟧ during the MATCH. ROBOTS may not:
+s1510	A. expand such that they exceed the expansion limits noted in ⟦0⟧R105⟦/0⟧⟦1⟧.⟦/1⟧⟦2⟧A⟦/2⟧ or ⟦3⟧R105⟦/3⟧⟦4⟧.⟦/4⟧⟦5⟧B⟦/5⟧, or
+s1511	B. deliberately detach parts per ⟦0⟧R105⟦/0⟧⟦1⟧.⟦/1⟧⟦2⟧C⟦/2⟧.
+s1512	Violation: VERBAL WARNING. MAJOR FOUL per instance, if STRATEGIC.
+s1513	⟦0⟧A ROBOT is allowed to have parts that move after the start of a MATCH that extend outside its STARTING CONFIGURATION, but these extensions must stay within the expansion limit and not deliberately detach COMPONENTS as described in ⟦/0⟧⟦1⟧R105⟦/1⟧⟦2⟧.⟦/2⟧
+s1514	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧G417 ⟦/3⟧⟦4⟧ROBOTS may not meddle with the HIVE Structure.⟦/4⟧⟦5⟧⟦6⟧ ⟦/6⟧⟦/5⟧ROBOTS may not manipulate the motion of the HIVE in any way other than by LAUNCHING SCORING ELEMENTS into an upward-facing CELL.
+s1515	Violation: VERBAL WARNING. MAJOR FOUL and YELLOW CARD per MATCH, if STRATEGIC.
+s1516	HIVES are designed and intended to only have a TIP induced by LAUNCHING POLLEN and NECTAR into an upward-facing CELL. Any other interaction with the HIVE that causes or could cause or impeding a TIP is a violation of this rule.
+s1517	Examples of ROBOT actions that are likely to be perceived as STRATEGIC include, but are not limited to:
+s1518	A. ⟦0⟧ramming into the HIVE frame at high-speed,⟦/0⟧
+s1519	B. ⟦0⟧ramming into the HIVE frame multiple times in a short time period,⟦/0⟧
+s1520	C. ⟦0⟧deliberately LAUNCHING NECTAR or POLLEN into the external bottom, sides, or top faces of a CELL,⟦/0⟧
+s1521	D. ⟦0⟧impeding the TIP of an opponent’s HIVE by LAUNCHING NECTAR or POLLEN at it,⟦/0⟧
+s1522	E. ⟦0⟧contacting a HIVE directly or transitively through a CONTROLLED SCORING ELEMENT, or⟦/0⟧
+s1523	F. ⟦0⟧actions that are REPEATED after a warning has been given.⟦/0⟧
+s1524	Examples of actions that are likely to ⟦1⟧⟦2⟧not⟦/2⟧⟦/1⟧ be perceived as STRATEGIC include, but are not limited to:
+s1525	G. ⟦0⟧A ROBOT accidentally bumping into a HIVE frame while attempting to pick up POLLEN, or⟦/0⟧
+s1526	H. ⟦0⟧A ROBOT attempting to LAUNCH POLLEN or NECTAR into the upward-facing CELL and missing in a way that hits the bottom, sides, or top of the CELL.⟦/0⟧
+s1527	⟦0⟧⟦/0⟧⟦1⟧G418 ⟦/1⟧⟦2⟧ROBOTS may not meddle with FLOWERS.⟦/2⟧⟦3⟧⟦4⟧ ⟦/4⟧⟦/3⟧ROBOTS may not enter SCORING ELEMENTS into or remove SCORING ELEMENTS from a FLOWER except:
+s1528	A. only enter POLLEN and NECTAR into the top of a FLOWER, and
+s1529	B. only remove POLLEN from the bottom of a FLOWER.
+s1530	Violation: VERBAL WARNING. MAJOR FOUL and YELLOW CARD per MATCH, if STRATEGIC.
+s1531	The FLOWERS are designed and intended to only allow POLLEN and NECTAR to enter through the top of the top ring and only allow POLLEN (not NECTAR) to be removed from the bottom of the middle ring. Any other actions to score or remove SCORING ELEMENTS from the FLOWER are considered a violation of this rule.
+s1532	The intent is not to disallow ROBOTS from contacting the FLOWER or interactions that occur when attempting allowed scoring actions.
+s1533	Examples of ROBOT actions that are not violations of this rule include:
+s1534	A. ⟦0⟧contacting the FLOWER while attempting to enter or remove SCORING ELEMENTS,⟦/0⟧
+s1535	B. ⟦0⟧contacting POLLEN or NECTAR scored in a FLOWER while attempting to score, or⟦/0⟧
+s1536	C. ⟦0⟧driving into a FLOWER and contacting the POLLEN or NECTAR inside it.⟦/0⟧
+s1537	Examples of actions that are likely to be perceived as STRATEGIC include, but are not limited to:
+s1538	D. ⟦0⟧A ROBOT attempts to pull POLLEN through the side of the FLOWER,⟦/0⟧
+s1539	E. ⟦0⟧A ROBOT grabs onto the FLOWER and shakes it,⟦/0⟧
+s1540	F. ⟦0⟧A ROBOT forces NECTAR out of the middle ring with a MECHANISM,⟦/0⟧
+s1541	G. ⟦0⟧A ROBOT deliberately drives into the perimeter wall at high-speed causing a SCORING ELEMENT to fall out of a FLOWER, or⟦/0⟧
+s1542	H. ⟦0⟧A ROBOT deliberately holds a NECTAR up to the side of the FLOWER pipes such that it meets the FLOWER scoring criteria. ⟦/0⟧
+s1543	Examples of actions that are likely to ⟦1⟧⟦2⟧not⟦/2⟧⟦/1⟧ be perceived as STRATEGIC include but are not limited to:
+s1544	I. ⟦0⟧A ROBOT drives into a FLOWER while attempting to pick up POLLEN off the TILES and causes a POLLEN to fall out the top of a FLOWER, or⟦/0⟧
+s1545	J. ⟦0⟧A ROBOT knocks out a scored POLLEN while attempting to score another POLLEN. ⟦/0⟧
+s1546	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧11.4.5 Opponent Interaction

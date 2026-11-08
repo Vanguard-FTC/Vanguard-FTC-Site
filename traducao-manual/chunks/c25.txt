@@ -1,0 +1,68 @@
+s2162	⟦0⟧As much as possible, the STUDENT should be an active participant in the conversation. Teams should not record interactions without consent (see ⟦/0⟧⟦1⟧E116⟦/1⟧⟦2⟧).⟦/2⟧
+s2163	⟦0⟧⟦/0⟧⟦1⟧T302 ⟦/1⟧⟦2⟧*MATCH questions must be timely. ⟦/2⟧If a team would like to clarify or dispute the results of a MATCH using the process per ⟦3⟧T301⟦/3⟧ they must present their STUDENT representative in the Question Box in a timely manner as outlined below:
+s2164	A. questions regarding events in a Qualification MATCH may be asked at any time before ALLIANCE selection begins, or within 5 minutes of the last Qualification MATCH at events without Playoff MATCHES, and
+s2165	B. questions regarding events in a Playoff MATCH must be asked before the start of the next Playoff round or, for the last Playoff MATCH, immediately following the MATCH.
+s2166	Please keep in mind that our REFEREES are human, and the more time has passed between the MATCH in question, the less likely they are to remember the details of a specific MATCH. It is best to ask for clarification or to dispute the results of a MATCH within 3 MATCHES.
+s2167	Teams are encouraged to ask questions as soon as possible. Questions asked more than 5 minutes after the last Playoff MATCH will likely not be addressed.
+s2168	⟦0⟧⟦/0⟧⟦1⟧T303 ⟦/1⟧⟦2⟧*Keep questions factual and constructive. ⟦/2⟧Teams coming to the Question Box should think through their requests in advance and are encouraged to have relevant references to rules or the ⟦3⟧Q&A website⟦/3⟧ available to aid discussions.
+s2169	There should be no negative implications for teams using the Question Box to advocate for themselves, but everyone should keep in mind it can be a high stress situation for team youth and for volunteers alike and it is important to remember ⟦1⟧⟦2⟧FIRST⟦/2⟧ Core Values⟦/1⟧ during these discussions. ⟦3/⟧ At some events, MATCH results may be available on the ⟦4⟧FTC-Events⟦/4⟧ page.
+s2170	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧⟦6⟧⟦/6⟧⟦7⟧⟦/7⟧⟦8⟧⟦/8⟧⟦9⟧⟦/9⟧⟦10⟧⟦/10⟧⟦11⟧⟦/11⟧⟦12⟧13.4 ⟦/12⟧General Tournament Rules⟦13⟧⟦/13⟧⟦14⟧⟦/14⟧
+s2171	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧T401 ⟦/2⟧⟦3⟧*The Head REFEREE has ultimate and final authority regarding gameplay during the event.⟦/3⟧⟦4⟧⟦5⟧ The Head REFEREE may receive ⟦/5⟧⟦/4⟧input from additional sources, e.g., ⟦6⟧FIRST⟦/6⟧ personnel, FTA, Event Director, Program Delivery Partner, and other event staff. The Head REFEREE rulings are final. No event staff, including the Head REFEREE, will review video, photos, artistic renderings, etc. of any MATCH, from any source, under any circumstances.
+s2172	A. When issuing a RED CARD or YELLOW CARD the Head REFEREE must record the rule violation.
+s2173	B. Event Directors and Program Delivery Partners may not overrule a Head REFEREE decision.
+s2174	C. ⟦0⟧Framework of Behaviors⟦/0⟧ and⟦1⟧ ⟦/1⟧⟦2⟧Competition Integrity Contract (CIC)⟦/2⟧ violations may involve escalation beyond the Head REFEREE’S initial ruling.
+s2175	D. Every Qualification and Playoff MATCH must be observed by a certified Head REFEREE. Head REFEREES may only watch 1 MATCH at a time.
+s2176	Rules in this manual are written for ⟦2⟧human⟦/2⟧ Head REFEREES to enforce. Some have clear unambiguous criteria which can be easily checked, but other rules will rely on human judgement. Head REFEREES are asked to make the best call they can in the moment with what they or other REFEREES observed during the MATCH.
+s2177	When there is an ambiguous situation or controversial call it is human instinct to wonder what was the “right call” or “what-if...” – for the purposes of ⟦2⟧FIRST⟦/2⟧ Tech Challenge gameplay, the right call is the one that was made in good faith by the Head REFEREE with the information they had available at the time.
+s2178	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦4⟧T402 ⟦/4⟧⟦/3⟧⟦5⟧*Only REFEREES can declare a ROBOT DISABLED. ⟦/5⟧A ROBOT is only considered DISABLED once a REFEREE has declared the ROBOT DISABLED during a MATCH. A ROBOT may only be DISABLED as a consequence of a rule violation. If a REFEREE DISABLES a ROBOT, the REFEREE may instruct the team to drive the ROBOT to a specific neutral position on the FIELD before DISABLING.
+s2179	⟦0⟧⟦/0⟧⟦1⟧⟦2⟧T403 ⟦/2⟧⟦/1⟧⟦3⟧*The Event Director has ultimate authority regarding all non-gameplay decisions during an event.⟦/3⟧⟦4⟧⟦5⟧ The Competition Manual is intended to provide a set of rules for the competition including gameplay and judging but it is not an exhaustive compilation of guidelines for running a ⟦6⟧FIRST⟦/6⟧ Tech Challenge event. Issues outside of specific gameplay rules which are under the authority of the Head REFEREE per ⟦/5⟧⟦/4⟧⟦7⟧T401⟦/7⟧⟦8⟧⟦9⟧ are at the discretion of the Event Director such as, but not limited to:⟦/9⟧⟦/8⟧
+s2180	A. venue access as published via the public schedule,
+s2181	B. pit sizes and utility access,
+s2182	C. health and safety,
+s2183	D. team registration and competition eligibility, and
+s2184	E. team conduct away from the ARENA.
+s2185	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧T404 ⟦/2⟧⟦3⟧*All competition FIELDS at an event must be consistent with each other. ⟦/3⟧Events which have multiple competition FIELDS (as indicated by the MATCH schedule Figure 13‑1) will be consistent with each other. Examples of set-up which must be considered includes, but is not limited to:
+s2186	A. elevation of the FIELD off the floor,
+s2187	B. FIELD display monitors,
+s2188	C. FIELD perimeter type, and
+s2189	D. FIELD TILE size and type.
+s2190	Other FIELDS (e.g., practice FIELDS) at the event do not need to be consistent with each other or competition FIELDS.
+s2191	⟦0⟧⟦/0⟧⟦1⟧T405 ⟦/1⟧⟦2⟧*During optional FIELD measurement and calibration time(s) ROBOTS may not practice on the FIELD.⟦/2⟧ During any period when the ARENA is open for measurement, ROBOTS may run OpModes but cannot move the ROBOT (e.g., CHASSIS) under its own power around the FIELD.
+s2192	Violation: VERBAL WARNING. YELLOW CARD if subsequent violations occur during the event.
+s2193	At the discretion of the Event Director at the event, the ARENA may be open for at least 30 minutes prior to the start of Qualification MATCHES, during which time teams may survey and/or measure the ARENA and bring ROBOTS on the FIELD to perform sensor calibration. The specific time that the FIELD is open will be communicated to teams at the event. Teams may bring specific questions or comments to the Head REFEREE or FTA.
+s2194	Allowed activities during ROBOT calibration and measurement time(s) include:
+s2195	A. ⟦0⟧ROBOT may be powered on,⟦/0⟧
+s2196	B. ⟦0⟧team may initialize an OpMode,⟦/0⟧
+s2197	C. ⟦0⟧ROBOT may operate or extend MECHANISMS outside the ROBOT CHASSIS,⟦/0⟧
+s2198	D. ⟦0⟧ROBOT may CONTROL SCORING ELEMENTS,⟦/0⟧
+s2199	E. ⟦0⟧ROBOT may be connected to programming laptops and other devices,⟦/0⟧
+s2200	F. ⟦0⟧team members may be on the FIELD with the ROBOT,⟦/0⟧
+s2201	G. ⟦0⟧team members may manually move the ROBOT to multiple positions around the FIELD (e.g., without driving the ROBOT under its own power), and⟦/0⟧
+s2202	H. ⟦0⟧team members or ROBOTS may measure the FIELD with tools (e.g., tape measures) or sensors.⟦/0⟧
+s2203	Activities not allowed during ROBOT calibration and measurement time(s) include:
+s2204	I. ⟦0⟧ROBOT CHASSIS may not move under its own power around the FIELD (i.e., “driving” as part of AUTO or TELEOP),⟦/0⟧
+s2205	J. ⟦0⟧ROBOT may not LAUNCH SCORING ELEMENTS, and⟦/0⟧
+s2206	K. ⟦0⟧team members may not practice (e.g., repetitive actions by a team member in the ALLIANCE AREA placing SCORING ELEMENTS). ⟦/0⟧
+s2207	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧T406 ⟦/3⟧⟦4⟧*No team timeouts, but MATCHES have breaks.⟦/4⟧ Teams playing in back-to-back MATCHES will have a minimum break between their MATCHES as follows:
+s2208	A. In Qualification MATCHES, each team will have a minimum of 5 minutes from when the MATCH results are posted from their previous MATCH until the expected start time of their next MATCH for the purpose of ⟦0⟧G301⟦/0⟧.
+s2209	B. In Playoff MATCHES, each team will have a minimum of 8 minutes from when MATCH results are posted from their previous MATCH until the expected start time of their next MATCH for the purpose of ⟦0⟧G301⟦/0⟧.
+s2210	If a MATCH’S results will not be posted, (e.g., due to an immediate replay) each team will be afforded a reasonable time to reset at the Head REFEREE’S discretion.
+s2211	These breaks are automatically tracked by the ⟦1⟧FIRST⟦/1⟧ event management system. FIELD STAFF will communicate expected start times with teams as appropriate. Teams may ask the FTA, Head REFEREE, or their designee about the timing of affected MATCHES.
+s2212	⟦0⟧⟦/0⟧⟦1⟧T407 ⟦/1⟧⟦2⟧*MATCHES are played in order. ⟦/2⟧Qualification and Playoff MATCHES will be played in numerical order except for extenuating circumstances at the discretion of the Head REFEREE in consultation with the Event Director. All Qualification MATCHES must be played before the start of ALLIANCE selection and all Playoff MATCHES for the current round must be played before the start of the next round. The timing of MATCHES played out of order or replayed MATCHES will be communicated by FIELD STAFF or event personnel to the teams involved.
+s2213	Extenuating circumstances that might lead to a MATCH being played out of order include, but are not limited to:
+s2214	A. ⟦0⟧A MATCH replay occurring at the next available break, end of day, at the conclusion of other Qualification MATCHES, or the end of the current playoff round.⟦/0⟧
+s2215	B. ⟦0⟧A lengthy repair on one competition FIELD preventing MATCH play from continuing on that FIELD, but other FIELDS may continue to be used. ⟦/0⟧
+s2216	C. ⟦0⟧Urgent and/or extenuating circumstances related to a team. ⟦/0⟧
+s2217	⟦0⟧The intent of this rule is to ensure that MATCHES are played in an orderly fashion while providing flexibility for unforeseen circumstances. Regardless of play order, ⟦/0⟧⟦1⟧T406⟦/1⟧⟦2⟧ and ⟦/2⟧⟦3⟧G301⟦/3⟧⟦4⟧ remain in effect.⟦/4⟧
+s2218	⟦0⟧⟦/0⟧⟦1⟧13.5 Practice MATCHES⟦/1⟧
+s2219	Practice MATCHES are played before Qualification MATCHES, at events that have them. The Practice MATCH schedule is available as soon as possible but no later than the start of Practice MATCHES. Schedules may also be available on the ⟦0⟧FTC-Events⟦/0⟧ site.
+s2220	Practice MATCHES are randomly assigned, and teams may not switch scheduled Practice MATCHES. Each team is assigned an equal number of Practice MATCHES unless the number of teams multiplied by number of Practice MATCHES is not divisible by 4. In this case, the event management software randomly selects some teams to play an extra Practice MATCH.
+s2221	Practice MATCHES are not guaranteed at all events due to schedule constraints.
+s2222	13.5.1 Filler Line
+s2223	A Filler Line is used to fill open slots at events that employ scheduled Practice MATCHES or all slots at events with an open Practice MATCH schedule. Teams from the Filler Line are used on a first come, first served basis to fill empty spots in Practice MATCHES left by other teams that do not report to Queueing. The number of teams in the Filler Line is dependent upon space at venues.
+s2224	Only teams that meet all criteria below qualify for the Filler Line:
+s2225	A. ROBOTS in the Filler Line must have passed inspection (this requirement may be waived for events with open Practice MATCH schedules),
+s2226	B. DRIVE TEAMS must join the Filler Line with their ROBOT,
+s2227	C. teams may not work on their ROBOT while in the Filler Line,
+s2228	D. teams may not occupy more than 1 spot in the Filler Line, and
+s2229	E. if a team is queued for their Practice MATCH, they may not also join the Filler Line.

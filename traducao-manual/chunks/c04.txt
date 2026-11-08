@@ -1,0 +1,66 @@
+s0303	⟦0⟧⟦/0⟧⟦1⟧⟦2⟧I103 ⟦/2⟧⟦/1⟧⟦3⟧*A responsible adult must be present for the whole event. ⟦/3⟧At least 1, preferably 2, adult(s) responsible for the STUDENT team members must be present at all times during the event.⟦4⟧⟦5⟧ ⟦/5⟧⟦/4⟧⟦6⟧⟦7⟧Responsible adult(s) are recommended to be listed on the team roster.⟦/7⟧⟦8⟧⟦/8⟧⟦9⟧ ⟦/9⟧⟦/6⟧
+s0304	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧3.2 Awards Eligibility Rules⟦/2⟧
+s0305	⟦0⟧To be eligible for Team Judged Awards, a team must participate in an Initial Interview (⟦/0⟧⟦1⟧A203⟦/1⟧⟦2⟧). For some awards, submitting a PORTFOLIO (⟦/2⟧⟦3⟧A201⟦/3⟧⟦4⟧) is also required.⟦/4⟧
+s0306	⟦0⟧Teams competing in multiple Qualifying or League Tournaments, or at events outside of their HOME REGION, are subject to ⟦/0⟧⟦1⟧A213⟦/1⟧⟦2⟧ and ⟦/2⟧⟦3⟧A214⟦/3⟧⟦4⟧. Details on a HOME REGION can be found in Section ⟦/4⟧⟦5⟧4⟦/5⟧⟦6⟧ ⟦/6⟧⟦7⟧Advancement⟦/7⟧⟦8⟧.⟦/8⟧
+s0307	⟦0⟧Complete details and rules about ⟦1⟧FIRST⟦/1⟧ Tech Challenge awards can be found in Section ⟦/0⟧⟦2⟧6⟦/2⟧⟦3⟧ ⟦/3⟧⟦4⟧Awards (A)⟦/4⟧⟦5⟧.⟦/5⟧
+s0308	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧3.3 MATCH Eligibility Rules⟦/4⟧
+s0309	Prior to participating in Qualification or Playoff MATCHES, teams are required to pass a ROBOT inspection facilitated by INSPECTOR volunteers. The goal of inspection is to ensure the team’s ROBOT meets baseline safety and competition requirements before engaging in MATCH play.
+s0310	Some events may offer scheduled Practice MATCHES. Teams are permitted to participate in scheduled Practice MATCHES before passing inspection, but they may not participate in unscheduled or “filler line” Practice MATCHES before passing inspection. Teams are responsible for ensuring their ROBOTS are safe and will not damage the playing FIELD.
+s0311	The FTA, LRI, or Head REFEREE may prohibit a team from participating in a Practice MATCH if they determine that their ROBOT is unsafe or likely to damage the playing FIELD.
+s0312	3.3.1 Inspection
+s0313	Inspection is often one of the first activities a team experiences upon arrival at an event. Some events may assign specific inspection time slots for teams, and others may schedule a general span of time for teams to complete inspection. Teams are responsible for completing inspection within the scheduled time.
+s0314	During inspection, student team members present their ROBOT, all COMPONENTS that will be used by that ROBOT, and their OPERATOR CONSOLE. INSPECTORS will review baseline safety and competition requirements with the team. If any requirements are not met, INSPECTORS will work with the team to find a resolution. The ⟦0⟧Lead ROBOT INSPECTOR ⟦/0⟧(LRI) has the final authority on a team’s eligibility to participate in Qualification and Playoff MATCHES on matters related to ROBOT construction.
+s0315	Teams may power on and enable the ROBOT during inspection to demonstrate adherence to ROBOT construction rules. Team members should let INSPECTORS know if the ROBOT must be powered on and/or enabled to meet any inspection criteria. Team members should also inform INSPECTORS if the ROBOT, in its inspection configuration, has any stored energy (for example, springs stretched) and collaborate with each other to ensure a safe inspection experience.
+s0316	⟦0⟧Inspection is not comprehensive. Teams are expected to adhere to the spirit of the rules in Section ⟦/0⟧⟦1⟧12⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧ROBOT Construction Rules (R)⟦/3⟧⟦4⟧,⟦/4⟧⟦5⟧ even if INSPECTORS do not check every part of the ROBOT. Teams that STRATEGICALLY circumvent ROBOT construction rules are not adhering to the Competition Integrity Contract (CIC) and may be subject to mitigation.⟦/5⟧
+s0317	An ⟦1⟧Inspection Checklist⟦/1⟧ is available to help teams self-inspect their ROBOT. Teams are strongly encouraged to self-inspect before every event.
+s0318	Inspection may not happen all at once if, for example, a team needs to take a break to resolve a ROBOT construction issue or participate in a scheduled Practice MATCH. The process may involve multiple inspection volunteers. Either the INSPECTOR or the team may request assistance from the LRI.
+s0319	⟦0⟧⟦/0⟧⟦1⟧I301 ⟦/1⟧⟦2⟧*Bring the complete ROBOT and supporting equipment to inspection.⟦/2⟧ Teams should present the ROBOT and OPERATOR CONSOLE with all COMPONENTS, including decorative parts, that will be used during MATCHES. Teams are not required to use all inspected COMPONENTS in every MATCH, but they should not add any un-inspected COMPONENTS to the ROBOT without re-inspection. Teams should demonstrate to INSPECTORS all ways the ROBOT will be configured for a MATCH.
+s0320	⟦0⟧⟦/0⟧⟦1⟧I302 ⟦/1⟧⟦2⟧*Certain limits apply to all configurations.⟦/2⟧ The total number of electronics (motors, servos, Android Devices, etc.) used to build all MECHANISMS and base ROBOT, whether they are used on the ROBOT at the same time or not, may not exceed the constraints specified in Section ⟦3⟧12⟦/3⟧⟦4⟧ ⟦/4⟧⟦5⟧ROBOT Construction Rules (R)⟦/5⟧.
+s0321	3.3.2 Re-Inspection
+s0322	Teams may make changes to their ROBOT during an event after they complete their initial inspection. With some exceptions, all changes to the ROBOT must be re-inspected before the team can participate in further Qualification or Playoff MATCHES. During re-inspection, teams demonstrate the changes to INSPECTORS and make any additional changes necessary to meet baseline safety and competition guidelines. Re-inspection may also be requested by the Head REFEREE or ⟦0⟧FIRST⟦/0⟧ Technical Advisor (FTA) if they observe potentially unsafe or disallowed ROBOT construction.
+s0323	Teams are encouraged to seek the advice and assistance of Team Support volunteers when making a change to their ROBOT. Attempting to participate in a MATCH with a ROBOT that does not meet the rules in Section ⟦0⟧12⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧ROBOT Construction Rules (R)⟦/2⟧ may cause unnecessary delays and stress for teams. Deliberately making changes to a ROBOT after inspection to gain a competitive advantage without re-inspection is against the spirit of the competition.
+s0324	⟦0⟧⟦/0⟧⟦1⟧I303 ⟦/1⟧⟦2⟧*Request re-inspection for most changes to the ROBOT.⟦/2⟧ A team should request re-inspection when it makes changes to a ROBOT that may cause it to not comply with safety and competition guidelines or when requested by the Head REFEREE or FTA.
+s0325	Re-inspection is generally ⟦0⟧not⟦/0⟧ necessary for the scenarios listed below (unless they result in a significant change to the ROBOT’S size, legality, or safety):
+s0326	A. addition, relocation, or removal of fasteners (e.g., cable ties, tape, and rivets),
+s0327	B. addition, relocation, or removal of labeling or marking,
+s0328	C. addition, relocation, or replacement of the team SIGN,
+s0329	D. revision of ROBOT code,
+s0330	E. replacement of a COMPONENT with an identical COMPONENT,
+s0331	F. replacement of a MECHANISM with an identical MECHANISM (size, weight, material), and
+s0332	G. additions, removals, or reconfiguration of ROBOT with a subset of MECHANISMS already inspected.
+s0333	All teams should make a good faith effort to comply with ROBOT construction rules if they make changes to their ROBOT during an event.
+s0334	If a team is unclear if reinspection is required, they should confirm with the LRI or FIELD STAFF. For example, if a team is unsure if reassembling a part changes their ROBOT’S size, they should have it checked.
+s0335	⟦0⟧I304 ⟦/0⟧⟦1⟧*Do not exploit re-inspection.⟦/1⟧ Teams may not use the re-inspection process to circumvent any other rules.
+s0336	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧4 Advancement⟦/5⟧
+s0337	Teams ⟦0⟧are only eligible to advance from events⟦/0⟧ within their HOME REGION. Teams may be invited to compete at tournaments outside of their HOME REGION; however, they are not advancement eligible from these out-of-region events.
+s0338	Teams can check what HOME REGION they are assigned to on the ⟦0⟧FTC-Events⟦/0⟧ page by looking up their team number. Teams in regions that do not have a local Program Delivery Partner, or who are geographically isolated within their HOME REGION can work with ⟦1⟧FIRST⟦/1⟧ by emailing ⟦2⟧customerservice@firstinspires.org⟦/2⟧ to get reassigned to another more accessible region once per season for advancement.
+s0339	Figure 4‑1: Region assignment display on FTC-Events page
+s0340	⟦0⟧FIRST⟦/0⟧ Tech Challenge tournament progression is shown in Figure 4‑2. Teams can advance from any of their first three entry-level events: Qualifying Tournaments (QT) and League Tournaments (LT). Teams may only participate in one League per season. See Section ⟦1⟧14⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧League Play Tournaments (L)⟦/3⟧ for more details on League Tournaments. Teams may participate in more than three entry-level events but are eligible to advance from the first three chronological events.
+s0341	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧Figure ⟦/2⟧4‑2: Tournament Advancement Structure
+s0342	1,3,5 – Optional event, not offered in all regions.
+s0343	2 – All teams within a League play in the League Tournament.
+s0344	4 – Can also be called State, Region, or Country Championship.
+s0345	6 – Only in select new or emerging regions.
+s0346	Teams may advance from their region’s Qualifying Tournaments or League Tournament to either a Super Qualifying Tournament (SQT) or directly to a Regional Championship (RCMP). Super Qualifying Tournaments (SQT) are an optional advancement level often used in large regions which need more levels of competition. A team may only participate in one Super Qualifying Tournament (SQT).
+s0347	Teams in a few specific geographical regions may advance from a Pilot event - the highest tier of competition within a new or emerging region - to ⟦0⟧FIRST⟦/0⟧ Championship and/or a ⟦1⟧FIRST⟦/1⟧ Premier Event.
+s0348	The local Program Delivery Partner determines the advancement numbers from each tournament in their region, up to a Regional Championship. ⟦0⟧FIRST⟦/0⟧ Staff determine the advancement from each Regional Championship to ⟦1⟧FIRST ⟦/1⟧Championship and ⟦2⟧FIRST⟦/2⟧ Premier Events.
+s0349	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧4.1 Advancement Points Calculation⟦/4⟧
+s0350	For each advancing event, teams will be ranked based on the advancement points they earn through their overall performance at that individual event. The top ranked teams not already advanced will qualify for the next level of play, up to the total allocated advancement spots for that event. Advancement points are awarded to teams based on Table 4‑1 below.
+s0351	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧Table ⟦/3⟧4‑1: Advancement Point Assignment
+s0352	Category
+s0353	Advancement Points Earned
+s0354	Qualification Phase Performance
+s0355	Normal distribution of points from 16 to 2 across the highest ranked team to the lowest based on the equation in Section ⟦0⟧⟦1⟧4.1.1⟦/1⟧⟦/0⟧⟦2⟧ ⟦/2⟧⟦3⟧Qualification Phase Performance⟦/3⟧. (This will result in a minimum of 2 points and a maximum of 16 points being awarded for Qualification phase performance.)
+s0356	ALLIANCE lead
+s0357	Equal to 21 minus the ALLIANCE lead number (e.g., 18 points for ALLIANCE #3 lead)
+s0358	Draft Order Acceptance
+s0359	Equal to 21 minus the Draft Order Acceptance number (e.g., 18 points for the team which accepts the third draft position)
+s0360	Playoff Advancement
+s0361	40 points for 1⟦0⟧st⟦/0⟧ Place (Winners)
+s0362	20 points for 2⟦0⟧nd⟦/0⟧ Place (Finalists)
+s0363	10 points for 3⟦0⟧rd⟦/0⟧ Place
+s0364	5 points for 4⟦0⟧th⟦/0⟧ Place
+s0365	(See Section ⟦0⟧13.8 Dual Division Events⟦/0⟧ for modifications to this section)
+s0366	Team Judged Awards
+s0367	60 points for Inspire Award 1⟦0⟧st⟦/0⟧ Place
+s0368	30 points for Inspire Award 2⟦0⟧nd⟦/0⟧ Place

@@ -1,0 +1,104 @@
+s0680 | Prêmio Inspire
+s0681 | 1⟦0⟧º⟦/0⟧ Lugar
+s0682 | 1⟦0⟧º⟦/0⟧ Lugar
+s0683 | 2⟦0⟧º⟦/0⟧ Lugar
+s0684 | 1⟦0⟧º⟦/0⟧ Lugar
+s0685 | 2⟦0⟧º⟦/0⟧ Lugar
+s0686 | 3⟦0⟧º⟦/0⟧ Lugar
+s0687 | 1⟦0⟧º⟦/0⟧ Lugar
+s0688 | 2⟦0⟧º⟦/0⟧ Lugar
+s0689 | 3⟦0⟧º⟦/0⟧ Lugar
+s0690 | Prêmio Think
+s0691 | 1⟦0⟧º⟦/0⟧ Lugar
+s0692 | 1⟦0⟧º⟦/0⟧ Lugar
+s0693 | 1⟦0⟧º⟦/0⟧ Lugar
+s0694 | 2⟦0⟧º⟦/0⟧ Lugar
+s0695 | 1⟦0⟧º⟦/0⟧ Lugar
+s0696 | 2⟦0⟧º⟦/0⟧ Lugar
+s0697 | (3⟦1⟧º⟦/1⟧ Lugar*)
+s0698 | Prêmios TA
+s0699 | Prêmio Connect
+s0700 | 1⟦0⟧º⟦/0⟧ Lugar
+s0702 | 1⟦0⟧º⟦/0⟧ Lugar
+s0703 | 1⟦0⟧º⟦/0⟧ Lugar
+s0704 | (2⟦1⟧º⟦/1⟧ Lugar*)
+s0705 | 1⟦0⟧º⟦/0⟧ Lugar
+s0706 | 2⟦0⟧º⟦/0⟧ Lugar
+s0707 | (3⟦1⟧º⟦/1⟧ Lugar*)
+s0708 | Prêmio Reach
+s0709 | 1⟦0⟧º⟦/0⟧ Lugar
+s0710 | 1⟦0⟧º⟦/0⟧ Lugar
+s0711 | (2⟦1⟧º⟦/1⟧ Lugar*)
+s0712 | 1⟦0⟧º⟦/0⟧ Lugar
+s0713 | 2⟦0⟧º⟦/0⟧ Lugar
+s0714 | (3⟦1⟧º⟦/1⟧ Lugar*)
+s0715 | Prêmio Sustain
+s0716 | 1⟦0⟧º⟦/0⟧ Lugar
+s0717 | 1⟦0⟧º⟦/0⟧ Lugar
+s0718 | (2⟦1⟧º⟦/1⟧ Lugar*)
+s0719 | 1⟦0⟧º⟦/0⟧ Lugar
+s0720 | 2⟦0⟧º⟦/0⟧ Lugar
+s0721 | (3⟦1⟧º⟦/1⟧ Lugar*)
+s0722 | Prêmios MCI
+s0723 | Prêmio Design
+s0724 | 1⟦0⟧º⟦/0⟧ Lugar
+s0726 | 1⟦0⟧º⟦/0⟧ Lugar
+s0727 | 1⟦0⟧º⟦/0⟧ Lugar
+s0728 | (2⟦1⟧º⟦/1⟧ Lugar*)
+s0729 | 1⟦0⟧º⟦/0⟧ Lugar
+s0730 | 2⟦0⟧º⟦/0⟧ Lugar
+s0731 | (3⟦1⟧º⟦/1⟧ Lugar*)
+s0732 | Prêmio Innovate
+s0733 | 1⟦0⟧º⟦/0⟧ Lugar
+s0734 | 1⟦0⟧º⟦/0⟧ Lugar
+s0735 | (2⟦1⟧º⟦/1⟧ Lugar*)
+s0736 | 1⟦0⟧º⟦/0⟧ Lugar
+s0737 | 2⟦0⟧º⟦/0⟧ Lugar
+s0738 | (3⟦1⟧º⟦/1⟧ Lugar*)
+s0739 | Prêmio Control
+s0740 | 1⟦0⟧º⟦/0⟧ Lugar
+s0741 | 1⟦0⟧º⟦/0⟧ Lugar
+s0742 | (2⟦1⟧º⟦/1⟧ Lugar*)
+s0743 | 1⟦0⟧º⟦/0⟧ Lugar
+s0744 | 2⟦0⟧º⟦/0⟧ Lugar
+s0745 | (3⟦1⟧º⟦/1⟧ Lugar*)
+s0746 | Prêmio Escolha dos Juízes (Judges’ Choice)
+s0747 | Opcional*
+s0748 | Opcional*
+s0749 | Opcional*
+s0750 | Opcional*
+s0768 | Obrigatório
+s0770 | Obrigatório
+s0775 | Obrigatório
+s0777 | Obrigatório
+s0783 | Obrigatório
+s0789 | Incentivado
+s0795 | Obrigatório
+s0799 | Incentivado
+s0801 | Incentivado
+s0807 | Obrigatório
+s0812 | Obrigatório
+s0814 | Incentivado
+s0816 | Incentivado
+s0822 | Obrigatório
+s0827 | Obrigatório
+s0829 | Incentivado
+s0831 | Incentivado
+s0837 | Obrigatório
+s0839 | Obrigatório
+s0841 | Obrigatório
+s0843 | Incentivado
+s0849 | Obrigatório
+s0854 | Obrigatório
+s0856 | Incentivado
+s0858 | Incentivado
+s0860 | Incentivado
+s0866 | Obrigatório
+s0868 | Obrigatório
+s0870 | Incentivado
+s0872 | Incentivado
+s0874 | Incentivado
+s0893 | Obrigatório
+s0895 | Obrigatório
+s2548 | Prêmio Inspire
+s2550 | 1⟦0⟧º⟦/0⟧ Lugar

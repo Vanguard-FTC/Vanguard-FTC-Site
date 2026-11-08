@@ -1,0 +1,66 @@
+s0600 | ⟦0⟧Conforme⟦1⟧ ⟦/1⟧⟦/0⟧⟦2⟧A201⟦/2⟧⟦3⟧.⟦/3⟧⟦4⟧E⟦/4⟧⟦5⟧⟦6⟧, o progresso, os desafios e as conquistas ocorridos desde 1º de janeiro de 2026 podem ser documentados no PORTFÓLIO da equipe e serão considerados como parte da temporada atual.⟦/6⟧⟦/5⟧
+s0601 | Exemplos de informações que não podem ser consideradas durante o processo de avaliação incluem, mas não se limitam a:
+s0602 | ⟦0⟧- ⟦/0⟧⟦1⟧Desempenho passado (bom ou ruim) de uma equipe,⟦/1⟧
+s0603 | ⟦0⟧- ⟦/0⟧⟦1⟧Conhecimento pessoal sobre uma equipe,⟦/1⟧
+s0604 | ⟦0⟧- ⟦/0⟧⟦1⟧Fontes externas, como sites e/ou redes sociais,⟦/1⟧
+s0605 | ⟦0⟧- ⟦/0⟧⟦1⟧O desempenho de um ROBÔ (por exemplo, quantos pontos marcou em uma PARTIDA), a menos que esteja especificamente listado como critério de um prêmio,⟦/1⟧
+s0606 | ⟦0⟧- ⟦/0⟧⟦1⟧Penalidades do ROBÔ durante o jogo, ou⟦/1⟧
+s0607 | ⟦0⟧- ⟦/0⟧⟦1⟧A classificação de uma equipe no torneio.⟦/1⟧
+s0608 | Os prêmios são um método que a⟦1⟧ FIRST⟦/1⟧ usa para inspirar os ESTUDANTES e abrir os seus olhos para a construção de um futuro melhor juntos. O processo de avaliação deveria promover uma interação positiva dos ESTUDANTES com os JUÍZES, que são adultos independentes e atenciosos capazes de reconhecer as suas conquistas e incentivá-los a continuar aprendendo.
+s0609 | 6.1.2 ⟦1⟧⟦2⟧Entrevista Inicial⟦/2⟧⟦/1⟧
+s0610 | Todas as equipes são incentivadas a se preparar para uma sessão de Entrevista Inicial, na qual a equipe pode fazer uma apresentação oral preparada para um pequeno painel de JUÍZES, seguida de uma sessão aberta de perguntas e respostas.
+s0611 | A Entrevista Inicial pode ser realizada em um de três formatos:
+s0612 | - ⟦0⟧Presencial agendada:⟦/0⟧ Uma reunião planejada com os JUÍZES, em um horário específico, em um espaço dedicado à avaliação.
+s0613 | - ⟦0⟧Presencial não agendada:⟦/0⟧ A entrevista não é agendada para um horário específico. Os JUÍZES encontram as equipes na sua área de box no evento ou em um espaço dedicado à avaliação.
+s0614 | - ⟦0⟧Remota:⟦/0⟧ Uma reunião com os JUÍZES realizada online em uma plataforma de videoconferência.
+s0615 | Os três tipos de Entrevista Inicial têm as mesmas regras e permitem que as equipes compartilhem informações com os JUÍZES.
+s0616 | ⟦0⟧Figura ⟦/0⟧6‑3: Linha do Tempo da Entrevista Inicial
+s0617 | 1. Os JUÍZES se apresentam à equipe e perguntam se a equipe tem uma apresentação preparada com a qual gostaria de começar.
+s0618 | 2. As equipes podem se apresentar aos JUÍZES sem interrupção por até cerca de 5 minutos, conforme ⟦0⟧A205⟦/0⟧.
+s0619 | 3. Os JUÍZES farão perguntas abertas e interagirão com a equipe pelo restante do tempo da entrevista.
+s0620 | 4. A entrevista é encerrada pelos JUÍZES.
+s0621 | 5. Os JUÍZES discutem em particular os detalhes da entrevista e preenchem o ⟦0⟧formulário de feedback⟦/0⟧.
+s0622 | 6. Os JUÍZES identificam a próxima equipe a ser entrevistada e repetem o processo.
+s0623 | O Diretor do Evento, em coordenação com o Coordenador de JUÍZES e o comitê de planejamento regional, é responsável por determinar o formato da Entrevista Inicial e comunicar essa informação às equipes antes do evento. Espera-se que todas as equipes, independentemente da opção escolhida, sejam entrevistadas usando o mesmo formato no seu evento.
+s0624 | As equipes que participam de eventos em que a Entrevista Inicial é realizada nos boxes deveriam estar cientes de que a área de boxes é um ambiente movimentado e muitas vezes barulhento. Embora os JUÍZES ofereçam às equipes uma oportunidade sem interrupções para apresentar informações e responder a perguntas, distrações externas (como anúncios nos boxes e ruído geral de fundo) podem ocorrer durante a entrevista e criar dificuldades de comunicação.
+s0625 | Para entrevistas que acontecem nos boxes, os JUÍZES trabalharão com os voluntários da fila de PARTIDAS (queuers) e os voluntários técnicos para garantir que as equipes possam comparecer às PARTIDAS e trabalhar nos seus ROBÔS.
+s0626 | As equipes são incentivadas a revisar o ⟦0⟧Banco de Perguntas da Entrevista com os Juízes (Judge Interview Question Bank)⟦/0⟧⟦1⟧ ⟦/1⟧antes das suas entrevistas de avaliação, para entender o tipo de pergunta que pode ser feita pelos JUÍZES. Em cada evento, o Coordenador de JUÍZES selecionará duas perguntas do banco de perguntas que serão feitas a todas as equipes no início da sessão de perguntas e respostas da Entrevista Inicial. Uma pergunta será focada na categoria de prêmios MCI e outra será focada na categoria de prêmios TA. Depois que as duas primeiras perguntas forem feitas e respondidas, os JUÍZES poderão fazer perguntas adicionais para ajudar a avaliar o desempenho da equipe em relação aos critérios dos prêmios.
+s0627 | As perguntas adicionais feitas durante as entrevistas podem vir do banco de perguntas, mas as equipes deveriam estar preparadas para responder a perguntas que não estão listadas no documento.
+s0628 | ⟦0⟧⟦/0⟧⟦1⟧6.1.3 Entrevista(s) nos Boxes⟦/1⟧
+s0629 | Depois que todos os painéis de avaliação terminarem as Entrevistas Iniciais, os JUÍZES comparam anotações e podem optar por fazer um acompanhamento com as equipes na área de boxes durante a competição e realizar entrevistas informais nos boxes. Durante essa rodada de entrevistas nos boxes, as equipes têm a oportunidade de aprofundar os materiais apresentados na Entrevista Inicial e compartilhar conteúdo adicional com os JUÍZES (por exemplo, protótipos do ROBÔ, artefatos de projeto e fotos ou cartas de eventos de ação social). Uma equipe não precisa preparar outra apresentação para essa entrevista nos boxes, mas deveria estar pronta para responder às perguntas dos JUÍZES.
+s0630 | Os JUÍZES podem ler informações adicionais durante as entrevistas nos boxes, mas não levarão conteúdo adicional para ser consultado como parte das deliberações dos JUÍZES.
+s0631 | 6.1.4 Ação Social Contínua e Demonstração de Impacto em Números
+s0632 | Em geral, os JUÍZES considerarão a ação social (outreach) contínua e sustentada como de qualidade superior à ação social ocasional ou pontual. Os JUÍZES buscarão entender qual é o impacto da ação social sobre as pessoas alcançadas pela atividade.
+s0633 | As equipes são incentivadas a revisar o ⟦1⟧Documento de Termos e Definições de Ação Social (Outreach Terms and Definitions Document)⟦/1⟧ para entender os requisitos por trás de termos específicos (iniciar uma equipe ⟦2⟧FIRST⟦/2⟧, realizar um evento, alcançar x número de pessoas). Os JUÍZES podem fazer perguntas específicas quando um termo específico listado nesse documento for mencionado no PORTFÓLIO de uma equipe ou durante uma entrevista.
+s0634 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧6.2 Regras dos Prêmios Julgados de Equipe⟦/2⟧
+s0635 | ⟦0⟧⟦/0⟧⟦1⟧A201 ⟦/1⟧⟦2⟧*Os PORTFÓLIOS das equipes têm limites.⟦/2⟧ As equipes têm a oportunidade de enviar um PORTFÓLIO da equipe para ser ⟦3⟧usado como parte do processo de avaliação⟦/3⟧. Outros conteúdos impressos ou digitais fora desse documento não serão recolhidos pelos JUÍZES para consideração durante as deliberações. Os PORTFÓLIOS das equipes devem atender aos seguintes requisitos:
+s0636 | A. devem conter 1 página de capa incluindo o número da equipe e, opcionalmente: nome da equipe, sumário do PORTFÓLIO, organizações da equipe, patrocinadores, logo, lema e foto do ROBÔ e/ou da equipe,
+s0637 | B. no máximo 15 páginas de conteúdo,
+s0638 | C. usar apenas páginas no tamanho Carta (US Letter, 8,5” x 11”) ou A4 (210 x 297 mm),
+s0639 | D. se enviado digitalmente, o envio completo deve ter menos de 15 MB, e
+s0640 | E. devem incluir apenas o progresso, os desafios e as conquistas ocorridos desde 1º de janeiro de 2026.
+s0641 | Nenhum conteúdo da página de capa será usado pelos JUÍZES para avaliar quaisquer critérios de prêmios. Qualquer conteúdo além das 15 páginas permitidas não será revisado pelos JUÍZES.
+s0642 | As equipes devem minimizar rigorosamente as Informações de Identificação Pessoal (Personally Identifying Information, PII) no PORTFÓLIO. Para a privacidade dos estudantes, use apenas o primeiro nome e a inicial do sobrenome. Embora fotografias de estudantes sejam permitidas, os nomes completos não devem ser divulgados.
+s0643 | Os JUÍZES usam a página de capa para identificar a equipe associada ao PORTFÓLIO. Equipes que se esquecerem de incluir uma página de capa podem ser desqualificadas da avaliação se os JUÍZES não conseguirem determinar a qual equipe o PORTFÓLIO está associado.
+s0644 | Projete o seu PORTFÓLIO pensando na legibilidade. Evite fontes menores que 10 pt e texto de baixo contraste sobre imagens — os JUÍZES não conseguem avaliar o que não conseguem ler. Use ferramentas gratuitas, como o WebAIM Contrast Checker, para garantir que o tamanho da fonte, as cores e as escolhas de design estejam claros.
+s0645 | Os JUÍZES não clicarão em links, sites ou vídeos em um PORTFÓLIO. Eles também não podem levar papéis impressos extras de uma entrevista para a sua sala de avaliação. As equipes deveriam colocar tudo o que querem que os JUÍZES vejam diretamente no seu PORTFÓLIO.
+s0646 | As equipes podem usar IA e recursos de pesquisa para compor os seus PORTFÓLIOS, desde que respeitem os direitos de propriedade intelectual e incluam um crédito em nota de rodapé ou nota final. Exemplo de Crédito: “Portfólio criado pela Equipe XXXXX e pelo ChatGPT”
+s0647 | Uma equipe pode fazer referência a temporadas anteriores (por exemplo, em um plano da equipe ou organizacional) para demonstrar crescimento, mas a ênfase deve estar na temporada atual⟦1⟧.⟦/1⟧
+s0648 | ⟦0⟧⟦/0⟧⟦1⟧A202 ⟦/1⟧⟦2⟧*Os PORTFÓLIOS devem ser enviados no prazo e conforme solicitado.⟦/2⟧⟦3⟧ ⟦/3⟧As equipes devem enviar o seu PORTFÓLIO conforme instruído pelo Diretor do Evento e dentro do prazo informado, se desejarem que ele seja considerado durante o processo de avaliação. Se nenhuma outra instrução for fornecida, as equipes deveriam entregar 1 cópia impressa do seu PORTFÓLIO durante a Entrevista Inicial.
+s0649 | ⟦0⟧⟦1⟧As instruções sobre quando e como as equipes deveriam enviar os seus PORTFÓLIOS deveriam ser comunicadas pelo ⟦/1⟧⟦/0⟧⟦2⟧Diretor do Evento ⟦3⟧⟦4⟧antes do evento. ⟦/4⟧⟦/3⟧⟦/2⟧
+s0650 | ⟦0⟧⟦1⟧Se as circunstâncias impedirem uma equipe de seguir as instruções de envio do PORTFÓLIO, o ⟦/1⟧⟦/0⟧⟦2⟧Diretor do Evento ⟦3⟧⟦4⟧deveria trabalhar com o Coordenador de JUÍZES para fazer adaptações razoáveis e aceitar os PORTFÓLIOS de todas as equipes, a menos que isso represente um ônus excessivo para o processo de avaliação.⟦/4⟧⟦/3⟧⟦/2⟧
+s0651 | As equipes são incentivadas a ter uma cópia adicional (digital ou física) do seu PORTFÓLIO disponível no seu box para auxiliar nas entrevistas com os JUÍZES.
+s0652 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧A203 ⟦/2⟧⟦3⟧*As equipes devem participar de uma sessão de Entrevista Inicial. ⟦/3⟧Para ser considerada para quaisquer prêmios julgados, a equipe deve participar de uma sessão de Entrevista Inicial.
+s0653 | ⟦0⟧⟦1⟧Se houver agendamento, as equipes deveriam ser informadas do horário atribuído pelo ⟦/1⟧⟦/0⟧⟦2⟧Diretor do Evento ⟦3⟧ou pelo ⟦/3⟧Parceiro de Entrega do Programa local ⟦4⟧antes do evento. ⟦/4⟧⟦/2⟧
+s0654 | ⟦0⟧⟦1⟧Se houver um conflito de horário ou a equipe perder o seu horário de Entrevista Inicial devido a circunstâncias imprevistas, a equipe deveria trabalhar com o ⟦/1⟧⟦/0⟧⟦2⟧Diretor do Evento ⟦3⟧ou com o ⟦/3⟧Parceiro de Entrega do Programa local ⟦4⟧para fazer adaptações alternativas razoáveis para uma Entrevista Inicial no evento, se possível.⟦/4⟧⟦/2⟧
+s0655 | ⟦0⟧⟦/0⟧⟦1⟧⟦2⟧A204 ⟦/2⟧⟦/1⟧⟦3⟧*⟦/3⟧ ⟦4⟧Tenha os recursos certos disponíveis para a sua Entrevista Inicial. ⟦/4⟧⟦5⟧⟦6⟧As equipes deveriam estar preparadas para a sua Entrevista Inicial, tendo:⟦/6⟧⟦/5⟧
+s0656 | A. pelo menos 2 representantes ESTUDANTES, para equipes de 2 ESTUDANTES ou mais,
+s0657 | B. uma cópia do PORTFÓLIO da equipe para consulta durante a entrevista,
+s0658 | C. itens de demonstração para “mostrar e contar”, que podem incluir o ROBÔ da equipe (incentivado, mas opcional),
+s0659 | D. 1 observador silencioso, conforme ⟦0⟧A208⟦/0⟧ (opcional), e
+s0660 | E. 1 pessoa de apoio para atender a necessidades de adaptação, conforme ⟦0⟧A209⟦/0⟧ (opcional, conforme necessário).
+s0661 | As equipes são incentivadas a envolver o maior número possível de ESTUDANTES no processo da Entrevista Inicial.
+s0662 | Uma equipe não precisa ter um ROBÔ para participar da avaliação ou ser elegível a prêmios julgados.
+s0663 | As equipes podem ligar e demonstrar as funções do seu ROBÔ durante a Entrevista Inicial, mas não podem causar atrasos significativos durante a entrevista.
+s0664 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦3⟧⟦4⟧A205 ⟦/4⟧⟦/3⟧⟦/2⟧⟦5⟧*Todos têm o mesmo tempo de Entrevista Inicial⟦/5⟧⟦6⟧⟦7⟧. Todas as equipes serão agendadas para uma ⟦/7⟧⟦/6⟧⟦8⟧⟦9⟧Entrevista Inicial⟦/9⟧⟦/8⟧⟦10⟧⟦11⟧ de mesma duração, de pelo menos 10 minutos⟦/11⟧⟦/10⟧⟦12⟧⟦13⟧.⟦/13⟧⟦/12⟧
+s0665 | ⟦0⟧⟦/0⟧⟦1⟧⟦2⟧⟦3⟧A206 ⟦/3⟧⟦/2⟧⟦/1⟧⟦4⟧*O cronômetro da Entrevista Inicial começa quando a equipe começa. ⟦/4⟧⟦5⟧⟦6⟧O cronômetro começa depois que os JUÍZES se apresentam e a equipe inicia a sua apresentação ou começa a parte de perguntas e respostas da entrevista. As equipes que demorarem muito para começar serão avisadas pelos JUÍZES para começar prontamente, e então o cronômetro da Entrevista Inicial será iniciado independentemente de a equipe apresentadora estar pronta.⟦/6⟧⟦/5⟧

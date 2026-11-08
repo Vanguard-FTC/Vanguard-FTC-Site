@@ -1,0 +1,133 @@
+s1098	If order of placement matters to either or both ALLIANCES, the ALLIANCE notifies the Head REFEREE or their designee before setting up for that MATCH, and the Head REFEREE instructs ALLIANCES to alternate placement of ROBOTS. REFEREE instructions are that ROBOTS are placed in the following order:
+s1099	1. first red ROBOT
+s1100	2. first blue ROBOT
+s1101	3. second red ROBOT
+s1102	4. second blue ROBOT⟦0⟧⟦/0⟧
+s1103	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧In Qualification MATCHES, the ROBOT assigned to Red 1 or Blue 1 places first within their ALLIANCE. In Playoff MATCHES, the ALLIANCE lead decides which ROBOT places first within their ALLIANCE.
+s1104	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧10.4 MATCH ⟦/4⟧Periods
+s1105	The first period of each MATCH is 30 seconds (0:30) long and called the Autonomous Period (AUTO). During AUTO, ROBOTS operate without any DRIVER control or input.
+s1106	There is an 8-second transition period between AUTO and TELEOP for scoring purposes as described in Section ⟦0⟧10.5⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Scoring⟦/2⟧.
+s1107	The ⟦0⟧third period of each MATCH is 2 minutes (2:00) long and called the teleoperated period (TELEOP). During TELEOP, DRIVERS remotely operate ROBOTS⟦/0⟧ to score points. See Table 9‑1 for detailed MATCH timing.
+s1108	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧⟦6⟧⟦/6⟧⟦7⟧⟦/7⟧⟦8⟧⟦/8⟧⟦9⟧⟦/9⟧⟦10⟧⟦/10⟧⟦11⟧⟦/11⟧⟦12⟧⟦/12⟧⟦13⟧⟦/13⟧⟦14⟧⟦/14⟧⟦15⟧⟦/15⟧10.5 Scoring
+s1109	ALLIANCES are rewarded for accomplishing various actions throughout a MATCH as shown in Table 10‑2.
+s1110	ALLIANCES are rewarded for their performance during MATCHES via MATCH points and RANKING POINTS (RP), which increase the measure used to rank teams per Section ⟦0⟧13.6.3⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Qualification Ranking⟦/2⟧.
+s1111	All achievements are updated throughout the MATCH. Scoring achievements are assessed as follows:
+s1112	A. Assessment of HIVE TIPS occurs throughout the MATCH and continues until all SCORING ELEMENTS and ROBOTS have come to rest at the conclusion of the MATCH.
+s1113	B. HIVE TIPS that are complete prior to the start of TELEOP are assessed as part of AUTO.
+s1114	C. Assessment of POLLEN and NECTAR remaining in the CELL will occur after all SCORING ELEMENTS and ROBOTS have come to rest at the conclusion of the MATCH.
+s1115	D. Assessment of SCORING ELEMENTS scored in a FLOWER will occur throughout the MATCH with final assessment taking place at the end of TELEOP after all SCORING ELEMENTS and ROBOTS have come to rest at the conclusion of the MATCH.
+s1116	E. Assessment of GARDEN scoring occurs at the end of TELEOP when all ROBOTS and SCORING ELEMENTS have come to rest at the conclusion of the MATCH.
+s1117	F. Assessment of LEAVE and AUTO PARK occurs at the end of AUTO.
+s1118	G. Assessment of TELEOP PARK occurs at the end of the MATCH.
+s1119	⟦0⟧Scoring is evaluated and scored by human volunteers. Delays or errors in the live score are not considered an ARENA FAULT (see Section ⟦/0⟧⟦1⟧13.2⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧MATCH Replays⟦/3⟧⟦4⟧). Teams are encouraged to make sure that it is obvious and unambiguous that the criteria are met.⟦/4⟧
+s1120	Achievements scored before the MATCH starts, during the AUTO-to-TELEOP transition period, and after the MATCH ends at 0:00 may be subject to penalties.
+s1121	⟦0⟧⟦/0⟧⟦1⟧10.5.1 HIVE Scoring Criteria⟦/1⟧
+s1122	HIVE TIP
+s1123	The HIVE is considered TIPPED when:
+s1124	A. it ⟦0⟧moves from one stable state to the other stable state with the downwards-facing CELL becoming the upwards-facing CELL⟦/0⟧, and
+s1125	B. subsequently, ⟦0⟧the damper on the HIVE that was previously not contacting the frame begins to contact the frame⟦/0⟧.
+s1126	Figure 10‑3: HIVE damper and frame
+s1127	The HIVES are designed to be bi-stable, and it should be obvious in most circumstances that a HIVE has moved from one stable state to the other. While the specific HIVE TIP criteria has been provided, volunteers are not expected to watch for the specific instant the damper contacts the frame.
+s1128	Teams should be aware that LAUNCHING at the downward-facing CELL while a HIVE is tipping may disrupt its movement and may result in the TIP not being achieved. While this is unlikely to occur during normal gameplay, teams in this situation may need to pause their LAUNCHING to make sure it is obvious and unambiguous to volunteers that a TIP has been achieved.
+s1129	⟦0⟧LAUNCHING into the upward-facing CELL is the only allowed way to earn a HIVE TIP. ROBOTS must follow ⟦/0⟧⟦1⟧G417⟦/1⟧⟦2⟧ and cannot disrupt or cause a HIVE TIP in other ways.⟦/2⟧
+s1130	POLLEN and NECTAR remaining in CELL
+s1131	At the end of the MATCH, any POLLEN and/or NECTAR left in an upward-facing CELL will earn points for that ALLIANCE.
+s1132	10.5.2 FLOWER Scoring Criteria
+s1133	NECTAR and POLLEN score when they are at least partially within the FLOWER scoring volume: between the top ring and the middle ring as highlighted purple and included in CAD Reference 10‑4.
+s1134	⟦0⟧CAD Reference ⟦/0⟧10‑4: FLOWER scoring volume, ⟦1⟧Click to View more Details⟦/1⟧
+s1135	⟦0⟧FLOWER scoring cannot begin until there is one minute remaining in the MATCH per ⟦/0⟧⟦1⟧G410⟦/1⟧⟦2⟧. Achievements scored prior to one minute remaining are still scored, but subject to penalties.⟦/2⟧
+s1136	⟦0⟧Placing SCORING ELEMENTS into the top of the FLOWER is the only allowable way to score. ROBOTS must follow ⟦/0⟧⟦1⟧G418⟦/1⟧⟦2⟧ while interacting with the FLOWER. ⟦/2⟧
+s1137	Bottom NECTAR Bonus
+s1138	The ALLIANCE that has the bottom-most NECTAR of its color that meets the criteria for scoring in a FLOWER earns points.
+s1139	FLOWER Owner
+s1140	The ALLIANCE that has the top-most NECTAR of its color that meets the criteria for scoring in a FLOWER owns that FLOWER and will earn points for every POLLEN and NECTAR that meet the scoring criteria for that FLOWER, regardless of which ALLIANCE placed the POLLEN and/or NECTAR in the FLOWER.
+s1141	Figure 10‑5: FLOWER Ownership
+s1142	10.5.3 GARDEN Scoring Criteria
+s1143	To qualify for GARDEN points, POLLEN or NECTAR must be at least partially in the GARDEN zone.
+s1144	- GARDENS are ALLIANCE SPECIFIC and earn points for the ALLIANCE of corresponding color regardless of which ALLIANCE placed the POLLEN or NECTAR in the GARDEN.
+s1145	- GARDENS are not protected zones, and either ALLIANCE can remove SCORING ELEMENTS from either GARDEN during the MATCH.
+s1146	- NECTAR belonging to either ALLIANCE and POLLEN scores in the GARDEN for the ALLIANCE that corresponds with the color of the GARDEN.
+s1147	Figure 10‑6: GARDEN Scoring
+s1148	10.5.4 ROBOT Scoring Criteria
+s1149	LEAVE
+s1150	To qualify for LEAVE points, ⟦0⟧a ROBOT must move so that it is no longer contacting the perimeter wall⟦/0⟧.
+s1151	PARK
+s1152	To qualify for PARK points, ⟦0⟧a ROBOT must move so that it is at least partially in the LOADING ZONE⟦/0⟧. (Figure 10‑7)
+s1153	⟦0⟧Figure ⟦/0⟧10‑7: LOADING ZONE PARK Examples
+s1154	10.5.5 Point Values
+s1155	⟦0⟧Table ⟦/0⟧10‑2: BIOBUZZ Point Values
+s1156	MATCH points
+s1157	RANKING POINTS
+s1158	AUTO
+s1159	TELEOP
+s1160	LEAVE
+s1161	PARK
+s1162	HIVE
+s1163	HIVE TIP
+s1164	POLLEN and/or NECTAR remaining in CELL
+s1165	FLOWER
+s1166	Bottom NECTAR Bonus
+s1167	POLLEN and/or NECTAR in an owned FLOWER
+s1168	GARDEN
+s1169	POLLEN and/or NECTAR in GARDEN
+s1170	⟦0⟧SWARM RP – ⟦/0⟧Combined ⟦1⟧LEAVE + PARK points earned at or above threshold⟦/1⟧
+s1171	⟦0⟧POLLINATOR 1 RP – ⟦/0⟧The ⟦1⟧number of TIPS at or above threshold⟦/1⟧
+s1172	⟦0⟧POLLINATOR 2 RP – ⟦/0⟧The number of TIPS at or above threshold
+s1173	WIN
+s1174	Completing a MATCH with more MATCH points than your opponent
+s1175	TIE
+s1176	Completing a MATCH with the same MATCH points as your opponent
+s1177	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧Table 10‑3: BIOBUZZ RP thresholds
+s1178	RP Type
+s1179	⟦1⟧⟦2⟧FIRST ⟦/2⟧⟦/1⟧⟦3⟧Championship⟦/3⟧
+s1180	Regional Championships
+s1181	All Other Events*
+s1182	SWARM RP
+s1183	TBA
+s1184	TBA
+s1185	16 Points
+s1186	POLLINATOR 1 RP
+s1187	TBA
+s1188	TBA
+s1189	4 TIPS
+s1190	POLLINATOR 2 RP
+s1191	TBA
+s1192	TBA
+s1193	7 TIPS
+s1194	RP thresholds for Regional Championships and ⟦1⟧FIRST⟦/1⟧ Championship will be announced in Team Updates.
+s1195	*Premier Events will be able to set their own thresholds to best reflect the experience they want to provide teams.
+s1196	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧10.6 Violations⟦/2⟧
+s1197	⟦0⟧FIRST⟦/0⟧ Tech Challenge uses 3 words in the context of how durations and actions are assessed with regards to evaluation of rules and assignment of violations. These words provide general guidance to describe benchmarks. It is not the intent for REFEREES to provide a count during the time periods.
+s1198	- MOMENTARY ⟦0⟧describes durations that are fewer than approximately 3 seconds⟦/0⟧.
+s1199	- CONTINUOUS ⟦0⟧describes durations that are more than approximately 10 seconds⟦/0⟧.
+s1200	- REPEATED ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧describes actions that happen more than once within a MATCH.
+s1201	⟦0⟧FIRST⟦/0⟧ Tech Challenge uses the word STRATEGIC to describe specific types of violations that are not in the spirit of the competition, as outlined in Section ⟦1⟧1.5⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧Competition Integrity Contract (CIC)⟦/3⟧:
+s1202	- STRATEGIC ⟦0⟧describes actions done with the aim of gaining a competitive advantage⟦/0⟧.
+s1203	Some rules prohibit specific actions if they are perceived to be STRATEGIC or provide an increased violation for actions perceived to be STRATEGIC (e.g., impeding or enabling scoring actions). This includes actions that are deliberate or reckless with foreseeable consequences. Accidental/unforeseeable occurrences cannot be STRATEGIC.
+s1204	In general, a team may face additional scrutiny from REFEREES who will determine if there is a STRATEGIC violation when either:
+s1205	A. ⟦0⟧multiple warnings are given during an individual MATCH for the same violation that individually can be perceived to be accidental or unforeseeable, or ⟦/0⟧
+s1206	B. ⟦0⟧multiple VERBAL WARNINGS are issued to a team over multiple MATCHES for the same violation that individually can be perceived to be accidental or unforeseeable.⟦/0⟧
+s1207	Accidental situations that are then deliberately used to a team’s advantage will be viewed as STRATEGIC.
+s1208	Unless otherwise noted, all penalties are assigned for each instance of a rule violation, and a single action may violate multiple rules. A description of the penalties is listed in Table 10‑4. All rules throughout the Game Rules section are called as perceived by a REFEREE.
+s1209	⟦0⟧⟦/0⟧⟦1⟧Table ⟦/1⟧10‑4: ⟦2⟧Rule violations⟦/2⟧
+s1210	Penalty
+s1211	Description
+s1212	VERBAL WARNING
+s1213	a warning issued by event staff or the Head REFEREE
+s1214	MINOR FOUL
+s1215	a credit of 5 points towards the opponent’s MATCH point total
+s1216	MAJOR FOUL
+s1217	a credit of 20 points towards the opponent’s MATCH point total
+s1218	YELLOW CARD
+s1219	⟦0⟧a warning issued by the Head REFEREE for egregious ROBOT or team member behavior or rule violations⟦/0⟧. A subsequent YELLOW CARD within the same tournament phase results in a RED CARD
+s1220	RED CARD
+s1221	a penalty issued by the Head REFEREE for egregious ROBOT or team member behavior or rule violations which results in a team being DISQUALIFIED for the MATCH.
+s1222	DISABLED
+s1223	⟦0⟧The REFEREE instructs the team to stop the ROBOT which will deactivate all outputs, rendering the ROBOT inoperable for the remainder of the MATCH⟦/0⟧.
+s1224	DISQUALIFIED
+s1225	⟦0⟧the state of a team in which they receive 0 MATCH points and 0 RANKING POINTS in a Qualification MATCH or causes their ALLIANCE to receive 0 MATCH points in a Playoff MATCH⟦/0⟧.
+s1226	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧⟦6⟧⟦/6⟧⟦7⟧⟦/7⟧⟦8⟧⟦/8⟧⟦9⟧⟦/9⟧⟦10⟧⟦/10⟧10.6.1 YELLOW and RED CARDS
+s1227	In addition to rule violations explicitly listed throughout this document, YELLOW CARDS and RED CARDS are used in ⟦0⟧FIRST⟦/0⟧ Tech Challenge to address team and ROBOT behavior that violates behavioral and ethical guidelines as described in Section ⟦1⟧1.5⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧Competition Integrity Contract (CIC)⟦/3⟧.
+s1228	The Head REFEREE may assign
+s1229	- a YELLOW CARD as a warning, or
+s1230	- a RED CARD for behaviors that violate the CIC as outlined by the ⟦0⟧Escalation Guidelines⟦/0⟧.

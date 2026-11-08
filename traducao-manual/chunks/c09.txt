@@ -1,0 +1,158 @@
+s0666	⟦0⟧⟦/0⟧⟦1⟧⟦2⟧⟦3⟧A207 ⟦/3⟧⟦/2⟧⟦/1⟧⟦4⟧*Prepared initial presentation time should not be interrupted. ⟦/4⟧⟦5⟧⟦6⟧The first 5 minutes of the Initial Interview are reserved for the team to present a prepared oral presentation uninterrupted, if they choose. The uninterrupted presentation time may be ended early by the team. Any remaining time should be a question and answer conversation with the STUDENTS and led by the JUDGES.⟦/6⟧⟦/5⟧
+s0667	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧A208 ⟦/2⟧⟦3⟧*One adult silent observer is welcome. ⟦/3⟧One adult may attend the judging session and be present for any interaction between the JUDGES and the STUDENT team members. Adult coach(es) may be present for any interactions between the JUDGES and the STUDENT team members outside of the Initial Interview. The adult observer and coach(es) may not interact or actively coach during any interaction between the JUDGES and the STUDENT team members.
+s0668	The purpose of the adult silent observer is to provide silent confidence to the STUDENT team members presenting in an unknown environment with new people.
+s0669	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧A209 ⟦/2⟧⟦3⟧*Translator and/or Sign Language Interpreter accommodations will be made for teams who need it. ⟦/3⟧Teams who need to use a translator to communicate with the JUDGES may provide one if the team’s native language does not match that of the JUDGES. This includes sign language or other adaptive technology. Teams who intend to interview with the assistance of a translator must work with the Event Director in advance to request additional interview time of between 2 and 5 minutes, if needed. The translator may be an adult and can be in addition to the silent observer in ⟦4⟧A208⟦/4⟧.
+s0670	In most cases the translator will need to be provided by the team. If other accommodation is needed, the team should ⟦1⟧contact your local leadership⟦/1⟧ to discuss options.
+s0671	⟦0⟧⟦/0⟧⟦1⟧A210 ⟦/1⟧⟦2⟧*No Photos, Video or Audio recording during Initial Interview. ⟦/2⟧In addition to the restrictions of ⟦3⟧E116⟦/3⟧, no recording of video or audio, or photos may be taken during the Initial Interview.
+s0672	⟦0⟧⟦/0⟧⟦1⟧A211 ⟦/1⟧⟦2⟧*The number of awards given scales with event size.⟦/2⟧⟦3⟧⟦4⟧ The total number of awards given is based on the number of teams checked in at the event. Not all awards are given at every competition. ⟦/4⟧⟦/3⟧Only the awards specified in ⟦5⟧⟦/5⟧Table 6‑1, based on the event size are, points-eligible for advancement.
+s0673	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧Table ⟦/2⟧6‑1: ⟦3⟧Total judged awards available based on all event participating teams⟦/3⟧
+s0674	Total Event Participating Teams
+s0675	Award
+s0676	4-10 Teams
+s0677	11-20 Teams
+s0678	21-40 Teams
+s0679	41-64 Teams
+s0680	Inspire Award
+s0681	1⟦0⟧st⟦/0⟧ Place
+s0682	1⟦0⟧st⟦/0⟧ Place
+s0683	2⟦0⟧nd⟦/0⟧ Place
+s0684	1⟦0⟧st⟦/0⟧ Place
+s0685	2⟦0⟧nd⟦/0⟧ Place
+s0686	3⟦0⟧rd⟦/0⟧ Place
+s0687	1⟦0⟧st⟦/0⟧ Place
+s0688	2⟦0⟧nd⟦/0⟧ Place
+s0689	3⟦0⟧rd⟦/0⟧ Place
+s0690	Think Award
+s0691	1⟦0⟧st⟦/0⟧ Place
+s0692	1⟦0⟧st⟦/0⟧ Place
+s0693	1⟦0⟧st⟦/0⟧ Place
+s0694	2⟦0⟧nd⟦/0⟧ Place
+s0695	1⟦0⟧st⟦/0⟧ Place
+s0696	2⟦0⟧nd⟦/0⟧ Place
+s0697	(3⟦1⟧rd⟦/1⟧ Place*)
+s0698	TA Awards
+s0699	Connect Award
+s0700	1⟦0⟧st⟦/0⟧ Place
+s0701	(Only one of Connect, Reach, or Sustain will be given)
+s0702	1⟦0⟧st⟦/0⟧ Place
+s0703	1⟦0⟧st⟦/0⟧ Place
+s0704	(2⟦1⟧nd⟦/1⟧ Place*)
+s0705	1⟦0⟧st⟦/0⟧ Place
+s0706	2⟦0⟧nd⟦/0⟧ Place
+s0707	(3⟦1⟧rd⟦/1⟧ Place*)
+s0708	Reach Award
+s0709	1⟦0⟧st⟦/0⟧ Place
+s0710	1⟦0⟧st⟦/0⟧ Place
+s0711	(2⟦1⟧nd⟦/1⟧ Place*)
+s0712	1⟦0⟧st⟦/0⟧ Place
+s0713	2⟦0⟧nd⟦/0⟧ Place
+s0714	(3⟦1⟧rd⟦/1⟧ Place*)
+s0715	Sustain Award
+s0716	1⟦0⟧st⟦/0⟧ Place
+s0717	1⟦0⟧st⟦/0⟧ Place
+s0718	(2⟦1⟧nd⟦/1⟧ Place*)
+s0719	1⟦0⟧st⟦/0⟧ Place
+s0720	2⟦0⟧nd⟦/0⟧ Place
+s0721	(3⟦1⟧rd⟦/1⟧ Place*)
+s0722	MCI Awards
+s0723	Design Award
+s0724	1⟦0⟧st⟦/0⟧ Place
+s0725	(Only one of Innovate, Control, or Design will be given)
+s0726	1⟦0⟧st⟦/0⟧ Place
+s0727	1⟦0⟧st⟦/0⟧ Place
+s0728	(2⟦1⟧nd⟦/1⟧ Place*)
+s0729	1⟦0⟧st⟦/0⟧ Place
+s0730	2⟦0⟧nd⟦/0⟧ Place
+s0731	(3⟦1⟧rd⟦/1⟧ Place*)
+s0732	Innovate Award
+s0733	1⟦0⟧st⟦/0⟧ Place
+s0734	1⟦0⟧st⟦/0⟧ Place
+s0735	(2⟦1⟧nd⟦/1⟧ Place*)
+s0736	1⟦0⟧st⟦/0⟧ Place
+s0737	2⟦0⟧nd⟦/0⟧ Place
+s0738	(3⟦1⟧rd⟦/1⟧ Place*)
+s0739	Control Award
+s0740	1⟦0⟧st⟦/0⟧ Place
+s0741	1⟦0⟧st⟦/0⟧ Place
+s0742	(2⟦1⟧nd⟦/1⟧ Place*)
+s0743	1⟦0⟧st⟦/0⟧ Place
+s0744	2⟦0⟧nd⟦/0⟧ Place
+s0745	(3⟦1⟧rd⟦/1⟧ Place*)
+s0746	Judges’ Choice Award
+s0747	Optional*
+s0748	Optional*
+s0749	Optional*
+s0750	Optional*
+s0751	*Discretionary awards
+s0752	⟦0⟧⟦1⟧See Section ⟦/1⟧⟦/0⟧⟦2⟧13.8⟦/2⟧⟦3⟧ ⟦/3⟧⟦4⟧Dual Division Events⟦/4⟧⟦5⟧ ⟦6⟧⟦7⟧for the modified dual division version of this rule. ⟦/7⟧⟦/6⟧⟦/5⟧
+s0753	⟦0⟧⟦/0⟧⟦1⟧A212 ⟦/1⟧⟦2⟧*Judging feedback is provided to all teams.⟦/2⟧ All teams will receive feedback from their Initial Interview session. The JUDGES complete a form immediately following the Initial Interview based on their initial impression of the team. This feedback form is not used during deliberations and does not include any updated feedback based on later interactions by the JUDGES with the team.
+s0754	The feedback form will either be returned with the PORTFOLIO for in-person judging, near the end of the event, or the Lead Coach 1 will receive access to a digital version in ⟦1⟧FTC-Scoring⟦/1⟧ following the event.
+s0755	⟦0⟧⟦/0⟧⟦1⟧⟦2⟧A213 ⟦/2⟧⟦/1⟧⟦3⟧*Teams are only eligible to win the Inspire Award in their own region.⟦/3⟧⟦4⟧⟦5⟧ Teams are only eligible to be considered for the Inspire Award (1⟦6⟧st⟦/6⟧, 2⟦7⟧nd⟦/7⟧, or 3⟦8⟧rd⟦/8⟧ place) when competing at a tournament within their HOME REGION. ⟦/5⟧⟦/4⟧
+s0756	⟦0⟧⟦1⟧⟦2⟧FIRST⟦/2⟧⟦/1⟧⟦/0⟧⟦3⟧⟦4⟧ Championship and ⟦5⟧FIRST⟦/5⟧ Premier Events are an exception to this rule. At these events, all teams may be considered for the Inspire Award.⟦/4⟧⟦/3⟧
+s0757	⟦0⟧⟦/0⟧⟦1⟧⟦2⟧A214 ⟦/2⟧⟦/1⟧⟦3⟧*Teams cannot win the Inspire Award at multiple Qualifying or League Tournaments. ⟦/3⟧⟦4⟧⟦5⟧Teams are only eligible to win 1⟦6⟧st⟦/6⟧ place Inspire Award once per season from any Qualifying or League Tournament.⟦/5⟧⟦/4⟧
+s0758	⟦0⟧⟦1⟧Teams who have won 1⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧⟦4⟧st⟦/4⟧⟦/3⟧⟦/2⟧⟦5⟧⟦6⟧ Place Inspire are eligible to win 2⟦/6⟧⟦/5⟧⟦7⟧⟦8⟧⟦9⟧nd⟦/9⟧⟦/8⟧⟦/7⟧⟦10⟧⟦11⟧ or 3⟦/11⟧⟦/10⟧⟦12⟧⟦13⟧⟦14⟧rd⟦/14⟧⟦/13⟧⟦/12⟧⟦15⟧⟦16⟧ place Inspire Award at subsequent Qualifying or League Tournaments. ⟦/16⟧⟦/15⟧
+s0759	Teams who have won 1⟦2⟧st⟦/2⟧ Place Inspire at a Qualifying or League Tournament are eligible to win it at their Regional Super Qualifying Tournament (where applicable) and Regional Championship.
+s0760	⟦0⟧⟦/0⟧⟦1⟧⟦2⟧A215 ⟦/2⟧⟦/1⟧⟦3⟧*Teams can only get one judged award.⟦/3⟧⟦4⟧⟦5⟧ Teams are only eligible to win or be a runner-up for a single team ⟦/5⟧⟦/4⟧judged award at the ⟦6⟧⟦7⟧event.⟦/7⟧⟦/6⟧
+s0761	⟦0⟧This rule does not prevent a team from winning additional awards listed in Section ⟦/0⟧⟦1⟧6.4⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧Tournament ALLIANCE Awards⟦/3⟧⟦4⟧ and Section ⟦/4⟧⟦5⟧6.5⟦/5⟧⟦6⟧ ⟦/6⟧⟦7⟧Individual Awards⟦/7⟧⟦8⟧.⟦/8⟧
+s0762	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧⟦6⟧6.3 Team Judged Award Descriptions⟦/6⟧
+s0763	6.3.1 Inspire Award
+s0764	The Inspire Award recognizes a team that is a strong role model for all ⟦0⟧FIRST⟦/0⟧ programs. This team is a top contender for many judged awards and competes with a positive, respectful attitude.
+s0765	The Inspire Award winner inspires other teams both on and off the playing field. Their actions reflect the ⟦0⟧FIRST⟦/0⟧ Core Values and embody ⟦1⟧Gracious Professionalism. ⟦/1⟧They regularly share their experiences, enthusiasm, and knowledge with other teams, sponsors, their community, and the JUDGES. Working as a unit, this team will have shown success in performing the task of designing and building a ROBOT.
+s0766	Table 6‑2: Inspire Award Criteria
+s0767	Inspire Award Criteria
+s0768	Required
+s0769	Team must submit a PORTFOLIO.
+s0770	Required
+s0771	The Inspire Award celebrates the strongest qualities of all the judged awards. A team must be a strong contender for ⟦0⟧at least one award in each⟦/0⟧ of the following judged award categories:
+s0772	A. Machine, Creativity, and Innovation Awards,
+s0773	B. Team Attributes Awards, and
+s0774	C. Think Award.
+s0775	Required
+s0776	Team must be positive and inclusive, and each team member contribute to the success of the team.
+s0777	Required
+s0778	Team is able to share their experiences and knowledge to the JUDGES.
+s0779	6.3.2 Think Award
+s0780	The Think Award recognizes a team for their excellent PORTFOLIO. The PORTFOLIO is a clear and organized record of the team's engineering journey and growth this season. JUDGES look at this document to find the most deserving recipient. Teams may also share extra details about their building, design, or programming process in their PORTFOLIO to help JUDGES understand their choices.
+s0781	Table 6‑3: Think Award Criteria
+s0782	Think Award Criteria
+s0783	Required
+s0784	Team must submit a PORTFOLIO. The PORTFOLIO must include ⟦0⟧at least one⟦/0⟧ of these engineering topics:
+s0785	A. evidence of use of the engineering process,
+s0786	B. lessons learned and applied relating to the design of their ROBOT,
+s0787	C. comparing choices: Show how you looked at different ideas and explain why you chose one over the other, and/or
+s0788	D. math choices: Show how you used math to make decisions about your ROBOT or programming design.
+s0789	Encouraged
+s0790	Information in the PORTFOLIO should be easy to read and easy to find.
+s0791	6.3.3 Connect Award
+s0792	The Connect Award recognizes a team that builds meaningful partnerships with members of the science, technology, engineering, and mathematics (STEM) community. Through these partnerships, the team develops new knowledge, skills, and resources that support its long-term growth. The team has a clear plan with defined actions to achieve its goals. A PORTFOLIO is not required for this award.
+s0793	Table 6‑4: Connect Award Criteria
+s0794	Connect Award Criteria
+s0795	Required
+s0796	Team demonstrates professional development competency by explaining its plan for developing team member skills, including ⟦0⟧both⟦/0⟧:
+s0797	A. the team’s goals for learning, and
+s0798	B. the steps the team has taken or will take to reach those goals.
+s0799	Encouraged
+s0800	Team demonstrates networking competency by building and maintaining meaningful in-person or virtual relationships with professionals in STEM.
+s0801	Encouraged
+s0802	Team demonstrates collaboration competency by actively working with members of the engineering community through mentoring, knowledge sharing, technical guidance, or collaborative activities.
+s0803	6.3.4 Reach Award
+s0804	The Reach Award recognizes a team that has introduced and recruited new people into ⟦0⟧FIRST⟦/0⟧. Through their outreach efforts, they have inspired and motivated others to join the ⟦1⟧FIRST⟦/1⟧ community and actively participate in its programs. A PORTFOLIO is not required for this award.
+s0805	Table 6‑5 Reach Award Criteria
+s0806	Reach Award Criteria
+s0807	Required
+s0808	Team demonstrates outreach planning competency by clearly explaining ⟦0⟧all of ⟦/0⟧the following:
+s0809	A. its outreach objectives,
+s0810	B. the strategy behind its outreach activities, and
+s0811	C. how these activities support the growth of the ⟦0⟧FIRST⟦/0⟧ community.
+s0812	Required
+s0813	Team demonstrates successful recruitment of new teams, coaches, mentors, or volunteers who have not previously participated in the ⟦0⟧FIRST⟦/0⟧ community
+s0814	Encouraged
+s0815	Team demonstrates strong communication competencies by serving as an ambassador for ⟦0⟧FIRST⟦/0⟧ and increasing public awareness of ⟦1⟧FIRST⟦/1⟧ programs through effective outreach and communication.
+s0816	Encouraged
+s0817	Demonstrates media and promotion competencies by developing creative, continuously improving outreach materials that effectively introduce both the team and ⟦0⟧FIRST⟦/0⟧ to the public.
+s0818	6.3.5 Sustain Award
+s0819	The Sustain Award recognizes a team that has established the leadership, resources, and organizational practices needed to ensure that its team or program can continue and grow in future seasons. A PORTFOLIO is not required for this award.
+s0820	Table 6‑6 Sustain Award Criteria
+s0821	Sustain Award Criteria
+s0822	Required
+s0823	Team demonstrates organizational sustainability competency by explaining its plans for long-term success, including ⟦0⟧one or more⟦/0⟧ of the following:

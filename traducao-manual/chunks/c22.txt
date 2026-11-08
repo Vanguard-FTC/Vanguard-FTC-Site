@@ -1,0 +1,130 @@
+s1897	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧12.6 Power Distribution⟦/3⟧
+s1898	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧R601 ⟦/2⟧⟦3⟧*ROBOTS can contain only 1 main battery⟦/3⟧⟦4⟧⟦5⟧.⟦/5⟧⟦/4⟧ ROBOTS must contain 1 and only 1 approved 12V NiMH main battery. This battery is only legal source of electrical energy for the ROBOT control system and actuation during the competition and must be unaltered from the battery manufacturer state except as follows:
+s1899	A. the fuse may be replaced with a COTS equivalent in-line 20A ATM mini blade fuse installed per ⟦0⟧R610⟦/0⟧, and
+s1900	B. installed connectors may be replaced with other popular connectors such as Anderson Powerpole, XT30, or any connector with a comparable power rating.
+s1901	The only allowed ROBOT main power battery packs are:
+s1902	Table 12‑4: Legal ROBOT Main Power Battery Packs
+s1903	Battery Pack
+s1904	Part Number
+s1905	Notes
+s1906	AndyMark Flat Pack Battery DC 12V
+s1907	am-5290
+s1908	goBILDA 12V NiMH Nested Battery
+s1909	Matrix 12V 3000mAh NiMH
+s1910	May be labeled as “Modern Robotics”
+s1911	REV 12V Slim Battery
+s1912	REV-31-1302
+s1913	Studica 12V 3000mAh NiMH
+s1914	TETRIX MAX 12V 3000mAh NiMH
+s1915	Formerly 739023
+s1916	WATTOS 12V Battery
+s1917	WT-NMH1230
+s1918	There are many other similar style batteries available from multiple VENDORS, but only the listed manufactures and part numbers are legal for use at ⟦1⟧FIRST⟦/1⟧ Tech Challenge Events.
+s1919	⟦0⟧Other batteries may be used for self-contained devices as listed in ⟦/0⟧⟦1⟧R602⟦/1⟧⟦2⟧.⟦/2⟧
+s1920	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧R602 ⟦/2⟧⟦3⟧*Other batteries are only allowed for self-contained peripheral devices and LEDs only. ⟦/3⟧COTS USB battery packs with a capacity of 100Wh or less (27,000mAh at 3.7V), with 5V/5A max output or 12V/5A max output using USB-PD per port, and batteries integral to a self-contained devices such as camera (e.g., GoPro-style camera) may be used provided they are:
+s1921	A. not supplying power to any of the ROBOT actuators, and
+s1922	B. not used by any devices receiving control signals from the ROBOT control system (i.e., COTS USB battery packs must remain electrically isolated from the ROBOT power systems.). Exceptions to part B of this rule are:
+s1923	i. powered USB Hubs, and
+s1924	ii. ROBOT CONTROLLER smartphones.
+s1925	Any device receiving signals from a REV Control or Expansion Hub must be powered by the main ROBOT battery.
+s1926	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧R603 ⟦/2⟧⟦3⟧*Connect the ROBOT battery though the Main Power Switch.⟦/3⟧ Exactly one main power switch must control all power provided by the ROBOT battery pack to all power regulating devices on the ROBOT (except as specified by ⟦4⟧R602⟦/4⟧) such that all the following conditions are met:
+s1927	A. must be one of the following approved power switches:
+s1928	Table 12‑5: Legal Power Switches
+s1929	Power Switch
+s1930	Part Number
+s1931	AndyMark FTC Power Switch w/ Bracket
+s1932	am-4969
+s1933	goBILDA Floodgate Power Switch
+s1934	REV Switch Cable and Bracket
+s1935	REV-31-1387
+s1936	Studica On/Off Power Switch Kit
+s1937	TETRIX R/C Switch Kit
+s1938	WATTOS Power Switch Kit
+s1939	WTS-SW1220
+s1940	B. must be mounted or located where it is accessible to the team, away from high-speed moving parts and pinch hazards, and
+s1941	C. secondary power switches can be used on the 12V line downstream of the main power switch.
+s1942	There are no specific location requirements for the main power switch, but it should be located clear of any high-speed moving parts and pinch hazards. Teams are permitted to mount the main power switch behind removable panels.
+s1943	The main power switch should be mounted on the ROBOT such that it is protected from ROBOT-to-ROBOT contact to avoid inadvertent actuation or damage.
+s1944	⟦0⟧⟦/0⟧⟦1⟧R604 ⟦/1⟧⟦2⟧*Fuses must be used as directed and must not be modified⟦/2⟧. The intent of this rule is that teams utilize fuses as directed by a device manufacturer, and do not attempt to gain a competitive advantage by modifying the fuses, replacing the fuses with ones that have a higher trip point, or replacing them with fuses that are self-resetting.
+s1945	⟦0⟧⟦/0⟧⟦1⟧R605 ⟦/1⟧⟦2⟧*The ROBOT frame cannot be used as a current path.⟦/2⟧ All wiring and electrical devices shall be electrically isolated from the ROBOT frame. The ROBOT frame must not be used to carry electrical current. Electrically grounding the control system electronics to the frame of the ROBOT is only permitted such that all of the following conditions are met:
+s1946	A. straps/cables used must be from the following approved parts:
+s1947	Table 12‑6: Legal ROBOT Grounding Straps
+s1948	Grounding Strap
+s1949	Part Number
+s1950	AndyMark Resistive Grounding Strap
+s1951	am-4648a
+s1952	REV Resistive Grounding Strap
+s1953	REV-31-1269
+s1954	Swyft Grounding Cable
+s1955	SR-Ground-01
+s1956	B. the strap/cable must directly connect to a fully COTS COMPONENT with an XT30 connector, and also must connect directly to the frame of the ROBOT (via the resistive terminal), and
+s1957	C. no ROBOT COMPONENTS or MECHANISMS are designed to electrically ground the ROBOT frame to the FIELD.
+s1958	⟦0⟧For additional details on installation of the grounding strap, please see the⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧⟦3⟧ROBOT Wiring Guide⟦/3⟧.⟦/2⟧
+s1959	⟦0⟧⟦/0⟧⟦1⟧R606 ⟦/1⟧⟦2⟧*ROBOT CONTROLLER and the ROBOT electrical system must be inspectable.⟦/2⟧ ROBOT electrical COMPONENTS must be mounted with accessibility in mind, as follows:
+s1960	A. all power regulating devices (per ⟦0⟧R505⟦/0⟧), associated wiring, and all fuses must be able to be made visible for inspection, and
+s1961	B. the ROBOT CONTROLLER device must be mounted on the ROBOT such that the diagnostic lights, or device screen if applicable, can be visible for inspection.
+s1962	“Visible for inspection” does not require that the items be visible when the ROBOT is in STARTING CONFIGURATION or normally during a MATCH, provided the team can make the items viewable during the inspection process if necessary.
+s1963	Teams are strongly encouraged to make the diagnostic lights visible in all ROBOT configurations used during normal MATCH play. If diagnostic LEDs are not visible during a MATCH, FIELD STAFF may not be able to provide comprehensive support to the team.
+s1964	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧R607 ⟦/2⟧⟦3⟧*Custom Circuits must not provide regulated power above 5V unless they are only powering LEDs.⟦/3⟧ Any ⟦4⟧active electrical item that is not an actuator (specified in ⟦/4⟧⟦5⟧R501⟦/5⟧) or power regulation device (specified in ⟦6⟧R505⟦/6⟧) is considered a CUSTOM CIRCUIT. CUSTOM CIRCUITS shall not provide regulated output voltages exceeding 5V, except if solely used for powering LEDs. CUSTOM CIRCUITS may pass through unregulated battery voltage.
+s1965	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧R608 ⟦/2⟧⟦3⟧*All Power regulating devices must be connected and powered through approved ports.⟦/3⟧ All power regulating devices (⟦4⟧R505⟦/4⟧) must be powered per the manufacturer’s instructions and the following table must be true:
+s1966	Table 12‑7: Power Regulation Device Power Requirements
+s1967	Power Regulating Device
+s1968	Part Number
+s1969	Method of Powering
+s1970	goBILDA 6V Servo Power Injector
+s1971	Only powered using the XT30 connectors on the device by the ROBOT main battery
+s1972	REV Control Hub /
+s1973	REV Expansion Hub
+s1974	REV-31-1153 /
+s1975	REV-31-1595
+s1976	Only powered using the XT30 connectors on the device by the ROBOT main battery
+s1977	REV Servo Power Module
+s1978	REV-11-1144
+s1979	Only powered using the screw terminals and must only be powered by the ROBOT main battery
+s1980	REV Robotics Servo Hub
+s1981	REV-11-1855
+s1982	Only powered using the power terminals and must only be powered by the ROBOT main battery
+s1983	REV SPARKmini
+s1984	REV-31-1230
+s1985	Only powered by the Power input and must only be powered by the ROBOT main battery
+s1986	Studica Servo Power Block
+s1987	Only powered by JST-VH power connector, and must only be powered by the ROBOT main battery
+s1988	⟦0⟧⟦/0⟧⟦1⟧R609 ⟦/1⟧⟦2⟧*Use appropriately sized wire.⟦/2⟧ All circuits shall be wired with appropriately sized insulated wire:
+s1989	Table 12‑8: Wire sizing requirements
+s1990	Application
+s1991	Minimum Wire Size
+s1992	12V Main Battery Power
+s1993	18 AWG
+s1994	(19 SWG or 1 mm⟦0⟧2⟦/0⟧)
+s1995	Motor Power (unless otherwise listed)
+s1996	11-20A fuse protected circuit
+s1997	Motor Power - TETRIX MAX 12V DC Motors, REV Robotics Core Hex (REV-14-1300)
+s1998	22 AWG
+s1999	(22 SWG or 0.5 mm⟦0⟧2⟦/0⟧)
+s2000	PWM / Servo
+s2001	LEDs (5V / 12V)
+s2002	≤10A fuse protected circuit
+s2003	Signal level circuits (i.e., circuits which draw ⟦1⟧≤1A continuous and have a source incapable of delivering &gt;1A, including but not limited ⟦/1⟧to: I2C, DIO, Analog, encoder and RS485 connections)
+s2004	28 AWG
+s2005	(29 SWG or .08 mm⟦0⟧2⟦/0⟧)
+s2006	Integrated wires originally attached to legal COTS devices or wires included/sold by the manufacturer are considered part of the device and by default legal. Such wires are exempt from this rule.
+s2007	In order to show compliance with these rules, teams should use wire with clearly labeled sizes if possible. If unlabeled wiring is used, teams should be prepared to demonstrate that the wire used meets the requirements of this rule (e.g., wire samples and evidence that they are the required size).
+s2008	Combining multiple smaller wires in parallel cannot be used to create an equivalent larger wire which meets minimum wire cross section requirements.
+s2009	⟦0⟧⟦/0⟧⟦1⟧R610 ⟦/1⟧⟦2⟧*Use specified wire colors for specific buses. ⟦/2⟧The 12V main power bus and +5V auxiliary bus wires must be color-coded along their entire length. The following colors must be used:
+s2010	A. positive (e.g., +12VDC / +5V Aux): red, yellow, white, brown, or black-with-stripe, and
+s2011	B. negative (e.g., common/GND): black or blue.
+s2012	Note: this rule does not apply to other types of wires including, but not limited to: motor wiring, signal level wiring (e.g., encoder and sensor wires), servo cables, and extensions, or wires originally attached to legal devices by their manufacturer.
+s2013	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦3⟧R611 ⟦/3⟧⟦/2⟧⟦4⟧*Powered USB hubs must draw energy from approved sources.⟦/4⟧⟦5⟧⟦6⟧ Powered USB hubs used on the ROBOT can only be powered through one of the following ways: ⟦/6⟧⟦/5⟧
+s2014	A. an approved COTS USB battery Pack per ⟦0⟧R602⟦/0⟧, or
+s2015	B. the 5V auxiliary power port on the REV Expansion Hub or REV Control Hub.
+s2016	⟦0⟧⟦/0⟧⟦1⟧R612 ⟦/1⟧⟦2⟧*Do not modify critical power paths.⟦/2⟧ CUSTOM CIRCUITS must not directly alter the power or control pathways between:
+s2017	A. the ROBOT battery and main power switch,
+s2018	B. the main power switch and a power regulating device (per ⟦0⟧R603⟦/0⟧),
+s2019	C. any two power regulating devices (per ⟦0⟧R607⟦/0⟧), or
+s2020	D. power regulating devices and actuators.
+s2021	Dynamic electrical interfaces (including linear sliding contacts) or continuous-rotation electrical interfaces (including slip rings) placed along any of these pathways must be unmodified COTS items; custom or fabricated electrical interfaces of this type are prohibited.
+s2022	Custom high impedance voltage monitoring or low impedance current monitoring circuitry connected to the ROBOT’S electrical system is acceptable if the effect on power pathways is inconsequential.
+s2023	Altering a power pathway includes, but is not limited to, altering the voltage of the power pathway using a boost (DC voltage step-up) or buck (DC voltage step-down) converter or otherwise altering the natural variable DC voltage provided by the ROBOT battery to create a constant DC voltage.
+s2024	⟦0⟧⟦1⟧Devices that modify actuator control signals or power (except those allowed by ⟦/1⟧⟦/0⟧⟦2⟧R505⟦/2⟧⟦3⟧⟦4⟧) are prohibited, such as the goBILDA Servo Travel Tuner.⟦/4⟧⟦/3⟧
+s2025	⟦0⟧⟦/0⟧⟦1⟧R613 ⟦/1⟧⟦2⟧*Do not mix and match power on or between power regulation devices.⟦/2⟧ The following rules must be adhered to when using power on any power regulation device (per ⟦3⟧R505⟦/3⟧):
+s2026	A. sensors, encoders, and other devices must be powered solely by the power regulation device they are connected to. Do not use outside power sources (e.g., custom circuits or a second hub) to power them,

@@ -1,0 +1,65 @@
+s0088	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦5⟧⟦6⟧1 ⟦/6⟧⟦/5⟧⟦7⟧⟦8⟧Introduction⟦/8⟧⟦/7⟧⟦/4⟧
+s0089	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧1.1 ⟦3⟧⟦4⟧About ⟦5⟧FIRST⟦/5⟧⟦6⟧®⟦/6⟧⟦/4⟧⟦/3⟧⟦/2⟧⟦7⟧⟦8⟧ ⟦/8⟧⟦/7⟧
+s0090	⟦0⟧FIRST⟦/0⟧⟦1⟧®⟦/1⟧ (For Inspiration and Recognition of Science and Technology) was founded to inspire young people’s interest in science and technology. Since its founding, ⟦2⟧FIRST⟦/2⟧ has grown to be the world’s leading youth-serving nonprofit advancing STEM education and has become a worldwide movement: inspiring innovation, building confidence, and preparing young people for the future.
+s0091	Our programs have a ⟦0⟧proven and lasting impact⟦/0⟧ on learning, interest, and skill-building inside and outside of the classroom, and are only possible because of the ⟦1⟧FIRST⟦/1⟧ volunteers, educators, mentors, and sponsors who tirelessly support our students as they build their future.
+s0092	Each year participants experience firsthand the inspiration that comes from joining a global community of people with the same mission, and the bonding that comes from working to solve the same shared challenge. ⟦0⟧FIRST⟦/0⟧ students will go on a journey of discovery that merges the rigor of STEM learning with the fun and excitement of traditional sports.
+s0093	Please visit ⟦0⟧the ⟦1⟧FIRST⟦/1⟧ website⟦/0⟧ for more information about ⟦2⟧FIRST⟦/2⟧ and its programs.
+s0094	Purpose
+s0095	Vision
+s0096	Mission
+s0097	⟦0⟧FIRST⟦/0⟧ exists to prepare the young people of today for the world of tomorrow.
+s0098	To transform our culture by creating a world where science and technology are celebrated and where young people dream of becoming science and technology leaders.
+s0099	The mission of ⟦0⟧FIRST⟦/0⟧ is to provide life-changing robotics programs that give young people the skills, confidence, and resilience to build a better world.
+s0100	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧1.2 ⟦3⟧⟦4⟧⟦5⟧FIRST⟦/5⟧⟦/4⟧⟦/3⟧⟦/2⟧⟦6⟧⟦7⟧⟦8⟧®⟦/8⟧⟦/7⟧⟦/6⟧⟦9⟧⟦10⟧ ⟦/10⟧⟦/9⟧Tech Challenge⟦11⟧ ⟦/11⟧
+s0101	⟦0⟧FIRST⟦/0⟧ provides a wide spectrum of robotics experiences designed to meet students where they’re at: engaging and exciting students at every level, whatever their circumstances. What makes ⟦1⟧FIRST⟦/1⟧⟦2⟧®⟦/2⟧ Tech Challenge special among the family of exceptional ⟦3⟧FIRST⟦/3⟧ programs?
+s0102	Scale, Skill Level, Complexity, Flexibility, and Student Ownership
+s0103	- ⟦0⟧Scale.⟦/0⟧ With a classroom sized field and classroom safe robots - ⟦1⟧FIRST⟦/1⟧ Tech Challenge can be implemented anywhere students want to gather. The ability to succeed with smaller teams provides a social structure in which students on a team can either excel in all roles or specialize in a single role.
+s0104	- ⟦0⟧Skill Level.⟦/0⟧ ⟦1⟧FIRST⟦/1⟧ Tech Challenge provides challenges for students looking for championship play with advancement opportunities, and for those just now learning to play in their own classroom. It provides a scaffolded experience for growth that does not require experts to drive the experience, only caring adults to enable self-exploration.
+s0105	- ⟦0⟧Complexity.⟦/0⟧ Robots can be fully built from a basic Starter Kit, fully fabricated from custom designs, or built in a way that mixes both approaches. There are opportunities for advanced manufacturing, but non-classroom tools are optional, not required.
+s0106	- ⟦0⟧Flexibility.⟦/0⟧ With an extended season kicking off in September and running through March with capstone events held April through July, teams can adjust their season to incorporate intense peaks spread out between recovery periods or other school activities while still providing an improvement driven, iterative build experience.
+s0107	- ⟦0⟧Student Ownership⟦/0⟧⟦1⟧.⟦/1⟧ Smaller teams competing in an extended season with classroom safe robots enable students to learn independently through self-exploration and feel ownership over more of their team’s journey.
+s0108	And of course, ⟦0⟧FIRST⟦/0⟧ Tech Challenge provides all the opportunities for community, collaboration, outreach, and growth found across the ⟦1⟧FIRST⟦/1⟧ programs.
+s0109	Please visit the ⟦0⟧⟦1⟧FIRST⟦/1⟧ Tech Challenge⟦/0⟧ webpages for more details.
+s0110	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦3⟧⟦4⟧1.3 ⟦/4⟧⟦/3⟧⟦5⟧⟦6⟧⟦7⟧FIRST ⟦/7⟧⟦/6⟧⟦/5⟧⟦/2⟧⟦8⟧⟦9⟧Ethos and Core Values⟦/9⟧⟦/8⟧⟦10⟧⟦/10⟧
+s0111	⟦1⟧⟦2⟧1.3.1 ⟦/2⟧⟦/1⟧⟦3⟧⟦4⟧⟦5⟧Gracious Professionalism⟦/5⟧⟦/4⟧⟦/3⟧⟦6⟧⟦7⟧⟦8⟧®⟦/8⟧⟦/7⟧⟦/6⟧
+s0112	⟦0⟧Gracious Professionalism⟦/0⟧⟦1⟧®⟦/1⟧ is part of the ethos of ⟦2⟧FIRST⟦/2⟧. It's a way of doing things that encourages high-quality work, emphasizes the value of others, and respects individuals and the community.
+s0113	Through ⟦0⟧Gracious Professionalism⟦/0⟧, fierce competition and mutual gain coexist. Participants compete intensely while treating each other with respect and empathy. There is no trash talking, but there are also no disingenuous platitudes. Knowledge, competition, integrity, and empathy blend comfortably.
+s0114	Ultimately, ⟦0⟧Gracious Professionalism⟦/0⟧ is part of pursuing a meaningful life. When professionals use knowledge in a gracious manner and individuals act with integrity and sensitivity, everyone wins and society benefits.
+s0115	The term was coined by Dr. Woodie Flowers, (1943 - 2019) executive advisory board chair emeritus, distinguished advisor to ⟦0⟧FIRST⟦/0⟧, and father of competition robotics.
+s0116	⟦0⟧Figure ⟦/0⟧1‑1: Dr. Woodie Flowers, Father of Competition Robotics, Gracious Professionalism advocate and exemplar
+s0117	“The FIRST spirit encourages doing high-quality, well-informed work in a manner that leaves everyone feeling valued. Gracious Professionalism seems to be a good descriptor for part of the ethos of FIRST. It is part of what makes FIRST different and wonderful.”
+s0118	- Dr. Woodie Flowers
+s0119	⟦0⟧Gracious Professionalism⟦/0⟧ is a gift from Woodie, and all of us have now become its stewards. Woodie often said that it is not critical that we define ⟦1⟧Gracious Professionalism⟦/1⟧, but Woodie would continue to say it is very important to talk about ⟦2⟧Gracious Professionalism⟦/2⟧.
+s0120	⟦0⟧⟦1⟧Gracious Professionalism⟦/1⟧⟦/0⟧⟦2⟧ can be difficult to understand because the pursuit of it should be different for everyone. When talking about ⟦3⟧Gracious Professionalism⟦/3⟧, it is quickly evident that it has come to symbolize all that is good inside all of us and all that is good when we interact with one another and our world.⟦/2⟧
+s0121	It is an aspirational ideal to always strive towards, not a goal to be achieved, and not a method of measuring someone. For that reason, you can never say someone “is” or “is not” being Graciously Professional, but instead they might embody some of its aspects.
+s0122	Whenever something is being discussed as “not GP,” it’s more appropriate to talk about specific behaviors that need improvement. Was the person disrespectful? Impolite? Dishonest?
+s0123	Being Graciously Professional is more than any of its individual attributes.
+s0124	⟦0⟧Some possible meanings of ⟦/0⟧⟦1⟧⟦2⟧Gracious Professionalism⟦/2⟧ include:⟦/1⟧
+s0125	- gracious attitudes and behaviors that are win-win,
+s0126	- gracious folks respect others and let that respect show in their actions,
+s0127	- professionals possess special knowledge and are trusted by society to use that knowledge responsibly, and
+s0128	- gracious professionals make a valued contribution in a manner pleasing to others and to themselves.
+s0129	In the context of ⟦1⟧FIRST⟦/1⟧, this means that all teams and participants should:
+s0130	- learn to be strong competitors but also treat one another with respect and kindness in the process, and
+s0131	- avoid leaving anyone feeling as if they are excluded or unappreciated.
+s0132	Successful teams spend time going over this concept and reinforcing it regularly. Team members should work together to identify real-life examples of ⟦0⟧Gracious Professionalism⟦/0⟧ in practice. Routinely highlight opportunities to display aspects of ⟦1⟧Gracious Professionalism⟦/1⟧ to each other at events and encourage every team member to suggest ways in which they can embody aspects of this quality themselves.
+s0133	Figure 1‑2: Words which might apply to individuals embodying Gracious Professionalism.⟦0/⟧ What words would you put in your word cloud?
+s0134	⟦0⟧⟦/0⟧⟦1⟧⟦2⟧⟦3⟧1.3.2 ⟦/3⟧⟦/2⟧⟦4⟧⟦5⟧⟦6⟧Coopertition⟦/6⟧⟦/5⟧⟦/4⟧⟦7⟧⟦8⟧⟦9⟧®⟦/9⟧⟦/8⟧⟦/7⟧⟦/1⟧
+s0135	⟦0⟧Coopertition⟦/0⟧⟦1⟧®⟦/1⟧ is displaying unqualified kindness and respect in the face of fierce competition. It is founded on the concept and philosophy that teams can cooperate and help one another even when they’re directly competing against each other. The alliance structure of ⟦2⟧FIRST⟦/2⟧ Tech Challenge inherently showcases ⟦3⟧Coopertition⟦/3⟧⟦4⟧®⟦/4⟧ - a team’s opponent in one match may be their alliance partner in the next. In this sense, every team benefits when everyone plays their best.⟦5⟧⟦/5⟧
+s0136	⟦0⟧⟦1⟧1.3.3 ⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧Core Values⟦/3⟧⟦/2⟧
+s0137	The ⟦0⟧FIRST⟦/0⟧ Core Values are fundamental to ⟦1⟧FIRST⟦/1⟧ and unique to our programs. They emphasize friendly sportsmanship, respect for the contributions of others, teamwork, learning, and community involvement. Our community expresses the ⟦2⟧FIRST⟦/2⟧ philosophies of ⟦3⟧Gracious Professionalism⟦/3⟧⟦4⟧®⟦/4⟧ and ⟦5⟧Coopertition⟦/5⟧⟦6⟧®⟦/6⟧ through the ⟦7⟧FIRST⟦/7⟧ Core Values.
+s0138	- ⟦0⟧Discovery⟦/0⟧: We explore new skills and ideas.
+s0139	- ⟦0⟧Innovation⟦/0⟧: We use creativity and persistence to solve problems.
+s0140	- ⟦0⟧Impact⟦/0⟧: We apply what we learn to improve our world.
+s0141	- ⟦0⟧Inclusion⟦/0⟧: We respect each other and embrace our differences.
+s0142	- ⟦0⟧Teamwork⟦/0⟧: We are stronger when we work together.
+s0143	- ⟦0⟧Fun⟦/0⟧: We enjoy and celebrate what we do!
+s0144	1.3.4 Why Embrace the ⟦0⟧FIRST⟦/0⟧ Ethos and ⟦1⟧Gracious Professionalism⟦/1⟧?
+s0145	Some people new to ⟦0⟧FIRST⟦/0⟧ and our values may think: ⟦1⟧“This doesn’t apply to me. I don’t see this in the world around me. Why do I need to act this way?”⟦/1⟧
+s0146	To build a better world, pursue a more meaningful life, and celebrate all that makes us uniquely human.
+s0147	⟦0⟧Build a Better World⟦/0⟧⟦1/⟧ Our mission is to “give young people the skills, confidence, and resilience to build a better world.” What kind of world do we want that to be? What kind of culture do we want to be a part of?
+s0148	We at ⟦0⟧FIRST⟦/0⟧ believe that a world where everyone strives to embody the ⟦1⟧FIRST⟦/1⟧ values and demonstrate ⟦2⟧Gracious Professionalism⟦/2⟧ in their actions would be a pretty great world to live in.
+s0149	⟦0⟧Pursue a Meaningful Life⟦/0⟧⟦1/⟧ And, these actions make people feel good! We know, being an effective contributor is a huge part of feeling good about yourself. These behaviors will have a positive impact in all areas of your life.
+s0150	Working hard can be fun and profoundly satisfying, and achieving this rational self-esteem is a big part of long-term happiness. You may start these behaviors because you’re trying to build a better world, but you’ll also find yourself building a more meaningful life.
+s0151	⟦0⟧Still skeptical? Try it in ⟦1⟧FIRST⟦/1⟧.⟦/0⟧⟦2/⟧ In many ways, ⟦3⟧FIRST⟦/3⟧ is practice for the real world; we have the chance to shape the ⟦4⟧FIRST⟦/4⟧ community however we want. We’re giving students the opportunity to make Graciously Professional choices when it’s easy - so they’ll see how it feels, learn how it works, and be prepared to do the same when it’s ⟦5⟧not⟦/5⟧ as easy.
+s0152	We get what we celebrate: so, let’s celebrate hard work, integrity, fair play, sportsmanship, empathy, and all the things which make us uniquely human.⟦0/⟧

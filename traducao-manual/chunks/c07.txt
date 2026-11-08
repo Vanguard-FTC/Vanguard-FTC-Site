@@ -1,0 +1,65 @@
+s0535	⟦0⟧⟦/0⟧⟦1⟧E505 ⟦/1⟧⟦2⟧*Only small benchtop machinery is permitted in team pits.⟦/2⟧ Small machinery is allowed but floor standing power tools are prohibited. The Event Director may impose additional limitations.
+s0536	‘Small’ machinery is machinery that can be easily lifted by one person and examples include, but are not limited to: 3D printers, small band saws, small drill presses, desktop CNC mills, and sanders.
+s0537	Examples of prohibited machinery include, but are not limited to: full-size free standing drill presses, and band saws.
+s0538	⟦0⟧⟦/0⟧⟦1⟧E506 ⟦/1⟧⟦2⟧*No brazing or welding.⟦/2⟧ Brazing/welding is prohibited.
+s0539	⟦0⟧⟦/0⟧⟦1⟧E507 ⟦/1⟧⟦2⟧*Solder with specific tools only.⟦/2⟧ Soldering may be done using an electric iron/gun only.
+s0540	⟦0⟧⟦/0⟧⟦1⟧E508 ⟦/1⟧⟦2⟧*Pit structures must be safe.⟦/2⟧ Teams may not build any structure that supports the weight of people or stores items overhead. Structures may not block or inhibit fire sprinkler systems or otherwise be unsafe. The Event Director may impose additional restrictions.
+s0541	⟦0⟧Popup tents may be used assuming they comply with ⟦/0⟧⟦1⟧E502⟦/1⟧⟦2⟧, but the coverings may violate this rule if they interfere with fire suppression systems. ⟦/2⟧
+s0542	⟦0⟧⟦/0⟧⟦1⟧E509 ⟦/1⟧⟦2⟧*Only use aerosol or other chemicals with noxious fumes in approved areas.⟦/2⟧ Any aerosol or chemical that produces noxious fumes or sprays particulates should only be used in approved areas. Not all venues will allow the use of these products anywhere on site.
+s0543	⟦0⟧⟦/0⟧⟦1⟧E510 ⟦/1⟧⟦2⟧*Don’t heat or cool ROBOT components to gain an advantage.⟦/2⟧ Teams may not attempt to gain a competitive advantage by heating or cooling ROBOT parts above or below the ambient temperature of the venue.
+s0544	The intent of this rule is that ROBOTS should compete as if they were left alone for an extended period of time in the competition venue at ambient temperature. Behaviors that are against the spirit of this rule include, but are not limited to:
+s0545	- ⟦0⟧Cooling fuses so they take longer to trip than normal,⟦/0⟧
+s0546	- ⟦0⟧Heating batteries to increase their performance, and⟦/0⟧
+s0547	- ⟦0⟧Freezing heatsinks so they are more effective at cooling other components.⟦/0⟧
+s0548	Examples of behaviors that would not violate this rule include, but are not limited to:
+s0549	- ⟦0⟧Heating or cooling components for reasons unrelated to ROBOT performance (e.g., warming up heat shrink tubing during installation)⟦/0⟧
+s0550	- ⟦0⟧Using a battery that is slightly above ambient temperature as a result of its regular charging cycle, and⟦/0⟧
+s0551	- ⟦0⟧Using a ROBOT with components that are warm as a result of prior use.⟦/0⟧
+s0552	⟦0⟧⟦/0⟧⟦1⟧E511 ⟦/1⟧⟦2⟧*Charge batteries in a safe and fair manner.⟦/2⟧ When charging batteries teams must:
+s0553	A. Charge batteries at a safe rate, following all manufacturer recommendations,
+s0554	B. Never charge batteries on a battery charger that exceeds a 3-amp average channel current, and
+s0555	C. Charge batteries using safe connectors.
+s0556	Safe connectors are those with a polarized connector corresponding to the connector on the battery itself. Batteries must never be charged using alligator clips or similar.
+s0557	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧5.6 ROBOT Carts⟦/3⟧
+s0558	⟦0⟧⟦/0⟧⟦1⟧⟦2⟧E601 ⟦/2⟧⟦/1⟧⟦3⟧*Carts must not be a nuisance. ⟦/3⟧⟦4⟧⟦5⟧Teams may use carts to transport their ROBOT throughout an event. Carts must:⟦/5⟧⟦/4⟧
+s0559	A. be easy to control and maneuver,
+s0560	B. pose no risk to bystanders,
+s0561	C. fit through a standard 30-inch (762mm) door,
+s0562	D. remain in the team pit when not in use,
+s0563	E. not be equipped with music or other sound generating device, and
+s0564	F. not use powered propulsion.
+s0565	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧5.7 Ceremonies⟦/3⟧
+s0566	At most events, there are opening and closing ceremonies to show honor and respect for represented countries, sponsors, teams, mentors, volunteers, and award winners. Ceremonies provide everyone with the opportunity to collectively applaud the successes of all participants. They also give teams a chance to "meet" the volunteers, sponsors, and supporters involved with the event. Closing ceremony elements are at the end of most events and are integrated into and presented between Playoff MATCHES.
+s0567	At the awards ceremony, ⟦0⟧FIRST⟦/0⟧ presents trophies and medallions to outstanding teams. All team members are encouraged to attend the ceremonies, be punctual, and show appreciation to volunteers that staffed the event, and celebrate their fellow teams.
+s0568	⟦0⟧⟦/0⟧⟦1⟧E701 ⟦/1⟧⟦2⟧*Quiet in the pits during ceremonies. ⟦/2⟧During ceremonies outside of Playoff MATCHES, team members may not:
+s0569	A. use power tools,
+s0570	B. use loud hand tools (hammers, saws, etc.), or
+s0571	C. shout, yell, or use loud voices in a way that’s disruptive to the ceremony.
+s0572	⟦0⟧⟦/0⟧⟦1⟧E702 ⟦/1⟧⟦2⟧*Pit person limit during ceremonies is 5.⟦/2⟧ No more than 5 team members may be in the pits during ceremonies outside of Playoff MATCHES. Each team must have at least 1 representative observing ceremonies to be responsible for relaying important information to the entire team.
+s0573	All teams are encouraged to have as many people in the stands for ceremonies as possible. This is important both to celebrate all who are recognized during ceremonies, but also to listen for important day-of information from event organizers which might be critical for your team.
+s0574	⟦0⟧⟦/0⟧⟦1⟧E703 ⟦/1⟧⟦2⟧*Be respectful during anthems.⟦/2⟧ Team members, including any remaining in the pits, should exhibit peaceful behavior during the presentation of all national anthems. If team members wish to abstain from traditional anthem observance behaviors, they have a right to do so, as long as they remain silent and non-disruptive.
+s0575	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧⟦6⟧6 Awards⟦/6⟧ (A)
+s0576	This section includes a high-level description of each of the components of judging and ROBOT game specific awards in ⟦1⟧FIRST⟦/1⟧ Tech Challenge.
+s0577	⟦0⟧FIRST⟦/0⟧ Tech Challenge celebrates the excitement of competition both on and off the field. Through the following awards, we celebrate the ⟦1⟧FIRST⟦/1⟧ Core Values which makes us so much “⟦2⟧More than Robots⟦/2⟧⟦3⟧®⟦/3⟧”. Please note that different event types (e.g., League Tournaments, Regional Championship, ⟦4⟧FIRST⟦/4⟧ Championship) or event sizes may offer different sets of awards. Not every award is presented at every ⟦5⟧FIRST⟦/5⟧ Tech Challenge event. No awards are presented at League Meets - see Section ⟦6⟧14⟦/6⟧⟦7⟧ ⟦/7⟧⟦8⟧League Play Tournaments (L)⟦/8⟧; additional details by event type are available in the sections below.
+s0578	Team judged awards are determined by volunteers from the community who prepare for the event with thorough training and certification. There are two key judging volunteer roles:
+s0579	- ⟦0⟧JUDGES⟦/0⟧ – meet with teams to learn about and celebrate the unique journey and accomplishments of each team and evaluate these against award requirements. JUDGES interact with STUDENTS in the pits and sometimes in dedicated judging spaces. As a group, JUDGES ⟦1⟧determine the teams that receive awards at events ⟦/1⟧with the guidance of the JUDGE Advisor.
+s0580	- ⟦0⟧JUDGE Advisor (JA)⟦/0⟧ – trains, directs, and supervises JUDGES throughout the event. JUDGE Advisors oversee the judging processes and procedures to make sure they are in accordance with ⟦1⟧FIRST⟦/1⟧ Tech Challenge judging guidelines but they do not select who wins the awards.
+s0581	⟦0⟧FIRST⟦/0⟧ Tech Challenge judging is delivered in one of two ways. Most events will have in-person (“traditional”) judging along with the standard in-person gameplay. The second option is hybrid format which has in-person gameplay, but some or all judging is done remotely for all teams before in-person gameplay. This manual will primarily describe the traditional in-person judging process. The remote judging process follows the same overall judging standards and requirements, but some or all interviews are conducted online, and in-person meetings may not occur.
+s0582	Teams may also read the ⟦0⟧Judge⟦/0⟧ and ⟦1⟧Judge Advisor Manuals⟦/1⟧ to gain more insight into the complete judging process. Teams are also encouraged to review the ⟦2⟧Outreach Terms and Definitions Document⟦/2⟧ to ensure all teams can clearly communicate with JUDGES and our community the great things they do to grow ⟦3⟧FIRST⟦/3⟧.
+s0583	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧6.1 Team Judged Awards Overview and Schedule⟦/2⟧
+s0584	⟦0⟧⟦1⟧FIRST⟦/1⟧ Tech Challenge team judged awards fall into three categories, which have one or more awards each: Machine, Creativity, and Innovation (MCI), Team Attributes (TA), and Documentation. In addition, the Judges’ Choice Award is given to a stand-out team which was not recognized in one of the other categories. The most prestigious, all-around award is Inspire Award (⟦/0⟧Figure 6‑1⟦2⟧). ⟦/2⟧
+s0585	⟦0⟧The local Program Delivery Partner may elect to give additional awards to celebrate local sponsors or initiatives, but these awards are not considered Team Judged Awards for the purposes of advancement calculations as described in Section ⟦/0⟧⟦1⟧4⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧Advancement⟦/3⟧⟦4⟧. ⟦/4⟧
+s0586	⟦0⟧Figure ⟦/0⟧6‑1: Award hierarchy
+s0587	⟦0⟧- ⟦/0⟧⟦1⟧The ⟦2⟧Inspire Award⟦/2⟧ recognizes teams who excel in MCI, TA, and Documentation accomplishments. This team is an all-around inspiration for others. ⟦/1⟧
+s0588	⟦0⟧- ⟦/0⟧⟦1⟧⟦2⟧MCI awards⟦/2⟧ recognize the technical accomplishments of teams in the brainstorming, design, construction, operation, and control of their ROBOTS.⟦/1⟧
+s0589	⟦0⟧- ⟦/0⟧⟦1⟧⟦2⟧TA awards⟦/2⟧ recognize teams who have expanded their skillset, created a plan to sustain their program and team, and spread the message of ⟦3⟧FIRST⟦/3⟧ throughout their outreach.⟦/1⟧
+s0590	⟦0⟧- ⟦/0⟧⟦1⟧The ⟦2⟧Think Award⟦/2⟧ recognizes teams who masterfully document their team’s process and ROBOT using their PORTFOLIO.⟦/1⟧
+s0591	⟦0⟧- ⟦/0⟧⟦1⟧⟦2⟧Judges’ Choice Award⟦/2⟧ recognizes ⟦/1⟧a team whose unique efforts, performance, or dynamics merit recognition, but does not fit into any of the other award categories.
+s0592	The JUDGES will gather information from the teams through several different pathways (Figure 6‑2). All teams will have the opportunity to submit a team PORTFOLIO which should document aspects of their team which directly support the team judged award criteria or information which they would like the JUDGES to consider.
+s0593	⟦0⟧All award winners chosen by the JUDGES are recognized as being positive examples of the award criteria, not necessarily the “best” team. JUDGES will only consider the published award criteria in Section ⟦/0⟧⟦1⟧6.3 ⟦/1⟧⟦2⟧Team Judged Award Descriptions⟦/2⟧⟦3⟧.⟦/3⟧
+s0594	Teams may participate in judging regardless of the inspection status of their ROBOT and are eligible for awards even if they are attending the event without a ROBOT.
+s0595	6.1.1 Sources of Information Considered for Awards
+s0596	JUDGES will use the Initial Interview, any follow-up interview, and the PORTFOLIO (where applicable) as sources of information for each award consideration.
+s0597	⟦0⟧Figure ⟦/0⟧6‑2: Sources of Information for Team Judged Awards.
+s0598	In addition to the specific information sources JUDGES use to evaluate teams, there are also sources of information which are specifically disallowed. JUDGES are strictly instructed to only consider information from the current event and the current season.
+s0599	For the purposes of judging, the current season begins on January 1, 2026. JUDGES cannot consider information from outside of what they have seen or heard at the current event.

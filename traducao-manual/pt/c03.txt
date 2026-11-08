@@ -1,0 +1,72 @@
+s0231 | As palavras-chave que têm um significado específico no contexto do ⟦0⟧FIRST⟦/0⟧ Tech Challenge e do BIOBUZZ são definidas na Seção ⟦1⟧16⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧Glossário⟦/3⟧ e indicadas em MAIÚSCULAS ao longo deste documento.
+s0232 | O método de numeração das regras indica a seção, a subseção e a posição da regra dentro dessa subseção. A letra indica a seção em que a regra é publicada.
+s0233 | - I para a Seção ⟦0⟧3⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Elegibilidade para a Competição e Inspeção (I)⟦/2⟧
+s0234 | - E para a Seção ⟦0⟧5⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Regras do Evento (E)⟦/2⟧
+s0235 | - A para a Seção ⟦0⟧6⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Premiações (A)⟦/2⟧
+s0236 | - G para a Seção ⟦0⟧11⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Regras do Jogo (G)⟦/2⟧
+s0237 | - R para a Seção ⟦0⟧12⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Regras de Construção do ROBÔ (R)⟦/2⟧
+s0238 | - T para a Seção ⟦0⟧13⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Torneio (T)⟦/2⟧
+s0239 | - L para a Seção ⟦0⟧14⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Torneios de Liga (L)⟦/2⟧
+s0240 | - C para a Seção ⟦0⟧15⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧FIRST Championship (C)⟦/2⟧
+s0241 | O(s) dígito(s) seguinte(s) representa(m) a subseção em que a regra pode ser encontrada. Os dígitos finais indicam a posição da regra dentro dessa subseção.
+s0242 | Figura 1‑3 Método de numeração das regras
+s0243 | Avisos, precauções e observações aparecem em caixas laranja. Preste muita atenção ao seu conteúdo, pois elas têm a finalidade de fornecer informações sobre o raciocínio por trás de uma regra, informações úteis para entender ou interpretar uma regra e/ou possíveis “boas práticas” para uso ao implementar sistemas afetados por uma regra.
+s0244 | Embora as caixas laranja façam parte do manual, elas não têm o mesmo peso da regra em si (se houver um conflito não intencional entre uma regra e a sua caixa laranja, a regra prevalece sobre o texto da caixa laranja).
+s0245 | As dimensões imperiais são seguidas por dimensões métricas comparáveis entre parênteses, para fornecer aos usuários do sistema métrico o tamanho, a massa etc. aproximados. As conversões métricas (por exemplo, dimensões) são arredondadas para o 0,05 cm mais próximo, por exemplo, "17.5 in. (~44.45 cm).” As conversões métricas são oferecidas apenas para referência conveniente e não anulam nem substituem as dimensões imperiais apresentadas neste manual e nos desenhos oficiais (ou seja, as dimensões e as regras sempre se submeterão às medições em unidades imperiais).
+s0246 | As regras incluem linguagem coloquial, também chamada de títulos de destaque (headlines), em um esforço para transmitir uma versão resumida da regra ou do conjunto de regras. Existem duas versões de formatação dos títulos de destaque. As regras Evergreen (perenes), que são regras que se espera que estejam presentes em todas as temporadas, com apenas os seus detalhes específicos mudando de uma temporada para outra, são indicadas com o seu título de destaque apresentado em ⟦0⟧*texto verde em negrito⟦/0⟧ com um asterisco no início. Isso significa que o assunto geral e a presença da regra de uma temporada para outra são constantes, mas os detalhes e termos específicos do jogo podem ser atualizados conforme necessário (por exemplo, alterar termos específicos do jogo, alterar os detalhes específicos sobre a expansão do ROBÔ em uma regra Evergreen sobre limites de expansão, ou alterar a quantidade de motores permitida em uma regra Evergreen sobre atuadores). Essas regras também iniciam as suas respectivas seções, de modo que é menos provável que o seu número de regra mude de uma temporada para outra. Todos os outros títulos de destaque de regras usam ⟦1⟧texto laranja em negrito⟦/1⟧. ⟦2/⟧ ⟦3/⟧ Qualquer divergência entre a linguagem específica usada nas regras e a linguagem coloquial é um erro, e a linguagem específica da regra é a autoridade final. Se você descobrir uma disparidade, avise-nos em ⟦4⟧customerservice@firstinspires.org⟦/4⟧.
+s0247 | Os recursos para equipes que, em geral, não são específicos de uma temporada (por exemplo, o que esperar em um evento, recursos de comunicação, recomendações de organização de equipe) podem ser encontrados na ⟦0⟧Página de Recursos do ⟦1⟧FIRST ⟦/1⟧Tech Challenge⟦/0⟧.
+s0248 | 1.7.2 Traduções e Outras Versões
+s0249 | O Manual de Competição do ⟦0⟧FIRST⟦/0⟧ Tech Challenge é originalmente e oficialmente escrito em inglês e, ocasionalmente, é traduzido para outros idiomas em benefício das equipes do ⟦1⟧FIRST⟦/1⟧ Tech Challenge cuja língua nativa pode não ser o inglês. Esses materiais são publicados na página de ⟦2⟧Materiais do Jogo e da Temporada (Game and Season Materials)⟦/2⟧.
+s0250 | Uma versão em inglês baseada em texto pode ser fornecida apenas para uso com dispositivos de tecnologia assistiva e não para redistribuição. Para mais informações, entre em contato com o ⟦0⟧FIRST⟦/0⟧ Tech Challenge em ⟦1⟧customerservice@firstinspires.org⟦/1⟧.
+s0251 | Recursos adicionais, como um ⟦0⟧Chatbot de IA do ⟦1⟧FIRST⟦/1⟧ Tech Challenge⟦/0⟧, são fornecidos como ferramenta de apoio, mas o Manual de Competição é a autoridade final. Caso uma regra ou descrição seja modificada em uma versão alternativa deste manual, a versão mais recente em PDF em inglês, conforme publicada na página de ⟦2⟧Materiais do Jogo e da Temporada⟦/2⟧, é a versão oficial.
+s0252 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧1.7.3 Atualizações de Equipe (Team Updates)
+s0253 | As Atualizações de Equipe são usadas para notificar a comunidade do ⟦0⟧FIRST⟦/0⟧ Tech Challenge sobre revisões na documentação oficial da temporada (por exemplo, o manual, os desenhos) ou notícias importantes da temporada. As postagens de Atualização de Equipe são programadas da seguinte forma na página de ⟦1⟧Materiais do Jogo e da Temporada⟦/1⟧:
+s0254 | - Toda quinta-feira, começando no dia do Kickoff e terminando duas semanas antes do ⟦0⟧FIRST⟦/0⟧ Championship.
+s0255 | As Atualizações de Equipe são indicadas usando a seguinte formatação:
+s0256 | - As adições são destacadas em amarelo. ⟦0⟧Este é um exemplo.⟦/0⟧
+s0257 | - As exclusões são indicadas com texto tachado. ⟦0⟧Este é um exemplo.⟦/0⟧
+s0258 | As Atualizações de Equipe publicadas após a reunião de pilotos (driver’s meeting) em um evento não se aplicarão a esse evento.
+s0259 | 1.7.4 Sistema de Perguntas e Respostas
+s0260 | O ⟦0⟧Sistema de Perguntas e Respostas (Q&A)⟦/0⟧ é um recurso para as equipes fazerem perguntas sobre a jogabilidade, as regras da competição, a avaliação e o avanço, as regras de construção do ROBÔ e a montagem do CAMPO. As equipes podem pesquisar perguntas e respostas feitas anteriormente ou fazer novas perguntas. As perguntas podem incluir exemplos para maior clareza ou referenciar várias regras para entender as relações e as diferenças entre elas.
+s0261 | O Q&A abre em 28 de setembro de 2026, às 12h (horário do leste dos EUA, ET). ⟦0⟧O acesso ao sistema de Q&A do Jogo é feito pela conta do ⟦/0⟧Treinador Principal 1 (Lead Coach 1)⟦1⟧ ou do ⟦/1⟧Treinador Principal 2 (Lead Coach 2)⟦2⟧ no ⟦/2⟧⟦3⟧painel da ⟦4⟧FIRST⟦/4⟧ (FIRST dashboard)⟦/3⟧⟦5⟧. ⟦/5⟧
+s0262 | O Q&A pode resultar em revisões do texto dos manuais oficiais (que são comunicadas usando o processo descrito na Seção ⟦0⟧1.7.3⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Atualizações de Equipe⟦/2⟧).
+s0263 | Os moderadores responderão às perguntas das equipes a partir de cada segunda-feira e encerrarão na quinta-feira às 17h (ET). As respostas do Q&A não substituem o texto do manual, embora seja feito todo o possível para eliminar inconsistências entre os dois. Embora as respostas fornecidas no Q&A possam ser usadas para auxiliar a discussão em cada evento, os ÁRBITROS e os INSPETORES são a autoridade máxima sobre as regras. Se você tiver preocupações sobre tendências de aplicação das regras pelas autoridades voluntárias, ⟦0⟧notifique a ⟦1⟧FIRST⟦/1⟧⟦/0⟧.
+s0264 | O Q&A não é um recurso para previsões firmes sobre como uma situação se desenrolará em um evento. Perguntas sobre os seguintes assuntos podem não ser respondidas:
+s0265 | - decisões sobre situações vagas
+s0266 | - contestação de decisões tomadas em eventos passados
+s0267 | - revisões de projeto de um sistema do ROBÔ quanto à legalidade
+s0268 | - perguntas excessivamente amplas, vagas e/ou que não incluem referências a regras
+s0269 | - perguntas sobre como um ÁRBITRO deveria ter decidido quando uma jogada específica ocorreu em um evento passado
+s0270 | - perguntas duplicadas
+s0271 | - perguntas claramente definidas/tratadas neste manual
+s0272 | Boas perguntas indagam de forma genérica sobre características de peças ou projetos, cenários de jogo ou regras, e frequentemente referenciam uma ou mais regras relevantes dentro da pergunta. Alguns exemplos de perguntas que provavelmente serão respondidas no Q&A são:
+s0273 | - Um dispositivo que estamos considerando usar no ROBÔ vem com fio roxo AWG 40; isso está de acordo com R?? e R??
+s0274 | - Não temos certeza de como interpretar se a Regra G?? se aplica caso o ROBÔ azul A faça X e o ROBÔ vermelho B faça Y; podem esclarecer?
+s0275 | - Se um ROBÔ faz esta ação específica, ele está fazendo o que este termo definido descreve?
+s0276 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧2 Visão Geral da Temporada ⟦4⟧FIRST⟦/4⟧⟦/3⟧
+s0277 | ⟦0⟧Projete um Planeta Próspero com a ⟦/0⟧⟦1⟧⟦2⟧FIRST⟦/2⟧⟦/1⟧
+s0278 | Nada na Terra prospera sozinho. Cada gene, espécie e ecossistema faz parte de uma rica teia de diversidade biológica que sustenta o ar limpo, a água doce e os alimentos. Com a STEM como ferramenta e a natureza como inspiração, os inovadores mais ousados de hoje estão encontrando novas maneiras de fortalecer as conexões que protegem o nosso lar compartilhado.
+s0279 | Construir. Resolver problemas. Crescer mais forte por meio do trabalho em equipe.
+s0280 | Bem-vindo ao ⟦0⟧FIRST⟦/0⟧⟦1⟧®⟦/1⟧ CANOPY™, a nossa temporada de robótica 2026-2027 inspirada na natureza.
+s0281 | ⟦0⟧SAIBA MAIS:⟦/0⟧ ⟦1⟧https://www.firstinspires.org/first-canopy⟦/1⟧
+s0282 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧⟦6⟧⟦/6⟧⟦7⟧⟦/7⟧3 Elegibilidade para a Competição e Inspeção (I)
+s0283 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧3.1 Regras de Elegibilidade das Equipes⟦/5⟧
+s0284 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧I101 ⟦/2⟧⟦3⟧*As equipes devem estar registradas na ⟦4⟧FIRST⟦/4⟧.⟦/3⟧ As equipes devem estar “prontas para competir” para poderem competir nos eventos oficiais do ⟦5⟧FIRST⟦/5⟧ Tech Challenge e ganhar pontos de PARTIDA ou ser elegíveis a prêmios julgados.
+s0285 | A. América do Norte — requisitos para estar pronta para competir:
+s0286 | i. concluir o processo anual de registro pelo painel da ⟦0⟧FIRST⟦/0⟧
+s0287 | ii. pagar a taxa anual de registro
+s0288 | iii. 2 adultos devem ser designados nas funções de Treinador Principal 1/Treinador Principal 2 (Lead Coach 1/Lead Coach 2) e ter sido aprovados na ⟦0⟧triagem do Programa de Proteção de Jovens (Youth Protection Program, YPP)⟦/0⟧,
+s0289 | iv. cumprir quaisquer requisitos adicionais de triagem de Proteção de Jovens (podem variar de região para região), e
+s0290 | v. registrar todos os membros jovens da equipe no painel da ⟦0⟧FIRST⟦/0⟧.
+s0291 | B. fora da América do Norte — requisitos para estar pronta para competir:
+s0292 | i. concluir o processo anual de registro pelo painel da ⟦0⟧FIRST⟦/0⟧ e
+s0293 | ii. cumprir quaisquer requisitos adicionais do Parceiro de Entrega do Programa ⟦0⟧FIRST⟦/0⟧ local com relação a taxas do programa, registros e triagem de proteção de jovens.
+s0294 | ⟦0⟧⟦1⟧O ⟦/1⟧⟦/0⟧⟦2⟧Parceiro de Entrega do Programa local ⟦3⟧⟦4⟧pode, em casos raros, abrir exceções para pagamento atrasado, caso a caso. As equipes que não tiverem pago as taxas anuais de registro não terão nenhum histórico oficial da temporada e não poderão avançar.⟦/4⟧⟦/3⟧⟦/2⟧
+s0295 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦4⟧I102 ⟦/4⟧⟦/3⟧⟦5⟧*Faça o check-in no evento no horário.⟦/5⟧⟦6⟧⟦7⟧ Um membro adulto da equipe deve fazer o check-in na estação de Administração dos Boxes (Pit Administration), ou no local de check-in designado, no máximo 45 minutos antes do horário programado para o início das PARTIDAS Classificatórias, salvo se especificado ou aprovado de outra forma pelo ⟦/7⟧⟦/6⟧Diretor do Evento⟦8⟧⟦9⟧. O check-in deve ser concluído por um adulto da equipe, e pelo menos um ESTUDANTE deve estar presente no local antes que o check-in possa ser concluído.⟦/9⟧⟦/8⟧⟦10⟧⟦11⟧ ⟦/11⟧⟦/10⟧
+s0296 | ⟦0⟧⟦1⟧Os requisitos adicionais de check-in variam por região, mas podem exigir um ou mais dos seguintes itens⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧: ⟦/3⟧⟦/2⟧
+s0297 | A. uma lista de membros (roster) atual e completa da equipe, a partir do ⟦0⟧painel da ⟦1⟧FIRST⟦/1⟧⟦/0⟧ da equipe, conforme especificado pelo Parceiro de Entrega do Programa local,
+s0298 | B. formulários de registro ou de consentimento de membros da equipe do Parceiro de Entrega do Programa local (variam por região),
+s0299 | C. um ROBÔ construído de acordo com as especificações da Seção ⟦0⟧12 ⟦/0⟧⟦1⟧Regras de Construção do ROBÔ (R)⟦/1⟧, se pretenderem participar das PARTIDAS, e
+s0300 | D. um PORTFÓLIO impresso da equipe (opcional, ver Seção ⟦0⟧6⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Premiações (A)⟦/2⟧).
+s0301 | As equipes deveriam estar cientes do cronograma da competição e anotar quaisquer atividades importantes (como inspeção ou avaliação dos juízes) que possam ocorrer antes do prazo de check-in.
+s0302 | ⟦0⟧⟦1⟧Todas as equipes, independentemente de quão “prontas” achem que estão, são incentivadas a participar da jogabilidade e das avaliações. As equipes são incentivadas a procurar o seu ⟦/1⟧⟦/0⟧⟦2⟧Parceiro de Entrega do Programa ⟦3⟧⟦4⟧e outras equipes para pedir ajuda para deixar o seu ROBÔ pronto para competir antes de comparecer a um evento. ⟦/4⟧⟦/3⟧⟦/2⟧

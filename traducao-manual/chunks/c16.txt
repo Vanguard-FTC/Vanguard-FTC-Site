@@ -1,0 +1,75 @@
+s1379	Examples of equipment that may be considered a safety hazard in the confined space of the ALLIANCE AREA include but are not limited to: a ladder or a large signaling device.
+s1380	⟦0⟧Using an item that has wireless communications disabled complies with ⟦/0⟧⟦1⟧G302⟦/1⟧⟦2⟧.C⟦/2⟧⟦3⟧ above. ⟦/3⟧
+s1381	Examples of jamming or interfering with remote sensing capabilities include but are not limited to: mimicking the FIELD AprilTags and shining bright lighting or laser pointers onto the FIELD during a MATCH.
+s1382	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧G303 ⟦/3⟧⟦4⟧*ROBOTS on the FIELD must come ready to play a MATCH.⟦/4⟧ A ROBOT must meet all following MATCH-start requirements:
+s1383	A. does not pose a hazard to humans, ARENA elements, or other ROBOTS,
+s1384	⟦0⟧⟦/0⟧⟦1⟧B. meets all the requirements from Section ⟦/1⟧⟦2⟧3.3⟦/2⟧⟦3⟧ ⟦/3⟧⟦4⟧MATCH Eligibility Rules⟦/4⟧ including those regarding inspection/re-inspection,
+s1385	C. is the only team-provided item left in the FIELD, and
+s1386	D. has ROBOT SIGNS that indicate the correct ALLIANCE color (see ⟦0⟧R402⟦/0⟧).
+s1387	Violation: The MATCH will not start until all requirements are met if there is a quick remedy. DISABLED if it is not a quick remedy, and, at the discretion of the Head REFEREE, ROBOT must be re-inspected. RED CARD if a team’s ROBOT is not compliant with ⟦0⟧G303⟦/0⟧⟦1⟧.⟦/1⟧⟦2⟧B⟦/2⟧ participates in the MATCH.
+s1388	For assessment of many of the items listed above, the Head REFEREE is likely to consult with the LRI.
+s1389	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧G304 ⟦/3⟧⟦4⟧*ROBOTS must be set up correctly on the FIELD.⟦/4⟧⟦5⟧⟦6⟧ A ROBOT must be positioned on the FIELD such that it meets all of the following requirements:⟦/6⟧⟦/5⟧⟦7⟧⟦8⟧ ⟦/8⟧⟦/7⟧
+s1390	⟦0⟧A. fully contained on its own ALLIANCE’s side of the FIELD (FIELD columns A, B, C for red, or FIELD columns D, E, F for blue) (⟦/0⟧Figure 9‑4),
+s1391	B. not attached to, entangled with, or suspended from any FIELD element,
+s1392	C. touching the FIELD perimeter wall,
+s1393	D. not contacting or in the scoring volume of a FLOWER,
+s1394	E. not in the LOADING ZONE,
+s1395	F. confined to its STARTING CONFIGURATION (see ⟦0⟧R102⟦/0⟧ and ⟦1⟧R103⟦/1⟧),
+s1396	G. in contact with exactly 4 POLLEN pre-loads as described in Section ⟦0⟧10.3.1⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧SCORING ELEMENTS⟦/2⟧ fully contained on its own ALLIANCE side of the FIELD, and
+s1397	H. fully motionless following completion of OpMode initialization,
+s1398	⟦0⟧⟦1⟧Violation: ⟦/1⟧⟦/0⟧The MATCH will not start until all requirements are met, if there is a quick remedy. DISABLED or removed from FIELD, if it is not a quick remedy.
+s1399	⟦0⟧G304⟦/0⟧⟦1⟧.A⟦/1⟧⟦2⟧⟦3⟧ ⟦/3⟧⟦/2⟧⟦4⟧requires the ROBOT to be fully contained within the FIELD perimeter and not overhang the FIELD perimeter wall.⟦/4⟧
+s1400	⟦0⟧Each ROBOT must start contacting 4 pre-load POLLEN either located in or on the ROBOT, or on the TILES contacting the ROBOT. These pre-load POLLEN are specifically allocated as 4 for each team as described in Section ⟦/0⟧⟦1⟧10.3.1⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧SCORING ELEMENTS⟦/3⟧⟦4⟧. ROBOTS may contact other POLLEN setup on the FIELD, but these do not count towards their pre-load requirement. ROBOTS that are no-shows for their MATCH will have their POLLEN placed in the LOADING ZONE against the perimeter wall.⟦/4⟧
+s1401	⟦0⟧⟦1⟧Figure 11‑1⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧ shows examples of several possible legal ROBOT starting locations.⟦/3⟧⟦/2⟧
+s1402	⟦0⟧⟦1⟧⟦2⟧Figure ⟦/2⟧⟦/1⟧⟦/0⟧⟦3⟧⟦4⟧11⟦/4⟧⟦/3⟧⟦5⟧⟦6⟧‑⟦/6⟧⟦/5⟧⟦7⟧⟦8⟧1⟦/8⟧⟦/7⟧⟦9⟧⟦10⟧:⟦/10⟧⟦/9⟧⟦11⟧⟦12⟧ Examples of allowed ROBOT starting locations⟦/12⟧⟦/11⟧
+s1403	⟦0⟧⟦/0⟧⟦1⟧G305 ⟦/1⟧⟦2⟧*Teams must select an OpMode.⟦/2⟧ An OpMode must be selected on the DRIVER STATION app and initialized by pressing the INIT button. If this OpMode is an AUTO OpMode, the 30 second AUTO timer must be enabled.
+s1404	Violation: MATCH will not start until the situation is remedied. DISABLED if ROBOT cannot initialize an OpMode or the situation cannot be remedied quickly.
+s1405	This rule requires all teams to select and INIT an OpMode, regardless of whether or not an AUTO OpMode is planned to be used during AUTO. FIELD STAFF will use this as an indication that a team is ready to start the MATCH.
+s1406	Teams without an AUTO OpMode should consider creating a default AUTO OpMode using the BasicOpMode sample and use the ⟦1⟧auto-loading feature⟦/1⟧ to automatically queue up their TELEOP OpMode. ⟦2⟧⟦/2⟧
+s1407	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧11.4 In-MATCH⟦/3⟧
+s1408	Rules in this section pertain to gameplay once a MATCH begins.
+s1409	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧11.4.1 AUTO⟦/2⟧
+s1410	AUTO is ⟦0⟧the first 30 seconds of the MATCH, during which DRIVERS may not provide input to their ROBOTS, so ROBOTS operate with only their pre-programmed instructions⟦/0⟧. Rules in this section apply only during the AUTO period.
+s1411	⟦0⟧⟦/0⟧⟦1⟧G401 ⟦/1⟧⟦2⟧*Don’t interact with a ROBOT during AUTO.⟦/2⟧ As soon as the countdown to start the MATCH begins and until the end of AUTO, DRIVE TEAM members may not directly or indirectly interact with a ROBOT or an OPERATOR CONSOLE, with the following exceptions:
+s1412	A. to press the (▶) start button within a MOMENTARY margin of the start of the MATCH,
+s1413	B. to press the (■) stop button at the team’s discretion, or
+s1414	C. for personal safety or OPERATOR CONSOLE safety.
+s1415	Violation: VERBAL WARNING. MAJOR FOUL and YELLOW CARD per MATCH, if STRATEGIC.
+s1416	Teams do not have to start an OpMode if they choose not to run an AUTO OpMode.
+s1417	⟦0⟧The intent of ⟦/0⟧⟦1⟧G401⟦/1⟧⟦2⟧.A⟦/2⟧⟦3⟧ is for teams to start AUTO on time, accounting for some variability due to human factors.⟦/3⟧
+s1418	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧G402 ⟦/2⟧⟦3⟧No AUTO opponent interference. ⟦/3⟧During AUTO, a team may not disrupt AUTO for the opposing ALLIANCE.
+s1419	Violation: MAJOR FOUL per MATCH. MAJOR FOUL and YELLOW CARD per MATCH, if STRATEGIC.
+s1420	⟦0⟧⟦1⟧During AUTO, FIELD columns A, B, C constitute the red side of the FIELD, and columns D, E, F (⟦/1⟧⟦/0⟧⟦2⟧Figure 9‑5⟦/2⟧⟦3⟧⟦4⟧) constitute the blue side of the FIELD. Each ALLIANCE has priority over those FIELD and SCORING ELEMENTS on their side of the FIELD.⟦/4⟧⟦/3⟧
+s1421	Navigating into the opposing ALLIANCE’S side of the FIELD during AUTO is a risky gameplay strategy that may be seen as STRATEGIC.
+s1422	Examples of actions that are considered disruption of AUTO include but are not limited to:
+s1423	⟦0⟧A. ⟦/0⟧⟦1⟧⟦2⟧CONTROLLING SCORING ELEMENTS located on the opposing ALLIANCE’S side of the FIELD, and ⟦/2⟧⟦/1⟧
+s1424	⟦0⟧B. ⟦/0⟧⟦1⟧⟦2⟧contact an opposing ROBOT on their side of the FIELD.⟦/2⟧⟦/1⟧
+s1425	SCORING ELEMENTS that happen to enter the other side of the FIELD after being deflected by another object in the FIELD (e.g., FIELD element, ROBOT) will likely not be penalized.⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧
+s1426	11.4.2 TELEOP
+s1427	⟦0⟧⟦/0⟧⟦1⟧⟦2⟧G403 ⟦/2⟧⟦/1⟧⟦3⟧*ROBOTS are motionless between AUTO and TELEOP.⟦/3⟧⟦4⟧⟦5⟧ Any powered movement of the ROBOT or any of its MECHANISMS is not allowed during the transition period between AUTO and TELEOP.⟦/5⟧⟦/4⟧
+s1428	Violation: VERBAL WARNING. MAJOR FOUL and YELLOW CARD per MATCH, if STRATEGIC.
+s1429	Movement due to inertia, gravity, or de-energizing of actuators, etc. is not considered powered movement.
+s1430	Teams may press buttons on their DRIVER STATION app to stop the AUTO OpMode, initialize or start a TELEOP OpMode during the AUTO to TELEOP transition period. If the INIT portion of the OpMode causes the ROBOT to violate this rule (powering actuators such that they move or twitch in any way), then the team should wait until TELEOP begins before pressing INIT.
+s1431	⟦0⟧⟦/0⟧⟦1⟧⟦2⟧G404 ⟦/2⟧⟦/1⟧⟦3⟧*ROBOTS are motionless at the end of TELEOP⟦/3⟧⟦4⟧⟦5⟧.⟦/5⟧⟦/4⟧⟦6⟧⟦7⟧ ⟦/7⟧⟦/6⟧⟦8⟧⟦9⟧ROBOTS must no longer have powered movement after the end of TELEOP until the Head REFEREE or their designee signals that teams may retrieve their ROBOTS. ⟦/9⟧⟦/8⟧
+s1432	Violation: VERBAL WARNING. MAJOR FOUL and YELLOW CARD per MATCH, if STRATEGIC.
+s1433	⟦0⟧⟦1⟧DRIVE TEAMS should make it obvious that the ROBOTS are no longer being controlled by pressing the (⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧■⟦/3⟧⟦/2⟧⟦4⟧⟦5⟧) stop button on the DRIVER STATION app or by discontinuing any operation of the ROBOT by the end of the MATCH period and setting down their controllers. ⟦/5⟧⟦/4⟧
+s1434	⟦0⟧⟦1⟧Movement ⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧due to ⟦/3⟧⟦/2⟧⟦4⟧⟦5⟧inertia, ⟦/5⟧⟦/4⟧⟦6⟧⟦7⟧gravity⟦/7⟧⟦/6⟧⟦8⟧⟦9⟧,⟦/9⟧⟦/8⟧⟦10⟧⟦11⟧ or ⟦/11⟧⟦/10⟧⟦12⟧⟦13⟧de-energizing of actuators, etc.⟦/13⟧⟦/12⟧⟦14⟧⟦15⟧ ⟦/15⟧⟦/14⟧⟦16⟧⟦17⟧is not considered powered movement. ⟦/17⟧⟦/16⟧
+s1435	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧⟦6⟧11.4.3 SCORING ELEMENT⟦/6⟧⟦7⟧⟦/7⟧
+s1436	⟦0⟧⟦/0⟧⟦1⟧G405 ⟦/1⟧⟦2⟧*Keep SCORING ELEMENTS In bounds.⟦/2⟧ A ROBOT may not deliberately eject a SCORING ELEMENT from the FIELD (either directly or by bouncing it off a FIELD element or another ROBOT).
+s1437	Violation: MAJOR FOUL per SCORING ELEMENT.
+s1438	SCORING ELEMENTS that leave the FIELD during scoring attempts, as the result of a ROBOT blocking another ROBOT’s scoring attempt, or as the result of ROBOT-to-ROBOT interactions are not considered deliberate ejections and are not violations of this rule.
+s1439	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧G406 ⟦/3⟧⟦4⟧*Do not damage or make a mess in the ARENA.⟦/4⟧ Neither a ROBOT nor a DRIVE TEAM member may make a mess or damage any part of the ARENA.
+s1440	Violation: VERBAL WARNING. MAJOR FOUL and YELLOW CARD per MATCH, if STRATEGIC. DISABLED if the damage is caused by a ROBOT, and the Head REFEREE perceives that further damage is likely to occur.
+s1441	Corrective action (such as eliminating sharp edges, removing the damaging MECHANISM, and/or reinspection) may be required before the ROBOT may compete in subsequent MATCHES.
+s1442	⟦0⟧The intent of this rule is that DRIVE TEAM members and ROBOTS negatively impact the ARENA, including FIELD elements and SCORING ELEMENTS in a way that would result in significant repair or extensive cleanup that disrupts ARENA operations. Rule ⟦/0⟧⟦1⟧R201⟦/1⟧⟦2⟧ describes examples of ROBOT features related to this rule that are scrutinized during inspection.⟦/2⟧
+s1443	SCORING ELEMENTS are expected to undergo a reasonable amount of wear and tear as they are handled by ROBOTS and humans, such as scratching, marking, and eventually damage due to fatigue. Routinely gouging, tearing off pieces, or marking SCORING ELEMENTS are violations of this rule.
+s1444	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧G407 ⟦/3⟧⟦4⟧No more than 4 at a time.⟦/4⟧ A ROBOT may not simultaneously CONTROL more than 4 SCORING ELEMENTS.
+s1445	Violation: VERBAL WARNING. MAJOR FOUL and YELLOW CARD per MATCH, if STRATEGIC.
+s1446	The intent of this rule is that ROBOTS play MATCHES while only CONTROLLING a maximum of 4 SCORING ELEMENTS at a time.
+s1447	ROBOTS that CONTROL 5 or more SCORING ELEMENTS at any time during the MATCH will be under scrutiny to determine whether it is STRATEGIC.
+s1448	Examples of actions that are likely to be perceived as STRATEGIC include, but are not limited to:
+s1449	A. ⟦0⟧A ROBOT that picks up and CONTROLS 6 or more SCORING ELEMENTS, moving them to a scoring location.⟦/0⟧
+s1450	B. ⟦0⟧Multiple instances of greater than MOMENTARY CONTROL of 5 or more SCORING ELEMENTS by a ROBOT throughout a MATCH. ⟦/0⟧
+s1451	Examples of actions that are likely to ⟦1⟧⟦2⟧not⟦/2⟧⟦/1⟧ be perceived as STRATEGIC include, but are not limited to:
+s1452	C. ⟦0⟧A ROBOT MOMENTARILY CONTROLS 5 SCORING ELEMENTS which they “reverse” quickly so that at least one SCORING ELEMENT returns to approximately its original state. ⟦/0⟧
+s1453	Teams are encouraged to design their ROBOTS to prevent inadvertent or deliberate CONTROL of more than 4 SCORING ELEMENTS. This could involve guards to prevent SCORING ELEMENTS from accidentally becoming stuck on top of the ROBOT and systems to prevent active pickup/intaking of more than 4 SCORING ELEMENTS.

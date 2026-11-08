@@ -1,0 +1,62 @@
+s2100	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧12.8 Pneumatic Systems⟦/3⟧ & Airflow Devices
+s2101	⟦0⟧⟦/0⟧⟦1⟧R801 ⟦/1⟧⟦2⟧*No Pneumatic Actuators, High-Speed Blowers, or Vacuums.⟦/2⟧ ROBOTS are restricted in their use of air in the following ways:
+s2102	⟦0⟧⟦1⟧A. ⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧ROBOTS may only use sealed, COTS closed-air systems which are pre-charged by the manufacturer (such as gas shocks),⟦/3⟧⟦/2⟧
+s2103	⟦0⟧⟦1⟧B. ⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧ROBOTS may not use any stored pressure COMPONENTS that are actuated by a device like a solenoid and/or are able to change their stable state,⟦/3⟧⟦/2⟧
+s2104	⟦0⟧⟦1⟧C. ⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧ROBOTS may not generate pressure or vacuum, ⟦/3⟧⟦/2⟧
+s2105	⟦0⟧⟦1⟧D. ⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧ROBOTS may not use any user-adjustable gas storage vessels, except air-filled (pneumatic) COTS wheels, and⟦/3⟧⟦/2⟧
+s2106	⟦0⟧⟦1⟧E. ⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧ROBOTS may not use any device which creates high-speed airflow, except cooling fans integrated into COTS computing devices.⟦/3⟧⟦/2⟧
+s2107	The intent of this rule is that ROBOTS may not use pneumatic actuators, pressure or vacuum storage devices, compressors, vacuum generators, or air blowers, but they may use “closed air” systems which were sealed by their manufacturer. This includes items such as gas springs, and dampers.
+s2108	Examples of a “device which creates high-speed airflow” include but are not limited to a fan designed to move SCORING ELEMENTS on the FIELD. ⟦1/⟧ High-speed flywheels or rollers used for manipulating SCORING ELEMENTS would not on their own be considered a high-speed airflow device.
+s2109	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧⟦6⟧⟦/6⟧⟦7⟧⟦/7⟧⟦8⟧⟦/8⟧⟦9⟧⟦/9⟧12.9 OPERATOR CONSOLE
+s2110	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧R901 ⟦/2⟧⟦3⟧*Use only a specified DRIVER STATION device.⟦/3⟧ The OPERATOR CONSOLE may only have one approved Android-based DRIVER STATION device connected and powered on. The OPERATOR CONSOLE must have at least one of the following:
+s2111	A. REV Driver Hub (REV-31-1596), or
+s2112	B. Any Android Device with or without any combination of USB cables (including USB OTG cables) and/or USB hubs (powered or unpowered, with or without OTG integrated into the hub) for connecting one or more gamepads.
+s2113	Due to unpredictable variations in Android software across different manufacturers and updates, the REV Driver Hub is the only officially supported DRIVER STATION device. Teams choosing to use any other unsupported device (e.g., smartphones) are responsible for testing and verifying its compatibility, functionality, and performance.
+s2114	Teams who wish to have a spare DRIVER STATION device as part of their OPERATOR CONSOLE may do so as long as only one DRIVER STATION device is connected and powered on at a time.
+s2115	⟦0⟧⟦/0⟧⟦1⟧R902 ⟦/1⟧⟦2⟧*The OPERATOR CONSOLE must make the touch screen accessible.⟦/2⟧ The OPERATOR CONSOLE, ⟦3⟧the set of COMPONENTS and MECHANISMS used by the DRIVE TEAM to relay commands to the ROBOT⟦/3⟧, must make the touch screen of the DRIVER STATION device accessible. The DRIVER STATION device must be positioned within the OPERATOR CONSOLE so that the screen display can be clearly seen during inspection and in a MATCH. The DRIVER STATION device touch screen must be functional without the requirement of additional aides (e.g., mouse) in order to be used.
+s2116	⟦0⟧⟦/0⟧⟦1⟧R903 ⟦/1⟧⟦2⟧*OPERATOR CONSOLE physical requirements.⟦/2⟧ The OPERATOR CONSOLE, including all power sources (e.g., power banks), must not exceed a volume of 3ft wide, 1ft 6in deep and 2 ft tall (91.4 cm by 45.7 cm by 61.0 cm), excluding any items that are held or worn by the DRIVERS during the MATCH.
+s2117	⟦0⟧Also refer to ⟦/0⟧⟦1⟧R203⟦/1⟧⟦2⟧ for restrictions on designing OPERATOR CONSOLES for fair play and ARENA safety.⟦/2⟧
+s2118	Please note that while there is no hard weight limit, OPERATOR CONSOLES that weigh more than 20 lbs. (~9 kg.) will invite extra scrutiny as they are likely to disrupt normal ARENA operations.
+s2119	Teams who wish to have a spare external USB hub as part of the OPERATOR CONSOLE may do so as long as only one USB hub is connected at any time.
+s2120	The intent of this rule is to allow teams to use a container to store, organize, and transport the DRIVER STATION device and support electronics. The OPERATOR CONSOLE rules are not intended to allow systems that function as a ROBOT cart or replace a competition-provided OPERATOR CONSOLE stand, table, etc.
+s2121	⟦0⟧⟦/0⟧⟦1⟧R904 ⟦/1⟧⟦2⟧*ROBOT application wireless communication only.⟦/2⟧ Other than the connection controlled by the ROBOT CONTROLLER app running on the ROBOT and the DRIVER STATION app running on the DRIVER STATION device, no other form of wireless communications shall be used to communicate to, from, or within the OPERATOR CONSOLE during a MATCH.
+s2122	Examples of prohibited wireless systems include, but are not limited to, active wireless network cards, wireless gamepad communication, and Bluetooth devices.
+s2123	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧13 Tournament⟦/5⟧ (T)
+s2124	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧13.1 Overview⟦/4⟧
+s2125	Each ⟦0⟧FIRST⟦/0⟧ Tech Challenge competition is played in a head-to-head tournament format. Each tournament consists of 3 types of MATCHES: Practice MATCHES (not played at all events), Qualification MATCHES, and Playoff MATCHES.
+s2126	- Practice MATCHES provide teams with an opportunity to operate their ROBOT on a competition FIELD prior to the start of the Qualification MATCHES.
+s2127	- Qualification MATCHES allow each team to earn MATCH points and RANKING POINTS which determine their seeding position and may qualify them for participation in the Playoff MATCHES.
+s2128	- Playoff MATCHES determine the event winning ALLIANCE.
+s2129	These rules apply to all event types described in Section ⟦0⟧4⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Advancement⟦/2⟧. Additional rules may apply to League Meets and League Tournaments as covered by Section ⟦3⟧14⟦/3⟧⟦4⟧ ⟦/4⟧⟦5⟧League Play Tournaments (L)⟦/5⟧.
+s2130	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧⟦6⟧⟦/6⟧⟦7⟧⟦/7⟧⟦8⟧⟦/8⟧⟦9⟧⟦/9⟧13.2 MATCH Replays⟦10⟧⟦/10⟧
+s2131	⟦0⟧⟦/0⟧⟦1⟧T201 ⟦/1⟧⟦2⟧*Replays are allowed, but rare.⟦/2⟧ MATCH replays are only allowed in extreme circumstances due to an ARENA FAULT or for MATCHES which are stopped because FIELD STAFF anticipated FIELD damage or personal injury.
+s2132	An ARENA FAULT is ⟦0⟧an error in ARENA operation⟦/0⟧ that includes, but is not limited to:
+s2133	A. broken FIELD elements due to normal, expected gameplay,
+s2134	B. broken FIELD elements due to ROBOT abuse of FIELD elements that affects the outcome of the MATCH for their opponents,
+s2135	A broken FIELD element caused by ROBOT abuse that affects the outcome of the MATCH for their ALLIANCE is not an ARENA FAULT.
+s2136	C. FIELD elements moving beyond normal tolerances (not as the result of ROBOT interaction),
+s2137	D. Wide-spread wireless interference affecting multiple ROBOTS typically at the same time and on both ALLIANCES,
+s2138	E. failure of the MATCH timer display, or
+s2139	F. errors by FIELD STAFF (except those listed in Section ⟦0⟧10.8⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Other Logistics⟦/2⟧).
+s2140	If, as determined by the Head REFEREE, an ARENA FAULT occurs that affects the outcome of the MATCH and any team on the affected ALLIANCE desires a replay, the MATCH will be replayed. In addition, ⟦0⟧FIRST⟦/0⟧ Headquarters reserves the right to, with consultation of the Head REFEREE and FIELD STAFF, replay any MATCH in which an ARENA FAULT impacts the outcome of an event.
+s2141	Unexpected ROBOT behaviors which are the fault of the team are not justifications for a replay. Conditions such as, but not limited to, low ROBOT battery, programming issues, or ROBOT mechanical problems are not grounds for a replay.
+s2142	The outcome of the MATCH is affected if an error occurs that, as perceived by the Head REFEREE, changes which ALLIANCE would have won the MATCH and/or the assignment of RANKING POINTS.
+s2143	The outcome of an event is affected if an error occurs that, in the judgement of ⟦1⟧FIRST⟦/1⟧ Headquarters, changes the assignment of RANKING POINTS or has a dramatic effect on points used for ranking criteria.
+s2144	Note that an ARENA FAULT that does not affect MATCH outcome, as perceived by the Head REFEREE, does not lead to a MATCH replay. Examples include, but are not limited to:
+s2145	A. ⟦0⟧a piece of FIELD plastic falls into the FIELD, far away from any human or ROBOT activity, and in such a way that it does not affect MATCH outcome,⟦/0⟧
+s2146	B. ⟦0⟧delay in the playing of an ARENA sound, and ⟦/0⟧
+s2147	⟦0⟧⟦1⟧C. ⟦/1⟧⟦/0⟧⟦2⟧any adjustment or delay in assignment of a penalty or scoring achievement (including those made after the MATCH).⟦/2⟧
+s2148	⟦0⟧⟦/0⟧⟦1⟧T202 ⟦/1⟧⟦2⟧*Replays will replicate the conditions of the original MATCH.⟦/2⟧ All reasonable effort is made to create the same conditions when replaying a MATCH caused by an ARENA FAULT or FIELD damage. This includes:
+s2149	A. a ROBOT that was not present for the MATCH or DISABLED prior to the start of the original MATCH, which is to be replayed, is DISABLED for the replay MATCH
+s2150	B. the same FIELD will be used unless otherwise deemed necessary by the Head REFEREE due to severity of FIELD damage
+s2151	Exceptions to this rule are:
+s2152	C. ROBOT and DRIVE TEAM starting locations and pre-loaded SCORING ELEMENTS do not need to be replicated when replaying a MATCH
+s2153	While efforts will be made to replicate the same conditions of the original MATCH, there are environmental factors, such as changes to ambient lighting, that may be outside the control of the event.
+s2154	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧13.3 Clarifications on MATCH Play Results⟦/5⟧ (“Question Box”)
+s2155	Each event will have one or more designated Question Boxes in the ARENA area. If a DRIVE TEAM has a question about a MATCH, the FIELD, etc., they may send up to two representatives wearing a DRIVE TEAM badge to their corresponding Question Box. Depending on timing, the Head REFEREE or FTA may postpone any requested discussion until the end of the subsequent MATCH.
+s2156	Technical questions regarding FIELD or ROBOT operation are addressed by the FTA, and additional team members are invited to participate in these conversations if necessary. If a DRIVE TEAM needs clarification on a ruling or MATCH results, per ⟦0⟧T301⟦/0⟧, up to two representatives should address the Head REFEREE after the MATCH results have been shown.
+s2157	While the ⟦0⟧FIRST⟦/0⟧ event management software tracks quantities of MINOR and MAJOR FOULS, ⟦1⟧FIRST⟦/1⟧ instructs REFEREES to not self-track details about MINOR FOULS and MAJOR FOULS; as a result, we do not expect REFEREES to recall details about what MINOR FOULS and MAJOR FOULS were made, when they occurred, and against whom.
+s2158	Any reasonable question is fair game in the Question Box, and Head REFEREES will make good faith efforts to provide helpful feedback (e.g., how/why certain FOULS are being called, why a particular ROBOT may be susceptible to certain FOULS based on its design or gameplay, how specific rules are being called or interpreted), but please know that they may not be able to supply specific details.
+s2159	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧T301 ⟦/2⟧⟦3⟧*Head REFEREE interactions.⟦/3⟧ A team may only address the Head REFEREE with a maximum of 2 people, 1 of which must be a STUDENT.
+s2160	Violation: The Head REFEREE will not address additional, non-compliant team members or peripheral conversations.
+s2161	Some events may restrict ARENA access to members of the DRIVE TEAM. Team members are permitted to swap buttons within their team as needed to access the Question Box.

@@ -1,0 +1,70 @@
+s0465 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧E106 ⟦/2⟧⟦3⟧*Treine apenas quando/onde for permitido.⟦/3⟧ As equipes só podem treinar com o seu ROBÔ no seu espaço de box (pit), nas áreas de treino designadas pelo evento ou durante uma PARTIDA de Treino.
+s0466 | As equipes não podem montar os seus próprios equipamentos de treino fora do seu box, em outras áreas do local do evento. Se o Diretor do Evento determinar que uma montagem de treino no box é insegura ou interfere nas atividades dos boxes ou corredores adjacentes, a equipe deve interromper a atividade.
+s0467 | Demonstrar o funcionamento do robô para visitantes ou JUÍZES não é considerado treino.
+s0468 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧E107 ⟦/2⟧⟦3⟧*Trabalhe apenas nas áreas designadas.⟦/3⟧ No local do evento, as equipes só podem produzir ITENS FABRICADOS da seguinte forma:
+s0469 | A. na sua área de box,
+s0470 | B. na área de box de outra equipe, com a permissão dessa equipe,
+s0471 | C. enquanto estiverem na fila para uma PARTIDA ou para o CAMPO de treino (devido às restrições de espaço, é exigida atenção redobrada quanto à segurança),
+s0472 | D. em qualquer área designada pela equipe do evento (por exemplo, área de box dos playoffs), ou
+s0473 | E. conforme permitido nas oficinas mecânicas fornecidas e disponíveis para todas as equipes.
+s0474 | ⟦0⟧⟦/0⟧⟦1⟧E108 ⟦/1⟧⟦2⟧*Algumas coisas não devem ser levadas aos eventos.⟦/2⟧ Não leve nem use os seguintes itens:
+s0475 | A. skates,
+s0476 | B. ‘hoverboards’,
+s0477 | C. drones,
+s0478 | D. cilindros de gás engarrafado (por exemplo, hélio),
+s0479 | E. dispositivos barulhentos ou instrumentos de fazer barulho, como bate-pés de piso (floor stompers), apitos e/ou buzinas de ar,
+s0480 | F. patinetes, exceto aqueles usados para adaptações de acessibilidade.
+s0481 | G. qualquer item com luzes fortes que pisquem mais rápido do que aproximadamente 5 vezes por segundo
+s0482 | ⟦0⟧⟦/0⟧⟦1⟧E109 ⟦/1⟧⟦2⟧*Não contrate serviços ou utilidades adicionais.⟦/2⟧ Não contrate energia elétrica, acesso à internet ou linhas telefônicas com os prestadores de serviço do local, nem tente usar conexões de internet do local reservadas para fins do evento (por exemplo, o software de gerenciamento de eventos da ⟦3⟧FIRST⟦/3⟧ ou a transmissão pela web).
+s0483 | ⟦0⟧⟦/0⟧⟦1⟧E110 ⟦/1⟧⟦2⟧*Não venda coisas.⟦/2⟧ As equipes não podem realizar vendas em um evento. Isso inclui, mas não se limita a, bilhetes de rifa, comida, bonés, camisetas, balas, água, refrigerantes, frutas ou quaisquer produtos promocionais, a menos que especificamente permitido pelo Diretor do Evento.
+s0484 | ⟦0⟧⟦/0⟧⟦1⟧E111 ⟦/1⟧⟦2⟧*Sem Música Alta.⟦/2⟧ Não convide nem traga bandas ao vivo para tocar na plateia. Não toque música alta.
+s0485 | ⟦0⟧⟦/0⟧⟦1⟧E112 ⟦/1⟧⟦2⟧*Pendure faixas com cuidado.⟦/2⟧ Seja respeitoso ao pendurar as suas faixas (banners).
+s0486 | A. Não cubra nem mova placas de outras equipes ou de patrocinadores já instaladas.
+s0487 | B. Compartilhe o espaço disponível de forma justa com as outras equipes.
+s0488 | C. Não obstrua a visão dos espectadores.
+s0489 | D. Obtenha permissão do Diretor do Evento antes de pendurar faixas fora do seu box.
+s0490 | E. Pendure placas e faixas de maneira segura.
+s0491 | F. As faixas penduradas fora dos boxes das equipes não devem ser maiores que 25 ft.⟦0⟧2⟦/0⟧ (~2,3 m⟦1⟧2⟦/1⟧).
+s0492 | Incentivamos as equipes a trazerem bandeiras e/ou placas da equipe para exibição nos seus boxes e/ou na ARENA.
+s0493 | Respeite as regras específicas do local sobre a localização das placas e os métodos de fixação. Ao final do evento, remova com segurança todas as placas e tudo o que foi usado para pendurá-las (fita, barbante etc.).
+s0494 | ⟦0⟧⟦/0⟧⟦1⟧E113 ⟦/1⟧⟦2⟧*Limite o tamanho de bandeiras e mastros, se usados na ARENA.⟦/2⟧ As bandeiras e os mastros não podem ter tamanho e peso exagerados se forem usados ao redor do CAMPO.
+s0495 | Como orientação, bandeiras razoáveis têm menos de 3 ft. por 5 ft. (~91 cm por 152 cm) e pesam menos de 2 lbs. (~907 g). Mastros razoáveis não podem ter mais de 8 ft. (~243 cm) de comprimento e devem pesar menos de 3 lbs. (~1360 g).
+s0496 | ⟦0⟧⟦/0⟧⟦1⟧E114 ⟦/1⟧⟦2⟧*Nenhuma arma de fogo ou outra arma.⟦/2⟧ Armas de fogo ou outras armas são proibidas em todos os eventos da ⟦3⟧FIRST⟦/3⟧, para todos os programas da ⟦4⟧FIRST⟦/4⟧, incluindo, sem limitação, ⟦5⟧todos os Eventos oficiais da ⟦6⟧FIRST⟦/6⟧ publicados aqui⟦/5⟧. Esta regra inclui armas cenográficas ou simuladas que pareçam reais. Esta política não se aplica a agentes da lei ou ao pessoal de segurança do local.
+s0497 | ⟦0⟧⟦/0⟧⟦1⟧E115 ⟦/1⟧⟦2⟧*Inspeção exigida para acesso ao CAMPO de treino.⟦/2⟧ Uma equipe só pode usar um CAMPO de treino com um ROBÔ que tenha sido aprovado em uma inspeção inicial completa. Esta regra se aplica apenas a eventos que não usam horários de inspeção programados.
+s0498 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧E116 ⟦/2⟧⟦3⟧*Não grave ninguém no evento sem o seu consentimento.⟦/3⟧ Não grave interações com qualquer pessoa em um evento sem o consentimento dela. A equipe do evento e os voluntários da ⟦4⟧FIRST⟦/4⟧ estão autorizados a se retirar de uma interação na qual estejam sendo gravados após terem recusado o consentimento.
+s0499 | Observe que muitos eventos da ⟦1⟧FIRST⟦/1⟧ são transmitidos ao vivo e que os participantes da ⟦2⟧FIRST⟦/2⟧ deram permissão para aparecer em imagens da ⟦3⟧FIRST⟦/3⟧. Isso não significa que as pessoas possam gravar interações específicas sem consentimento adicional.
+s0500 | As leis sobre a gravação de conversas variam de estado para estado e de país para país e, em alguns casos, gravar sem consentimento pode ser crime. Introduzir a ideia de gravar uma conversa com a razão implícita de provar o erro de alguém pode intensificar uma discussão e tende a aumentar o seu caráter adversarial.
+s0501 | ⟦0⟧⟦/0⟧⟦1⟧E117 ⟦/1⟧⟦2⟧*Inscreva apenas 1 ROBÔ no torneio.⟦/2⟧ Em um determinado evento do ⟦3⟧FIRST⟦/3⟧ Tech Challenge, cada equipe só pode inspecionar e jogar PARTIDAS com 1 ROBÔ. As equipes do ⟦4⟧FIRST⟦/4⟧ Tech Challenge só podem participar de 1 evento simultâneo por vez.
+s0502 | A intenção desta regra é usar os recursos do torneio de forma responsável, não exigindo que os voluntários inspecionem vários ROBÔS, e evitar brechas relacionadas a ter vários ROBÔS inspecionados que possam ser trocados entre as PARTIDAS.
+s0503 | Esta regra não proíbe as equipes de levar outros ROBÔS ou montagens semelhantes a robôs ao local para outros fins, como apresentações de premiações ou exibições nos boxes.
+s0504 | Espera-se que as equipes atualizem, façam alterações e até construam vários ROBÔS durante uma temporada; esta regra só se aplica a levar vários ROBÔS diferentes a um único evento para jogar PARTIDAS.
+s0505 | ⟦0⟧⟦/0⟧⟦1⟧E118 ⟦/1⟧⟦2⟧*Não guarde lugares.⟦/2⟧ As equipes não podem guardar ou reservar assentos para membros da equipe que não os estejam usando ativamente.
+s0506 | As equipes não podem pendurar faixas ou fitas nem reservar assentos de outra forma. (A equipe do evento removerá e descartará quaisquer faixas, cordas etc. usadas para reservar assentos.) Revezem-se para sentar nas arquibancadas se os assentos forem limitados. Se houver um problema de lotação, pedimos que vocês gentilmente saiam após a PARTIDA da sua equipe e voltem depois, se possível.
+s0507 | O Diretor do Evento pode reservar assentos para participantes que precisem de assentos acessíveis, para determinados voluntários, ou para garantir que as equipes nos Playoffs tenham assentos para assistir às suas equipes jogarem.
+s0508 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧5.2 Oficinas Mecânicas e Espaços de Construção da Equipe Anfitriã⟦/3⟧
+s0509 | Raramente, alguns eventos disponibilizam uma oficina mecânica ou abrem o espaço de construção da sua equipe, em horários específicos (veja a programação pública do evento), para ajudar as equipes no reparo e na fabricação do seu ROBÔ. As oficinas mecânicas normalmente são patrocinadas pela organização anfitriã local. Na maioria dos casos, a oficina mecânica fica no local e é facilmente acessível a todas as equipes. Todas as equipes competidoras deveriam ter acesso aos mesmos recursos.
+s0510 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧5.3 Regras de Comunicação Sem Fio⟦/3⟧
+s0511 | ⟦0⟧⟦/0⟧⟦1⟧E301 ⟦/1⟧⟦2⟧*Nenhuma comunicação sem fio.⟦/2⟧ As equipes não podem configurar a sua própria comunicação sem fio Wi-Fi (802.11a/b/g/n/ac/ax/be) (por exemplo, pontos de acesso ou redes ad-hoc), Bluetooth ou quaisquer outros sistemas de comunicação que usem 2,4 GHz ou 5 GHz sem fio no local do evento.
+s0512 | Um hotspot sem fio criado por um dispositivo celular, câmera, smart TV etc. é considerado um ponto de acesso.
+s0513 | Algumas smart TVs vêm com pontos de acesso habilitados de fábrica. Certifique-se de que essa funcionalidade esteja desabilitada em qualquer TV levada ao evento.
+s0514 | O Bluetooth usa frequências de 2,4 GHz para se comunicar, o que pode interferir nos sistemas do local e dos ROBÔS.
+s0515 | Muitos brinquedos de controle remoto (incluindo drones, veículos sem fio e sistemas FPV) usam comunicações de 2,4 GHz e 5 GHz. Não os opere no local do evento.
+s0516 | ⟦0⟧⟦/0⟧⟦1⟧E302 ⟦/1⟧⟦2⟧*Não interfira em redes sem fio.⟦/2⟧ Os participantes não podem interferir, tentar interferir ou tentar se conectar a qualquer outra rede sem fio de equipe ou da ⟦3⟧FIRST⟦/3⟧ sem permissão expressa.
+s0517 | As equipes são incentivadas a relatar suspeitas de vulnerabilidades de segurança sem fio ao Consultor Técnico da ⟦1⟧FIRST⟦/1⟧ (FTA) ou ao Diretor do Evento, se estiverem no evento, ou à ⟦2⟧FIRST⟦/2⟧ pelo ⟦3⟧customerservice@firstinspires.org⟦/3⟧ para relatar um problema suspeito após o evento.
+s0518 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧5.4 Carregamento (Load-In)⟦/3⟧
+s0519 | Alguns eventos grandes (geralmente de vários dias) podem definir períodos específicos, publicados na programação pública do evento, nos quais as equipes são convidadas a levar o seu ROBÔ e equipamentos para as suas áreas de box antes da abertura oficial dos boxes.
+s0520 | O carregamento pode ser estressante para equipes e voluntários, o que pode ser atenuado com preparação e planejamento. Fatores imprevistos, como trânsito ou clima, podem alterar o horário programado de chegada de uma equipe, dificultando o processo. As coisas mais importantes que uma equipe deveria lembrar são: ser segura, cortês e profissional.
+s0521 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧5.5 Boxes (Pits)⟦/3⟧
+s0522 | O box de uma equipe é o espaço designado, de tamanho variável, mas normalmente não maior que uma área de 10 ft. por 10 ft. por 10 ft. (~3 m x 3 m x 3 m), onde uma equipe pode trabalhar no seu ROBÔ. Cada equipe recebe um espaço de box, normalmente identificado com o número da equipe. Isso ajuda os membros das equipes, os JUÍZES e os visitantes a encontrarem as equipes facilmente. Os espaços de box podem variar de acordo com os limites de tamanho do local da competição.
+s0523 | A área de boxes refere-se à área geral onde ficam os boxes das equipes, que abrange os corredores entre os boxes, a administração dos boxes, a inspeção de ROBÔS, o CAMPO de treino ou outras áreas onde os ROBÔS possam estar ativos ou em manutenção. Todas as regras dos boxes se aplicam a toda a área de boxes.
+s0524 | Limitações adicionais além das listadas abaixo podem ser impostas pelo Diretor do Evento, mas deveriam ser comunicadas claramente pelo menos 48 horas antes do horário de início do evento e aplicadas a todas as equipes de forma justa.
+s0525 | Os boxes das equipes podem ou não ter uma mesa e uma tomada de energia. Se não forem fornecidas tomadas individuais para as equipes, o local deve fornecer acesso a tomadas utilizáveis pelas equipes na área de boxes para carregar baterias. Pode não haver energia disponível durante a noite em um evento de vários dias.
+s0526 | ⟦0⟧⟦/0⟧⟦1⟧E501 ⟦/1⟧⟦2⟧*Os boxes ficam indisponíveis quando fechados.⟦/2⟧ As equipes não podem acessar a sua área de box fora dos horários designados.
+s0527 | ⟦0⟧⟦/0⟧⟦1⟧E502 ⟦/1⟧⟦2⟧*As montagens dos boxes deveriam ficar contidas no espaço atribuído pelos Organizadores do Evento.⟦/2⟧ As equipes deveriam montar os seus equipamentos permitidos totalmente dentro do espaço de box atribuído. As equipes não podem:
+s0528 | A. passar cabos de energia ou de internet do seu box para qualquer outra área, exceto conforme instruído ou permitido pelo Diretor do Evento,
+s0529 | B. trocar de box com outras equipes se os boxes tiverem números de equipe atribuídos, ou
+s0530 | C. se mudar para boxes vazios sem a aprovação do Diretor do Evento.
+s0531 | ⟦0⟧⟦/0⟧⟦1⟧E503 ⟦/1⟧⟦2⟧*Mantenha os corredores e as rotas de saída desobstruídos.⟦/2⟧ As equipes não podem bloquear corredores e passagens.
+s0532 | ⟦0⟧⟦/0⟧⟦1⟧E504 ⟦/1⟧⟦2⟧*Chamas abertas e dispositivos que emitem faíscas devem ser limitados e cuidadosamente controlados.⟦/2⟧ Ferramentas que soltam faíscas ou produzem chamas abertas são geralmente proibidas, exceto em casos limitados e controlados com segurança. O Diretor do Evento pode impor restrições adicionais sobre chamas abertas ou faíscas.
+s0533 | Exemplos geralmente aceitáveis: uso limitado de um isqueiro para derreter pontas de cordões ou de cintas para evitar que desfiem; uso de uma lixadeira para encurtar um parafuso, desde que as faíscas sejam direcionadas com segurança e o uso seja de curta duração.
+s0534 | Exemplos de ferramentas que violam esta regra incluem, mas não se limitam a: máquinas de solda, esmerilhadeiras de bancada e angulares, e maçaricos a gás.

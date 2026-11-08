@@ -1,0 +1,56 @@
+s2656	NECTAR
+s2657	approximately 3.6 in. (9.1 cm) Gopher ResisDent™ polyethelene balls
+s2658	OPERATOR CONSOLE
+s2659	the set of COMPONENTS and MECHANISMS used by the DRIVE TEAM to relay commands to the ROBOT
+s2660	PARK
+s2661	a scoring achievement in which a ROBOT must move so that it is at least partially in the LOADING ZONE
+s2662	PIN/PINNING
+s2663	an action by a ROBOT that is preventing the movement of an opponent ROBOT by contact, either direct or transitive (such as against a FIELD element)
+s2664	POLLEN
+s2665	2.8 in. (7.1 cm) Gopher ResisDent™ polyethelene balls in yellow
+s2666	POLLINATOR 1 RP
+s2667	an RP earned when the number of TIPS at or above threshold
+s2668	POLLINATOR 2 RP
+s2669	an RP earned when the number of TIPS at or above threshold
+s2670	PORTFOLIO
+s2671	a document used as part of the judging process with requirements outlined in ⟦0⟧A201⟦/0⟧
+s2672	RANKING POINTS (RP)
+s2673	credited to a team based on their ALLIANCE’S performance in Qualification MATCHES
+s2674	RANKING SCORE (RS)
+s2675	the average number of RANKING POINTS earned by a team throughout their Qualification MATCHES
+s2676	RED CARD
+s2677	a penalty issued by the Head REFEREE for egregious ROBOT or team member behavior or rule violations which results in a team being DISQUALIFIED for the MATCH.
+s2678	REFEREE
+s2679	an official who is certified by ⟦0⟧FIRST⟦/0⟧ to enforce the rules of the current season’s game, an event volunteer role
+s2680	REPEATED
+s2681	describes actions that happen more than once within a MATCH
+s2682	ROBOT
+s2683	an electromechanical assembly built by a ⟦0⟧FIRST⟦/0⟧ Tech Challenge team to play the current season’s game and includes all the basic systems required to be an active participant in the game –power, communications, control, and movement about the FIELD
+s2684	ROBOT CONTROLLER
+s2685	Android device (a REV Control Hub (REV-31-1595) or a smartphone Android device connected to a REV Expansion Hub (REV-31-1153)) that runs the ROBOT CONTROLLER app to control the ROBOT as defined in ⟦0⟧R701⟦/0⟧
+s2686	ROBOT SIGN
+s2687	a required assembly which attaches to the ROBOT and simultaneously identifies a ROBOT’S team number as well as its ALLIANCE affiliation
+s2688	SCORING ELEMENT
+s2689	SCORING ELEMENTS for BIOBUZZ are POLLEN and NECTAR
+s2690	STRATEGIC
+s2691	describes actions done with the aim of gaining a competitive advantage
+s2692	STARTING CONFIGURATION
+s2693	the physical configuration in which a ROBOT starts a MATCH
+s2694	STUDENT
+s2695	a person who has not completed high-school, secondary school, or the comparable level in their HOME REGION as of September 1st
+s2696	SURROGATE
+s2697	a team randomly assigned by event management software to play an extra Qualification MATCH
+s2698	SWARM RP
+s2699	an RP earned when the combined LEAVE + PARK points earned at or above threshold
+s2700	TELEOP
+s2701	third period of each MATCH is 2 minutes (2:00) long and called the teleoperated period (TELEOP). During TELEOP, DRIVERS remotely operate ROBOTS
+s2702	TILE
+s2703	flooring surface of the FIELD is made of 36 interlocking soft foam TILES
+s2704	TIP/TIPPED
+s2705	a scoring criteria in which the HIVE moves from one stable state to the other stable state with the downwards-facing CELL becoming the upwards-facing CELL and the damper on the HIVE that was previously not contacting the frame begins to contact the frame
+s2706	VENDOR
+s2707	a legitimate business source for COTS items that satisfies criteria defined in Section ⟦0⟧12⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧ROBOT Construction Rules (R)⟦/2⟧
+s2708	VERBAL WARNING
+s2709	a warning issued by event staff or the Head REFEREE
+s2710	YELLOW CARD
+s2711	a warning issued by the Head REFEREE for egregious ROBOT or team member behavior or rule violations

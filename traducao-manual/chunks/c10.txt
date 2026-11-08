@@ -1,0 +1,102 @@
+s0824	financial sustainability,
+s0825	season planning, and/or
+s0826	long-term team sustainability objectives.
+s0827	Required
+s0828	Team demonstrates project management competency by explaining how it measures, reviews, and tracks progress toward its sustainability plans and objectives.
+s0829	Encouraged
+s0830	Team demonstrates leadership development competency through clearly defined team roles and an intentional process for preparing future student leaders.
+s0831	Encouraged
+s0832	Team demonstrates risk management competency by identifying organizational constraints, implementing mitigation strategies, and adapting plans when challenges arise.
+s0833	6.3.6 Innovate Award sponsored by RTX
+s0834	The Innovate Award recognizes a team that designs creative solutions to game challenges. JUDGES give this award to a team with a creative and original design for one or more parts of their ROBOT. JUDGES look at the design itself, how well it works, and the creative thinking behind it. The award can recognize the design of the whole ROBOT or one MECHANISM on the ROBOT. The design should work well during most MATCHES, but it does not need to work every time. A PORTFOLIO is not required for this award.
+s0835	Table 6‑7: Innovate Award Criteria
+s0836	Innovate Award Criteria
+s0837	Required
+s0838	The team demonstrates their engineering competency by showing examples of their engineering work that explain how the team developed their design.
+s0839	Required
+s0840	The design of the ROBOT or ROBOT MECHANISM is creative, unique, or both.
+s0841	Required
+s0842	The creative design must be stable and reliable. It must help the team reach its game goals most of the time.
+s0843	Encouraged
+s0844	Designs often involve risks. The team should explain how they reduced those risks.
+s0845	6.3.7 Control Award
+s0846	The Control Award recognizes a team that uses sensors and software to solve game challenges in a creative way. Examples include autonomous operation, smarter mechanical systems, or sensors that improve results. The solution should work well during most MATCHES, but it does not need to work every time. Teams may use their solution during the AUTO period, the TELEOP period, or both. The team's PORTFOLIO must include a summary of the software, sensors, and mechanical control system. The PORTFOLIO does not need to include the full code itself.
+s0847	Table 6‑8: Control Award Criteria
+s0848	Control Award Criteria
+s0849	Required
+s0850	Team must submit a PORTFOLIO. The PORTFOLIO must include ⟦0⟧all of⟦/0⟧ the following:
+s0851	A. hardware or software control COMPONENTS on the ROBOT,
+s0852	B. the challenges each COMPONENT or system solves, and
+s0853	C. the function of each COMPONENT or system.
+s0854	Required
+s0855	The team must use one or more hardware or software solutions that use external feedback to control the ROBOT and improve how it performs.
+s0856	Encouraged
+s0857	The control solution(s) should work consistently during most MATCHES.
+s0858	Encouraged
+s0859	The team can explain how reliable their solution is. They can show this by demonstrating that it works, or by explaining how it could be improved.
+s0860	Encouraged
+s0861	The team should describe what they learned while using the engineering process to develop their control solutions (sensors, hardware, algorithms, or a combination).
+s0862	6.3.8 Design Award
+s0863	The Design Award recognizes a team that understands the principles of industrial design. This means balancing form, function, and appearance while meeting the needs of this season's game. The team's design process should result in a ROBOT that is efficient and that solves the game's challenges well. A PORTFOLIO is not required for this award.
+s0864	Table 6‑9: Design Award Criteria
+s0865	Design Award Criteria
+s0866	Required
+s0867	Team must describe or demonstrate that their ROBOT is elegant, efficient (simple to build and operate), and/or practical to maintain.
+s0868	Required
+s0869	The design of the entire ROBOT, or the detailed process used to create it, must be considered – not just one COMPONENT.
+s0870	Encouraged
+s0871	The ROBOT stands out from other ROBOTS because of its appearance and how well it functions.
+s0872	Encouraged
+s0873	The team has clearly thought through the reasons behind their design choices, such as inspiration or function.
+s0874	Encouraged
+s0875	The design works consistently and aligns with the team's game plan or strategy.
+s0876	6.3.9 Judges’ Choice Award
+s0877	The Judges’ Choice Award is optional and not given at all ⟦0⟧FIRST⟦/0⟧ Tech Challenge events.
+s0878	During the competition, the judging panel may meet a team whose unique efforts, performance, or dynamics merit recognition, but does not fit into any of the other award categories. To recognize these unique teams, ⟦0⟧FIRST⟦/0⟧ offers a Judges’ Choice Award.
+s0879	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧⟦6⟧⟦/6⟧⟦7⟧⟦/7⟧⟦8⟧6.4 Tournament ALLIANCE Awards⟦/8⟧
+s0880	6.4.1 Winning Alliance Award
+s0881	This award will be given to the winning ALLIANCE represented in the final MATCH of the Playoffs of a single-division Tournament or Championship event. If the event is a dual-division or multi-division event, there will be Winning Alliance Awards awarded to both the division playoff winners and the event finals playoff winners.
+s0882	6.4.2 Finalist Alliance Award
+s0883	This award will be given to the finalist ALLIANCE represented in the final MATCH of the Playoffs of a single-division Tournament or Championship event. If the event is a dual-division or multi-division event this will be awarded to the division playoff finalists and the event finals playoff finalists.
+s0884	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧6.5 Individual Awards⟦/5⟧
+s0885	6.5.1 ⟦1⟧FIRST⟦/1⟧ Leadership Award
+s0886	⟦0⟧FIRST⟦/0⟧ Leadership Award semi-finalists, finalists, and winners exemplify student leadership. These individuals actively promote the ⟦1⟧FIRST⟦/1⟧ mission, champion Core Values like Inclusion, Teamwork, and Impact, and embody ⟦2⟧Gracious Professionalism⟦/2⟧. ⟦3⟧FIRST⟦/3⟧ aims to support these students as they continue to serve as lifelong leaders, ⟦4⟧alumni⟦/4⟧, and advocates.
+s0887	Please visit the ⟦0⟧⟦1⟧FIRST⟦/1⟧ Leadership Award webpage⟦/0⟧ to see complete award submission details and to see past ⟦2⟧FIRST⟦/2⟧ Tech Challenge winners.
+s0888	6.5.2 Compass Award
+s0889	This is an optional award offered at the Regional Championship tournament level of competition. All teams attending ⟦1⟧FIRST⟦/1⟧ Championship will have an opportunity to submit for this award at ⟦2⟧FIRST⟦/2⟧ Championship.
+s0890	The Compass Award recognizes an adult coach or mentor who has given outstanding guidance and support to a team throughout the year and demonstrates to the team what it means to be a Gracious Professional. The winner of the Compass Award will be chosen from candidates nominated by ⟦0⟧FIRST⟦/0⟧ Tech Challenge STUDENT team members, via a 40-60 second video submission. The video must highlight how their mentor has helped them become an inspirational team. The video should emphasize what sets the mentor apart.
+s0891	Table 6‑10: Compass Award Criteria
+s0892	Compass Award Criteria
+s0893	Required
+s0894	Team must be able to clearly articulate this mentor’s contribution to the team and explain what sets this mentor apart.
+s0895	Required
+s0896	Submission must be in video format and meet the following requirements:
+s0897	A. submitted by the deadline established by the Event Director or local Program Delivery Partner,
+s0898	B. be in one of the following formats: .mp4, .mov, .avi, or .wmv (no links to streaming services will be accepted),
+s0899	C. one video submission per team per event (videos can be updated or changed between events),
+s0900	D. all music must be used with permission from the copyright owners and be indicated in the video credits, and
+s0901	E. videos cannot be longer than 60 seconds, including credits.
+s0902	Teams are encouraged to review the ⟦1⟧⟦2⟧FIRST ⟦/2⟧Branding and Style Guidelines⟦/1⟧ before creating their video.
+s0903	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧6.6 Project-Based Global Awards⟦/2⟧
+s0904	Project-based global awards are awards that are only judged and awarded once per season and are open to all registered ⟦0⟧FIRST⟦/0⟧ Tech Challenge teams. Each award has its own independent requirements and deadlines. These awards do not contribute towards team advancement.
+s0905	6.6.1 Digital Animation Award Sponsored by Worcester Polytechnic Institute (WPI)
+s0906	This award, sponsored by WPI, celebrates STEAM (Science, Technology, Engineering, Art, and Mathematics) and emphasizes the ability to tell a story through animation that integrates technological, social, and humanistic concepts.
+s0907	The 2027 Digital Animation Award is offered to help encourage students to cultivate skills in design and creation of animation while telling a story about the impact of technology on society. This award is open to all ⟦0⟧FIRST⟦/0⟧ Robotics Competition teams and ⟦1⟧FIRST⟦/1⟧ Tech Challenge teams and ⟦2⟧is optional⟦/2⟧. More information can be found on the ⟦3⟧Digital Animation Award webpage⟦/3⟧.
+s0908	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧7 Game Sponsor Recognition⟦/3⟧
+s0909	Thank you to the 2026-2027 ⟦0⟧FIRST⟦1⟧®⟦/1⟧ ⟦/0⟧Tech Challenge season presenting sponsor, ⟦2⟧RTX⟦/2⟧⟦3⟧. ⟦/3⟧
+s0910	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧8 Game Overview⟦/3⟧
+s0911	In BIOBUZZ™ presented by RTX, 2 competing ALLIANCES of 2 teams each collect POLLEN and NECTAR, LAUNCHING them into their HIVE and placing them into FLOWERS.
+s0912	During the first 30 seconds of the MATCH, the ROBOTS operate autonomously. ROBOTS can use sensors to collect POLLEN from FLOWERS and navigate to LAUNCH into the CELLS of their HIVE. When enough SCORING ELEMENTS are LAUNCHED into the CELL, the HIVE will tip. Each time a HIVE is TIPPED, points are earned, and additional NECTAR is unlocked.
+s0913	During the remaining 2 minutes of the MATCH, human DRIVERS take control of their ROBOTS. ROBOTS continue to collect and score POLLEN and NECTAR, tipping their HIVE to earn points and unlocking more NECTAR.
+s0914	As time runs out, ALLIANCES work to fill FLOWERS with POLLEN and NECTAR. ALLIANCES earn points by placing their ALLIANCE’S NECTAR in each FLOWER before their opponent. ALLIANCES also earn points for owning a FLOWER if their NECTAR is the top-most placed in a FLOWER.
+s0915	The ALLIANCE that earns the most points wins the MATCH and additional RANKING POINTS can be earned by completing other scoring achievements.
+s0916	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧9 ARENA⟦/3⟧
+s0917	The ARENA includes ⟦0⟧all elements of the game infrastructure that are required to play BIOBUZZ: the FIELD, SCORING ELEMENTS, queue area, team media area, and all equipment needed for event management⟦/0⟧.
+s0918	Figure 9‑1 BIOBUZZ (queue area, FIELD display, and optional media area not pictured)
+s0919	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧9.1 Dimensions and Accuracy⟦/3⟧
+s0920	The specifications for the BIOBUZZ FIELD can be retrieved from a few locations:
+s0921	- The ⟦0⟧3D CAD model⟦/0⟧ is the official representation of the BIOBUZZ FIELD and how it is constructed. Measurements may be taken from this model with a general tolerance of +/- 1 in. (+/- 2.5 cm).
+s0922	- The ⟦0⟧Event Field Setup Guide⟦/0⟧ includes instructions on how to build the FIELD and details about its construction which may influence the FIELD tolerances; it also includes many of the key dimensions for the FIELD.
+s0923	- The ⟦0⟧Field Acceptance Checklist⟦/0⟧ includes the controlled dimensions (with relevant tolerances), functional tests, and inspection criteria which will be regularly performed by event staff.
+s0924	- The ⟦0⟧Field Mitigation Guide⟦/0⟧ provides FIELD STAFF recommended mitigation measures to ensure the FIELD remains within spec during the event.
+s0925	- Illustrations included in the Competition Manual are for a general visual understanding of the BIOBUZZ ARENA, and any dimensions included are nominal. Unless specifically noted, all these dimensions carry a tolerance of +/- 1 in. (+/- 2.5 cm).

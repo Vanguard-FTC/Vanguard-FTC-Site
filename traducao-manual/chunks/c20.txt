@@ -1,0 +1,84 @@
+s1680	- ⟦0⟧FIELD TILE damage⟦/0⟧
+s1681	- ⟦0⟧battery consumption ⟦/0⟧
+s1682	- ⟦0⟧ROBOT transportation⟦/0⟧
+s1683	⟦0⟧⟦1⟧- ⟦/1⟧⟦/0⟧⟦2⟧overall ROBOT performance⟦3⟧⟦/3⟧⟦4⟧⟦5⟧⟦6⟧⟦7/⟧ ⟦/6⟧⟦/5⟧⟦/4⟧⟦/2⟧
+s1684	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧R105 ⟦/3⟧⟦4⟧A ROBOT must stay as one assembly, and there are limits to how much it can expand.⟦/4⟧ After the MATCH has started, ROBOTS may expand beyond the STARTING CONFIGURATION but are still subject to sizing constraints relative to the ROBOT, based on the initial STARTING CONFIGURATION. The sizing constraints are:
+s1685	⟦0⟧A. After the start of the MATCH, ROBOTS may expand beyond the STARTING CONFIGURATION but at all times must remain within a 18 in. (45.70 cm) by 24 in. (61.0 cm) by 29 in. (73.65 cm) tall sizing volume when fully expanded per ⟦/0⟧⟦1⟧G416⟦/1⟧,
+s1686	B. ROBOTS must be physically constrained to fit within these limits without the use of software, and
+s1687	C. ROBOTS may not be designed to deliberately detach COMPONENTS.
+s1688	The sizing limit volume is defined relative to the FIELD surface and is oriented such that the 29 in. (73.65 cm) dimension is always the vertical height above the FIELD surface.
+s1689	Figure 12‑1: Expansion Limit – Top View
+s1690	Figure 12‑2: Expansion Limit – Side View
+s1691	The sizing volume is defined relative to the FIELD surface and is oriented such that the 29 in. (73.65 cm) dimension is always the vertical height above the FIELD surface.
+s1692	ROBOTS are measured in “stable” configurations they would use during normal gameplay on the FIELD (i.e., with their wheels all touching the TILES). If a ROBOT is “tilted” slightly due to interactions on the FIELD, this is not a violation of this rule if the ROBOT would still be within the sizing volume when it is returned to a stable configuration.
+s1693	⟦0⟧Teams should be prepared to demonstrate to INSPECTORS that their ROBOT has no configurations where it is outside the sizing volume. ROBOTS must show their maximum mechanical extensions during the inspection process. A ROBOT that can mechanically exceed the sizing limit would be in violation even if the ROBOT has software limiting the position of the extension during the MATCH. (⟦/0⟧⟦1⟧Figure 12‑3⟦/1⟧⟦2⟧)⟦/2⟧
+s1694	⟦0⟧⟦1⟧Figure ⟦/1⟧⟦/0⟧⟦2⟧12⟦/2⟧⟦3⟧‑⟦/3⟧⟦4⟧3⟦/4⟧⟦5⟧: Expansion Limit – Sizing Limit Violation⟦/5⟧
+s1695	⟦0⟧A ROBOT with a single MECHANISM that can extend out of both sides of a ROBOT would be allowed as long as the overall dimension at maximum mechanical extension does not exceed the sizing limit. (⟦/0⟧⟦1⟧Figure 12‑4⟦/1⟧⟦2⟧)⟦/2⟧
+s1696	⟦0⟧⟦1⟧Figure ⟦/1⟧⟦/0⟧⟦2⟧12⟦/2⟧⟦3⟧‑⟦/3⟧⟦4⟧4⟦/4⟧⟦5⟧: Expansion Limit – Allowable Extension⟦/5⟧
+s1697	⟦0⟧A ROBOT with multiple MECHANISMS that are not mechanically linked that can extend out of both sides of a ROBOT simultaneously would NOT be allowed if the overall horizontal dimension at maximum mechanical extension exceeds the sizing limit (⟦/0⟧⟦1⟧Figure 12‑5⟦/1⟧⟦2⟧).⟦/2⟧
+s1698	⟦0⟧⟦1⟧⟦2⟧Figure ⟦/2⟧⟦/1⟧⟦/0⟧⟦3⟧⟦4⟧12⟦/4⟧⟦/3⟧⟦5⟧⟦6⟧‑⟦/6⟧⟦/5⟧⟦7⟧⟦8⟧5⟦/8⟧⟦/7⟧⟦9⟧⟦10⟧: Expansion Limit – Simultaneous Extension⟦/10⟧⟦/9⟧
+s1699	⟦0⟧A ROBOT with an extension on a pivot that rotates in the horizontal plane would be allowed as long as the overall dimension does not exceed the sizing limit at any point in its travel (⟦/0⟧⟦1⟧Figure 12‑6⟦/1⟧⟦2⟧).⟦/2⟧
+s1700	⟦0⟧⟦1⟧⟦2⟧Figure ⟦/2⟧⟦/1⟧⟦/0⟧⟦3⟧⟦4⟧12⟦/4⟧⟦/3⟧⟦5⟧⟦6⟧‑⟦/6⟧⟦/5⟧⟦7⟧⟦8⟧6⟦/8⟧⟦/7⟧⟦9⟧⟦10⟧: Expansion Limit – Rotating Extension⟦/10⟧⟦/9⟧
+s1701	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧12.2 Fair Play & Damage Prevention
+s1702	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧R201 ⟦/2⟧⟦3⟧*⟦4⟧ROBOTS should be designed so they don’t damage anything or make a mess in the ARENA.⟦/4⟧ ⟦/3⟧The ROBOT must not pose a risk of making a mess or pose a hazard to anything in the ARENA.
+s1703	The intent of this rule is that teams⟦1⟧⟦2⟧ should design their ROBOTS in a way that will avoid damage to the ARENA and minimize the risk of ROBOTS releasing materials that would require cleanup and may result in damage and/or MATCH delays.⟦/2⟧⟦/1⟧
+s1704	⟦0⟧SCORING ELEMENTS are expected to undergo a reasonable amount of wear and tear as they are handled by ROBOTS, such as scratching or marking. Gouging, tearing off pieces, or routinely and repeatedly marking SCORING ELEMENTS are violations of this rule and ⟦/0⟧⟦1⟧G406⟦/1⟧⟦2⟧. ⟦/2⟧
+s1705	Examples of “damage risk” ROBOT features include, but are not limited to:
+s1706	A. ⟦0⟧traction devices with features that are known to damage the TILE floor,⟦/0⟧
+s1707	B. ⟦0⟧COMPONENTS with exposed sharp edges or sharp protrusions, and⟦/0⟧
+s1708	C. ⟦0⟧features with abrasive surfaces that scratch objects that rub across them.⟦/0⟧
+s1709	Examples of ROBOT features “at risk of making a mess” include, but are not limited to:
+s1710	D. ⟦0⟧excessive use of lubricants that may spin off or drip during ROBOT operation,⟦/0⟧
+s1711	E. ⟦0⟧any COMPONENT not secured sufficiently, including loose ballast such as sand, coffee beans, kitty litter, glitter, or ball bearings, such that it may be released on the FIELD during a MATCH,⟦/0⟧
+s1712	F. ⟦0⟧liquid or gel materials,⟦/0⟧
+s1713	G. ⟦0⟧tire sealant, and⟦/0⟧
+s1714	H. ⟦0⟧other lubricants including graphite powder.⟦/0⟧
+s1715	⟦0⟧⟦/0⟧⟦1⟧R202 ⟦/1⟧⟦2⟧*Design ROBOTS and OPERATOR CONSOLES for safety and fair play⟦/2⟧⟦3⟧⟦4⟧.⟦/4⟧⟦/3⟧ ROBOT and OPERATOR CONSOLE parts shall not be made from hazardous materials, be unsafe, cause an unsafe condition, or interfere with the operations of other ROBOTS or FIELD STAFF.
+s1716	Examples of items that may violate this rule include, but are not limited to:
+s1717	A. ⟦0⟧shields, curtains, or any other devices solely designed or used to limit the vision of any DRIVE TEAM members,⟦/0⟧
+s1718	B. ⟦0⟧audio devices that generate sound at a level sufficient to be a distraction or mimic MATCH sounds,⟦/0⟧
+s1719	C. ⟦0⟧any devices or decorations specifically intended to interfere with the remote sensing capabilities of another ROBOT, including vision systems, acoustic range finders, sonars, infrared proximity detectors, etc. This includes imagery on your ROBOT that utilizes or closely mimics 36h11 AprilTags,⟦/0⟧
+s1720	D. ⟦0⟧flammable gasses or any device intended to produce flames or pyrotechnics,⟦/0⟧
+s1721	E. ⟦0⟧hazardous materials like liquid mercury or lead,⟦/0⟧
+s1722	F. ⟦0⟧high intensity light sources used on the ROBOT should only be illuminated for a brief time while targeting and may invite additional scrutiny, and teams may be asked to disable or modify their lighting at the discretion of the Head REFEREE and/or LRI,⟦/0⟧
+s1723	G. ⟦0⟧animal based materials,⟦/0⟧
+s1724	H. ⟦0⟧any device designed to damage or flip competing ROBOTS, ⟦/0⟧
+s1725	I. ⟦0⟧devices or conditions that pose an unnecessary risk of entanglement,⟦/0⟧
+s1726	J. ⟦0⟧decorative or functional lighting which flashes at greater than 5Hz will invite additional scrutiny and teams may be asked to disable or modify their lighting at the discretion of the Head REFEREE and/or LRI, and⟦/0⟧
+s1727	K. ⟦0⟧other items not listed which violate the spirit of the rule regarding safe and fair play.⟦/0⟧
+s1728	⟦0⟧⟦/0⟧⟦1⟧R203 ⟦/1⟧⟦2⟧*ROBOTS must be designed to be quickly removed from the FIELD without requiring power.⟦/2⟧ ROBOTS must allow removal of SCORING ELEMENTS from the ROBOT and the ROBOT from FIELD elements while powered off.
+s1729	Some events may allow teams to use ROBOT power during FIELD reset (e.g., driving a ROBOT to the edge of the FIELD) but ROBOTS should be designed such that this is not required.
+s1730	⟦0⟧⟦/0⟧⟦1⟧R204 ⟦/1⟧⟦2⟧*No grabbing the floor.⟦/2⟧⟦3⟧ ⟦/3⟧ROBOTS may not use any MECHANISM which is designed to increase downforce by either grabbing FIELD surfaces or by using some form of generated airflow to provide downward suction.
+s1731	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧12.3 Fabrication⟦/4⟧
+s1732	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦4⟧R301 ⟦/4⟧⟦/3⟧⟦5⟧*COTS MECHANISMS are legal but have limits.⟦/5⟧ COTS MAJOR MECHANISMS purposefully designed to complete a game task are prohibited. ⟦6⟧Allowed exceptions to this rule are:⟦/6⟧
+s1733	A. COTS drive CHASSIS, provided none of the individual parts violate any other rules, and
+s1734	B. COTS MAJOR MECHANISMS created as part of the official ⟦0⟧⟦1⟧FIRST⟦/1⟧ Tech Challenge StarterBots⟦/0⟧⟦2⟧.⟦/2⟧
+s1735	COTS parts are intended to help teams design and build ROBOT MECHANISMS to complete game tasks and solve challenges but are not intended to be purpose-built solutions to complete game objectives.
+s1736	A vendor selling “build to print” manufacturing of publicly available, purpose-built solutions is against the spirit of this rule.
+s1737	⟦0⟧⟦/0⟧⟦1⟧R302 ⟦/1⟧⟦2⟧*Legal COTS parts and raw materials can be modified.⟦/2⟧⟦3⟧⟦4⟧ ⟦/4⟧⟦/3⟧Allowed raw materials and legal COTS parts can be modified (drilled, cut, painted, etc.) as long as no other rules are violated.
+s1738	Raw materials refers to unfinished building stock including, but not limited to:
+s1739	⟦0⟧⟦1⟧A. ⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧sheet stock,⟦/3⟧⟦/2⟧
+s1740	⟦0⟧⟦1⟧B. ⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧extruded shapes,⟦/3⟧⟦/2⟧
+s1741	⟦0⟧⟦1⟧C. ⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧metals, plastic, rubber, and wood, and⟦/3⟧⟦/2⟧
+s1742	⟦0⟧⟦1⟧D. ⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧magnets.⟦/3⟧⟦/2⟧
+s1743	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧R303 ⟦/2⟧⟦3⟧*COTS must be single DoF.⟦/3⟧⟦4⟧⟦5⟧ ⟦/5⟧⟦/4⟧COTS COMPONENTS and MECHANISMS must not exceed a single degree of mechanical freedom (DoF). Examples of allowed COTS single degree of freedom MECHANISMS and COMPONENTS are as follows:
+s1744	A. linear slide kit,
+s1745	B. linear actuator kit,
+s1746	C. single speed (non-shifting) gearboxes,
+s1747	D. pulley,
+s1748	E. turntable,
+s1749	F. lead screw, and
+s1750	G. single DoF gripper.
+s1751	Allowed exceptions to this rule are:
+s1752	H. ratcheting devices (wrenches, bearings, etc.),
+s1753	I. holonomic wheels (omni or mecanum),
+s1754	J. dead-wheel odometry kits,
+s1755	K. items that transfer motion between misaligned COMPONENTS (such as universal joints, flexible shaft couplers, and similar items), and
+s1756	L. items that connect structures at variable angles (such as ball joint linkages, rod ends, and similar items).
+s1757	The intent of this rule also extends to disallow highly specialized individual COMPONENTS only designed to assemble into a multiple DoF COTS COMPONENT.
+s1758	The general test for a single degree of freedom MECHANISM is whether the orientation and position of each COMPONENT in the MECHANISM can be generally predicted based on the orientation and position of a single COMPONENT (such as the input) of the system.
+s1759	Example 1: A mecanum drivetrain is made up of 4 independent drive modules, each with a single DoF (ignoring the DoF of the mecanum wheels as allowed by this rule), attached to a common structure (e.g., CHASSIS). The overall MECHANISM is still a single DoF.
+s1760	Example 2: Dead wheel odometry modules, allowed by this rule, are typically composed of a 1 DoF wheel (ignoring the effect of the holonomic wheel) providing forward/backwards motion and a spring force providing an additional unique rotational or vertical motion, creating a 2 DoF system.
+s1761	Example 3: Simple gripper claws, comprised of a single actuator moving 2 gripper jaws simultaneously or double actuators each controlling an independent gripper jaw, are by and large a single DoF. However, grippers that incorporate additional actuators providing additional twisting and/or bending actions (like a wrist) add degrees of freedom that are prohibited in COTS MECHANISMS.
+s1762	⟦0⟧⟦/0⟧⟦1⟧R304 ⟦/1⟧⟦2⟧*Custom software, designs, and parts can be reused year-to-year⟦/2⟧⟦3⟧⟦4⟧.⟦/4⟧⟦/3⟧ ROBOT software, designs, and FABRICATED ITEMS created before Kickoff are permitted.
+s1763	⟦0⟧⟦/0⟧⟦1⟧R305 ⟦/1⟧⟦2⟧*SCORING ELEMENTS are not allowed for ROBOT construction.⟦/2⟧⟦3⟧ ⟦/3⟧Current season SCORING ELEMENTS or replicas of SCORING ELEMENTS are not allowed to be used as part of ROBOT construction.

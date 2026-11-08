@@ -1,0 +1,73 @@
+s2027	B. power from a specific port may only power devices plugged into that exact port. Do not cross-wire power to other ports, and do not combine power from multiple ports into a single power bus/line,
+s2028	C. 6V power from approved Servo Power modules/injectors may only be used to power servos, and
+s2029	D. the +5V Aux port on a REV hub may be used to power devices not connected to other power regulation devices except via USB.
+s2030	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧12.7 Control, Command & Signals System⟦/4⟧
+s2031	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧R701 ⟦/3⟧⟦4⟧*Control the ROBOT with a single ROBOT CONTROLLER.⟦/4⟧ ROBOTS must be controlled via 1 programmable ROBOT CONTROLLER. The ROBOT CONTROLLER is the only source of control for the ROBOT actuators and must be comprised of:
+s2032	⟦0⟧A. a REV Control Hub (REV-31-1595)⟦/0⟧, or
+s2033	⟦0⟧B. a smartphone Android device connected to a REV Expansion Hub (REV-31-1153)⟦/0⟧.
+s2034	In addition to A or B, a ROBOT may also contain:
+s2035	C. no more than one additional REV Expansion Hub (REV-31-1153).
+s2036	We recommend teams always keep all control system device software up to date. Check the ⟦1⟧⟦2⟧FIRST⟦/2⟧ Tech Challenge Firmware Update Page⟦/1⟧ for release announcements and most recent software versions.
+s2037	Due to unpredictable variations in Android software across different manufacturers and updates, the REV Control Hub is the only officially supported ROBOT CONTROLLER device. Teams choosing to use any other unsupported device (e.g., smartphones) are responsible for testing and verifying its compatibility, functionality, and performance.
+s2038	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦4⟧R702 ⟦/4⟧⟦/3⟧⟦5⟧*Teams may not alter coprocessor software.⟦/5⟧⟦6⟧⟦7⟧ Modifying software on coprocessors, unless explicitly permitted in this rule, is not allowed by teams. Firmware updates in binary form provided by the manufacturer may be applied as directed by the manufacturer.⟦/7⟧⟦/6⟧⟦8⟧⟦9⟧ Programmable vision coprocessors natively supported by the FTC SDK are an exception to this rule, and reprogramming them is permitted. A list of programmable vision coprocessors is found ⟦/9⟧⟦/8⟧in Table 12‑9.
+s2039	⟦0⟧Table ⟦/0⟧12‑9: Supported programmable vision coprocessors
+s2040	Device
+s2041	Part Number
+s2042	Limelight Vision Limelight 3A
+s2043	LL_3A
+s2044	The following are examples of allowed and disallowed devices:
+s2045	Example 1: The Adafruit BNO055 Absolute Orientation Sensor is an IMU package with an onboard ARM Cortex-M0 based coprocessor to crunch sensor data and produce composite output. Its coprocessor contains software that is not intended by the manufacturer to be modified by users. This device is allowed.
+s2046	Example 2: The SparkFun Optical Tracking Odometry Sensor is a laser and IMU tracking device that uses an onboard microcontroller to perform complex calculations and produce simplified results. SparkFun does provide the source code and toolchain for advanced users to modify/update the software, which is not permitted by this rule. Firmware updates provided by SparkFun are allowed to be applied to the device. This device is allowed.
+s2047	Example 3: The Digital Chicken Labs OctoQuad FTC Edition is an 8-channel encoder/PWM interface, utilizing a Raspberry Pi Pico coprocessor. Teams are not permitted to modify software running on the device, including replacing the software with their own. Updates provided in binary form by the manufacturer (Digital Chicken Labs) may be applied to the device. This device is allowed.
+s2048	⟦0⟧⟦1⟧Example 4: Optical Flow sensors are an example of a sensor that utilizes a vision coprocessor that is treated no differently than other coprocessors per ⟦/1⟧⟦/0⟧⟦2⟧R702⟦/2⟧⟦3⟧⟦4⟧. These devices are allowed.⟦/4⟧⟦/3⟧
+s2049	⟦0⟧⟦1⟧Example 5: The DFRobot HuskyLens and the Charmed Labs Pixy2 are examples of vision coprocessors that are configurable but not programmable and are treated no differently than other coprocessors per ⟦/1⟧⟦/0⟧⟦2⟧R702⟦/2⟧⟦3⟧⟦4⟧. These devices are allowed.⟦/4⟧⟦/3⟧
+s2050	Example 6: The OpenMV Cam, Luxonis OAK-1, and LimeLight Vision Limelight 3G are examples of programmable vision coprocessors that are prohibited.
+s2051	⟦0⟧⟦/0⟧⟦1⟧R703 ⟦/1⟧⟦2⟧*Smartphone Android devices used as a ROBOT CONTROLLER must connect to the REV Expansion Hub using USB. ⟦/2⟧If used as a ROBOT CONTROLLER, the smartphone Android device must be connected via its integrated USB port to a REV Expansion Hub with any combination of USB cables (including USB OTG cables) and/or USB hubs (powered or unpowered, with or without OTG integrated into the hub).
+s2052	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧R704 ⟦/3⟧⟦4⟧* Use networks and bandwidth as directed. ⟦/4⟧Teams and ROBOTS must use Wi-Fi networks and bandwidth in a way that enables fair play and does not interfere with other teams or ARENA operations. Teams must abide by the following guidelines:
+s2053	A. Teams may not use any other form of wireless communication, except those offered by the provided official tools, to communicate to, from, or within the ROBOT.
+s2054	B. Teams may not interfere with the ROBOT networks. All communication signals must originate from only the ROBOT CONTROLLER device or the DRIVER STATION device using the ROBOT CONTROLLER Wi-Fi network. No other devices may attempt to connect to, interfere with, or alter the ROBOT CONTROLLER Wi-Fi network.
+s2055	C. Ensure all programming laptops and other devices (other than the DRIVER STATION device) are disconnected from the ROBOT CONTROLLER Wi-Fi network during MATCH play.
+s2056	D. Software with access to the ROBOT CONTROLLER Wi-Fi network must limit the amount of data being streamed (i.e., continuous transmission of data) over Wi-Fi. Software may only stream robot control data, debugging data, and telemetry to and from the ROBOT using the FTC Driver Station Application. Additional logging/streaming services, such as those hosted by third party plugins and tools such as FTC Dashboard, FTControl Panels, and others are prohibited. No continuous video stream is allowed.
+s2057	E. Some events may assign Wi-Fi bands and/or channels to teams. If requested by event staff, teams must use the specific frequency band or channel on the day of the competition.
+s2058	⟦0⟧⟦/0⟧⟦1⟧R705 ⟦/1⟧⟦2⟧*Configure devices for your team number. ⟦/2⟧The ROBOT CONTROLLER, DRIVER STATION, and any spares used must be configured/named to correspond to the correct team number as follows:
+s2059	A. ROBOT CONTROLLER should be named &lt;team number&gt;-RC (e.g., 12345-RC),
+s2060	B. DRIVER STATION should be named &lt;team number&gt;-DS (e.g., 12345-DS), and
+s2061	C. If a spare ROBOT CONTROLLER or DRIVER STATION is configured, a letter designator may be added &lt;team number&gt;-&lt;letter&gt;-RC/DS (e.g., 12345-A-DS, 12345-B-DS)
+s2062	See the ⟦1⟧DRIVER STATION Instructions⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧ and ⟦4⟧ROBOT CONTROLLER Instructions⟦/4⟧ for a detailed procedure for updating DRIVER STATION and ROBOT CONTROLLER “names.”
+s2063	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧R706 ⟦/2⟧⟦3⟧*Only specified modifications to core control system devices are permitted.⟦/3⟧ The DRIVER STATION device and software, Android-based ROBOT CONTROLLER device, main and secondary power switch(es), power regulation devices, fuses, and batteries shall not be tampered with, modified, or adjusted in any way (tampering includes drilling, cutting, machining, rewiring, disassembling, painting, removing enclosures and replacing with custom enclosures, etc.), with the following exceptions:
+s2064	A. wires, cables, and signal lines may be connected via the standard connection points provided on the devices,
+s2065	B. fasteners (including adhesives) may be used to attach devices to the OPERATOR CONSOLE or ROBOT or to secure cables to the device,
+s2066	C. thermal interface material may be used to improve heat conduction,
+s2067	D. labeling may be applied to indicate device identification, purpose, connectivity, functional performance, etc. as long as they do not cover labels or markings used to identify the product,
+s2068	E. jumpers or switches may be moved to configure devices per the manufacturer’s manual,
+s2069	F. device firmware may be updated with manufacturer supplied firmware,
+s2070	G. integral wires on motor controllers and batteries may be cut, stripped, and/or connectorized,
+s2071	H. devices except batteries may be repaired, provided the performance and specifications of the device after the repair are identical to those before the repair,
+s2072	I. insulating material may be added to exposed conductors,
+s2073	J. tape may be applied for debris protection, and
+s2074	K. power switch mounting brackets can be modified or replaced.
+s2075	Please note that while repairs are permitted, the allowance is independent of any manufacturer’s warranty. Teams make repairs at their own risk and should assume that any warranty or return options are forfeited. Repairs must be functionally equivalent to original device condition.
+s2076	Be aware that diagnosing and repairing COMPONENTS such as these can be difficult.
+s2077	For example, “repairs” that change connector types, include device footprint modifications, or provide mechanical enhancements, are prohibited. ⟦1/⟧
+s2078	⟦0⟧⟦/0⟧⟦1⟧R707 ⟦/1⟧⟦2⟧*USB is for vision.⟦/2⟧ Only the following devices may be connected to the ROBOT control system using USB:
+s2079	A. webcams and optical vision sensors per ⟦0⟧R708⟦/0⟧,
+s2080	B. USB hub or USB switch, and
+s2081	C. a REV Expansion Hub.
+s2082	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧R708 ⟦/2⟧⟦3⟧*Use only supported USB vision.⟦/3⟧ Only single image sensor vision devices that are natively supported by the ROBOT CONTROLLER app are allowed to connect to USB (stereoscopic cameras are not allowed). This includes the following:
+s2083	A. all UVC compatible USB webcams (Logitech C270, and related), and
+s2084	B. Vision coprocessors allowed per ⟦0⟧R702⟦/0⟧.
+s2085	UVC compatible USB webcams may only use the UVC provided stream / data. No other interfaces or data provided by the webcam may be used.
+s2086	To request support (or to provide sample drivers) for alternate USB vision devices for inclusion in future ⟦1⟧FIRST⟦/1⟧ Tech Challenge seasons, please send an email to ⟦2⟧customerservice@firstinspires.org⟦/2⟧ with the following details:
+s2087	- ⟦0⟧Subject of email should be: “USB Vision Future Support Request”⟦/0⟧
+s2088	- ⟦0⟧Contact details for providing feedback or clarifications⟦/0⟧
+s2089	- ⟦0⟧Details on the device requesting support⟦/0⟧
+s2090	⟦0⟧⟦/0⟧⟦1⟧R709 ⟦/1⟧⟦2⟧*Recording devices are okay.⟦/2⟧⟦3⟧⟦4⟧ ⟦/4⟧⟦/3⟧Self-contained video recording devices (GoPro or similar) are allowed providing they are used only for non-functional post-MATCH viewing and the wireless capability is turned off.
+s2091	⟦0⟧⟦/0⟧⟦1⟧R710 ⟦/1⟧⟦2⟧*Lasers are only allowed if they’re part of a sensor, low-energy, and non-visible.⟦/2⟧ Lasers are not allowed unless they meet all of the following criteria:
+s2092	A. must be part of a sensor,
+s2093	B. must be rated as IEC/EN 60825-1 ”Class I” or IEC/EN 62471 “Exempt,” and
+s2094	C. must use non-visible spectrum.
+s2095	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧R711 ⟦/2⟧⟦3⟧*Configure Android devices appropriately.⟦/3⟧ ROBOT CONTROLLER and DRIVER STATION Android devices (smartphones, REV Control Hub, REV Driver Hub) must additionally be configured in the following ways:
+s2096	A. REV Control Hub users must ⟦0⟧change the Wi-Fi password⟦/0⟧ to a non-default password,
+s2097	B. smartphone users must enable Airplane Mode,
+s2098	C. on ROBOT CONTROLLER and DRIVER STATION Android devices, Wi-Fi must be enabled and Bluetooth must be disabled, and
+s2099	D. on DRIVER STATION Android devices, remove all remembered Wi-Fi Direct Groups and Wi-Fi connections, leaving only the ROBOT CONTROLLER Wi-Fi connection.

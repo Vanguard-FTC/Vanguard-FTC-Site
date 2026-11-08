@@ -1,0 +1,117 @@
+s2539	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧15 ⟦6⟧FIRST⟦/6⟧ Championship ⟦/5⟧(C)
+s2540	At the 2026-2027⟦0⟧ FIRST⟦/0⟧ Championship, teams are split into 6 divisions. Each division plays a standard tournament as described in Section ⟦1⟧13.6⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧Qualification MATCHES⟦/3⟧ and Section ⟦4⟧13.7⟦/4⟧⟦5⟧ ⟦/5⟧⟦6⟧Playoff MATCHES⟦/6⟧ to produce the Division Winning ALLIANCES. Those 6 Division Winning ALLIANCES proceed to the Championship Playoffs, on the ⟦7⟧FIRST⟦/7⟧ Championship FIELD(s), to determine the ⟦8⟧FIRST⟦/8⟧ Tech Challenge Championship Winners, per ⟦9⟧15.5⟦/9⟧⟦10⟧ ⟦/10⟧⟦11⟧⟦12⟧FIRST⟦/12⟧ Championship ⟦/11⟧.
+s2541	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧15.1 Awards Modifications⟦/4⟧
+s2542	The Judging process may be modified for the ⟦0⟧FIRST⟦/0⟧ Championship to accommodate for venue limitations and the large number of teams at the event. Any process or awards modifications will be published in or before the last regularly scheduled Team Update as described in Section ⟦1⟧1.7.3⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧Team Updates⟦/3⟧.
+s2543	Awards from Section ⟦0⟧6⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Awards (A)⟦/2⟧ are all awarded in each division only, except for as shown in Table 15‑1.
+s2544	⟦0⟧⟦/0⟧⟦1⟧Table ⟦/1⟧15‑1: FIRST Championship Awards
+s2545	Award
+s2546	Per Division
+s2547	⟦1⟧⟦2⟧FIRST⟦/2⟧⟦/1⟧⟦3⟧ Championship⟦/3⟧
+s2548	Inspire Award
+s2549	1⟦0⟧st⟦/0⟧, 2⟦1⟧nd⟦/1⟧ and 3⟦2⟧rd ⟦/2⟧Place
+s2550	1⟦0⟧st⟦/0⟧ Place
+s2551	⟦1⟧FIRST⟦/1⟧ Leadership List
+s2552	Compass Award
+s2553	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧⟦6⟧⟦/6⟧⟦7⟧⟦/7⟧⟦8⟧⟦/8⟧15.2 Game Modification
+s2554	The number, type, and distribution of SCORING ELEMENTS and scoring achievement (RP) thresholds may be adjusted for the ⟦0⟧FIRST⟦/0⟧ Championship BIOBUZZ tournament. Any game modifications will be published in or before the last regularly scheduled Team Update, as described in ⟦1⟧Section ⟦/1⟧⟦2⟧1.7.3⟦/2⟧⟦3⟧ ⟦/3⟧⟦4⟧Team Updates⟦/4⟧.
+s2555	All division FIELDS will be placed on risers which are elevated approximately 24 in. (60.95 cm) from the floor. All DRIVE TEAM members and FIELD STAFF will be at floor level. A portion of the practice FIELDS will also be elevated for teams to use. To see examples of how the elevated FIELD looks, please watch the FIELD tour video from Kickoff.
+s2556	All division FIELD Perimeters will be anchored in place and will not include the AndyMark Perimeter Straps.
+s2557	Some or all division FIELDS may also have additional modifications which change their appearance, including different or additional decals, metal coatings, material changes, and lights. Every effort will be made to ensure these modifications are exclusively aesthetic in nature and will not affect the performance of the FIELD or impact ROBOT designs. The details of these modifications will be published in or before the last regularly scheduled Team Update as described in ⟦0⟧Section ⟦/0⟧⟦1⟧1.7.3⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧Team Updates⟦/3⟧.
+s2558	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧15.3 3-ROBOT ALLIANCES⟦/2⟧
+s2559	ALLIANCES at the ⟦0⟧FIRST⟦/0⟧ Championship will be made up of 3 ROBOTS. Before each division playoff tournament, ALLIANCES are selected per the process as described in Section ⟦1⟧13.7.1⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧ALLIANCE Selection Process⟦/3⟧; however, the process continues with a 2⟦4⟧nd⟦/4⟧ round of selection as follows:
+s2560	⟦0⟧Round 2: ⟦/0⟧The same method is used for each ALLIANCE lead’s second choice except the selection order is reversed, with ALLIANCE 8 picking first and ALLIANCE 1 picking last. This process results in 8 ALLIANCES of 3 teams each.
+s2561	ALLIANCES may start each of their MATCHES with any 2 of the 3 ROBOTS on their ALLIANCE during Division and Championship Playoff MATCHES. ALLIANCES do not need to inform FIELD STAFF of which 2 ROBOTS will play ahead of the MATCH but must not delay the start of the MATCH per ⟦0⟧G301⟦/0⟧ by making a late decision.
+s2562	For example, an ALLIANCE deciding a different set of 2 ROBOTS will be playing in the MATCH after 2 ROBOTS have left queuing is likely a delay of MATCH.
+s2563	⟦0⟧⟦/0⟧⟦1⟧⟦2⟧C301 ⟦/2⟧⟦/1⟧⟦3⟧*Replays use the same ROBOTS.⟦/3⟧ If a Playoff MATCH must be replayed, the 2 ROBOTS used in the replay must be the same as in the original MATCH. The sole exception is: if, in the opinion of the Head REFEREE, the ARENA FAULT rendered a ROBOT inoperable, in which case the ROBOTS can be changed. If an additional MATCH is played due to a tie, any 2 of the 3 ROBOTS may be played in the additional MATCH.⟦4⟧⟦5⟧ ⟦/5⟧⟦/4⟧
+s2564	⟦0⟧⟦1⟧FIRST⟦/1⟧⟦/0⟧⟦2⟧ Tech Challenge teams play significantly more MATCHES at the ⟦3⟧FIRST ⟦/3⟧Championship than they do at most events, and there are significantly more teams at the event. Drafting a 3⟦4⟧rd⟦/4⟧ ROBOT provides each ALLIANCE with a built-in backup ROBOT and flexibility to draft for different MATCH strategies in mind.⟦/2⟧
+s2565	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧15.4 ⟦4⟧FIRST ⟦/4⟧Championship Pit Crews⟦/3⟧⟦5⟧⟦/5⟧
+s2566	Each team on an ALLIANCE playing in the ⟦0⟧FIRST⟦/0⟧ Championship Playoffs may have an additional 3 pit crew team members inside the ARENA to assist with pre-MATCH strategy, ROBOT repair and maintenance, and other team support functions per ⟦1⟧T704⟦/1⟧. Additional pit crew members must stay in the pit areas of the ARENA.
+s2567	The additional team members may be adults or STUDENTS.
+s2568	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧15.5 ⟦5⟧FIRST ⟦/5⟧Championship ⟦/4⟧Playoffs
+s2569	More information about the ⟦2⟧FIRST Championship playoff tournament structure will be released as part of a future Team Update.⟦/2⟧
+s2570	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧16 Glossary⟦/3⟧
+s2571	The following definitions and terms are used for the ⟦1⟧FIRST⟦/1⟧ Tech Challenge game BIOBUZZ. Defined terms are in ALL CAPITAL LETTERS throughout the manual (for example, ALLIANCE). Competition rules mean what they plainly say. If a word is not given a game definition, then you should use its common conversational meaning.
+s2572	Term
+s2573	Definition
+s2574	ALLIANCE
+s2575	a cooperative of 2 ⟦0⟧FIRST⟦/0⟧ Tech Challenge teams
+s2576	ALLIANCE AREA
+s2577	an approximately 97 in. (246.40 cm) wide by 54 in. (137.15 cm) deep by infinitely tall volume formed by placing ALLIANCE colored tape onto the flooring surface outside of the FIELD
+s2578	ALLIANCE CAPTAIN
+s2579	the designated STUDENT representative from each ALLIANCE lead
+s2580	ARENA
+s2581	includes all elements of the game infrastructure that are required to play this season's FTC game including: the FIELD, SCORING ELEMENTS, queue area, team media area, and all equipment needed for FIELD control, ROBOT control, and scorekeeping
+s2582	ARENA FAULT
+s2583	an error in ARENA operation
+s2584	AUTO
+s2585	the first 30 seconds of the MATCH, during which DRIVERS may not provide input to their ROBOTS, so ROBOTS operate with only their pre-programmed instructions
+s2586	CELL
+s2587	a three-dimensional structure that can hold NECTAR and POLLEN
+s2588	CHASSIS
+s2589	ROBOT’S MAJOR MECHANISM that enables it to move around a FIELD
+s2590	COMPONENT
+s2591	any part in its most basic configuration, which cannot be disassembled without damaging or destroying the part or altering its fundamental function
+s2592	CONTINUOUS
+s2593	describes durations that are more than approximately 10 seconds
+s2594	CONTROL
+s2595	an action by a ROBOT in which the SCORING ELEMENT is fully supported by or stuck in, on, or under the ROBOT or it intentionally pushes a SCORING ELEMENT to a desired location or in a preferred direction (i.e., herding). CONTROL requires contact with a ROBOT, either directly or transitively through other SCORING ELEMENTS. Typically, CONTROL requires one of the following to be true:
+s2596	The SCORING ELEMENT is fully supported by the ROBOT
+s2597	The ROBOT is moving the SCORING ELEMENT in a preferred direction with a flat or concave face of the ROBOT
+s2598	COTS
+s2599	a standard (i.e., not custom order) part commonly available from a VENDOR for all teams for purchase
+s2600	CUSTOM CIRCUIT
+s2601	any active electrical item that is not an actuator (specified in ⟦0⟧R501⟦/0⟧) or power regulation device (specified in ⟦1⟧R505⟦/1⟧)
+s2602	DISABLED
+s2603	The REFEREE instructs the team to stop the ROBOT which will deactivate all outputs, rendering the ROBOT inoperable for the remainder of the MATCH
+s2604	DISQUALIFIED
+s2605	the state of a team in which they receive 0 MATCH points and 0 RANKING POINTS in a Qualification MATCH or causes their ALLIANCE to receive 0 MATCH points in a Playoff MATCH
+s2606	DRIVE COACH
+s2607	a guide or advisor
+s2608	DRIVE TEAM
+s2609	a set of up to 4 people from the same ⟦0⟧FIRST⟦/0⟧ Tech Challenge team responsible for team performance for a specific MATCH
+s2610	DRIVER
+s2611	an operator and controller of the ROBOT
+s2612	DRIVER STATION
+s2613	Android device (smartphone or REV Driver Hub) that runs the DRIVER STATION App software to communicate with a ROBOT per ⟦0⟧R901⟦/0⟧
+s2614	FABRICATED ITEM
+s2615	any COMPONENT or MECHANISM that has been altered, built, cast, constructed, concocted, created, cut, heat treated, machined, manufactured, modified, painted, produced, surface coated, or conjured partially or completely into the final form in which it will be used on the ROBOT
+s2616	FIELD
+s2617	an approximately 144 in. by 144 in. (365.75 cm by 365.75 cm) area bounded by the inside surface of the walls
+s2618	FIELD STAFF
+s2619	volunteers present in and around the ARENA that are responsible for making sure the MATCHES are cycled through efficiently, fairly, safely, and with a spirit of cooperation, ⟦0⟧Gracious Professionalism⟦/0⟧⟦1⟧⟦2⟧⟦3⟧®⟦/3⟧⟦/2⟧⟦/1⟧, and generosity of spirit
+s2620	FLOWER
+s2621	a structure on the FIELD in which POLLEN and NECTAR can be placed into the top, and POLLEN can be removed from the bottom
+s2622	FTA
+s2623	⟦0⟧FIRST⟦/0⟧ Technical Advisor
+s2624	GARDEN
+s2625	an approximately 23 in. (58.40 cm) by 2 in. (5.10 cm) wide and infinitely tall volume defined by the outside edge of blue or red tape in opposite corners of the FIELD
+s2626	HIVE
+s2627	a bi-stable structure made up of two CELLS and a connecting assembly that rotates on a pivot
+s2628	HOME REGION
+s2629	the region in which a team is assigned and in which they are only eligible to advance from events within
+s2630	HUMAN PLAYER
+s2631	a SCORING ELEMENT manager
+s2632	INSPECTOR
+s2633	a person determined by ⟦0⟧FIRST⟦/0⟧ to accurately and efficiently assess the legality of a given part or the whole of a ROBOT, an event volunteer role
+s2634	JUDGE
+s2635	volunteers who determine the teams that receive awards at events
+s2636	LAUNCH/LAUNCHING
+s2637	an action by a ROBOT in which the SCORING ELEMENT is shot into the air, propelled across the floor to a desired location or in a preferred direction, or thrown in a forceful way
+s2638	LEAVE
+s2639	a scoring achievement in which a ROBOT must move so that it is no longer contacting the perimeter wall
+s2640	LOADING ZONE
+s2641	an approximately 23 in. (58.40 cm) wide by 11 in. (27.95 cm) deep infinitely tall volume bounded by red or blue tape and the adjoining FIELD perimeters
+s2642	LRI
+s2643	Lead ROBOT INSPECTOR
+s2644	MAJOR FOUL
+s2645	a credit of 20 points towards the opponent’s MATCH point total
+s2646	MAJOR MECHANISM
+s2647	a group of COMPONENTS and/or MECHANISMS assembled together to address at least 1 game challenge: ROBOT movement, SCORING ELEMENT manipulation, FIELD element manipulation, or performance of a scorable task without the assistance of another ROBOT
+s2648	MATCH
+s2649	a 30-second AUTO period, an 8-second transition period between AUTO and TELEOP, and a 2-minute TELEOP period in which the ROBOT plays the current season game
+s2650	MECHANISM
+s2651	an assembly of COMPONENTS that provide specific functionality on the ROBOT. A MECHANISM can be disassembled (and then reassembled) into individual COMPONENTS without damage to the parts.
+s2652	MINOR FOUL
+s2653	a credit of 5 points towards the opponent’s MATCH point total
+s2654	MOMENTARY
+s2655	describes durations that are fewer than approximately 3 seconds

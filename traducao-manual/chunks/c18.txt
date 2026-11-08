@@ -1,0 +1,89 @@
+s1547	Note, ⟦0⟧G419⟦/0⟧ and ⟦1⟧G420⟦/1⟧ are mutually exclusive. A single ROBOT to ROBOT interaction which violates more than 1 of these rules results in the most punitive penalty, and only the most punitive penalty, being assessed.
+s1548	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧G419 ⟦/2⟧⟦3⟧*Do not damage an opponent ROBOT.⟦/3⟧ A ROBOT may not damage or functionally impair an opponent ROBOT.
+s1549	Violation: VERBAL WARNING. MAJOR FOUL and YELLOW CARD per instance, if STRATEGIC. MAJOR FOUL and RED CARD per instance if STRATEGIC and opponent ROBOT is unable to drive.
+s1550	BIOBUZZ is a highly interactive game and may include defensive and high-contact gameplay. While this rule prevents teams from damaging their opponents STRATEGICALLY and aims to limit severe damage to ROBOTS, teams should design their ROBOTS to be robust.
+s1551	The damage or functional impairment of exposed or unprotected COMPONENTS or MECHANISMS in the course of normal gameplay is not likely to be considered a violation of this rule. This includes, but is not limited to:
+s1552	A. ⟦0⟧an exposed or unprotected main power switch (see ⟦/0⟧⟦1⟧R603⟦/1⟧⟦2⟧),⟦/2⟧
+s1553	B. ⟦0⟧exposed or unprotected wiring, or ⟦/0⟧
+s1554	C. ⟦0⟧a delicately constructed MECHANISM (such as an intake).⟦/0⟧
+s1555	When a team’s ROBOT is interacting with an opponent ROBOT that is in a precarious or disadvantaged position, that team should make it obvious and unambiguous that they are trying to avoid damaging their opponent.
+s1556	Examples of actions that are likely to be perceived as STRATEGIC include, but are not limited to:
+s1557	D. ⟦0⟧A ROBOT high-speed rams and/or REPEATEDLY smashes an opponent ROBOT and causes damage.⟦/0⟧
+s1558	Examples of functionally impairing another ROBOT include, but are not limited to:
+s1559	E. ⟦0⟧disconnecting wires inside the ROBOT CHASSIS required for operation of a COMPONENT,⟦/0⟧
+s1560	F. ⟦0⟧disconnecting the opponent ROBOT’S battery (this is also an example of a ROBOT no longer able to drive), or⟦/0⟧
+s1561	G. ⟦0⟧powering off an opponent’s ROBOT by contacting their reasonably well-protected power switch. (This is also an example of a ROBOT no longer able to drive.)⟦/0⟧
+s1562	At the conclusion of the MATCH, the Head REFEREE may elect to visually inspect a ROBOT to confirm violations of this rule made during a MATCH and remove the violation if the damage cannot be verified.
+s1563	"Unable to drive" means that because of the incident, the DRIVER can no longer drive to a desired location in a reasonable time (generally). For example, if a ROBOT can only move in circles, or can only move extremely slowly, the ROBOT is considered unable to drive.
+s1564	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧G420 ⟦/2⟧⟦3⟧*Do not tip or entangle.⟦/3⟧ A ROBOT may not attach to, tip over, or entangle an opponent ROBOT.
+s1565	Violation: VERBAL WARNING. MAJOR FOUL and YELLOW CARD per instance, if STRATEGIC. MAJOR FOUL and RED CARD per instance, if STRATEGIC and either CONTINUOUS or opponent ROBOT is unable to drive.
+s1566	The attachment to, or entanglement with, exposed or unprotected COMPONENTS or MECHANISMS in the course of normal gameplay is not likely to be considered a violation of this rule. This includes, but is not limited to:
+s1567	A. ⟦0⟧exposed or unprotected wiring, or⟦/0⟧
+s1568	B. ⟦0⟧a delicately constructed MECHANISM (such as an intake).⟦/0⟧
+s1569	Examples of actions that are likely to be perceived as STRATEGIC include, but are not limited to:
+s1570	C. ⟦1⟧using a wedge-like MECHANISM to tip over an opponent ROBOT,⟦/1⟧
+s1571	D. ⟦1⟧making frame-to-frame contact with an opponent ROBOT that is attempting to right itself after previously falling over and causing them to fall over, or⟦/1⟧
+s1572	E. ⟦0⟧causing an opponent ROBOT to tip over by contacting the ROBOT after it starts to tip if, as determined by the REFEREE, that contact could have been avoided.⟦/0⟧
+s1573	Tipping as an unintended consequence of normal ROBOT-to-ROBOT interaction, including single frame-to-frame hits that result in a ROBOT tipping, as perceived by the REFEREE, is not a STRATEGIC violation of this rule.
+s1574	"Unable to drive" means that because of the incident, the DRIVER can no longer drive to a desired location in a reasonable time (generally). For example, if a ROBOT can only move in circles or can only move extremely slowly, the ROBOT is considered unable to drive.
+s1575	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧G421 ⟦/2⟧⟦3⟧*There is a 3-count on PINS. ⟦/3⟧A ROBOT may not PIN an opponent’s ROBOT for more than 3 seconds. A ROBOT is PINNING if it is ⟦4⟧preventing the movement of an opponent ROBOT by contact, either direct or transitive (such as against a FIELD element⟦/4⟧). A PIN count ends once any of the following criteria below are met:
+s1576	A. the ROBOTS have separated by at least 2 ft. (~61 cm) from each other for more than 3 seconds,
+s1577	B. either ROBOT has moved 2 ft. from where the PIN initiated for more than 3 seconds, or
+s1578	C. the PINNING ROBOT gets PINNED.
+s1579	For the criteria in ⟦0⟧G421⟦/0⟧⟦1⟧.⟦/1⟧⟦2⟧A⟦/2⟧, the PIN count pauses once ROBOTS are separated by 2 ft. until either the PIN ends or the PINNING ROBOT moves back within 2 ft., at which point the PIN count is resumed.
+s1580	For the criteria in ⟦0⟧G421⟦/0⟧⟦1⟧.⟦/1⟧⟦2⟧B⟦/2⟧, the PIN count pauses once either ROBOT has moved 2 ft. from where the PIN initiated until the PIN ends or until both ROBOTS move back within 2 ft., at which point the PIN count is resumed.
+s1581	Violation: MAJOR FOUL per instance and an additional MAJOR FOUL for every 3 seconds in which the situation is not corrected.
+s1582	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧⟦6⟧⟦/6⟧⟦7⟧⟦/7⟧⟦8⟧⟦/8⟧⟦9⟧⟦/9⟧⟦10⟧⟦/10⟧⟦11⟧⟦/11⟧⟦12⟧11.4.6 Human⟦/12⟧
+s1583	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧G422 ⟦/2⟧⟦3⟧*DRIVE TEAM stays in the ALLIANCE AREA. ⟦/3⟧Once a MATCH starts, DRIVE TEAM members may not leave their designated ALLIANCE AREA.
+s1584	Violation: VERBAL WARNING. MINOR FOUL per instance, if STRATEGIC.
+s1585	The intent of this rule is to prevent DRIVE TEAM members from leaving their assigned ALLIANCE AREA during a MATCH to gain a competitive advantage. For example, moving to another part of the FIELD for better viewing or reaching into the FIELD. Simply breaking the plane of the AREA during normal MATCH play is not a violation.
+s1586	DRIVE TEAMS may be anywhere in their ALLIANCE AREA during a MATCH. DRIVE TEAM members may retrieve their own ALLIANCE’S NECTAR that has left the FIELD that they can reach while remaining in the ALLIANCE AREA.
+s1587	Exceptions are granted in cases concerning safety.
+s1588	⟦0⟧⟦/0⟧⟦1⟧G423 ⟦/1⟧⟦2⟧*DRIVE COACHES and other teams: hands off the controls.⟦/2⟧ Once the MATCH starts, DRIVE COACHES or members of another team may not handle the gamepads of the OPERATOR CONSOLE.
+s1589	Violation: VERBAL WARNING. MAJOR FOUL and YELLOW CARD per MATCH, if STRATEGIC.
+s1590	The penalty is applied to the team to which the DRIVE TEAM member that violates the rule belongs.
+s1591	If a team is facing extenuating circumstances due to a major conflict (i.e., religious holidays, major testing, transportation issues), that team should discuss with FIELD STAFF whether an accommodation is available.
+s1592	DRIVE COACHES, if desired, may help the DRIVERS in the following ways:
+s1593	A. ⟦0⟧holding the DRIVER STATION device, ⟦/0⟧
+s1594	B. ⟦0⟧troubleshooting the DRIVER STATION device,⟦/0⟧
+s1595	C. ⟦0⟧selecting OpModes on the DRIVER STATION app, ⟦/0⟧
+s1596	D. ⟦0⟧pressing the INIT button on the DRIVER STATION app, ⟦/0⟧
+s1597	E. ⟦0⟧pressing the (⟦/0⟧⟦1⟧▶⟦/1⟧⟦2⟧) start button on the DRIVER STATION app, or ⟦/2⟧
+s1598	F. ⟦0⟧pressing the (⟦/0⟧⟦1⟧■⟦/1⟧⟦2⟧) stop button on the DRIVER STATION app.⟦/2⟧
+s1599	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧G424 ⟦/2⟧⟦3⟧*DRIVE COACHES, SCORING ELEMENTS are off limits. ⟦/3⟧DRIVE COACHES may not contact SCORING ELEMENTS, except for safety purposes.
+s1600	Violation: VERBAL WARNING. MINOR FOUL per instance, if STRATEGIC.⟦0⟧⟦/0⟧
+s1601	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧G425 ⟦/3⟧⟦4⟧*DRIVE TEAMS, watch your reach.⟦/4⟧ Once a MATCH starts, a DRIVE TEAM member may not directly or indirectly:
+s1602	A. contact a ROBOT,
+s1603	B. contact a SCORING ELEMENT in contact with a ROBOT or TILE,
+s1604	C. disrupt SCORING ELEMENT scoring, or
+s1605	D. contact a FIELD element.
+s1606	Violation: VERBAL WARNING. MAJOR FOUL and YELLOW CARD per MATCH, if STRATEGIC.
+s1607	Hand-held controllers, hanging wires, items of clothing, and other objects in the ALLIANCE AREA can all result in DRIVE TEAM members indirectly contacting a ROBOT, and would be violations of this rule.
+s1608	Exceptions are granted in cases concerning safety.
+s1609	⟦0⟧For ⟦/0⟧⟦1⟧G425⟦/1⟧⟦2⟧.⟦/2⟧⟦3⟧A⟦/3⟧⟦4⟧ and ⟦/4⟧⟦5⟧G425⟦/5⟧⟦6⟧.⟦/6⟧⟦7⟧B⟦/7⟧⟦8⟧, the penalty is applied to the team to which the DRIVE TEAM member regardless of whether the DRIVE TEAM member belongs or ROBOT initiates contact.⟦/8⟧
+s1610	Disrupting scoring includes, but is not limited to:
+s1611	A. ⟦0⟧blocking a ROBOT from scoring in a FLOWER, or⟦/0⟧
+s1612	B. ⟦0⟧deliberately hitting or shaking the perimeter wall to descore NECTAR or POLLEN from the FLOWER.⟦/0⟧
+s1613	⟦0⟧⟦/0⟧⟦1⟧G426 ⟦/1⟧⟦2⟧Humans may not enter NECTAR onto the FIELD early.⟦/2⟧ DRIVE TEAM members may not enter NECTAR onto the FIELD except:
+s1614	A. for each time the HIVE of their corresponding ALLIANCE color is TIPPED, one additional NECTAR may be entered for that ALLIANCE, or
+s1615	B. when 60 seconds or less remain in the MATCH, all remaining NECTAR can be entered
+s1616	whichever comes first.
+s1617	Violation: MINOR FOUL per NECTAR.
+s1618	The primary FIELD timer is the cue to indicate when there is 60 seconds left in the MATCH.
+s1619	⟦0⟧⟦1⟧NECTAR that leaves the FIELD may be re-entered at any time as described in ⟦/1⟧⟦/0⟧⟦2⟧G427⟦/2⟧⟦3⟧⟦4⟧.⟦/4⟧⟦/3⟧
+s1620	DRIVE TEAMS are encouraged to ensure the remaining NECTAR in their ALLIANCE AREA is visible and make it obvious and unambiguous to REFEREES that they are not entering NECTAR too early.
+s1621	NECTAR does not have to be entered into the FIELD immediately when a HIVE TIP occurs.
+s1622	⟦0⟧⟦/0⟧⟦1⟧G427 ⟦/1⟧⟦2⟧Humans, only enter NECTAR via the LOADING ZONE.⟦/2⟧ NECTAR may not be introduced to the FIELD, except as follows:
+s1623	A. without the use of a tool,
+s1624	B. by a DRIVE TEAM member of the ALLIANCE of the corresponding color, and
+s1625	C. such that NECTAR contacts the TILE within the LOADING ZONE before contacting a ROBOT or a FIELD element.
+s1626	Violation: MINOR FOUL per NECTAR.
+s1627	The intent of this rule is to only allow DRIVE TEAM members to introduce their own NECTAR into the LOADING ZONE. While there are limited restrictions on how that is done, teams should not attempt to push the boundaries of this rule to gain competitive advantage.
+s1628	⟦0⟧Humans scoring into a HIVE or FLOWER is never allowed and subject to ⟦/0⟧⟦1⟧G202⟦/1⟧⟦2⟧ violations. ⟦/2⟧
+s1629	⟦0⟧If DRIVE TEAM members come into possession of any POLLEN or opposing ALLIANCE NECTAR that has exited the FIELD, they should pass it to the nearest FIELD STAFF for reintroduction into the FIELD per Section ⟦/0⟧⟦1⟧10.8⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧Other Logistics⟦/3⟧⟦4⟧.⟦/4⟧
+s1630	⟦0⟧Note: When introducing NECTAR, DRIVE TEAM members must avoid contacting a SCORING ELEMENT that is also in contact with a TILE to avoid violating ⟦/0⟧⟦1⟧G425⟦/1⟧⟦2⟧.⟦/2⟧
+s1631	⟦0⟧⟦/0⟧⟦1⟧G428 ⟦/1⟧⟦2⟧Humans, don’t remove SCORING ELEMENTS from the FIELD.⟦/2⟧ DRIVE TEAM members may not remove SCORING ELEMENTS from the FIELD.
+s1632	Violation: MINOR FOUL per SCORING ELEMENT.
+s1633	A SCORING ELEMENT is considered on the FIELD if it is contacting a TILE, or in and/or on a ROBOT, FIELD element, or SCORING ELEMENT.
+s1634	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧⟦6⟧⟦/6⟧⟦7⟧⟦/7⟧12 ROBOT Construction Rules (R)
+s1635	The rules listed below explicitly address legal parts and materials and how those parts and materials may be used on a ROBOT. A ROBOT is ⟦0⟧an electromechanical assembly built by a ⟦1⟧FIRST⟦/1⟧ Tech Challenge team to play the current season’s game and includes all the basic systems required to be an active participant in the game –power, communications, control, and movement about the FIELD⟦/0⟧.

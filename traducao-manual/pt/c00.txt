@@ -1,0 +1,65 @@
+s0088 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦5⟧⟦6⟧1 ⟦/6⟧⟦/5⟧⟦7⟧⟦8⟧Introdução⟦/8⟧⟦/7⟧⟦/4⟧
+s0089 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧1.1 ⟦3⟧⟦4⟧Sobre a ⟦5⟧FIRST⟦/5⟧⟦6⟧®⟦/6⟧⟦/4⟧⟦/3⟧⟦/2⟧⟦7⟧⟦8⟧ ⟦/8⟧⟦/7⟧
+s0090 | A ⟦0⟧FIRST⟦/0⟧⟦1⟧®⟦/1⟧ (For Inspiration and Recognition of Science and Technology — Para Inspiração e Reconhecimento da Ciência e da Tecnologia) foi fundada para despertar o interesse dos jovens pela ciência e pela tecnologia. Desde a sua fundação, a ⟦2⟧FIRST⟦/2⟧ tornou-se a maior organização sem fins lucrativos do mundo dedicada ao público jovem e ao avanço da educação STEM, e se transformou em um movimento mundial: inspirando a inovação, construindo confiança e preparando os jovens para o futuro.
+s0091 | Nossos programas têm um ⟦0⟧impacto comprovado e duradouro⟦/0⟧ no aprendizado, no interesse e no desenvolvimento de habilidades, dentro e fora da sala de aula, e só são possíveis graças aos voluntários, educadores, mentores e patrocinadores da ⟦1⟧FIRST⟦/1⟧, que apoiam incansavelmente nossos estudantes enquanto eles constroem o seu futuro.
+s0092 | Todos os anos, os participantes vivenciam em primeira mão a inspiração que vem de fazer parte de uma comunidade global de pessoas com a mesma missão, e os laços que se formam ao trabalhar para resolver o mesmo desafio compartilhado. Os estudantes da ⟦0⟧FIRST⟦/0⟧ embarcarão em uma jornada de descobertas que une o rigor do aprendizado em STEM à diversão e à emoção dos esportes tradicionais.
+s0093 | Visite ⟦0⟧o site da ⟦1⟧FIRST⟦/1⟧⟦/0⟧ para obter mais informações sobre a ⟦2⟧FIRST⟦/2⟧ e seus programas.
+s0094 | Propósito
+s0095 | Visão
+s0096 | Missão
+s0097 | A ⟦0⟧FIRST⟦/0⟧ existe para preparar os jovens de hoje para o mundo de amanhã.
+s0098 | Transformar nossa cultura criando um mundo em que a ciência e a tecnologia sejam celebradas e em que os jovens sonhem em se tornar líderes da ciência e da tecnologia.
+s0099 | A missão da ⟦0⟧FIRST⟦/0⟧ é oferecer programas de robótica que transformam vidas e dão aos jovens as habilidades, a confiança e a resiliência para construir um mundo melhor.
+s0100 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧1.2 ⟦3⟧⟦4⟧⟦5⟧FIRST⟦/5⟧⟦/4⟧⟦/3⟧⟦/2⟧⟦6⟧⟦7⟧⟦8⟧®⟦/8⟧⟦/7⟧⟦/6⟧⟦9⟧⟦10⟧ ⟦/10⟧⟦/9⟧Tech Challenge⟦11⟧ ⟦/11⟧
+s0101 | A ⟦0⟧FIRST⟦/0⟧ oferece um amplo espectro de experiências de robótica, projetadas para encontrar os estudantes onde eles estão: envolvendo e entusiasmando estudantes de todos os níveis, quaisquer que sejam as suas circunstâncias. O que torna o ⟦1⟧FIRST⟦/1⟧⟦2⟧®⟦/2⟧ Tech Challenge especial dentro da família de programas excepcionais da ⟦3⟧FIRST⟦/3⟧?
+s0102 | Escala, Nível de Habilidade, Complexidade, Flexibilidade e Protagonismo dos Estudantes
+s0103 | - ⟦0⟧Escala.⟦/0⟧ Com um campo do tamanho de uma sala de aula e robôs seguros para uso em sala de aula, o ⟦1⟧FIRST⟦/1⟧ Tech Challenge pode ser implementado em qualquer lugar onde os estudantes queiram se reunir. A possibilidade de ter sucesso com equipes menores cria uma estrutura social na qual os estudantes de uma equipe podem se destacar em todas as funções ou se especializar em uma única função.
+s0104 | - ⟦0⟧Nível de Habilidade.⟦/0⟧ O ⟦1⟧FIRST⟦/1⟧ Tech Challenge oferece desafios tanto para estudantes que buscam competir em nível de campeonato, com oportunidades de avanço, quanto para aqueles que estão apenas começando a aprender a jogar em sua própria sala de aula. Ele proporciona uma experiência estruturada em degraus para o crescimento, que não exige especialistas para conduzi-la, apenas adultos atenciosos que possibilitem a autoexploração.
+s0105 | - ⟦0⟧Complexidade.⟦/0⟧ Os robôs podem ser totalmente construídos a partir de um Kit Inicial (Starter Kit) básico, totalmente fabricados a partir de projetos personalizados, ou construídos combinando as duas abordagens. Há oportunidades para manufatura avançada, mas ferramentas que não sejam de sala de aula são opcionais, não obrigatórias.
+s0106 | - ⟦0⟧Flexibilidade.⟦/0⟧ Com uma temporada estendida que começa em setembro e vai até março, com eventos finais realizados de abril a julho, as equipes podem ajustar sua temporada para incluir picos intensos de trabalho distribuídos entre períodos de recuperação ou outras atividades escolares, mantendo ainda uma experiência de construção iterativa, orientada à melhoria.
+s0107 | - ⟦0⟧Protagonismo dos Estudantes⟦/0⟧⟦1⟧.⟦/1⟧ Equipes menores competindo em uma temporada estendida, com robôs seguros para uso em sala de aula, permitem que os estudantes aprendam de forma independente por meio da autoexploração e sintam que são donos de uma parte maior da jornada de sua equipe.
+s0108 | E, é claro, o ⟦0⟧FIRST⟦/0⟧ Tech Challenge oferece todas as oportunidades de comunidade, colaboração, ação social e crescimento encontradas em todos os programas da ⟦1⟧FIRST⟦/1⟧.
+s0109 | Visite as páginas do ⟦0⟧⟦1⟧FIRST⟦/1⟧ Tech Challenge⟦/0⟧ na web para mais detalhes.
+s0110 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦3⟧⟦4⟧1.3 ⟦/4⟧⟦/3⟧⟦5⟧⟦6⟧⟦7⟧Ethos e Valores Fundamentais da FIRST ⟦/7⟧⟦/6⟧⟦/5⟧⟦/2⟧⟦8⟧⟦9⟧⟦/9⟧⟦/8⟧⟦10⟧⟦/10⟧
+s0111 | ⟦1⟧⟦2⟧1.3.1 ⟦/2⟧⟦/1⟧⟦3⟧⟦4⟧⟦5⟧Profissionalismo Cortês (Gracious Professionalism⟦/5⟧⟦/4⟧⟦/3⟧⟦6⟧⟦7⟧⟦8⟧®⟦/8⟧⟦/7⟧⟦/6⟧)
+s0112 | O ⟦0⟧Gracious Professionalism⟦/0⟧⟦1⟧®⟦/1⟧ (Profissionalismo Cortês) faz parte do ethos da ⟦2⟧FIRST⟦/2⟧. É uma maneira de fazer as coisas que incentiva um trabalho de alta qualidade, enfatiza o valor dos outros e respeita os indivíduos e a comunidade.
+s0113 | Por meio do ⟦0⟧Profissionalismo Cortês⟦/0⟧, a competição acirrada e o ganho mútuo coexistem. Os participantes competem intensamente, ao mesmo tempo em que se tratam com respeito e empatia. Não há provocações, mas também não há clichês insinceros. Conhecimento, competição, integridade e empatia se combinam de forma natural.
+s0114 | Em última análise, o ⟦0⟧Profissionalismo Cortês⟦/0⟧ faz parte da busca por uma vida significativa. Quando os profissionais usam o conhecimento de maneira cortês e as pessoas agem com integridade e sensibilidade, todos saem ganhando e a sociedade se beneficia.
+s0115 | O termo foi criado pelo Dr. Woodie Flowers (1943 - 2019), presidente emérito do conselho consultivo executivo, conselheiro distinto da ⟦0⟧FIRST⟦/0⟧ e pai da robótica competitiva.
+s0116 | ⟦0⟧Figura ⟦/0⟧1‑1: Dr. Woodie Flowers, Pai da Robótica Competitiva, defensor e exemplo do Profissionalismo Cortês
+s0117 | “O espírito da FIRST incentiva a realização de um trabalho de alta qualidade e bem fundamentado, de uma maneira que deixe todos se sentindo valorizados. O Profissionalismo Cortês parece ser uma boa descrição de parte do ethos da FIRST. Ele é parte do que torna a FIRST diferente e maravilhosa.”
+s0118 | - Dr. Woodie Flowers
+s0119 | O ⟦0⟧Profissionalismo Cortês⟦/0⟧ é um presente de Woodie, e todos nós nos tornamos agora os seus guardiões. Woodie costumava dizer que não é crucial definirmos o ⟦1⟧Profissionalismo Cortês⟦/1⟧, mas também dizia que é muito importante falarmos sobre o ⟦2⟧Profissionalismo Cortês⟦/2⟧.
+s0120 | O ⟦0⟧⟦1⟧Profissionalismo Cortês⟦/1⟧⟦/0⟧⟦2⟧ pode ser difícil de entender, porque a sua busca deve ser diferente para cada pessoa. Ao falar sobre ⟦3⟧Profissionalismo Cortês⟦/3⟧, fica rapidamente evidente que ele passou a simbolizar tudo o que há de bom dentro de cada um de nós e tudo o que há de bom quando interagimos uns com os outros e com o nosso mundo.⟦/2⟧
+s0121 | É um ideal aspiracional a ser sempre perseguido, não uma meta a ser alcançada e nem um método de avaliar alguém. Por esse motivo, nunca se pode dizer que alguém “é” ou “não é” Cortês e Profissional; em vez disso, a pessoa pode incorporar alguns dos seus aspectos.
+s0122 | Sempre que algo for discutido como “não GP” (não Profissionalismo Cortês), é mais adequado falar sobre comportamentos específicos que precisam melhorar. A pessoa foi desrespeitosa? Indelicada? Desonesta?
+s0123 | Ser Cortês e Profissional é mais do que a soma de qualquer um dos seus atributos individuais.
+s0124 | ⟦0⟧Alguns significados possíveis do ⟦/0⟧⟦1⟧⟦2⟧Profissionalismo Cortês⟦/2⟧ incluem:⟦/1⟧
+s0125 | - atitudes e comportamentos corteses que são ganha-ganha,
+s0126 | - pessoas corteses respeitam os outros e deixam esse respeito transparecer em suas ações,
+s0127 | - profissionais possuem conhecimento especial e contam com a confiança da sociedade para usar esse conhecimento de forma responsável, e
+s0128 | - profissionais corteses dão uma contribuição valiosa de maneira agradável aos outros e a si mesmos.
+s0129 | No contexto da ⟦1⟧FIRST⟦/1⟧, isso significa que todas as equipes e participantes devem:
+s0130 | - aprender a ser competidores fortes, mas também tratar uns aos outros com respeito e gentileza nesse processo, e
+s0131 | - evitar deixar qualquer pessoa com a sensação de ser excluída ou desvalorizada.
+s0132 | Equipes bem-sucedidas dedicam tempo a revisar esse conceito e a reforçá-lo regularmente. Os membros da equipe devem trabalhar juntos para identificar exemplos reais de ⟦0⟧Profissionalismo Cortês⟦/0⟧ na prática. Destaquem rotineiramente, uns para os outros, oportunidades de demonstrar aspectos do ⟦1⟧Profissionalismo Cortês⟦/1⟧ nos eventos, e incentivem cada membro da equipe a sugerir maneiras pelas quais pode incorporar aspectos dessa qualidade.
+s0133 | Figura 1‑2: Palavras que podem se aplicar a pessoas que incorporam o Profissionalismo Cortês.⟦0/⟧ Quais palavras você colocaria na sua nuvem de palavras?
+s0134 | ⟦0⟧⟦/0⟧⟦1⟧⟦2⟧⟦3⟧1.3.2 ⟦/3⟧⟦/2⟧⟦4⟧⟦5⟧⟦6⟧Coopertition⟦/6⟧⟦/5⟧⟦/4⟧⟦7⟧⟦8⟧⟦9⟧®⟦/9⟧⟦/8⟧⟦/7⟧⟦/1⟧
+s0135 | ⟦0⟧Coopertition⟦/0⟧⟦1⟧®⟦/1⟧ é demonstrar bondade e respeito incondicionais diante de uma competição acirrada. Baseia-se no conceito e na filosofia de que as equipes podem cooperar e ajudar umas às outras mesmo quando estão competindo diretamente entre si. A estrutura de alianças do ⟦2⟧FIRST⟦/2⟧ Tech Challenge exemplifica naturalmente a ⟦3⟧Coopertition⟦/3⟧⟦4⟧®⟦/4⟧ — o adversário de uma equipe em uma partida pode ser seu parceiro de aliança na partida seguinte. Nesse sentido, todas as equipes se beneficiam quando todos jogam o melhor que podem.⟦5⟧⟦/5⟧
+s0136 | ⟦0⟧⟦1⟧1.3.3 ⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧Valores Fundamentais⟦/3⟧⟦/2⟧
+s0137 | Os Valores Fundamentais da ⟦0⟧FIRST⟦/0⟧ são essenciais para a ⟦1⟧FIRST⟦/1⟧ e exclusivos dos nossos programas. Eles enfatizam o espírito esportivo amigável, o respeito pelas contribuições dos outros, o trabalho em equipe, o aprendizado e o envolvimento com a comunidade. Nossa comunidade expressa as filosofias da ⟦2⟧FIRST⟦/2⟧ de ⟦3⟧Profissionalismo Cortês⟦/3⟧⟦4⟧®⟦/4⟧ e ⟦5⟧Coopertition⟦/5⟧⟦6⟧®⟦/6⟧ por meio dos Valores Fundamentais da ⟦7⟧FIRST⟦/7⟧.
+s0138 | - ⟦0⟧Descoberta⟦/0⟧: Exploramos novas habilidades e ideias.
+s0139 | - ⟦0⟧Inovação⟦/0⟧: Usamos criatividade e persistência para resolver problemas.
+s0140 | - ⟦0⟧Impacto⟦/0⟧: Aplicamos o que aprendemos para melhorar o nosso mundo.
+s0141 | - ⟦0⟧Inclusão⟦/0⟧: Respeitamos uns aos outros e acolhemos as nossas diferenças.
+s0142 | - ⟦0⟧Trabalho em equipe⟦/0⟧: Somos mais fortes quando trabalhamos juntos.
+s0143 | - ⟦0⟧Diversão⟦/0⟧: Gostamos do que fazemos e celebramos!
+s0144 | 1.3.4 Por que adotar o Ethos da ⟦0⟧FIRST⟦/0⟧ e o ⟦1⟧Profissionalismo Cortês⟦/1⟧?
+s0145 | Algumas pessoas que são novas na ⟦0⟧FIRST⟦/0⟧ e nos nossos valores podem pensar: ⟦1⟧“Isso não se aplica a mim. Não vejo isso no mundo ao meu redor. Por que preciso agir dessa forma?”⟦/1⟧
+s0146 | Para construir um mundo melhor, buscar uma vida mais significativa e celebrar tudo o que nos torna unicamente humanos.
+s0147 | ⟦0⟧Construir um Mundo Melhor⟦/0⟧⟦1/⟧ Nossa missão é “dar aos jovens as habilidades, a confiança e a resiliência para construir um mundo melhor.” Que tipo de mundo queremos que seja esse? De que tipo de cultura queremos fazer parte?
+s0148 | Nós, da ⟦0⟧FIRST⟦/0⟧, acreditamos que um mundo em que todos se esforçam para incorporar os valores da ⟦1⟧FIRST⟦/1⟧ e demonstrar ⟦2⟧Profissionalismo Cortês⟦/2⟧ em suas ações seria um mundo muito bom para se viver.
+s0149 | ⟦0⟧Buscar uma Vida Significativa⟦/0⟧⟦1/⟧ E essas ações fazem as pessoas se sentirem bem! Sabemos que ser um colaborador eficaz é uma parte enorme de se sentir bem consigo mesmo. Esses comportamentos terão um impacto positivo em todas as áreas da sua vida.
+s0150 | Trabalhar duro pode ser divertido e profundamente satisfatório, e alcançar essa autoestima racional é uma parte importante da felicidade a longo prazo. Você pode começar esses comportamentos porque está tentando construir um mundo melhor, mas também perceberá que está construindo uma vida mais significativa.
+s0151 | ⟦0⟧Ainda cético? Experimente na ⟦1⟧FIRST⟦/1⟧.⟦/0⟧⟦2/⟧ De muitas maneiras, a ⟦3⟧FIRST⟦/3⟧ é uma prática para o mundo real; temos a oportunidade de moldar a comunidade ⟦4⟧FIRST⟦/4⟧ como quisermos. Estamos dando aos estudantes a oportunidade de fazer escolhas corteses e profissionais quando isso é fácil — para que vejam como é, aprendam como funciona e estejam preparados para fazer o mesmo quando ⟦5⟧não⟦/5⟧ for tão fácil.
+s0152 | Conseguimos aquilo que celebramos: então, vamos celebrar o trabalho duro, a integridade, o jogo limpo, o espírito esportivo, a empatia e todas as coisas que nos tornam unicamente humanos.⟦0/⟧

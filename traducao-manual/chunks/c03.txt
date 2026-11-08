@@ -1,0 +1,72 @@
+s0231	Key words that have a particular meaning within the context of ⟦0⟧FIRST⟦/0⟧ Tech Challenge and BIOBUZZ are defined in Section ⟦1⟧16⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧Glossary⟦/3⟧ and indicated in ALL CAPS throughout this document.
+s0232	The rule numbering method indicates the section, subsection, and position of the rule within that subsection. The letter indicates the section in which the rule is published.
+s0233	- I for Section ⟦0⟧3⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Competition Eligibility and Inspection (I)⟦/2⟧
+s0234	- E for Section ⟦0⟧5⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Event Rules (E)⟦/2⟧
+s0235	- A for Section ⟦0⟧6⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Awards (A)⟦/2⟧
+s0236	- G for Section ⟦0⟧11⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Game Rules (G)⟦/2⟧
+s0237	- R for Section ⟦0⟧12⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧ROBOT Construction Rules (R)⟦/2⟧
+s0238	- T for Section ⟦0⟧13⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Tournament (T)⟦/2⟧
+s0239	- L for Section ⟦0⟧14⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧League Play Tournaments (L)⟦/2⟧
+s0240	- C for Section ⟦0⟧15⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧FIRST Championship (C)⟦/2⟧
+s0241	The following digit(s) represents the subsection in which the rule can be found. The final digits indicate the rule’s position within that subsection.
+s0242	Figure 1‑3 Rule numbering method
+s0243	Warnings, cautions, and notes appear in orange boxes. Pay close attention to their contents as they’re intended to provide insight into the reasoning behind a rule, helpful information on understanding or interpreting a rule, and/or possible “best practices” for use when implementing systems affected by a rule.
+s0244	While orange boxes are part of the manual, they do not carry the weight of the actual rule (if there is an inadvertent conflict between a rule and its orange box, the rule supersedes the language in the orange box).
+s0245	Imperial dimensions are followed by comparable metric dimensions in parentheses to provide metric users with the approximate size, mass, etc. Metric conversions (e.g., dimensions) round to the nearest 0.05 cm, e.g., "17.5 in. (~44.45 cm).” The metric conversions are offered for convenient reference only and do not overrule or take the place of the imperial dimensions presented in this manual and the official drawings (i.e., dimensions and rules will always defer to measurements using imperial units).
+s0246	Rules include colloquial language, also called headlines, in an effort to convey an abbreviated version of the rule or rule set. There are two versions of headline formatting. Evergreen rules, rules which are expected to be present each season with only their specific details changing from season to season, are indicated with their headline presented in ⟦0⟧*bold green text⟦/0⟧ with a leading asterisk. This means that the overall subject and presence of the rule from season to season is constant, but game specific details and terms may be updated as needed (e.g., changing game specific terms, or changing the specific details around ROBOT expansion within an Evergreen rule about expansion limits, or changing the quantity of allowed motors within an Evergreen actuator rule). These rules also start their respective section, so their rule number is less likely to change from season to season. All other rule headlines use ⟦1⟧bold orange text⟦/1⟧. ⟦2/⟧ ⟦3/⟧ Any disagreement between the specific language used in the rules and the colloquial language is an error, and the specific rule language is the ultimate authority. If you discover a disparity, please let us know at ⟦4⟧customerservice@firstinspires.org⟦/4⟧.
+s0247	Team resources that are not generally season specific (for example, what to expect at an event, communication resources, team organization recommendations) can be found on the ⟦0⟧⟦1⟧FIRST ⟦/1⟧Tech Challenge Resources Page⟦/0⟧.
+s0248	1.7.2 Translations & Other Versions
+s0249	The ⟦0⟧FIRST⟦/0⟧ Tech Challenge Competition Manual is originally and officially written in English and is occasionally translated into other languages for the benefit of ⟦1⟧FIRST⟦/1⟧ Tech Challenge teams whose native language may not be English. These assets are posted on the ⟦2⟧Game and Season Materials⟦/2⟧ page.
+s0250	A text-based English version can be provided only for use with assistive devices and not for redistribution. For more information, please contact ⟦0⟧FIRST⟦/0⟧ Tech Challenge at ⟦1⟧customerservice@firstinspires.org⟦/1⟧.
+s0251	Additional resources such as a ⟦0⟧⟦1⟧FIRST⟦/1⟧ Tech Challenge AI Chatbot⟦/0⟧ are provided as a helpful tool, but the Competition Manual is the final authority. In the event that a rule or description is modified in an alternate version of this manual, the latest English PDF version as published on the ⟦2⟧Game and Season Materials⟦/2⟧ page is the authoritative version.
+s0252	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧1.7.3 Team Updates
+s0253	Team Updates are used to notify the ⟦0⟧FIRST⟦/0⟧ Tech Challenge community of revisions to the official season documentation (e.g., the manual, drawings) or important season news. Team Update posts are scheduled as follows on the ⟦1⟧Game and Season Materials⟦/1⟧ page:
+s0254	- Every Thursday beginning on Kickoff day and ending two weeks prior to ⟦0⟧FIRST⟦/0⟧ Championship.
+s0255	Team Updates are indicated using the following formatting:
+s0256	- Additions are highlighted in yellow. ⟦0⟧This is an example.⟦/0⟧
+s0257	- Deletions are indicated with a strikethrough. ⟦0⟧This is an example.⟦/0⟧
+s0258	Team Updates that are published after the driver’s meeting at an event will not apply to that event.
+s0259	1.7.4 Question & Answer System
+s0260	The ⟦0⟧Question and Answer System (Q&A)⟦/0⟧ is a resource for teams to ask questions about gameplay, competition rules, judging and advancement, ROBOT build rules, and FIELD setup. Teams can search for previously asked questions and responses or pose new questions. Questions can include examples for clarity or reference multiple rules to understand the relationships and differences between them.
+s0261	The Q&A opens on September 28, 2026, 12:00p.m. ET. ⟦0⟧Access to the Game Q&A system is through the ⟦/0⟧Lead Coach 1⟦1⟧ or ⟦/1⟧Lead Coach 2⟦2⟧’s account on the ⟦/2⟧⟦3⟧⟦4⟧FIRST⟦/4⟧ dashboard⟦/3⟧⟦5⟧. ⟦/5⟧
+s0262	The Q&A may result in revisions to the text in the official manuals (which are communicated using the process described in Section ⟦0⟧1.7.3⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Team Updates⟦/2⟧).
+s0263	Moderators will answer team questions beginning each Monday and close on Thursday at 5:00p.m. ET. The responses in the Q&A do not supersede the text in the manual, although every effort will be made to eliminate inconsistencies between the two. While responses provided in the Q&A may be used to aid discussion at each event, REFEREES and INSPECTORS are the ultimate authority on rules. If you have concerns about enforcement trends by volunteer authorities, please ⟦0⟧notify ⟦1⟧FIRST⟦/1⟧⟦/0⟧.
+s0264	The Q&A is not a resource for firm predictions on how a situation will play out at an event. Questions about the following may not be addressed:
+s0265	- rulings on vague situations
+s0266	- challenging decisions made or at past events
+s0267	- design reviews of a ROBOT system for legality
+s0268	- questions that are overly broad, vague, and/or include no rule references
+s0269	- questions about how a REFEREE should have ruled when specific gameplay happened at a past event
+s0270	- duplicate questions
+s0271	- questions clearly defined/addressed in this manual
+s0272	Good questions ask generically about features of parts or designs, gameplay scenarios, or rules, and often reference one or more relevant rules within the question. Some examples of questions that will likely be answered in the Q&A are:
+s0273	- A device we are considering using on the ROBOT comes with purple AWG 40 wire, does this comply with R?? and R??
+s0274	- We’re not sure how to interpret Rule G?? applies if blue ROBOT A does X and red ROBOT B does Y, can you please clarify?
+s0275	- If a ROBOT does this specific action, is it doing what this defined term is describing?
+s0276	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧2 ⟦4⟧FIRST⟦/4⟧ Season Overview⟦/3⟧
+s0277	⟦0⟧Engineer a Thriving Planet with ⟦/0⟧⟦1⟧⟦2⟧FIRST⟦/2⟧⟦/1⟧
+s0278	Nothing on Earth thrives alone. Every gene, species, and ecosystem is part of a rich web of biological diversity that powers clean air, fresh water, and food. With STEM as their tool and nature as inspiration, today’s boldest innovators are finding new ways to strengthen the connections that protect our shared home.
+s0279	Building. Problem solving. Growing stronger through teamwork.
+s0280	Welcome to ⟦0⟧FIRST⟦/0⟧⟦1⟧®⟦/1⟧ CANOPY™, our 2026-2027 robotics season inspired by nature.
+s0281	⟦0⟧LEARN MORE:⟦/0⟧ ⟦1⟧https://www.firstinspires.org/first-canopy⟦/1⟧
+s0282	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧⟦6⟧⟦/6⟧⟦7⟧⟦/7⟧3 Competition Eligibility and Inspection (I)
+s0283	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧3.1 Team Eligibility Rules⟦/5⟧
+s0284	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧I101 ⟦/2⟧⟦3⟧*Teams must be registered with ⟦4⟧FIRST⟦/4⟧.⟦/3⟧ Teams must be “competition ready” in order to compete in ⟦5⟧FIRST⟦/5⟧ Tech Challenge official events and earn MATCH points or be eligible for judged awards.
+s0285	A. North America - competition ready requirements:
+s0286	i. complete annual registration process through the ⟦0⟧FIRST⟦/0⟧ dashboard
+s0287	ii. pay annual registration fee
+s0288	iii. 2 adults must be assigned in the Lead Coach 1/Lead Coach 2 roles and have passed ⟦0⟧Youth Protection Program (YPP) screening⟦/0⟧,
+s0289	iv. complete any additional Youth Protection screening requirements (may vary from region to region), and
+s0290	v. register all youth team members on the ⟦0⟧FIRST⟦/0⟧ dashboard.
+s0291	B. outside North America - competition ready requirements:
+s0292	i. complete annual registration process through the ⟦0⟧FIRST⟦/0⟧ dashboard and
+s0293	ii. complete any additional requirements by the local ⟦0⟧FIRST⟦/0⟧ Program Delivery Partner with regards to program fees, registrations and youth protection screening.
+s0294	⟦0⟧⟦1⟧The local ⟦/1⟧⟦/0⟧⟦2⟧Program Delivery Partner ⟦3⟧⟦4⟧may, in rare cases, make exceptions for delayed payment on a case-by-case basis. Teams who have not paid annual registration fees will not earn any official season record and will not be allowed to advance.⟦/4⟧⟦/3⟧⟦/2⟧
+s0295	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦4⟧I102 ⟦/4⟧⟦/3⟧⟦5⟧*Check-in at the event on time.⟦/5⟧⟦6⟧⟦7⟧ An adult team member must check-in at the Pit Administration station, or designated check-in location, no later than 45 minutes before Qualification MATCHES are scheduled to start, unless otherwise specified or approved by the ⟦/7⟧⟦/6⟧Event Director⟦8⟧⟦9⟧. Check-in must be completed by a team adult and at least one STUDENT must be present at the venue before check-in can be completed.⟦/9⟧⟦/8⟧⟦10⟧⟦11⟧ ⟦/11⟧⟦/10⟧
+s0296	⟦0⟧⟦1⟧Additional check-in requirements will vary by region but may require one or more of the following items⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧: ⟦/3⟧⟦/2⟧
+s0297	A. A current, completed team roster from the team’s ⟦0⟧⟦1⟧FIRST⟦/1⟧ dashboard⟦/0⟧ as specified by the local Program Delivery Partner,
+s0298	B. local Program Delivery Partner team member registration or consent forms (varies by region),
+s0299	C. a ROBOT built to specifications in Section ⟦0⟧12 ⟦/0⟧⟦1⟧ROBOT Construction Rules (R)⟦/1⟧, if they intend to participate in MATCHES, and
+s0300	D. a printed team PORTFOLIO (optional, see Section ⟦0⟧6⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Awards (A)⟦/2⟧).
+s0301	Teams should be aware of the competition schedule and note any key activities (such as inspection or judging) that may occur prior to the check-in deadline.
+s0302	⟦0⟧⟦1⟧All teams, regardless of how “ready” they think they are, are encouraged to participate in gameplay and judging. Teams are encouraged to reach out to their ⟦/1⟧⟦/0⟧⟦2⟧Program Delivery Partner ⟦3⟧⟦4⟧and other teams to request help getting their ROBOT ready to compete before attending an event. ⟦/4⟧⟦/3⟧⟦/2⟧

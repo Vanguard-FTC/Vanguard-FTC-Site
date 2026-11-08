@@ -1,0 +1,66 @@
+s0303 | ⟦0⟧⟦/0⟧⟦1⟧⟦2⟧I103 ⟦/2⟧⟦/1⟧⟦3⟧*Um adulto responsável deve estar presente durante todo o evento. ⟦/3⟧Pelo menos 1, preferencialmente 2, adulto(s) responsável(is) pelos membros ESTUDANTES da equipe deve(m) estar presente(s) o tempo todo durante o evento.⟦4⟧⟦5⟧ ⟦/5⟧⟦/4⟧⟦6⟧⟦7⟧Recomenda-se que o(s) adulto(s) responsável(is) conste(m) na lista de membros (roster) da equipe.⟦/7⟧⟦8⟧⟦/8⟧⟦9⟧ ⟦/9⟧⟦/6⟧
+s0304 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧3.2 Regras de Elegibilidade para Premiações⟦/2⟧
+s0305 | ⟦0⟧Para ser elegível aos Prêmios Julgados de Equipe, uma equipe deve participar de uma Entrevista Inicial (⟦/0⟧⟦1⟧A203⟦/1⟧⟦2⟧). Para alguns prêmios, também é exigida a entrega de um PORTFÓLIO (⟦/2⟧⟦3⟧A201⟦/3⟧⟦4⟧).⟦/4⟧
+s0306 | ⟦0⟧Equipes que competem em vários Torneios Classificatórios ou de Liga, ou em eventos fora da sua REGIÃO DE ORIGEM, estão sujeitas a ⟦/0⟧⟦1⟧A213⟦/1⟧⟦2⟧ e ⟦/2⟧⟦3⟧A214⟦/3⟧⟦4⟧. Os detalhes sobre a REGIÃO DE ORIGEM podem ser encontrados na Seção ⟦/4⟧⟦5⟧4⟦/5⟧⟦6⟧ ⟦/6⟧⟦7⟧Avanço⟦/7⟧⟦8⟧.⟦/8⟧
+s0307 | ⟦0⟧Os detalhes e regras completos sobre os prêmios do ⟦1⟧FIRST⟦/1⟧ Tech Challenge podem ser encontrados na Seção ⟦/0⟧⟦2⟧6⟦/2⟧⟦3⟧ ⟦/3⟧⟦4⟧Premiações (A)⟦/4⟧⟦5⟧.⟦/5⟧
+s0308 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧3.3 Regras de Elegibilidade para PARTIDAS⟦/4⟧
+s0309 | Antes de participar de PARTIDAS Classificatórias ou de Playoffs, as equipes devem ser aprovadas em uma inspeção do ROBÔ conduzida por voluntários INSPETORES. O objetivo da inspeção é garantir que o ROBÔ da equipe atenda aos requisitos básicos de segurança e de competição antes de entrar em jogo nas PARTIDAS.
+s0310 | Alguns eventos podem oferecer PARTIDAS de Treino programadas. As equipes podem participar de PARTIDAS de Treino programadas antes de serem aprovadas na inspeção, mas não podem participar de PARTIDAS de Treino não programadas ou “de preenchimento de fila” (filler line) antes de serem aprovadas na inspeção. As equipes são responsáveis por garantir que os seus ROBÔS sejam seguros e não danifiquem o CAMPO de jogo.
+s0311 | O FTA, o LRI ou o ÁRBITRO-Chefe podem proibir uma equipe de participar de uma PARTIDA de Treino se determinarem que o seu ROBÔ é inseguro ou tem probabilidade de danificar o CAMPO de jogo.
+s0312 | 3.3.1 Inspeção
+s0313 | A inspeção costuma ser uma das primeiras atividades que uma equipe vivencia ao chegar a um evento. Alguns eventos podem atribuir horários específicos de inspeção às equipes, e outros podem programar um período geral de tempo para que as equipes concluam a inspeção. As equipes são responsáveis por concluir a inspeção dentro do tempo programado.
+s0314 | Durante a inspeção, os estudantes da equipe apresentam o seu ROBÔ, todos os COMPONENTES que serão usados por esse ROBÔ e o seu CONSOLE DO OPERADOR. Os INSPETORES analisarão com a equipe os requisitos básicos de segurança e de competição. Se algum requisito não for atendido, os INSPETORES trabalharão com a equipe para encontrar uma solução. O ⟦0⟧Inspetor-Chefe de ROBÔS (Lead ROBOT INSPECTOR) ⟦/0⟧(LRI) tem a autoridade final sobre a elegibilidade de uma equipe para participar das PARTIDAS Classificatórias e de Playoffs em assuntos relacionados à construção do ROBÔ.
+s0315 | As equipes podem ligar e habilitar o ROBÔ durante a inspeção para demonstrar o cumprimento das regras de construção do ROBÔ. Os membros da equipe deveriam avisar os INSPETORES se o ROBÔ precisar estar ligado e/ou habilitado para atender a algum critério de inspeção. Os membros da equipe também deveriam informar aos INSPETORES se o ROBÔ, em sua configuração de inspeção, tiver alguma energia armazenada (por exemplo, molas esticadas) e colaborar entre si para garantir uma experiência de inspeção segura.
+s0316 | ⟦0⟧A inspeção não é abrangente. Espera-se que as equipes respeitem o espírito das regras da Seção ⟦/0⟧⟦1⟧12⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧Regras de Construção do ROBÔ (R)⟦/3⟧⟦4⟧,⟦/4⟧⟦5⟧ mesmo que os INSPETORES não verifiquem cada parte do ROBÔ. Equipes que burlam ESTRATEGICAMENTE as regras de construção do ROBÔ não estão cumprindo o Contrato de Integridade da Competição (CIC) e podem estar sujeitas a mitigação.⟦/5⟧
+s0317 | Há uma ⟦1⟧Lista de Verificação de Inspeção (Inspection Checklist)⟦/1⟧ disponível para ajudar as equipes a autoinspecionar o seu ROBÔ. As equipes são fortemente incentivadas a se autoinspecionar antes de cada evento.
+s0318 | A inspeção pode não acontecer de uma só vez se, por exemplo, uma equipe precisar fazer uma pausa para resolver um problema de construção do ROBÔ ou participar de uma PARTIDA de Treino programada. O processo pode envolver vários voluntários de inspeção. Tanto o INSPETOR quanto a equipe podem solicitar a ajuda do LRI.
+s0319 | ⟦0⟧⟦/0⟧⟦1⟧I301 ⟦/1⟧⟦2⟧*Leve o ROBÔ completo e os equipamentos de apoio para a inspeção.⟦/2⟧ As equipes deveriam apresentar o ROBÔ e o CONSOLE DO OPERADOR com todos os COMPONENTES, incluindo peças decorativas, que serão usados durante as PARTIDAS. As equipes não são obrigadas a usar todos os COMPONENTES inspecionados em todas as PARTIDAS, mas não deveriam adicionar ao ROBÔ nenhum COMPONENTE não inspecionado sem uma nova inspeção. As equipes deveriam demonstrar aos INSPETORES todas as maneiras pelas quais o ROBÔ será configurado para uma PARTIDA.
+s0320 | ⟦0⟧⟦/0⟧⟦1⟧I302 ⟦/1⟧⟦2⟧*Certos limites se aplicam a todas as configurações.⟦/2⟧ O número total de componentes eletrônicos (motores, servos, Dispositivos Android etc.) usados para construir todos os MECANISMOS e o ROBÔ base, estejam ou não sendo usados no ROBÔ ao mesmo tempo, não pode exceder as restrições especificadas na Seção ⟦3⟧12⟦/3⟧⟦4⟧ ⟦/4⟧⟦5⟧Regras de Construção do ROBÔ (R)⟦/5⟧.
+s0321 | 3.3.2 Reinspeção
+s0322 | As equipes podem fazer alterações no seu ROBÔ durante um evento após concluírem a inspeção inicial. Com algumas exceções, todas as alterações no ROBÔ devem ser reinspecionadas antes que a equipe possa participar de outras PARTIDAS Classificatórias ou de Playoffs. Durante a reinspeção, as equipes demonstram as alterações aos INSPETORES e fazem quaisquer alterações adicionais necessárias para atender às diretrizes básicas de segurança e de competição. A reinspeção também pode ser solicitada pelo ÁRBITRO-Chefe ou pelo Consultor Técnico da ⟦0⟧FIRST⟦/0⟧ (FTA) caso eles observem uma construção do ROBÔ potencialmente insegura ou não permitida.
+s0323 | As equipes são incentivadas a buscar o conselho e a ajuda dos voluntários de Apoio às Equipes (Team Support) ao fazer uma alteração no seu ROBÔ. Tentar participar de uma PARTIDA com um ROBÔ que não atende às regras da Seção ⟦0⟧12⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Regras de Construção do ROBÔ (R)⟦/2⟧ pode causar atrasos e estresse desnecessários para as equipes. Fazer alterações deliberadamente em um ROBÔ após a inspeção, para obter vantagem competitiva sem reinspeção, vai contra o espírito da competição.
+s0324 | ⟦0⟧⟦/0⟧⟦1⟧I303 ⟦/1⟧⟦2⟧*Solicite reinspeção para a maioria das alterações no ROBÔ.⟦/2⟧ Uma equipe deveria solicitar reinspeção quando fizer alterações em um ROBÔ que possam fazer com que ele deixe de cumprir as diretrizes de segurança e de competição, ou quando solicitado pelo ÁRBITRO-Chefe ou pelo FTA.
+s0325 | A reinspeção geralmente ⟦0⟧não⟦/0⟧ é necessária para os cenários listados abaixo (a menos que resultem em uma alteração significativa no tamanho, na legalidade ou na segurança do ROBÔ):
+s0326 | A. adição, mudança de posição ou remoção de elementos de fixação (por exemplo, abraçadeiras, fita e rebites),
+s0327 | B. adição, mudança de posição ou remoção de etiquetas ou marcações,
+s0328 | C. adição, mudança de posição ou substituição da PLACA (SIGN) da equipe,
+s0329 | D. revisão do código do ROBÔ,
+s0330 | E. substituição de um COMPONENTE por um COMPONENTE idêntico,
+s0331 | F. substituição de um MECANISMO por um MECANISMO idêntico (tamanho, peso, material), e
+s0332 | G. adições, remoções ou reconfiguração do ROBÔ com um subconjunto de MECANISMOS já inspecionados.
+s0333 | Todas as equipes deveriam fazer um esforço de boa-fé para cumprir as regras de construção do ROBÔ caso façam alterações no seu ROBÔ durante um evento.
+s0334 | Se uma equipe não tiver certeza se a reinspeção é necessária, ela deveria confirmar com o LRI ou com a EQUIPE DE CAMPO (FIELD STAFF). Por exemplo, se uma equipe não tiver certeza se a remontagem de uma peça altera o tamanho do seu ROBÔ, ela deveria fazer essa verificação.
+s0335 | ⟦0⟧I304 ⟦/0⟧⟦1⟧*Não explore a reinspeção.⟦/1⟧ As equipes não podem usar o processo de reinspeção para burlar quaisquer outras regras.
+s0336 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧4 Avanço⟦/5⟧
+s0337 | As equipes ⟦0⟧só são elegíveis a avançar a partir de eventos⟦/0⟧ dentro da sua REGIÃO DE ORIGEM. As equipes podem ser convidadas a competir em torneios fora da sua REGIÃO DE ORIGEM; no entanto, não são elegíveis ao avanço a partir desses eventos fora da região.
+s0338 | As equipes podem verificar a qual REGIÃO DE ORIGEM foram atribuídas na página ⟦0⟧FTC-Events⟦/0⟧, pesquisando o número da sua equipe. As equipes em regiões que não têm um Parceiro de Entrega do Programa local, ou que estejam isoladas geograficamente dentro da sua REGIÃO DE ORIGEM, podem trabalhar com a ⟦1⟧FIRST⟦/1⟧, enviando um e-mail para ⟦2⟧customerservice@firstinspires.org⟦/2⟧, para serem reatribuídas a outra região mais acessível uma vez por temporada para fins de avanço.
+s0339 | Figura 4‑1: Exibição da atribuição de região na página FTC-Events
+s0340 | A progressão dos torneios do ⟦0⟧FIRST⟦/0⟧ Tech Challenge é mostrada na Figura 4‑2. As equipes podem avançar a partir de qualquer um dos seus três primeiros eventos de nível de entrada: Torneios Classificatórios (Qualifying Tournaments, QT) e Torneios de Liga (League Tournaments, LT). As equipes só podem participar de uma Liga por temporada. Consulte a Seção ⟦1⟧14⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧Torneios de Liga (L)⟦/3⟧ para mais detalhes sobre os Torneios de Liga. As equipes podem participar de mais de três eventos de nível de entrada, mas são elegíveis a avançar a partir dos três primeiros eventos em ordem cronológica.
+s0341 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧Figura ⟦/2⟧4‑2: Estrutura de Avanço dos Torneios
+s0342 | 1,3,5 – Evento opcional, não oferecido em todas as regiões.
+s0343 | 2 – Todas as equipes de uma Liga jogam no Torneio de Liga.
+s0344 | 4 – Também pode ser chamado de Campeonato Estadual, Regional ou Nacional.
+s0345 | 6 – Apenas em algumas regiões novas ou emergentes.
+s0346 | As equipes podem avançar a partir dos Torneios Classificatórios ou do Torneio de Liga da sua região, seja para um Torneio Super Classificatório (Super Qualifying Tournament, SQT) ou diretamente para um Campeonato Regional (Regional Championship, RCMP). Os Torneios Super Classificatórios (SQT) são um nível de avanço opcional, frequentemente usado em regiões grandes que precisam de mais níveis de competição. Uma equipe só pode participar de um Torneio Super Classificatório (SQT).
+s0347 | Equipes de algumas regiões geográficas específicas podem avançar a partir de um evento Piloto (Pilot) — o nível mais alto de competição dentro de uma região nova ou emergente — para o ⟦0⟧FIRST⟦/0⟧ Championship e/ou para um Evento Premier ⟦1⟧FIRST⟦/1⟧ (FIRST Premier Event).
+s0348 | O Parceiro de Entrega do Programa local determina o número de avanços de cada torneio da sua região, até o Campeonato Regional. A Equipe da ⟦0⟧FIRST⟦/0⟧ determina o avanço de cada Campeonato Regional para o ⟦1⟧FIRST ⟦/1⟧Championship e para os Eventos Premier ⟦2⟧FIRST⟦/2⟧.
+s0349 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧4.1 Cálculo dos Pontos de Avanço⟦/4⟧
+s0350 | Para cada evento com avanço, as equipes serão classificadas com base nos pontos de avanço que ganham por meio do seu desempenho geral naquele evento individual. As equipes mais bem classificadas que ainda não tenham avançado se classificarão para o próximo nível de jogo, até o total de vagas de avanço alocadas para aquele evento. Os pontos de avanço são concedidos às equipes de acordo com a Tabela 4‑1 abaixo.
+s0351 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧Tabela ⟦/3⟧4‑1: Atribuição de Pontos de Avanço
+s0352 | Categoria
+s0353 | Pontos de Avanço Ganhos
+s0354 | Desempenho na Fase Classificatória
+s0355 | Distribuição normal de pontos de 16 a 2, da equipe mais bem classificada à menos bem classificada, com base na equação da Seção ⟦0⟧⟦1⟧4.1.1⟦/1⟧⟦/0⟧⟦2⟧ ⟦/2⟧⟦3⟧Desempenho na Fase Classificatória⟦/3⟧. (Isso resultará em um mínimo de 2 pontos e um máximo de 16 pontos concedidos pelo desempenho na fase Classificatória.)
+s0356 | Líder de ALIANÇA
+s0357 | Igual a 21 menos o número do líder da ALIANÇA (por exemplo, 18 pontos para o líder da ALIANÇA nº 3)
+s0358 | Aceitação na Ordem de Escolha (Draft)
+s0359 | Igual a 21 menos o número da Ordem de Escolha aceita (por exemplo, 18 pontos para a equipe que aceita a terceira posição na escolha)
+s0360 | Avanço nos Playoffs
+s0361 | 40 pontos para o 1⟦0⟧º⟦/0⟧ Lugar (Vencedores)
+s0362 | 20 pontos para o 2⟦0⟧º⟦/0⟧ Lugar (Finalistas)
+s0363 | 10 pontos para o 3⟦0⟧º⟦/0⟧ Lugar
+s0364 | 5 pontos para o 4⟦0⟧º⟦/0⟧ Lugar
+s0365 | (Veja a Seção ⟦0⟧13.8 Eventos de Divisão Dupla⟦/0⟧ para modificações nesta seção)
+s0366 | Prêmios Julgados de Equipe
+s0367 | 60 pontos para o 1⟦0⟧º⟦/0⟧ Lugar do Prêmio Inspire
+s0368 | 30 pontos para o 2⟦0⟧º⟦/0⟧ Lugar do Prêmio Inspire

@@ -1,0 +1,76 @@
+s2230	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧13.6 Qualification MATCHES⟦/5⟧
+s2231	⟦0⟧⟦/0⟧⟦1⟧13.6.1 Schedule⟦/1⟧
+s2232	The Qualification MATCH schedule is made available as soon as possible, but no later than 15 minutes before Qualification MATCHES are scheduled to begin. Only teams who are eligible and have completed check-in on time will be included in the schedule per ⟦0⟧I102⟦/0⟧.
+s2233	Teams will receive access to the schedule through one or more of the following methods: 1 printed hard copy, notice of publicly posted hardcopy available to photograph, and/or local digital schedule display. Schedules may also be available on the ⟦0⟧FTC-Events⟦/0⟧ site. Each qualification schedule consists of a series of rounds in which each team plays 1 MATCH per round.
+s2234	All event types will schedule either 5 or 6 Qualification MATCHES per team as determined by the Event Director based on available schedule time allocated. ⟦0⟧FIRST⟦/0⟧ Championship, ⟦1⟧FIRST⟦/1⟧ Premier Events, and Regional Championship Tournaments may schedule more MATCHES per team at the discretion of ⟦2⟧FIRST ⟦/2⟧Headquarters and the Event Director.
+s2235	A MATCH schedule is used to coordinate MATCHES at an event. Figure 13‑1 details information shown on each schedule. SURROGATE MATCHES are described in Section ⟦0⟧13.6.2⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧MATCH Assignment⟦/2⟧.
+s2236	⟦0⟧⟦/0⟧⟦1⟧Figure ⟦/1⟧13‑1: Sample MATCH Schedule
+s2237	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧⟦6⟧⟦/6⟧13.6.2 MATCH Assignment
+s2238	⟦0⟧FIRST⟦/0⟧ event management software assigns each team 1 ALLIANCE partner for each Qualification MATCH using a predefined algorithm, and teams may not switch Qualification MATCH assignments. The algorithm employs the following criteria, listed in order of priority:
+s2239	1. ensure each team has at least the minimum required time between MATCHES (varies by event size)
+s2240	2. minimize the number of times a team is allied with any team
+s2241	3. minimize the number of times a team plays opposite any team
+s2242	4. minimize the use of SURROGATES (teams ⟦0⟧randomly assigned by event management software to play an extra Qualification MATCH⟦/0⟧)
+s2243	5. provide even distribution of MATCHES played on blue and red ALLIANCE
+s2244	For more information about the MATCH scheduling algorithm, please see ⟦1⟧Idle Loop software’s website⟦/1⟧.
+s2245	All teams are assigned the same number of Qualification MATCHES, equal to the number of rounds, unless the number of teams multiplied by number of MATCHES is not divisible by 4. In this case, the ⟦0⟧FIRST⟦/0⟧ event management software randomly selects some teams to play an extra MATCH. For the purpose of seeding calculations, those teams are designated as SURROGATES for the extra MATCH. If a team plays a MATCH as a SURROGATE, it is indicated on the MATCH schedule with an * after their team number, it is always their third Qualification MATCH, and the outcome of the MATCH has no effect on the team’s ranking. YELLOW and RED CARDS assigned to SURROGATES, however, do carry forward to subsequent MATCHES.
+s2246	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧If a team is scheduled to play in a back-to-back MATCHES (e.g., Qualification MATCH 40 and 41) they will receive a minimum break per ⟦2⟧T406⟦/2⟧ before their next MATCH.
+s2247	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧13.6.3 Qualification Ranking⟦/2⟧
+s2248	RANKING POINTS (RP) are units ⟦0⟧credited to a team based on their ALLIANCE’S performance in Qualification MATCHES⟦/0⟧. These points are awarded to each eligible team at the completion of each Qualification MATCH per Table 10‑2.
+s2249	A team's RANKING SCORE (RS) is ⟦0⟧the average number of RANKING POINTS earned by a team throughout their Qualification MATCHES ⟦/0⟧(excluding any SURROGATE MATCH).
+s2250	All teams participating in Qualification MATCHES are ranked by RANKING SCORE. If the number of teams in attendance is ‘n’, they are ranked ‘1’ through ‘n’, with ‘1’ being the team with the highest RANKING SCORE and ‘n’ being the team with the lowest RANKING SCORE.
+s2251	SURROGATE MATCHES are excluded from all calculations. A MATCH in which a team is DISQUALIFIED contributes 0 to all sort criteria.
+s2252	Teams are ranked in order, using the sorting criteria defined in ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧Table 13‑1.
+s2253	⟦0⟧Table ⟦/0⟧13‑1: Qualification MATCH Ranking Criteria
+s2254	Order Sort
+s2255	Criteria
+s2256	1⟦1⟧st⟦/1⟧
+s2257	RANKING SCORE (RS)
+s2258	2⟦1⟧nd⟦/1⟧
+s2259	Average ALLIANCE MATCH points, not including MINOR FOULS and MAJOR FOULS (Average MATCH points minus FOULS)
+s2260	3⟦1⟧rd⟦/1⟧
+s2261	Average number of TIPS
+s2262	4⟦1⟧th⟦/1⟧
+s2263	Average AUTO points
+s2264	5⟦1⟧th⟦/1⟧
+s2265	Random sort by the ⟦0⟧FIRST⟦/0⟧ event management software
+s2266	⟦0⟧⟦/0⟧⟦1⟧T601 ⟦/1⟧⟦2⟧*DISQUALIFICATION applies only to the DISQUALIFIED team in Qualifications.⟦/2⟧ During Qualification MATCHES, a team DISQUALIFICATION has no effect on their ALLIANCE partner.⟦3⟧⟦/3⟧
+s2267	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧⟦6⟧⟦/6⟧⟦7⟧13.7 Playoff MATCHES⟦/7⟧⟦8⟧⟦/8⟧
+s2268	Playoff MATCHES follow the Qualification MATCHES. In the Playoffs, teams play on set ALLIANCES, chosen during ALLIANCE selection, and advance through a double elimination bracket to determine an event winner. Teams do not earn RANKING POINTS; they advance based on winning or losing MATCHES. If a team is DISQUALIFIED during Playoff MATCHES, the DISQUALIFICATION applies to the entire ALLIANCE, and all teams in the ALLIANCE receive 0 MATCH points.
+s2269	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧T701 ⟦/2⟧⟦3⟧*Send one or two STUDENT representatives.⟦/3⟧ Each team must choose and send a minimum of one and a maximum of two STUDENT team representatives to the ARENA at the designated ALLIANCE selection time (typically just after the last scheduled Qualification MATCH) to represent their team.
+s2270	Violation: Teams who do not send a representative are ineligible for the playoff tournament
+s2271	If an absent team would have been an ALLIANCE lead, all lower ranked ALLIANCE leads are promoted 1 spot.
+s2272	If a team is planning to not participate in the playoff tournament, they should proactively inform the Event Director and Head REFEREE as soon as possible.
+s2273	⟦0⟧⟦/0⟧⟦1⟧T702 ⟦/1⟧⟦2⟧*Declining teams cannot be picked. ⟦/2⟧An ALLIANCE CAPTAIN may not invite a team that has declined another ALLIANCE’S invitation to participate in the playoff tournament.
+s2274	Violation: The ALLIANCE CAPTAIN must make another selection
+s2275	An ALLIANCE lead that declines an invitation from another ALLIANCE is able to invite teams to join their ALLIANCE but may not be invited to join another ALLIANCE.
+s2276	⟦0⟧⟦/0⟧⟦1⟧T703 ⟦/1⟧⟦2⟧*There are no backup teams in Playoff MATCHES.⟦/2⟧ An ALLIANCE may not request a backup team in a Playoff MATCH.
+s2277	Teams are encouraged to consider reliability when selecting partners because all teams on an ALLIANCE must play in each round of the playoff tournament.
+s2278	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧T704 ⟦/2⟧⟦3⟧*During Playoff MATCHES, teams may have more ARENA access. ⟦/3⟧At the direction of the Event Director, during the Playoff MATCHES teams may need extra team members to maintain the ROBOT between MATCHES in a timely manner. Each team is permitted to have up to 3 additional pit crew members to help with needed ROBOT repairs. These team members should be granted the same ARENA access as the DRIVE TEAM but may not participate in any MATCH play.
+s2279	This allocation of additional pit crew members is venue specific and at the discretion of the Event Director.
+s2280	⟦0⟧⟦/0⟧⟦1⟧T705 ⟦/1⟧⟦2⟧*Multiple DISQUALIFICATION is handled specially.⟦/2⟧ During Playoff MATCHES, 1 or more ALLIANCE DISQUALIFICATIONS are handled accordingly:
+s2281	A. if an ALLIANCE is DISQUALIFIED, the DISQUALIFIED ALLIANCE loses
+s2282	B. if both ALLIANCES are DISQUALIFIED, the one that is DISQUALIFIED first chronologically loses
+s2283	C. if, as perceived by the Head REFEREE, both ALLIANCES are simultaneously DISQUALIFIED, the MATCH results in a tie
+s2284	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧13.7.1 ALLIANCE Selection Process
+s2285	At the end of the Qualification MATCHES, the top ranked teams become the ALLIANCE leads. The ⟦0⟧designated STUDENT representative from each ALLIANCE lead ⟦/0⟧is called the ALLIANCE CAPTAIN. This representative may change between ALLIANCE selection and Playoff MATCHES.
+s2286	The ranked ALLIANCES are designated, in order, ALLIANCE 1, ALLIANCE 2, etc., down to the maximum number of ALLIANCES shown in Table 13‑2. Using the ALLIANCE selection process described in this section, each ALLIANCE lead chooses 1 other team to join their ALLIANCE.
+s2287	If the team accepts, it becomes a member of that ALLIANCE. If an invitation from an ALLIANCE lead to another ALLIANCE lead is accepted, all lower ALLIANCE leads are promoted 1 spot. The highest-ranked, unselected team becomes the newest ALLIANCE lead.
+s2288	If the number of complete ALLIANCES in Table 13‑2 cannot be formed (e.g., due to too many declining teams, due to teams leaving early) the event will proceed by playing with incomplete ALLIANCES. ALLIANCES with 0 teams will grant an automatic win to the opponent and the MATCH will be skipped. ALLIANCES with only 1 team will play the MATCH 1 versus 2.
+s2289	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧13.7.2 Playoff MATCH Bracket⟦/3⟧
+s2290	The Playoff MATCH bracket is how the event winners are determined.
+s2291	The number of ALLIANCES for an event is determined by the number of teams who are eligible to participate in the Playoffs based on all Qualification MATCH participating teams as shown in Table 13‑2.
+s2292	Teams that sign up for the event but do not show up and teams that participate in Awards but are not included in the Qualification MATCHES are not included in determining the Playoff MATCH bracket size. Teams that participated in the Qualification MATCHES but don’t intend to participate in the Playoff MATCH bracket are included in determining the Playoff MATCH bracket size.
+s2293	⟦0⟧⟦1⟧Table ⟦/1⟧⟦/0⟧⟦2⟧13⟦/2⟧⟦3⟧‑⟦/3⟧⟦4⟧2⟦/4⟧⟦5⟧: Number of playoff ALLIANCES based on all Qualification MATCH participating teams⟦/5⟧
+s2294	Total playoff eligible teams
+s2295	Number of playoff ALLIANCES formed
+s2296	4-10 Teams
+s2297	11-20 Teams
+s2298	21-40 Teams
+s2299	41-64 Teams
+s2300	⟦0⟧See Section ⟦/0⟧⟦1⟧13.8⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧Dual Division Events⟦/3⟧⟦4⟧ for the additional dual division related rules. ⟦/4⟧
+s2301	The double elimination tournament consists of an upper and lower bracket that will scale based on the number of ALLIANCES. Tournaments with 2 ALLIANCES will have those ALLIANCES face each other in the finals.
+s2302	Each ALLIANCE begins in the upper bracket. If an ALLIANCE wins a MATCH in the upper bracket, they remain in the upper bracket. If an ALLIANCE loses a MATCH in the upper bracket, they transition to the lower bracket. ALLIANCES in the lower bracket must win all subsequent MATCHES to remain in the tournament, i.e., once they lose 2 total MATCHES, they are out of the tournament.
+s2303	Ties play another MATCH until the MATCH results in 1 winner.
+s2304	In Round 1, the higher ranked ALLIANCE is assigned to the red ALLIANCE. For subsequent rounds, ALLIANCE color is assigned as shown in Figure 13‑2, regardless of ALLIANCE rank at the start of the playoff tournament.
+s2305	As shown in Figure 13‑2, Playoff MATCHES consist of up to 6 rounds with breaks between later rounds. Breaks begin after the MATCH RESULTS have been posted from the latest MATCH. The Blue and Red Gap columns indicate the approximate time between each ALLIANCE’S MATCHES. The expected start time of the scheduled MATCH is the time indicated on the MATCH schedule or 8 minutes from the end of either ALLIANCE’S previous MATCH, whichever is later per ⟦0⟧T406⟦/0⟧.

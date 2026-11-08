@@ -1,0 +1,96 @@
+s0369 | 15 pontos para o 3⟦0⟧º⟦/0⟧ Lugar do Prêmio Inspire
+s0370 | 12 pontos para todos os outros prêmios de 1⟦0⟧º⟦/0⟧ Lugar
+s0371 | 6 pontos para todos os outros prêmios de 2⟦0⟧º⟦/0⟧ Lugar
+s0372 | 3 pontos para todos os outros prêmios de 3⟦0⟧º⟦/0⟧ Lugar
+s0373 | (Veja ⟦0⟧A211⟦/0⟧ para uma lista dos prêmios elegíveis a pontos)
+s0374 | Se houver empate na pontuação total entre equipes, a equipe mais bem classificada será determinada usando os seguintes critérios adicionais de ordenação da Tabela 4‑2.
+s0375 | ⟦0⟧Tabela ⟦/0⟧4‑2 Critérios de Ordenação do Avanço, Incluindo Desempates
+s0376 | Ordem
+s0377 | Critério
+s0378 | 1⟦1⟧º⟦/1⟧
+s0379 | Total de Pontos de Avanço (conforme calculado na Tabela 4‑1)
+s0380 | 2⟦1⟧º⟦/1⟧
+s0381 | Pontos de Prêmios Julgados de Equipe
+s0382 | 3⟦1⟧º⟦/1⟧
+s0383 | Pontos de Avanço nos Playoffs
+s0384 | 4⟦1⟧º⟦/1⟧
+s0385 | Pontos de Resultados da Seleção de ALIANÇAS (Líder de ALIANÇA ou Aceitação na Ordem de Escolha)
+s0386 | 5⟦1⟧º⟦/1⟧
+s0387 | Pontos de Desempenho na Fase Classificatória
+s0388 | 6⟦1⟧º⟦/1⟧
+s0389 | Média de Pontos nas PARTIDAS Classificatórias (excluindo FALTAS)
+s0390 | 7⟦1⟧º⟦/1⟧
+s0391 | Média de Pontos AUTO nas Classificatórias
+s0392 | 8⟦1⟧º⟦/1⟧
+s0393 | Maior pontuação individual em PARTIDA Classificatória (excluindo FALTAS)
+s0394 | 9⟦1⟧º⟦/1⟧
+s0395 | Segunda maior pontuação individual em PARTIDA Classificatória (excluindo FALTAS)
+s0396 | 10⟦1⟧º⟦/1⟧
+s0397 | Seleção aleatória pelo Sistema de Gerenciamento de Eventos
+s0398 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧4.1.1 Desempenho na Fase Classificatória
+s0399 | O cálculo dos pontos de Desempenho na Fase Classificatória é feito usando a equação abaixo. Essa equação é uma função de erro inversa que utiliza as seguintes variáveis:
+s0400 | - ⟦0⟧R⟦/0⟧ – a classificação da equipe no evento ao final das PARTIDAS Classificatórias (conforme informada pelo Software de Gerenciamento de Eventos e definida na Seção ⟦1⟧13.6.3 Classificação nas Classificatórias⟦/1⟧)
+s0401 | - ⟦0⟧N⟦/0⟧ – o número de equipes do ⟦1⟧FIRST⟦/1⟧ Tech Challenge que participam das rodadas Classificatórias no evento
+s0402 | - ⟦0⟧Alfa (α)⟦/0⟧ – um valor estático (1,07) usado para padronizar a distribuição de pontos nos eventos
+s0403 | Essa fórmula gera uma distribuição aproximadamente normal de pontos de Desempenho na Fase Classificatória em um evento, com base na classificação, com a maioria das equipes recebendo um número moderado de pontos e menos equipes recebendo os números mais altos ou mais baixos de pontos disponíveis.
+s0404 | A Tabela 4‑3 mostra exemplos de pontos de Desempenho na Fase Classificatória para equipes de diferentes classificações em um evento com 28 equipes. O sistema gerará automaticamente os pontos apropriados para cada equipe com base na sua classificação e no número de equipes no evento.
+s0405 | ⟦0⟧Tabela ⟦/0⟧4‑3 Exemplo de Atribuição de Pontos nas Rodadas Classificatórias
+s0406 | Classificação
+s0407 | Pontos
+s0408 | 4.1.2 Resultados da Seleção de ALIANÇAS
+s0409 | Este atributo mede tanto o desempenho individual de classificação (seeding) da equipe na rodada Classificatória quanto o reconhecimento pelos pares.
+s0410 | Os Líderes de ALIANÇA são reconhecidos com base na sua posição de classificação na fase Classificatória. Essa posição é resultado das regras do jogo, que normalmente incorporam vários atributos de desempenho da equipe. Os parceiros de ALIANÇA são recompensados com base no reconhecimento dos pares. Para ser convidada a integrar uma ALIANÇA, os pares de uma equipe decidiram que ela tem atributos desejáveis.
+s0411 | Observe também que os líderes de ALIANÇA recebem o mesmo número de pontos que a equipe escolhida na mesma sequência. Por exemplo, a equipe que aceita a escolha do 3º líder de ALIANÇA recebe o mesmo número de pontos que o 3º líder de ALIANÇA. A análise numérica sustenta a ideia de que os líderes de ALIANÇA têm, aproximadamente, um desempenho de ROBÔ tão forte quanto o das equipes escolhidas em posição equivalente.
+s0412 | 4.1.3 Desempenho nos Playoffs
+s0413 | Este atributo mede o desempenho da equipe como parte de uma ALIANÇA.
+s0414 | As equipes ganham pontos com base em até onde progridem nos Playoffs. Os pontos são dados a todas as equipes da ALIANÇA, conforme descrito na Tabela 4‑1.
+s0415 | Veja a Seção ⟦0⟧13.7.2 Chaveamento das PARTIDAS de Playoff⟦/0⟧ para mais detalhes sobre o número de ALIANÇAS formadas para os Playoffs e um exemplo do chaveamento das PARTIDAS de Playoff.
+s0416 | 4.1.4 Prêmios Julgados de Equipe
+s0417 | Este atributo mede o desempenho da equipe com relação aos prêmios de equipe julgados no evento.
+s0418 | Os pontos ganhos por prêmios de equipe neste sistema não pretendem capturar o valor total do prêmio para a equipe vencedora nem representar o valor total do prêmio para a FIRST.
+s0419 | Os pontos são atribuídos aos prêmios neste sistema apenas para ajudar as equipes a reconhecer que a ⟦0⟧FIRST⟦/0⟧ continua sendo “⟦1⟧Mais que Robôs (More than Robots⟦/1⟧⟦2⟧®⟦/2⟧),” e para auxiliar na elevação das equipes premiadas acima das equipes não premiadas no sistema de classificação.
+s0420 | As equipes só ganham pontos por prêmios de equipe julgados no evento e estão limitadas a ganhar apenas um número específico de prêmios, conforme ⟦0⟧A215⟦/0⟧. Se um prêmio não for julgado, não for para uma equipe (por exemplo, o Prêmio de Liderança ⟦1⟧FIRST⟦/1⟧ — FIRST Leadership Award) ou não for julgado no evento (por exemplo, o Prêmio de Animação de Segurança — Safety Animation Award), nenhum ponto é ganho. Os pontos de prêmios não concedidos no evento não são atribuídos a nenhuma equipe. Veja ⟦2⟧A211⟦/2⟧ para a lista de prêmios elegíveis a pontos.
+s0421 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧4.2 Distribuição de Avanço por Região⟦/2⟧
+s0422 | O avanço dentro de uma região é determinado pelo Parceiro de Entrega do Programa, e os números mínimos de avanço deveriam ser tornados publicamente acessíveis às equipes participantes o mais cedo possível antes do evento, e o mais tardar quando a seleção de ALIANÇAS começar. As informações de avanço podem ser publicadas na página ⟦0⟧FTC-Events⟦/0⟧, como mostrado na Figura 4‑3.
+s0423 | ⟦0⟧Figura ⟦/0⟧4‑3 Informações de avanço do evento, conforme exibidas na página ftc-events.firstinspires.org
+s0424 | O avanço para o ⟦0⟧FIRST⟦/0⟧ Championship e para os Eventos Premier ⟦1⟧FIRST⟦/1⟧ é determinado pela Sede da ⟦2⟧FIRST⟦/2⟧ com base em vários fatores, incluindo:
+s0425 | - Representação global e regional
+s0426 | - Novas regiões em desenvolvimento com um Parceiro de Entrega do Programa
+s0427 | - Número de equipes registradas na região antes da data limite (17 de novembro de 2026 para a temporada BIOBUZZ)⟦0⟧⟦/0⟧
+s0428 | o Regiões que atendem aos requisitos mínimos de registro
+s0429 | o Número total de equipes na região
+s0430 | As informações sobre a alocação regional das vagas de avanço serão publicadas na página ⟦0⟧FTC-Events⟦/0⟧ a partir do início de dezembro. As vagas alocadas regionalmente que não forem preenchidas até o prazo do evento serão devolvidas à Sede da ⟦1⟧FIRST⟦/1⟧ ou ao Anfitrião do Evento Premier para realocação, o que pode incluir realocação para uma nova região ou convite a uma equipe da lista de espera.
+s0431 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧5 Regras do Evento⟦/5⟧ (E)
+s0432 | Esta seção inclui regras gerais que se aplicam desde o início da programação pública, quando as equipes chegam, até o final do evento, com a saída do local.
+s0433 | Nota Universal sobre Violações: Uma violação de qualquer uma das ⟦0⟧Regras do Evento (E)⟦/0⟧ resultará em uma ADVERTÊNCIA VERBAL. Violações graves ou subsequentes de uma Regra do Evento podem resultar em escalonamento para a Sede da FIRST e/ou desqualificação da equipe das PARTIDAS e dos prêmios. Comportamento criminoso não será tolerado e resultará na remoção do(s) indivíduo(s) envolvido(s) e/ou na desqualificação da equipe do evento.
+s0434 | Quaisquer itens considerados inseguros ou fora das especificações pelo pessoal da FIRST e/ou pelo Diretor do Evento devem ser removidos. Violações adicionais específicas de cada regra, se aplicáveis, estão listadas junto com a regra correspondente.
+s0435 | A ⟦0⟧FIRST⟦/0⟧ está comprometida com o⟦1⟧ ⟦/1⟧⟦2⟧⟦3⟧STEM para Todos (STEM for Everyone⟦/3⟧⟦/2⟧™) e, por isso, a ⟦4⟧FIRST⟦/4⟧ se esforça para fazer adaptações razoáveis para pessoas com deficiência que solicitem adaptação. Consulte a Seção ⟦5⟧⟦6⟧1.6⟦/6⟧⟦/5⟧⟦7⟧ ⟦/7⟧⟦8⟧Acessibilidade e Inclusão⟦/8⟧ para mais informações.
+s0436 | As regras de segurança (safety e security) desta seção são requisitos mínimos, e os Parceiros de Entrega do Programa podem implementar restrições maiores devido a requisitos locais ou do local do evento (por exemplo, exigir crachás para todos os presentes, reservar assentos para acessibilidade). Os Parceiros deveriam comunicar os requisitos locais adicionais com antecedência suficiente para permitir que as equipes se planejem.
+s0437 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧5.1 Regras Gerais⟦/3⟧
+s0438 | ⟦0⟧⟦/0⟧⟦1⟧E101 ⟦/1⟧⟦2⟧*A segurança pessoal vem em primeiro lugar.⟦/2⟧ Todos os membros da equipe devem observar as seguintes práticas de segurança durante todo o evento:
+s0439 | A. usar óculos de segurança ou óculos com classificação de segurança com proteções laterais (aprovados pela ANSI, listados pela UL, com classificação CE EN166, certificados AS/NZS ou com classificação CSA) nas áreas especificadas. Há um período de tolerância de 10 minutos quando o local abre, em cada dia do evento, para que as equipes encontrem e distribuam os óculos de segurança.
+s0440 | Óculos de segurança transparentes ou levemente coloridos são preferíveis. Óculos escuros são permitidos para quem precisa deles e não exigem um pedido específico de adaptação.
+s0441 | B. usar calçados fechados na frente e atrás,
+s0442 | C. controlar os riscos de enroscamento prendendo cabelos longos e removendo outros enfeites pendurados, incluindo cordões de crachá (lanyards), acessórios de torcida e anéis, conforme necessário, ao trabalhar em um ROBÔ ou perto dele, ou com materiais ou ferramentas relacionados ao ROBÔ,
+s0443 | D. usar roupas apropriadas,
+s0444 | E. andar (não correr) no local do evento, e
+s0445 | F. cumprir os requisitos de saúde e segurança governamentais e específicos do local em vigor para aquele evento (por exemplo, uso de máscara).
+s0446 | As equipes são responsáveis por trazer os seus próprios equipamentos de proteção individual.
+s0447 | Para mais informações sobre segurança nos eventos da ⟦1⟧FIRST⟦/1⟧, consulte o ⟦2⟧Manual de Segurança da ⟦3⟧FIRST⟦/3⟧ (FIRST Safety Manual)⟦/2⟧⟦4⟧.⟦/4⟧
+s0448 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧E102 ⟦/2⟧⟦3⟧*Seja Respeitoso.⟦/3⟧ Todos os participantes deveriam seguir a estrutura de comportamentos listada na Seção ⟦4⟧1.4⟦/4⟧⟦5⟧ ⟦/5⟧⟦6⟧O Espírito da Competição⟦/6⟧ enquanto estiverem em um evento do ⟦7⟧FIRST⟦/7⟧ Tech Challenge. Comportamento incivilizado em relação a qualquer participante não é tolerado.
+s0449 | Exemplos de comportamento inadequado incluem, mas não se limitam a:
+s0450 | A. ⟦0⟧uso de linguagem ofensiva ou outra conduta incivilizada em relação a alguém,⟦/0⟧
+s0451 | B. ⟦0⟧“usar o ⟦1⟧Profissionalismo Cortês⟦/1⟧ como arma”, acusando outra pessoa ou equipe de ser “não GP”,⟦/0⟧
+s0452 | C. ⟦0⟧bloquear intencionalmente a visão de outros participantes ou espectadores por um período prolongado (membros da equipe segurando momentaneamente placas da equipe enquanto apoiam diretamente a sua equipe não é considerado uma violação desta regra), e⟦/0⟧
+s0453 | D. ⟦0⟧qualquer coisa que interfira em um ROBÔ ou nas operações da ARENA. ⟦/0⟧
+s0454 | Exemplos de comportamento particularmente desprezível que pode resultar na expulsão do evento incluem, mas não se limitam a, os seguintes:
+s0455 | E. ⟦0⟧agressão, por exemplo, arremessar algo que atinja outra pessoa (mesmo que sem intenção),⟦/0⟧
+s0456 | F. ⟦0⟧ameaça, por exemplo, dizer algo como “se você não reverter essa decisão, vou fazer você se arrepender”,⟦/0⟧
+s0457 | G. ⟦0⟧assédio, por exemplo, importunar alguém sem nenhuma informação nova depois que uma decisão foi tomada ou uma pergunta foi respondida,⟦/0⟧
+s0458 | H. ⟦0⟧intimidação (bullying), por exemplo, usar linguagem corporal ou verbal para fazer outra pessoa se sentir inadequada ou insegura,⟦/0⟧
+s0459 | I. ⟦0⟧insulto, por exemplo, dizer a alguém que não merece fazer parte de uma equipe,⟦/0⟧
+s0460 | J. ⟦0⟧xingar outra pessoa (em vez de xingar baixinho ou a si mesmo), e⟦/0⟧
+s0461 | K. ⟦0⟧gritar com outra(s) pessoa(s) por raiva ou frustração.⟦/0⟧
+s0462 | ⟦0⟧⟦/0⟧⟦1⟧E103 ⟦/1⟧⟦2⟧*Crianças com adultos, por favor. ⟦/2⟧Crianças menores de 12 anos devem estar acompanhadas por um adulto nos boxes (pits) o tempo todo.
+s0463 | ⟦0⟧⟦/0⟧⟦1⟧E104 ⟦/1⟧⟦2⟧*Respeite o local do evento. ⟦/2⟧As equipes não podem danificar o local do evento de forma alguma, incluindo, mas não se limitando a, arquibancadas, pisos, paredes e corrimãos. Isso inclui sujar o local com brindes da equipe, incluindo balas, panfletos e adesivos, ou itens arremessados das arquibancadas.
+s0464 | ⟦0⟧⟦/0⟧⟦1⟧⟦2⟧E105 ⟦/2⟧⟦/1⟧⟦3⟧*Os recursos do evento são apenas para as equipes competidoras.⟦/3⟧ Somente as equipes registradas em um evento podem usar o CAMPO de competição, o CAMPO de treino e a inspeção desse evento, a menos que haja aprovação prévia do Diretor do Evento ou do Parceiro de Entrega do Programa. As equipes anfitriãs que fornecem elementos do CAMPO de treino e/ou recursos de oficina mecânica podem usá-los; no entanto, as equipes registradas para aquele evento devem ter prioridade.⟦4⟧⟦/4⟧

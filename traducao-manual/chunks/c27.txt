@@ -1,0 +1,233 @@
+s2306	⟦0/⟧⟦1/⟧ ⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧Figure ⟦/4⟧13‑2: 8-ALLIANCE playoff bracket
+s2307	⟦0⟧⟦/0⟧If a Playoff MATCH needs to be replayed as described in Section ⟦1⟧13.2⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧MATCH Replays⟦/3⟧ or an additional MATCH needs to be played due to tie, teams are notified of when the MATCH will occur. A minimum 8-minute delay is provided for teams to reset their ROBOTS prior to the MATCH unless all teams are ready sooner (⟦4⟧T406⟦/4⟧). The affected MATCH must be played before the next round begins.
+s2308	13.7.3 2-ALLIANCE Bracket and Typical Timing
+s2309	Figure 13‑3: 2-ALLIANCE playoff bracket
+s2310	Table 13‑3: 2-ALLIANCE playoff bracket typical timing
+s2311	Round
+s2312	MATCH
+s2313	Upper/⟦2/⟧ Lower
+s2314	⟦0⟧⟦1⟧Gap⟦2/⟧ ⟦/1⟧⟦/0⟧⟦3⟧(min)⟦/3⟧
+s2315	⟦0⟧⟦1⟧Next MATCH⟦2/⟧ ⟦/1⟧⟦/0⟧⟦3⟧(MATCH # (ALLIANCE color))⟦/3⟧
+s2316	FIELD
+s2317	Blue
+s2318	Red
+s2319	Blue
+s2320	Red
+s2321	Winner
+s2322	Loser
+s2323	Estimated⟦1/⟧ Start (min)
+s2324	15-minute break
+s2325	Judges’ Choice* (1), Innovate/Design/Control Award (1)
+s2326	Finals
+s2327	15-minute break
+s2328	Sustain/Reach/Connect Award (1)
+s2329	Finals
+s2330	15-minute break
+s2331	Think Award (1)
+s2332	Finals
+s2333	Awards: Compass*, Finalists, Winners, and Inspire Award (1)
+s2334	* if required
+s2335	⟦0⟧⟦1⟧**Awards may be given out after the conclusion of the playoff bracket at the discretion of the ⟦/1⟧⟦/0⟧Event Director. ⟦2/⟧
+s2336	13.7.4 4-ALLIANCE Bracket and Typical Timing
+s2337	Figure 13‑4: 4-ALLIANCE playoff bracket
+s2338	Table 13‑4: 4-ALLIANCE playoff typical timing
+s2339	Round
+s2340	MATCH
+s2341	Upper/⟦2/⟧ Lower
+s2342	⟦0⟧⟦1⟧Gap⟦2/⟧ ⟦/1⟧⟦/0⟧⟦3⟧(min)⟦/3⟧
+s2343	⟦0⟧⟦1⟧Next MATCH⟦2/⟧ ⟦/1⟧⟦/0⟧⟦3⟧(MATCH # (ALLIANCE color))⟦/3⟧
+s2344	FIELD
+s2345	Blue
+s2346	Red
+s2347	Blue
+s2348	Red
+s2349	Winner
+s2350	Loser
+s2351	Estimated⟦1/⟧ Start (min)
+s2352	Upper
+s2353	Upper
+s2354	15-minute break
+s2355	Lower
+s2356	4th
+s2357	Upper
+s2358	15-minute break
+s2359	Judges’ Choice* (1), Design Award (1), Reach Award (1)
+s2360	Lower
+s2361	3rd
+s2362	15-minute break
+s2363	Control Award (1), Innovate Award (1), Sustain Award (1)
+s2364	Finals
+s2365	15-minute break
+s2366	Connect Award (1), Think Award (1)
+s2367	Finals
+s2368	Awards: Compass*, Finalists, Winners, and Inspire Award (2, 1)
+s2369	*If Required
+s2370	⟦0⟧**Awards may be given out after the conclusion of the playoff bracket at the discretion of the Event Director.⟦/0⟧ ⟦1/⟧
+s2371	13.7.5 6-ALLIANCE Bracket and Typical Timing
+s2372	Figure 13‑5: 6-ALLIANCE playoff bracket
+s2373	Table 13‑5: 6-ALLIANCE playoff bracket typical timing
+s2374	Round
+s2375	MATCH
+s2376	Upper/⟦2/⟧ Lower
+s2377	⟦0⟧⟦1⟧Gap⟦2/⟧ ⟦/1⟧⟦/0⟧⟦3⟧(min)⟦/3⟧
+s2378	⟦0⟧⟦1⟧Next MATCH⟦2/⟧ ⟦/1⟧⟦/0⟧⟦3⟧(MATCH # (ALLIANCE color))⟦/3⟧
+s2379	FIELD
+s2380	Blue
+s2381	Red
+s2382	Blue
+s2383	Red
+s2384	Winner
+s2385	Loser
+s2386	Estimated⟦1/⟧ Start (min)
+s2387	Upper
+s2388	Upper
+s2389	Upper
+s2390	Upper
+s2391	Lower
+s2392	Tied 5th
+s2393	Lower
+s2394	Upper
+s2395	Lower
+s2396	4th
+s2397	15-minute break
+s2398	Judges’ Choice* (1), Design Award (2, 1), Reach Award (2, 1)
+s2399	Lower
+s2400	3rd
+s2401	15-minute break
+s2402	Control Award (2, 1), Innovate Award (2, 1), Sustain Award (2,1)
+s2403	Finals
+s2404	15-minute break
+s2405	Connect Award (2, 1), Think Award (2, 1)
+s2406	Finals*
+s2407	Awards: Compass*, Finalists, Winners, and Inspire Award (3, 2, 1)
+s2408	* if required
+s2409	⟦0⟧**Awards may be given out after the conclusion of the playoff bracket at the discretion of the Event Director.⟦/0⟧ ⟦1/⟧
+s2410	13.7.6 8-ALLIANCE Bracket and Typical Timing
+s2411	Figure 13‑6: 8-ALLIANCE playoff bracket
+s2412	Table 13‑6: 8-ALLIANCE playoff bracket typical timing
+s2413	Round
+s2414	MATCH
+s2415	Upper/⟦2/⟧ Lower
+s2416	⟦0⟧⟦1⟧Gap⟦2/⟧ ⟦/1⟧⟦/0⟧⟦3⟧(min)⟦/3⟧
+s2417	⟦0⟧⟦1⟧Next MATCH⟦2/⟧ ⟦/1⟧⟦/0⟧⟦3⟧(MATCH # (ALLIANCE color))⟦/3⟧
+s2418	FIELD
+s2419	Blue
+s2420	Red
+s2421	Blue
+s2422	Red
+s2423	Winner
+s2424	Loser
+s2425	Estimated⟦1/⟧ Start (min)
+s2426	Upper
+s2427	Upper
+s2428	Upper
+s2429	Upper
+s2430	Lower
+s2431	Tied 7th
+s2432	Lower
+s2433	Upper
+s2434	Upper
+s2435	Lower
+s2436	Tied 5th
+s2437	Lower
+s2438	Upper
+s2439	Lower
+s2440	4th
+s2441	15-minute break
+s2442	Judges’ Choice* (1), Design Award (3,2,1), Reach Award (3,2,1)
+s2443	Lower
+s2444	3rd
+s2445	15-minute break
+s2446	Control Award (3,2,1), Innovate Award (3,2,1), Sustain Award (3,2,1)
+s2447	Finals
+s2448	15-minute break
+s2449	Connect Award (3,2,1), Think Award (3,2,1)
+s2450	Finals*
+s2451	Awards: Compass*, Finalists, Winners, and Inspire Award (3, 2, 1)
+s2452	* if required
+s2453	**Awards may be given out after the conclusion of the playoff bracket at the discretion of the Event Director.
+s2454	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧13.8 Dual Division Event⟦/4⟧s
+s2455	Dual Division events are typically larger events which run as 2 different competition events (e.g., 2 parallel Qualifying Tournaments each with a minimum of 2 FIELDS each) with concurrent judging for all teams. After the Playoff MATCHES have concluded in each division, the 2 division winning ALLIANCES compete to determine the overall event winner.
+s2456	Advancement from a Dual Division event is defined in Section ⟦0⟧13.8.1⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Dual Division Advancement Points⟦/2⟧.
+s2457	In Dual Division events, teams can be assigned to division in a few different methods briefly described below. For complete details, reference the event management software documentation. The method used is at the discretion of the local Program Delivery Partner.
+s2458	A. ⟦0⟧Random Assignment⟦/0⟧ – Random division assignment takes the team list, shuffles it, and splits the list in half. If equal division sizes cannot be made, the software randomly chooses which division will have an extra team.
+s2459	B. ⟦0⟧FIM Method⟦/0⟧ – Algorithm is based on the process developed by ⟦1⟧FIRST ⟦/1⟧in Michigan (FIM) and utilizes a ”brute force randomizer” approach. It attempts to balance ROBOT performance while maintaining a decent factor of randomness. Teams are ranked based on a qualification performance metric based on the two best events and then assigned to quartiles and distributed between divisions such that each quartile is equally represented. Division assignments are measured against several metrics to ensure divisions are closely matched.
+s2460	C. ⟦0⟧Alternating Assignment⟦/0⟧ – Alternating division assignment sorts the team list by team number, then assigns teams by alternating divisions while iterating through the team list. The lowest team number will be assigned Division 1, the next Division 2, then Division 1, etc.
+s2461	D. ⟦0⟧Child League Split-up⟦/0⟧ (only available for League Tournaments) – Algorithm attempts to balance the representation of each child league in each division.
+s2462	E. ⟦0⟧OPR Method⟦/0⟧ – Algorithm attempts to balance the ROBOT performance across the division. It calculates every team’s Offensive Power Rating (OPR) for every official event they competed in for the current season and selects each team’s highest OPR. Then it ranks all the teams by highest OPR and alternately assigns teams from highest to lowest OPR into each division.
+s2463	F. ⟦0⟧Manual⟦/0⟧ – The Program Delivery Partner can upload a list of manually assigned teams.
+s2464	In addition to rules listed in previous manual sections, Dual Division events have the following rules:
+s2465	⟦0⟧⟦/0⟧⟦1⟧T801 ⟦/1⟧⟦2⟧*Divisions will use the same size playoff brackets.⟦/2⟧⟦3⟧⟦4⟧ The number of playoff ALLIANCES will be determined based on the number of playoff eligible teams in the smaller division ⟦/4⟧⟦/3⟧as shown in Table 13‑2.
+s2466	⟦0⟧⟦/0⟧⟦1⟧T802 ⟦/1⟧⟦2⟧*Dual Division awards are given at the event level.⟦/2⟧ All awards are judged and awarded at the tournament level, not the division level.
+s2467	⟦0⟧⟦/0⟧⟦1⟧T803 ⟦/1⟧⟦2⟧*Dual Division award counts are based on total teams.⟦/2⟧ The number of awards distributed at a Dual Division event is determined using Table 6‑1.
+s2468	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧13.8.1 Dual Division Advancement Points⟦/2⟧
+s2469	For Dual Division events, advancement points are calculated per Table 4‑1 except for playoff advancement points which are instead calculated as described in Table 13‑7 below.
+s2470	⟦0⟧⟦/0⟧⟦1⟧Table ⟦/1⟧13‑7: Dual Division Playoff Advancement Points
+s2471	Category
+s2472	Advancement Points Earned
+s2473	Playoff Advancement
+s2474	40 points for 1⟦0⟧st⟦/0⟧ Place (Winners)
+s2475	20 points for 2⟦0⟧nd⟦/0⟧ Place (Finalists)
+s2476	10 points for all Division Finalists
+s2477	5 points for all Division 3⟦0⟧rd⟦/0⟧ Places
+s2478	⟦0⟧13.8.2 Dual Division ⟦/0⟧Playoffs
+s2479	Each division plays a standard tournament as described in Section ⟦0⟧13.6⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Qualification MATCHES⟦/2⟧ followed by Divisional Playoffs to produce the Division Winning ALLIANCE. Those 2 Division Winning ALLIANCES have their win-loss records reset and proceed to play each other in a 2-ALLIANCE double eliminations bracket.
+s2480	Divisions are ranked by the criteria in Table 13‑1, excluding RANKING SCORE.
+s2481	⟦0⟧Figure ⟦/0⟧13‑7: 2-ALLIANCE grand finals playoff bracket (Dual Division)
+s2482	Dual division events will play divisional playoff brackets and then the two ALLIANCES will play as shown in Figure 13‑7. The first to win 2 MATCHES will be the event winning ALLIANCE. An example of Dual Division Playoff Timing is shown in Table 13‑8.⟦0/⟧ ⟦1/⟧
+s2483	⟦0⟧Table ⟦/0⟧13‑8: 6-ALLIANCE Dual Division playoff bracket typical timing
+s2484	Round
+s2485	MATCH
+s2486	Upper/⟦2/⟧ Lower
+s2487	⟦0⟧⟦1⟧Gap⟦2/⟧ ⟦/1⟧⟦/0⟧⟦3⟧(min)⟦/3⟧
+s2488	⟦0⟧⟦1⟧Next MATCH⟦2/⟧ ⟦/1⟧⟦/0⟧⟦3⟧(MATCH # (ALLIANCE color))⟦/3⟧
+s2489	FIELD
+s2490	Blue
+s2491	Red
+s2492	Blue
+s2493	Red
+s2494	Winner
+s2495	Loser
+s2496	Estimated⟦1/⟧ Start (min)
+s2497	Upper
+s2498	Upper
+s2499	Upper
+s2500	Upper
+s2501	Lower
+s2502	Tied 5th
+s2503	Lower
+s2504	Upper
+s2505	Lower
+s2506	4th
+s2507	15-minute break
+s2508	Lower
+s2509	3rd
+s2510	15-minute break
+s2511	Finals
+s2512	15-minute break
+s2513	Finals*
+s2514	End of Divisional Playoffs/ Judges Choice*(1), Design Award, (3, 2, 1), Reach Award (3, 2, 1)
+s2515	Event Finals 1
+s2516	DivA
+s2517	DivB
+s2518	15-minute break
+s2519	Control Award (3, 2, 1), Innovate Award (3, 2, 1), Sustain Award (3, 2, 1)
+s2520	Event Finals 2
+s2521	DivA
+s2522	DivB
+s2523	15-minute break
+s2524	Connect Award (3, 2, 1), Think Award (3, 2, 1)
+s2525	Event Finals 3*
+s2526	DivA
+s2527	DivB
+s2528	Awards: Compass*, Div. Finalists, Division Winners, Event Finalist, Event Winners and Inspire Award (3, 2, 1)
+s2529	* if required
+s2530	**Awards may be given out after the conclusion of the playoff bracket at the discretion of the Event Director.
+s2531	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧14 League Play Tournaments (L)⟦/3⟧
+s2532	Not all regions offer participation in League play. Leagues are closed groups of teams which play in multiple different League Meet events typically spread over several weeks or months. All the teams in the same League should have the opportunity to play in a roughly equal number of MATCHES. A minimum of 10 League Meet MATCHES should be played by all teams in the League.
+s2533	League Meet events each play between 5 and 6 Qualification MATCHES per team as described in Section ⟦0⟧13.6⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Qualification MATCHES⟦/2⟧ but do not include Playoff MATCHES or judging for awards.
+s2534	In addition to the behavior described in Section ⟦0⟧10.6.1⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧YELLOW and RED CARDS⟦/2⟧, VERBAL WARNINGS, and CARDS also clear at the end of each League Meet event.
+s2535	Teams may belong to only 1 League per season and can participate in only 1 League Tournament per season. A team can participate in a League outside their region, provided that is the only league they participate in. A team may not advance from a League Tournament to a Regional Championship that is outside of their region unless the Program Delivery Partners in both regions have agreed to move a team to a new region for the entire season.
+s2536	League Tournaments function the same as a Qualifying Tournament including judging and advancement except that qualification rankings as described in Section ⟦0⟧13.6⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Qualification MATCHES⟦/2⟧, used for both ALLIANCE Selection and Qualification Round Performance Points, are calculated with the addition of each team’s top 10 MATCHES played at any League Meet and the MATCHES played at the League Tournament. Top MATCHES are defined by the sort order in Table 13‑1.
+s2537	Teams that played fewer than 10 MATCHES at League Meets will have RANKING POINTS, MATCH Points, and all scoring criteria, that are effectively 0 for the missing MATCHES.
+s2538	League Tournament advancement (Table 4‑1) is calculated only using team performance at the League Tournament except for the Qualification Round Performance which is based on the League Tournament Ranking which include the top 10 League Meet MATCHES as described above.

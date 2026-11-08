@@ -1,0 +1,96 @@
+s0369	15 points for Inspire Award 3⟦0⟧rd⟦/0⟧ Place
+s0370	12 points for all other 1⟦0⟧st⟦/0⟧ Place Awards
+s0371	6 points for all other 2⟦0⟧nd⟦/0⟧ Place Awards
+s0372	3 points for all other 3⟦0⟧rd⟦/0⟧ Place Awards
+s0373	(See ⟦0⟧A211⟦/0⟧ for a list of points-eligible awards)
+s0374	If there is a tie in the point totals between teams, the higher ranked team will be determined using the following additional sorting criteria in Table 4‑2.
+s0375	⟦0⟧Table ⟦/0⟧4‑2 Advancement Sorting Criteria Including Tiebreakers
+s0376	Order Sort
+s0377	Criteria
+s0378	1⟦1⟧st⟦/1⟧
+s0379	Total Advancement Points (as calculated in Table 4‑1)
+s0380	2⟦1⟧nd⟦/1⟧
+s0381	Judged Team Award Points
+s0382	3⟦1⟧rd⟦/1⟧
+s0383	Playoff Advancement Points
+s0384	4⟦1⟧th⟦/1⟧
+s0385	ALLIANCE Selection Results Points (ALLIANCE Lead or Draft Order Acceptance)
+s0386	5⟦1⟧th⟦/1⟧
+s0387	Qualification Phase Performance Points
+s0388	6⟦1⟧th⟦/1⟧
+s0389	Average Qualification MATCH Points (excluding FOULS)
+s0390	7⟦1⟧th⟦/1⟧
+s0391	Average Qualification AUTO Points
+s0392	8⟦1⟧th⟦/1⟧
+s0393	Highest individual Qualification MATCH Points (excluding FOULS)
+s0394	9⟦1⟧th⟦/1⟧
+s0395	Second Highest individual Qualification MATCH Points (excluding FOULS)
+s0396	10⟦1⟧th⟦/1⟧
+s0397	Random Selection by Event Management System
+s0398	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧4.1.1 Qualification Phase Performance
+s0399	The calculation of Qualification Phase Performance points is done using the equation below. This equation is an inverse error function which utilizes the following variables:
+s0400	- ⟦0⟧R⟦/0⟧ – the qualification rank of the team at the event at the conclusion of Qualification MATCHES (as reported by the Event Management Software and defined in Section ⟦1⟧13.6.3 Qualification Ranking⟦/1⟧)
+s0401	- ⟦0⟧N⟦/0⟧ – the number of ⟦1⟧FIRST⟦/1⟧ Tech Challenge teams participating in the Qualification rounds at the event
+s0402	- ⟦0⟧Alpha (α)⟦/0⟧ – a static value (1.07) used to standardize the distribution of points at events
+s0403	This formula generates an approximately normal distribution of Qualification Phase Performance points at an event, based on rank, with most teams getting a moderate number of points, and fewer teams getting the highest or lowest numbers of points available.
+s0404	Table 4‑3 displays sample Qualification Phase Performance points for variously ranked teams at a 28-team event. The system will automatically generate the appropriate points for each team based on their rank and the number of teams at the event.
+s0405	⟦0⟧Table ⟦/0⟧4‑3 Sample Qualification Round Point Assignments
+s0406	Rank
+s0407	Points
+s0408	4.1.2 ALLIANCE Selection Results
+s0409	This attribute measures both individual team Qualification round seeding performance and recognition by peers.
+s0410	ALLIANCE Leads are recognized based on their Qualification phase seeding rank. This rank is a result of the rules of the game, which typically incorporate several team performance attributes. ALLIANCE partners are rewarded based on peer recognition. To be invited to join an ALLIANCE, a team’s peers have decided that the team has attributes that are desirable.
+s0411	Note also that ALLIANCE leads are given the same number of points as the team drafted in the same sequence. For example, the team who accepts the pick from the 3rd ALLIANCE lead receives the same number of points as the 3rd ALLIANCE lead. Numerical analysis supports the idea that ALLIANCE leads are about as strong in ROBOT performance as equivalently drafted teams.
+s0412	4.1.3 Playoff Performance
+s0413	This attribute measures team performance as part of an ALLIANCE.
+s0414	Teams earn points based on how far they progress into the Playoffs. Points are given to all teams within the ALLIANCE as described in Table 4‑1.
+s0415	See Section ⟦0⟧13.7.2 Playoff MATCH Bracket⟦/0⟧ for more details on the number of ALLIANCES that are formed for the Playoffs and an example of the Playoff MATCH bracket.
+s0416	4.1.4 Team Judged Awards
+s0417	This attribute measures team performance with respect to team awards judged at the event.
+s0418	The points earned for team awards in this system are not intended to capture the full value of the award to the team winning the award or to represent the full value of the award to FIRST.
+s0419	Points are being assigned to awards in this system only to help teams recognize that ⟦0⟧FIRST⟦/0⟧ continues to be “⟦1⟧More than Robots⟦/1⟧⟦2⟧®⟦/2⟧,” and to assist in elevating award-winning teams above non-award-winning teams in the ranking system.
+s0420	Teams only get points for team awards judged at the event and are limited to win only a specific number of awards per ⟦0⟧A215⟦/0⟧. If an award is not judged, is not for a team (e.g., the ⟦1⟧FIRST⟦/1⟧ Leadership Award), or is not judged at the event (e.g., Safety Animation Award), no points are earned. Points for awards not given at the event are not assigned to any team. See ⟦2⟧A211⟦/2⟧ for the list of points-eligible awards.
+s0421	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧4.2 Advancement Distribution by Region⟦/2⟧
+s0422	Advancement within a region is determined by the Program Delivery Partner and minimum advancement numbers should be made publicly accessible to participating teams as early as possible before the event, and no later than when ALLIANCE selection begins. Advancement information may be published on the ⟦0⟧FTC-Events⟦/0⟧ page as shown in Figure 4‑3.
+s0423	⟦0⟧Figure ⟦/0⟧4‑3 Event Advancement Information as shown on the ftc-events.firstinspires.org/page
+s0424	Advancement to ⟦0⟧FIRST⟦/0⟧ Championship and ⟦1⟧FIRST⟦/1⟧ Premier Events is determined by ⟦2⟧FIRST⟦/2⟧ Headquarters based on a number of factors including:
+s0425	- Global and regional representation
+s0426	- New developing regions with a Program Delivery Partner
+s0427	- Number of teams registered within the region before the cutoff date (November 17⟦0⟧th⟦/0⟧, 2026 for the BIOBUZZ season)
+s0428	o Regions who meet minimum registration requirements
+s0429	o Total number of teams within the region
+s0430	Regional allocations of advancement slots information will be published on the ⟦0⟧FTC-Events⟦/0⟧ page starting in early December. Regionally allocated slots which are not secured by the event deadline will be returned to ⟦1⟧FIRST⟦/1⟧ HQ or Premier Event Host for reallocation which may include reallocation to a new region or waitlist team invitation.
+s0431	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧5 Event Rules⟦/5⟧ (E)
+s0432	This section includes general rules which apply from the beginning of the public schedule when teams arrive through the end of the event with departure from the venue.
+s0433	Universal Violation Note: A violation of any ⟦0⟧Event Rules (E)⟦/0⟧ will result in a VERBAL WARNING. Egregious or subsequent violations of an Event Rule may result in escalation to FIRST Headquarters and/or disqualification for the team from MATCHES and awards. Criminal behavior will not be tolerated and will result in removal of individual(s) involved and/or disqualification for the team from the event.
+s0434	Any items that are deemed unsafe or outside specifications by FIRST personnel and/or the Event Director must be removed. Additional rule specific violations, if applicable, are listed with their corresponding rule.
+s0435	⟦0⟧FIRST⟦/0⟧ is committed to⟦1⟧ ⟦/1⟧⟦2⟧⟦3⟧STEM for Everyone⟦/3⟧⟦/2⟧™ and as such, ⟦4⟧FIRST⟦/4⟧ strives to make reasonable accommodations for persons with disabilities that request accommodation. Please see Section ⟦5⟧⟦6⟧1.6⟦/6⟧⟦/5⟧⟦7⟧ ⟦/7⟧⟦8⟧Accessibility and Inclusion⟦/8⟧ for more information.
+s0436	Rules around safety and security within this section are minimum requirements, and Program Delivery Partners are able to implement increased restrictions due to local or venue requirements (e.g., requiring badging for all attendees, reserving seating for accessibility). Partners should communicate additional local requirements early enough to allow teams to plan.
+s0437	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧5.1 General Rules⟦/3⟧
+s0438	⟦0⟧⟦/0⟧⟦1⟧E101 ⟦/1⟧⟦2⟧*Personal safety comes first.⟦/2⟧ All team members must observe the following safety practices throughout the event:
+s0439	A. wear safety glasses or safety rated glasses with side shields (ANSI-approved, UL Listed, CE EN166 rated, AS/NZS certified, or CSA rated) in specified areas. There is a 10-minute grace period when the venue opens each day of the event for teams to find and distribute safety glasses.
+s0440	Clear or lightly tinted safety glasses are preferred. Shaded glasses are allowed for those who need them and do not require a specific accommodation request.
+s0441	B. wear closed toed/heeled shoes,
+s0442	C. control entanglement risks by tying back long hair and removing other dangling decorations including lanyards, spirit wear, and rings as needed while working on or around a ROBOT or ROBOT related materials or tools,
+s0443	D. wear appropriate clothing,
+s0444	E. walk in the venue, and
+s0445	F. comply with government and venue-specific health and safety requirements in place for that event (i.e., mask wearing).
+s0446	Teams are responsible for bringing their own personal protective equipment.
+s0447	For more information about safety at ⟦1⟧FIRST⟦/1⟧ events, please reference the ⟦2⟧⟦3⟧FIRST⟦/3⟧ Safety Manual⟦/2⟧⟦4⟧.⟦/4⟧
+s0448	⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧E102 ⟦/2⟧⟦3⟧*Be Respectful.⟦/3⟧ All participants should follow the framework of behaviors listed in Section ⟦4⟧1.4⟦/4⟧⟦5⟧ ⟦/5⟧⟦6⟧The Spirit of the Competition⟦/6⟧ while attending a ⟦7⟧FIRST⟦/7⟧ Tech Challenge event. Uncivil behavior toward any participants is not tolerated.
+s0449	Examples of inappropriate behavior include, but are not limited to:
+s0450	A. ⟦0⟧use of offensive language or other uncivil conduct towards someone,⟦/0⟧
+s0451	B. ⟦0⟧“weaponizing ⟦1⟧Gracious Professionalism⟦/1⟧” by accusing another person or team of being “not GP”,⟦/0⟧
+s0452	C. ⟦0⟧intentionally blocking the view of other participants or spectators for an extended period (Team members momentarily holding up team signs while directly supporting their team is not considered a violation of this rule.), and⟦/0⟧
+s0453	D. ⟦0⟧anything that interferes with a ROBOT or the ARENA operations. ⟦/0⟧
+s0454	Examples of particularly contemptible behavior that may result in ejection from the event include, but are not limited to, the following:
+s0455	E. ⟦0⟧assault, e.g., throwing something that hits another person (even if unintended),⟦/0⟧
+s0456	F. ⟦0⟧threat, e.g., saying something like “if you don’t reverse that call, I’ll make you regret it,”⟦/0⟧
+s0457	G. ⟦0⟧harassment, e.g., badgering someone with no new information after a decision has been made or a question has been answered,⟦/0⟧
+s0458	H. ⟦0⟧bullying, e.g., using body or verbal language to cause another person to feel inadequate or unsafe,⟦/0⟧
+s0459	I. ⟦0⟧insulting, e.g., telling someone they do not deserve to be on a team,⟦/0⟧
+s0460	J. ⟦0⟧swearing at another person (versus swearing under one’s breath or at oneself), and⟦/0⟧
+s0461	K. ⟦0⟧yelling at another person(s) in anger or frustration.⟦/0⟧
+s0462	⟦0⟧⟦/0⟧⟦1⟧E103 ⟦/1⟧⟦2⟧*Children with adults, please. ⟦/2⟧Children under 12 must be accompanied in the pits by an adult at all times.
+s0463	⟦0⟧⟦/0⟧⟦1⟧E104 ⟦/1⟧⟦2⟧*Respect the venue. ⟦/2⟧Teams may not damage the venue, including but not limited to bleachers, floors, walls, and railings, in any way. This includes littering with team giveaways including candies, flyers, and stickers or items thrown from the stands.
+s0464	⟦0⟧⟦/0⟧⟦1⟧⟦2⟧E105 ⟦/2⟧⟦/1⟧⟦3⟧*Event resources are for competing teams only.⟦/3⟧ Only teams registered for an event may use that event’s competition FIELD, practice FIELD, and inspection unless pre-approved by the Event Director or the Program Delivery Partner. Host teams supplying practice FIELD elements and/or machine shop resources may use them; however, teams registered for that event must be granted priority.⟦4⟧⟦/4⟧

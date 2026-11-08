@@ -1,0 +1,77 @@
+s0666 | ⟦0⟧⟦/0⟧⟦1⟧⟦2⟧⟦3⟧A207 ⟦/3⟧⟦/2⟧⟦/1⟧⟦4⟧*O tempo da apresentação inicial preparada não deveria ser interrompido. ⟦/4⟧⟦5⟧⟦6⟧Os primeiros 5 minutos da Entrevista Inicial são reservados para que a equipe faça uma apresentação oral preparada sem interrupção, se assim desejar. O tempo de apresentação sem interrupção pode ser encerrado antes pela equipe. Todo o tempo restante deveria ser uma conversa de perguntas e respostas com os ESTUDANTES, conduzida pelos JUÍZES.⟦/6⟧⟦/5⟧
+s0667 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧A208 ⟦/2⟧⟦3⟧*Um adulto como observador silencioso é bem-vindo. ⟦/3⟧Um adulto pode comparecer à sessão de avaliação e estar presente em qualquer interação entre os JUÍZES e os membros ESTUDANTES da equipe. O(s) treinador(es) adulto(s) pode(m) estar presente(s) em quaisquer interações entre os JUÍZES e os membros ESTUDANTES da equipe fora da Entrevista Inicial. O observador adulto e o(s) treinador(es) não podem interagir nem orientar ativamente durante qualquer interação entre os JUÍZES e os membros ESTUDANTES da equipe.
+s0668 | O propósito do observador adulto silencioso é transmitir confiança, em silêncio, aos membros ESTUDANTES da equipe que estão se apresentando em um ambiente desconhecido, com pessoas novas.
+s0669 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧A209 ⟦/2⟧⟦3⟧*Serão feitas adaptações de Tradutor e/ou Intérprete de Língua de Sinais para as equipes que precisarem. ⟦/3⟧As equipes que precisarem usar um tradutor para se comunicar com os JUÍZES podem providenciar um, caso a língua nativa da equipe não coincida com a dos JUÍZES. Isso inclui língua de sinais ou outra tecnologia adaptativa. As equipes que pretendem fazer a entrevista com o auxílio de um tradutor devem trabalhar com o Diretor do Evento com antecedência para solicitar tempo adicional de entrevista entre 2 e 5 minutos, se necessário. O tradutor pode ser um adulto e pode estar presente além do observador silencioso de ⟦4⟧A208⟦/4⟧.
+s0670 | Na maioria dos casos, o tradutor precisará ser providenciado pela equipe. Se for necessária outra adaptação, a equipe deveria ⟦1⟧entrar em contato com a liderança local⟦/1⟧ para discutir as opções.
+s0671 | ⟦0⟧⟦/0⟧⟦1⟧A210 ⟦/1⟧⟦2⟧*Sem Fotos, Vídeo ou Gravação de Áudio durante a Entrevista Inicial. ⟦/2⟧Além das restrições de ⟦3⟧E116⟦/3⟧, nenhuma gravação de vídeo ou áudio, nem fotos, podem ser feitas durante a Entrevista Inicial.
+s0672 | ⟦0⟧⟦/0⟧⟦1⟧A211 ⟦/1⟧⟦2⟧*O número de prêmios concedidos varia conforme o tamanho do evento.⟦/2⟧⟦3⟧⟦4⟧ O número total de prêmios concedidos é baseado no número de equipes que fizeram check-in no evento. Nem todos os prêmios são concedidos em todas as competições. ⟦/4⟧⟦/3⟧Apenas os prêmios especificados na ⟦5⟧⟦/5⟧Tabela 6‑1, com base no tamanho do evento, são elegíveis a pontos para o avanço.
+s0673 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧Tabela ⟦/2⟧6‑1: ⟦3⟧Total de prêmios julgados disponíveis com base em todas as equipes participantes do evento⟦/3⟧
+s0674 | Total de Equipes Participantes do Evento
+s0675 | Prêmio
+s0676 | 4-10 Equipes
+s0677 | 11-20 Equipes
+s0678 | 21-40 Equipes
+s0679 | 41-64 Equipes
+s0697 | (3⟦1⟧º⟦/1⟧ Lugar*)
+s0699 | Prêmio Connect
+s0701 | (Apenas um dos prêmios Connect, Reach ou Sustain será concedido)
+s0725 | (Apenas um dos prêmios Innovate, Control ou Design será concedido)
+s0751 | *Prêmios discricionários
+s0752 | ⟦0⟧⟦1⟧Veja a Seção ⟦/1⟧⟦/0⟧⟦2⟧13.8⟦/2⟧⟦3⟧ ⟦/3⟧⟦4⟧Eventos de Divisão Dupla⟦/4⟧⟦5⟧ ⟦6⟧⟦7⟧para a versão modificada desta regra para divisão dupla. ⟦/7⟧⟦/6⟧⟦/5⟧
+s0753 | ⟦0⟧⟦/0⟧⟦1⟧A212 ⟦/1⟧⟦2⟧*O feedback da avaliação é fornecido a todas as equipes.⟦/2⟧ Todas as equipes receberão feedback da sua sessão de Entrevista Inicial. Os JUÍZES preenchem um formulário imediatamente após a Entrevista Inicial, com base na sua impressão inicial da equipe. Esse formulário de feedback não é usado durante as deliberações e não inclui nenhum feedback atualizado com base em interações posteriores dos JUÍZES com a equipe.
+s0754 | O formulário de feedback será devolvido junto com o PORTFÓLIO, no caso de avaliação presencial, perto do final do evento, ou o Treinador Principal 1 (Lead Coach 1) receberá acesso a uma versão digital no ⟦1⟧FTC-Scoring⟦/1⟧ após o evento.
+s0755 | ⟦0⟧⟦/0⟧⟦1⟧⟦2⟧A213 ⟦/2⟧⟦/1⟧⟦3⟧*As equipes só são elegíveis a ganhar o Prêmio Inspire na sua própria região.⟦/3⟧⟦4⟧⟦5⟧ As equipes só são elegíveis a ser consideradas para o Prêmio Inspire (1⟦6⟧º⟦/6⟧, 2⟦7⟧º⟦/7⟧ ou 3⟦8⟧º⟦/8⟧ lugar) quando competem em um torneio dentro da sua REGIÃO DE ORIGEM. ⟦/5⟧⟦/4⟧
+s0756 | ⟦0⟧⟦1⟧⟦2⟧FIRST⟦/2⟧⟦/1⟧⟦/0⟧⟦3⟧⟦4⟧ Championship e os Eventos Premier ⟦5⟧FIRST⟦/5⟧ são uma exceção a esta regra. Nesses eventos, todas as equipes podem ser consideradas para o Prêmio Inspire.⟦/4⟧⟦/3⟧
+s0757 | ⟦0⟧⟦/0⟧⟦1⟧⟦2⟧A214 ⟦/2⟧⟦/1⟧⟦3⟧*As equipes não podem ganhar o Prêmio Inspire em vários Torneios Classificatórios ou de Liga. ⟦/3⟧⟦4⟧⟦5⟧As equipes só são elegíveis a ganhar o 1⟦6⟧º⟦/6⟧ lugar do Prêmio Inspire uma vez por temporada, em qualquer Torneio Classificatório ou de Liga.⟦/5⟧⟦/4⟧
+s0758 | ⟦0⟧⟦1⟧As equipes que ganharam o 1⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧⟦4⟧º⟦/4⟧⟦/3⟧⟦/2⟧⟦5⟧⟦6⟧ Lugar do Inspire são elegíveis a ganhar o 2⟦/6⟧⟦/5⟧⟦7⟧⟦8⟧⟦9⟧º⟦/9⟧⟦/8⟧⟦/7⟧⟦10⟧⟦11⟧ ou o 3⟦/11⟧⟦/10⟧⟦12⟧⟦13⟧⟦14⟧º⟦/14⟧⟦/13⟧⟦/12⟧⟦15⟧⟦16⟧ lugar do Prêmio Inspire em Torneios Classificatórios ou de Liga subsequentes. ⟦/16⟧⟦/15⟧
+s0759 | As equipes que ganharam o 1⟦2⟧º⟦/2⟧ Lugar do Inspire em um Torneio Classificatório ou de Liga são elegíveis a ganhá-lo no seu Torneio Super Classificatório Regional (quando aplicável) e no Campeonato Regional.
+s0760 | ⟦0⟧⟦/0⟧⟦1⟧⟦2⟧A215 ⟦/2⟧⟦/1⟧⟦3⟧*As equipes só podem receber um prêmio julgado.⟦/3⟧⟦4⟧⟦5⟧ As equipes só são elegíveis a ganhar, ou a ficar em segundo lugar, em um único prêmio julgado de equipe ⟦/5⟧⟦/4⟧no ⟦6⟧⟦7⟧evento.⟦/7⟧⟦/6⟧
+s0761 | ⟦0⟧Esta regra não impede que uma equipe ganhe os prêmios adicionais listados na Seção ⟦/0⟧⟦1⟧6.4⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧Prêmios de ALIANÇA do Torneio⟦/3⟧⟦4⟧ e na Seção ⟦/4⟧⟦5⟧6.5⟦/5⟧⟦6⟧ ⟦/6⟧⟦7⟧Prêmios Individuais⟦/7⟧⟦8⟧.⟦/8⟧
+s0762 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧⟦6⟧6.3 Descrições dos Prêmios Julgados de Equipe⟦/6⟧
+s0763 | 6.3.1 Prêmio Inspire (Inspire Award)
+s0764 | O Prêmio Inspire reconhece uma equipe que é um forte modelo para todos os programas da ⟦0⟧FIRST⟦/0⟧. Essa equipe é uma forte candidata a muitos prêmios julgados e compete com uma atitude positiva e respeitosa.
+s0765 | A vencedora do Prêmio Inspire inspira outras equipes dentro e fora do campo de jogo. Suas ações refletem os Valores Fundamentais da ⟦0⟧FIRST⟦/0⟧ e incorporam o ⟦1⟧Profissionalismo Cortês. ⟦/1⟧A equipe compartilha regularmente as suas experiências, o seu entusiasmo e o seu conhecimento com outras equipes, patrocinadores, a sua comunidade e os JUÍZES. Trabalhando como uma unidade, essa equipe terá demonstrado sucesso na tarefa de projetar e construir um ROBÔ.
+s0766 | Tabela 6‑2: Critérios do Prêmio Inspire
+s0767 | Critérios do Prêmio Inspire
+s0769 | A equipe deve enviar um PORTFÓLIO.
+s0771 | O Prêmio Inspire celebra as qualidades mais fortes de todos os prêmios julgados. Uma equipe deve ser uma forte candidata a ⟦0⟧pelo menos um prêmio em cada uma⟦/0⟧ das seguintes categorias de prêmios julgados:
+s0772 | A. Prêmios de Máquina, Criatividade e Inovação,
+s0773 | B. Prêmios de Atributos da Equipe, e
+s0774 | C. Prêmio Think.
+s0776 | A equipe deve ser positiva e inclusiva, e cada membro da equipe deve contribuir para o sucesso da equipe.
+s0778 | A equipe é capaz de compartilhar as suas experiências e o seu conhecimento com os JUÍZES.
+s0779 | 6.3.2 Prêmio Think (Think Award)
+s0780 | O Prêmio Think reconhece uma equipe pelo seu excelente PORTFÓLIO. O PORTFÓLIO é um registro claro e organizado da jornada de engenharia e do crescimento da equipe nesta temporada. Os JUÍZES analisam esse documento para encontrar a equipe mais merecedora. As equipes também podem compartilhar detalhes extras sobre o seu processo de construção, projeto ou programação no seu PORTFÓLIO para ajudar os JUÍZES a entender as suas escolhas.
+s0781 | Tabela 6‑3: Critérios do Prêmio Think
+s0782 | Critérios do Prêmio Think
+s0784 | A equipe deve enviar um PORTFÓLIO. O PORTFÓLIO deve incluir ⟦0⟧pelo menos um⟦/0⟧ destes tópicos de engenharia:
+s0785 | A. evidências do uso do processo de engenharia,
+s0786 | B. lições aprendidas e aplicadas relacionadas ao projeto do seu ROBÔ,
+s0787 | C. comparação de escolhas: mostre como vocês analisaram ideias diferentes e explique por que escolheram uma em vez da outra, e/ou
+s0788 | D. escolhas matemáticas: mostre como vocês usaram a matemática para tomar decisões sobre o projeto do seu ROBÔ ou da programação.
+s0790 | As informações no PORTFÓLIO deveriam ser fáceis de ler e fáceis de encontrar.
+s0791 | 6.3.3 Prêmio Connect (Connect Award)
+s0792 | O Prêmio Connect reconhece uma equipe que constrói parcerias significativas com membros da comunidade de ciência, tecnologia, engenharia e matemática (STEM). Por meio dessas parcerias, a equipe desenvolve novos conhecimentos, habilidades e recursos que apoiam o seu crescimento a longo prazo. A equipe tem um plano claro, com ações definidas para alcançar os seus objetivos. Não é exigido PORTFÓLIO para este prêmio.
+s0793 | Tabela 6‑4: Critérios do Prêmio Connect
+s0794 | Critérios do Prêmio Connect
+s0796 | A equipe demonstra competência em desenvolvimento profissional explicando o seu plano para desenvolver as habilidades dos membros da equipe, incluindo ⟦0⟧ambos⟦/0⟧:
+s0797 | A. os objetivos de aprendizado da equipe, e
+s0798 | B. as etapas que a equipe realizou ou realizará para alcançar esses objetivos.
+s0800 | A equipe demonstra competência em networking construindo e mantendo relacionamentos significativos, presenciais ou virtuais, com profissionais de STEM.
+s0802 | A equipe demonstra competência em colaboração trabalhando ativamente com membros da comunidade de engenharia por meio de mentoria, compartilhamento de conhecimento, orientação técnica ou atividades colaborativas.
+s0803 | 6.3.4 Prêmio Reach (Reach Award)
+s0804 | O Prêmio Reach reconhece uma equipe que apresentou e recrutou novas pessoas para a ⟦0⟧FIRST⟦/0⟧. Por meio dos seus esforços de ação social, a equipe inspirou e motivou outras pessoas a se juntarem à comunidade ⟦1⟧FIRST⟦/1⟧ e a participarem ativamente dos seus programas. Não é exigido PORTFÓLIO para este prêmio.
+s0805 | Tabela 6‑5 Critérios do Prêmio Reach
+s0806 | Critérios do Prêmio Reach
+s0808 | A equipe demonstra competência em planejamento de ação social explicando claramente ⟦0⟧todos os ⟦/0⟧seguintes itens:
+s0809 | A. os seus objetivos de ação social,
+s0810 | B. a estratégia por trás das suas atividades de ação social, e
+s0811 | C. como essas atividades apoiam o crescimento da comunidade ⟦0⟧FIRST⟦/0⟧.
+s0813 | A equipe demonstra o recrutamento bem-sucedido de novas equipes, treinadores, mentores ou voluntários que não haviam participado anteriormente da comunidade ⟦0⟧FIRST⟦/0⟧
+s0815 | A equipe demonstra fortes competências de comunicação atuando como embaixadora da ⟦0⟧FIRST⟦/0⟧ e aumentando o conhecimento do público sobre os programas da ⟦1⟧FIRST⟦/1⟧ por meio de ação social e comunicação eficazes.
+s0817 | Demonstra competências de mídia e divulgação desenvolvendo materiais de divulgação criativos e em melhoria contínua, que apresentam de forma eficaz tanto a equipe quanto a ⟦0⟧FIRST⟦/0⟧ ao público.
+s0818 | 6.3.5 Prêmio Sustain (Sustain Award)
+s0819 | O Prêmio Sustain reconhece uma equipe que estabeleceu a liderança, os recursos e as práticas organizacionais necessários para garantir que a sua equipe ou programa possa continuar e crescer em temporadas futuras. Não é exigido PORTFÓLIO para este prêmio.
+s0820 | Tabela 6‑6 Critérios do Prêmio Sustain
+s0821 | Critérios do Prêmio Sustain
+s0823 | A equipe demonstra competência em sustentabilidade organizacional explicando os seus planos para o sucesso a longo prazo, incluindo ⟦0⟧um ou mais⟦/0⟧ dos seguintes itens:
