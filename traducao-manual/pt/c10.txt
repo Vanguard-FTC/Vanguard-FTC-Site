@@ -1,0 +1,83 @@
+s0824 | sustentabilidade financeira,
+s0825 | planejamento da temporada, e/ou
+s0826 | objetivos de sustentabilidade da equipe a longo prazo.
+s0828 | A equipe demonstra competência em gestão de projetos explicando como mede, revisa e acompanha o progresso em direção aos seus planos e objetivos de sustentabilidade.
+s0830 | A equipe demonstra competência em desenvolvimento de liderança por meio de funções claramente definidas na equipe e de um processo intencional para preparar futuros líderes estudantis.
+s0832 | A equipe demonstra competência em gestão de riscos identificando restrições organizacionais, implementando estratégias de mitigação e adaptando os planos quando surgem desafios.
+s0833 | 6.3.6 Prêmio Innovate (Innovate Award), patrocinado pela RTX
+s0834 | O Prêmio Innovate reconhece uma equipe que cria soluções criativas para os desafios do jogo. Os JUÍZES concedem este prêmio a uma equipe com um projeto criativo e original para uma ou mais partes do seu ROBÔ. Os JUÍZES avaliam o projeto em si, quão bem ele funciona e o pensamento criativo por trás dele. O prêmio pode reconhecer o projeto do ROBÔ inteiro ou de um MECANISMO do ROBÔ. O projeto deveria funcionar bem na maioria das PARTIDAS, mas não precisa funcionar todas as vezes. Não é exigido PORTFÓLIO para este prêmio.
+s0835 | Tabela 6‑7: Critérios do Prêmio Innovate
+s0836 | Critérios do Prêmio Innovate
+s0838 | A equipe demonstra a sua competência em engenharia mostrando exemplos do seu trabalho de engenharia que explicam como a equipe desenvolveu o seu projeto.
+s0840 | O projeto do ROBÔ ou do MECANISMO do ROBÔ é criativo, único, ou ambos.
+s0842 | O projeto criativo deve ser estável e confiável. Ele deve ajudar a equipe a atingir os seus objetivos de jogo na maior parte do tempo.
+s0844 | Projetos frequentemente envolvem riscos. A equipe deveria explicar como reduziu esses riscos.
+s0845 | 6.3.7 Prêmio Control (Control Award)
+s0846 | O Prêmio Control reconhece uma equipe que usa sensores e software para resolver os desafios do jogo de forma criativa. Exemplos incluem operação autônoma, sistemas mecânicos mais inteligentes ou sensores que melhoram os resultados. A solução deveria funcionar bem na maioria das PARTIDAS, mas não precisa funcionar todas as vezes. As equipes podem usar a sua solução durante o período AUTO, o período TELEOP, ou ambos. O PORTFÓLIO da equipe deve incluir um resumo do software, dos sensores e do sistema de controle mecânico. O PORTFÓLIO não precisa incluir o código completo.
+s0847 | Tabela 6‑8: Critérios do Prêmio Control
+s0848 | Critérios do Prêmio Control
+s0850 | A equipe deve enviar um PORTFÓLIO. O PORTFÓLIO deve incluir ⟦0⟧todos os⟦/0⟧ seguintes itens:
+s0851 | A. COMPONENTES de controle de hardware ou software no ROBÔ,
+s0852 | B. os desafios que cada COMPONENTE ou sistema resolve, e
+s0853 | C. a função de cada COMPONENTE ou sistema.
+s0855 | A equipe deve usar uma ou mais soluções de hardware ou software que utilizem realimentação externa (feedback) para controlar o ROBÔ e melhorar o seu desempenho.
+s0857 | A(s) solução(ões) de controle deveria(m) funcionar de forma consistente na maioria das PARTIDAS.
+s0859 | A equipe consegue explicar quão confiável é a sua solução. Ela pode mostrar isso demonstrando que a solução funciona, ou explicando como ela poderia ser melhorada.
+s0861 | A equipe deveria descrever o que aprendeu ao usar o processo de engenharia para desenvolver as suas soluções de controle (sensores, hardware, algoritmos, ou uma combinação deles).
+s0862 | 6.3.8 Prêmio Design (Design Award)
+s0863 | O Prêmio Design reconhece uma equipe que entende os princípios do design industrial. Isso significa equilibrar forma, função e aparência, atendendo às necessidades do jogo desta temporada. O processo de design da equipe deveria resultar em um ROBÔ eficiente e que resolva bem os desafios do jogo. Não é exigido PORTFÓLIO para este prêmio.
+s0864 | Tabela 6‑9: Critérios do Prêmio Design
+s0865 | Critérios do Prêmio Design
+s0867 | A equipe deve descrever ou demonstrar que o seu ROBÔ é elegante, eficiente (simples de construir e operar) e/ou prático de manter.
+s0869 | Deve ser considerado o projeto do ROBÔ inteiro, ou o processo detalhado usado para criá-lo – não apenas um COMPONENTE.
+s0871 | O ROBÔ se destaca dos outros ROBÔS pela sua aparência e por quão bem funciona.
+s0873 | A equipe pensou claramente nos motivos por trás das suas escolhas de design, como inspiração ou função.
+s0875 | O design funciona de forma consistente e está alinhado ao plano de jogo ou à estratégia da equipe.
+s0876 | 6.3.9 Prêmio Escolha dos Juízes (Judges’ Choice Award)
+s0877 | O Prêmio Escolha dos Juízes é opcional e não é concedido em todos os eventos ⟦0⟧FIRST⟦/0⟧ Tech Challenge.
+s0878 | Durante a competição, o painel de JUÍZES pode conhecer uma equipe cujos esforços, desempenho ou dinâmica únicos mereçam reconhecimento, mas que não se encaixe em nenhuma das outras categorias de prêmio. Para reconhecer essas equipes únicas, a ⟦0⟧FIRST⟦/0⟧ oferece o Prêmio Escolha dos Juízes.
+s0879 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧⟦6⟧⟦/6⟧⟦7⟧⟦/7⟧⟦8⟧6.4 Prêmios de ALIANÇA do Torneio⟦/8⟧
+s0880 | 6.4.1 Prêmio Aliança Vencedora (Winning Alliance Award)
+s0881 | Este prêmio será concedido à ALIANÇA vencedora da PARTIDA final dos Playoffs de um Torneio ou evento de Campeonato com divisão única. Se o evento tiver duas ou mais divisões, haverá Prêmios Aliança Vencedora concedidos tanto aos vencedores dos playoffs de cada divisão quanto aos vencedores dos playoffs das finais do evento.
+s0882 | 6.4.2 Prêmio Aliança Finalista (Finalist Alliance Award)
+s0883 | Este prêmio será concedido à ALIANÇA finalista da PARTIDA final dos Playoffs de um Torneio ou evento de Campeonato com divisão única. Se o evento tiver duas ou mais divisões, ele será concedido aos finalistas dos playoffs de cada divisão e aos finalistas dos playoffs das finais do evento.
+s0884 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧6.5 Prêmios Individuais⟦/5⟧
+s0885 | 6.5.1 Prêmio ⟦1⟧FIRST⟦/1⟧ Leadership (FIRST Leadership Award)
+s0886 | Os semifinalistas, finalistas e vencedores do Prêmio ⟦0⟧FIRST⟦/0⟧ Leadership são exemplos de liderança estudantil. Esses indivíduos promovem ativamente a missão da ⟦1⟧FIRST⟦/1⟧, defendem Valores Fundamentais como Inclusão, Trabalho em Equipe e Impacto, e personificam o ⟦2⟧Profissionalismo Cortês⟦/2⟧. A ⟦3⟧FIRST⟦/3⟧ busca apoiar esses estudantes para que continuem atuando como líderes, ⟦4⟧ex-participantes (alumni)⟦/4⟧ e defensores ao longo de toda a vida.
+s0887 | Visite a ⟦0⟧página do Prêmio ⟦1⟧FIRST⟦/1⟧ Leadership⟦/0⟧ para ver os detalhes completos de inscrição e os vencedores anteriores do ⟦2⟧FIRST⟦/2⟧ Tech Challenge.
+s0888 | 6.5.2 Prêmio Compass (Compass Award)
+s0889 | Este é um prêmio opcional, oferecido no nível de competição do Campeonato Regional. Todas as equipes que participarem do ⟦1⟧FIRST⟦/1⟧ Championship terão a oportunidade de se inscrever para este prêmio no ⟦2⟧FIRST⟦/2⟧ Championship.
+s0890 | O Prêmio Compass reconhece um treinador ou mentor adulto que deu orientação e apoio excepcionais a uma equipe ao longo do ano e que demonstra à equipe o que significa ser um Profissional Cortês. O vencedor do Prêmio Compass será escolhido entre os candidatos indicados pelos membros ESTUDANTES das equipes ⟦0⟧FIRST⟦/0⟧ Tech Challenge, por meio do envio de um vídeo de 40 a 60 segundos. O vídeo deve destacar como o mentor ajudou a equipe a se tornar uma equipe inspiradora. O vídeo deveria enfatizar o que diferencia esse mentor.
+s0891 | Tabela 6‑10: Critérios do Prêmio Compass
+s0892 | Critérios do Prêmio Compass
+s0894 | A equipe deve ser capaz de expressar claramente a contribuição desse mentor para a equipe e explicar o que o diferencia.
+s0896 | A inscrição deve ser em formato de vídeo e atender aos seguintes requisitos:
+s0897 | A. ser enviada dentro do prazo estabelecido pelo Diretor do Evento ou pelo Parceiro de Entrega do Programa local,
+s0898 | B. estar em um dos seguintes formatos: .mp4, .mov, .avi ou .wmv (não serão aceitos links para serviços de streaming),
+s0899 | C. um vídeo por equipe por evento (os vídeos podem ser atualizados ou trocados entre eventos),
+s0900 | D. todas as músicas devem ser usadas com permissão dos detentores dos direitos autorais e ser indicadas nos créditos do vídeo, e
+s0901 | E. os vídeos não podem ter mais de 60 segundos, incluindo os créditos.
+s0902 | Recomenda-se que as equipes consultem as ⟦1⟧⟦2⟧Diretrizes de Marca e Estilo da FIRST ⟦/2⟧(FIRST Branding and Style Guidelines)⟦/1⟧ antes de criar o seu vídeo.
+s0903 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧6.6 Prêmios Globais Baseados em Projetos⟦/2⟧
+s0904 | Os prêmios globais baseados em projetos são avaliados e concedidos apenas uma vez por temporada e estão abertos a todas as equipes ⟦0⟧FIRST⟦/0⟧ Tech Challenge registradas. Cada prêmio tem os seus próprios requisitos e prazos independentes. Esses prêmios não contam para o avanço das equipes.
+s0905 | 6.6.1 Prêmio Digital Animation (Digital Animation Award), patrocinado pelo Worcester Polytechnic Institute (WPI)
+s0906 | Este prêmio, patrocinado pelo WPI, celebra o STEAM (Ciência, Tecnologia, Engenharia, Arte e Matemática, na sigla em inglês) e enfatiza a capacidade de contar uma história por meio de animação que integre conceitos tecnológicos, sociais e humanísticos.
+s0907 | O Prêmio Digital Animation 2027 é oferecido para incentivar os estudantes a desenvolver competências em design e criação de animações, contando uma história sobre o impacto da tecnologia na sociedade. Este prêmio está aberto a todas as equipes ⟦0⟧FIRST⟦/0⟧ Robotics Competition e ⟦1⟧FIRST⟦/1⟧ Tech Challenge e ⟦2⟧é opcional⟦/2⟧. Mais informações podem ser encontradas na ⟦3⟧página do Prêmio Digital Animation⟦/3⟧.
+s0908 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧7 Reconhecimento ao Patrocinador do Jogo⟦/3⟧
+s0909 | Agradecemos à ⟦2⟧RTX⟦/2⟧, patrocinadora apresentadora da temporada 2026-2027 do ⟦0⟧FIRST⟦1⟧®⟦/1⟧ ⟦/0⟧Tech Challenge⟦3⟧. ⟦/3⟧
+s0910 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧8 Visão Geral do Jogo⟦/3⟧
+s0911 | Em BIOBUZZ™, apresentado pela RTX, 2 ALIANÇAS adversárias, de 2 equipes cada, coletam POLLEN e NECTAR, LANÇANDO-os (LAUNCHING) na sua HIVE e colocando-os nas FLOWERS.
+s0912 | Durante os primeiros 30 segundos da PARTIDA, os ROBÔS operam de forma autônoma. Os ROBÔS podem usar sensores para coletar POLLEN das FLOWERS e navegar para LANÇAR nas CELLS da sua HIVE. Quando ELEMENTOS DE PONTUAÇÃO suficientes são LANÇADOS na CELL, a HIVE tomba. Cada vez que uma HIVE é TOMBADA (TIPPED), pontos são conquistados e NECTAR adicional é liberado.
+s0913 | Durante os 2 minutos restantes da PARTIDA, os PILOTOS (DRIVERS) humanos assumem o controle dos seus ROBÔS. Os ROBÔS continuam a coletar e pontuar POLLEN e NECTAR, tombando a sua HIVE para ganhar pontos e liberando mais NECTAR.
+s0914 | Conforme o tempo se esgota, as ALIANÇAS trabalham para encher as FLOWERS com POLLEN e NECTAR. As ALIANÇAS ganham pontos ao colocar o NECTAR da sua ALIANÇA em cada FLOWER antes do adversário. As ALIANÇAS também ganham pontos por serem donas de uma FLOWER, se o seu NECTAR for o colocado mais acima naquela FLOWER.
+s0915 | A ALIANÇA que conquistar mais pontos vence a PARTIDA, e PONTOS DE CLASSIFICAÇÃO (RANKING POINTS) adicionais podem ser obtidos ao completar outras conquistas de pontuação.
+s0916 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧9 ARENA⟦/3⟧
+s0917 | A ARENA inclui ⟦0⟧todos os elementos da infraestrutura do jogo necessários para jogar BIOBUZZ: o CAMPO, os ELEMENTOS DE PONTUAÇÃO, a área de fila (queue), a área de mídia das equipes e todo o equipamento necessário para a gestão do evento⟦/0⟧.
+s0918 | Figura 9‑1 BIOBUZZ (área de fila, telão do CAMPO e área de mídia opcional não mostrados)
+s0919 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧9.1 Dimensões e Precisão⟦/3⟧
+s0920 | As especificações do CAMPO de BIOBUZZ podem ser obtidas em alguns lugares:
+s0921 | - O ⟦0⟧modelo CAD 3D⟦/0⟧ é a representação oficial do CAMPO de BIOBUZZ e de como ele é construído. Medidas podem ser tiradas desse modelo com uma tolerância geral de +/- 1 pol. (+/- 2,5 cm).
+s0922 | - O ⟦0⟧Guia de Montagem do Campo do Evento (Event Field Setup Guide)⟦/0⟧ inclui instruções sobre como montar o CAMPO e detalhes da sua construção que podem influenciar as tolerâncias do CAMPO; ele também inclui muitas das dimensões principais do CAMPO.
+s0923 | - A ⟦0⟧Lista de Verificação de Aceitação do Campo (Field Acceptance Checklist)⟦/0⟧ inclui as dimensões controladas (com as tolerâncias relevantes), testes funcionais e critérios de inspeção que serão verificados regularmente pela equipe do evento.
+s0924 | - O ⟦0⟧Guia de Mitigação do Campo (Field Mitigation Guide)⟦/0⟧ fornece à EQUIPE DE CAMPO medidas de mitigação recomendadas para garantir que o CAMPO permaneça dentro das especificações durante o evento.
+s0925 | - As ilustrações incluídas no Manual de Competição servem para uma compreensão visual geral da ARENA de BIOBUZZ, e quaisquer dimensões incluídas são nominais. Salvo indicação específica, todas essas dimensões têm tolerância de +/- 1 pol. (+/- 2,5 cm).

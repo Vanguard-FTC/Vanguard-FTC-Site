@@ -9,7 +9,7 @@ Pipeline (rodar a partir da pasta scratchpad):
 3. tools/build.py manual/src -> pt-raw.html ; depois render (tools/render.js) com aviso de tradução não oficial
    na capa e no rodapé de todas as páginas; sumário (MsoToc) traduzir a partir dos títulos.
 
-Concluídos: c00–c09 (seções 1 a 6.3.5 parcial).  Próximo: c10.
+Concluídos: c00–c13 (seções 1 a 10.6.1).  Próximo: c14 (a partir de s1231).
 Glossário adotado: ROBOT=ROBÔ, MATCH=PARTIDA, ALLIANCE=ALIANÇA, FIELD=CAMPO, REFEREE=ÁRBITRO,
 INSPECTOR=INSPETOR, STUDENT=ESTUDANTE, PORTFOLIO=PORTFÓLIO, HOME REGION=REGIÃO DE ORIGEM,
 COMPONENT=COMPONENTE, MECHANISM=MECANISMO, OPERATOR CONSOLE=CONSOLE DO OPERADOR, ROBOT SIGN=PLACA DO ROBÔ,
@@ -17,6 +17,13 @@ FIELD STAFF=EQUIPE DE CAMPO, JUDGE=JUIZ, VERBAL WARNING=ADVERTÊNCIA VERBAL, FAB
 Judge Advisor=Coordenador de JUÍZES, Lead Coach 1/2=Treinador Principal 1/2, Program Delivery Partner=Parceiro de Entrega do Programa,
 Gracious Professionalism=Profissionalismo Cortês, nomes de prêmios mantidos (Prêmio Inspire, Think, Connect...).
 Modalidade: must = "deve(m)"; should (em regras) = "deveria(m)"; may = "pode(m)"; may not = "não pode(m)".
+Glossário (c10+): DRIVE TEAM=EQUIPE DE PILOTAGEM, DRIVER=PILOTO, DRIVE COACH=TREINADOR DE PILOTAGEM, HUMAN PLAYER=JOGADOR HUMANO,
+SCORING ELEMENT=ELEMENTO DE PONTUAÇÃO, ALLIANCE AREA=ÁREA DA ALIANÇA, LOADING ZONE=ZONA DE CARREGAMENTO, ALLIANCE CAPTAIN=CAPITÃO DA ALIANÇA,
+LAUNCH=LANÇAR/LANÇAMENTO, TIP/TIPPED=TOMBAMENTO/TOMBADA (HIVE TIP=TOMBAMENTO DA HIVE), RANKING POINTS=PONTOS DE CLASSIFICAÇÃO (RP),
+MINOR FOUL=FALTA LEVE, MAJOR FOUL=FALTA GRAVE, YELLOW/RED CARD=CARTÃO AMARELO/VERMELHO, DISABLED=DESATIVADO, DISQUALIFIED=DESCLASSIFICADO,
+ARENA FAULT=FALHA DA ARENA, STRATEGIC=ESTRATÉGICO, MOMENTARY=MOMENTÂNEO, CONTINUOUS=CONTÍNUO, REPEATED=REPETIDO, Head REFEREE=ÁRBITRO Principal.
+Mantidos em inglês: TILE, DRIVER STATION, ROBOT CONTROLLER, OpMode, AUTO, TELEOP, LEAVE, PARK, SWARM, POLLINATOR, GARDEN, CELL, AprilTag.
+Números com vírgula decimal (2,5 cm); in. = pol.
 Elementos do jogo (POLLEN, NECTAR, FLOWER, HIVE, GARDEN...) — manter em inglês (nomes próprios do jogo).
 
 ## Arquivos nesta branch

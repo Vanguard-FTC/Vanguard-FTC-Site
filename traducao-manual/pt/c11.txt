@@ -1,0 +1,81 @@
+s0926 | A lista completa de recursos do CAMPO de BIOBUZZ está publicada na ⟦0⟧página ⟦1⟧Playing⟦/1⟧ ⟦2⟧Field⟦/2⟧ Resources⟦/0⟧ no site da ⟦3⟧FIRST⟦/3⟧. ⟦4⟧⟦/4⟧
+s0927 | A ARENA é modular e é montada, usada, desmontada e transportada muitas vezes durante a temporada de competição. Ela sofre desgaste. Todo esforço é feito para garantir que as ARENAS sejam consistentes de um evento para outro.
+s0928 | No entanto, as ARENAS são montadas em locais diferentes, por equipes de evento e voluntários diferentes, e algumas regiões enfrentam desafios específicos que resultam em pequenas variações.
+s0929 | ⟦0⟧As especificações da ARENA foram elaboradas para refletir com precisão as variações que podem estar presentes no jogo oficial, garantindo ainda a consistência dos itens críticos. Entre em contato com o seu ⟦/0⟧⟦1⟧suporte local⟦/1⟧⟦2⟧ para solicitar mais informações. ⟦/2⟧
+s0930 | Equipes bem-sucedidas projetarão ROBÔS que não sejam sensíveis a essas variações.
+s0931 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧9.2 CAMPO⟦/3⟧
+s0932 | Cada CAMPO de BIOBUZZ é ⟦0⟧uma área de aproximadamente 144 pol. por 144 pol. (365,75 cm por 365,75 cm), delimitada pela superfície interna das paredes⟦/0⟧ do perímetro do CAMPO. A ⟦1⟧superfície do piso do CAMPO é formada por 36 TILES de espuma macia encaixáveis⟦/1⟧, cada um com tamanho nominal de aproximadamente 24 pol. por 24 pol. por 0,59 pol. (60,95 cm por 60,95 cm por 1,50 cm).
+s0933 | O CAMPO contém e é cercado pelos seguintes elementos de CAMPO:
+s0934 | - 1 Estrutura da HIVE, composta por 1 Armação com 2 HIVES montadas (1 HIVE por ALIANÇA)
+s0935 | - 4 FLOWERS
+s0936 | Os eventos oficiais usam o CAMPO completo de BIOBUZZ fabricado e vendido pela AndyMark (am-5850_Full) ou um equivalente oficialmente licenciado.
+s0937 | A superfície de TILES de espuma macia do CAMPO é composta por ⟦0⟧⟦1⟧FIRST⟦/1⟧ Tech Challenge Field Soft Tiles⟦/0⟧ (am-2499) ou equivalente.
+s0938 | A versão principal do perímetro do CAMPO é o ⟦0⟧⟦1⟧FIRST⟦/1⟧ Tech Challenge Perimeter Kit⟦/0⟧ (am-0481), vendido pela AndyMark. Todas as ilustrações deste manual mostram a versão am-0481 do projeto do CAMPO. Outras versões do perímetro do CAMPO com funcionalidade semelhante também podem ser usadas nas competições.
+s0939 | Alguns eventos, incluindo o ⟦0⟧FIRST⟦/0⟧ Championship (veja a Seção ⟦1⟧15.2⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧Modificação do Jogo⟦/3⟧), colocarão os CAMPOS sobre plataformas ou praticáveis, de modo que o CAMPO fique elevado enquanto as ÁREAS DA ALIANÇA permanecem no nível do chão.
+s0940 | O ⟦0⟧Guia de Montagem do Campo do Evento⟦/0⟧ permite que os eventos, opcionalmente, fixem o perímetro do CAMPO no lugar. Eventos que usam o AndyMark Perimeter Kit e optam por fixar o CAMPO no lugar não precisam instalar as Perimeter Straps (cintas do perímetro) que fazem parte do perímetro AndyMark.
+s0941 | A variante de CAMPO usada em um evento será determinada pelo Parceiro de Entrega do Programa local, e todos os CAMPOS de competição de um mesmo evento devem cumprir a Seção ⟦0⟧9.1⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Dimensões e Precisão⟦/2⟧ e ser consistentes entre si, conforme ⟦3⟧T404⟦/3⟧.
+s0942 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧9.3 Áreas, Zonas e Marcações⟦/3⟧⟦4⟧ ⟦/4⟧
+s0943 | As áreas, zonas e marcações relevantes do CAMPO estão descritas abaixo.
+s0944 | - O termo “zona” é usado para identificar espaços dentro do CAMPO.
+s0945 | - O termo “área” é usado para descrever espaços fora do CAMPO.
+s0946 | Salvo especificação em contrário, a fita usada para marcar linhas e zonas no CAMPO pode ser ⟦0⟧ProGaff⟦1⟧®⟦/1⟧ Premium Professional Grade Gaffer Tape⟦/0⟧ com 1 pol. (2,50 cm) ou 2 pol. (5,10 cm) de largura, ou fita gaffer comparável, nas cores vermelha e azul elétrico. As áreas fora do CAMPO podem ser marcadas com outros tipos ou larguras de fita, dependendo do evento.
+s0947 | A fita usada para marcar linhas e zonas no CAMPO é mostrada como faixas contínuas em todas as especificações oficiais. Embora em alguns jogos seja permitido aplicar as linhas de fita em segmentos não contínuos, isso não é necessário nesta temporada. No CAMPO de BIOBUZZ, nenhuma das linhas de fita atravessa as emendas dos TILES. Recomenda-se que os eventos apliquem as linhas de fita de forma contínua, como mostrado nas especificações.
+s0948 | ⟦0⟧Figura ⟦/0⟧9‑2: ZONAS e ÁREAS de BIOBUZZ
+s0949 | - ⟦0⟧ÁREA DA ALIANÇA (ALLIANCE AREA):⟦/0⟧ ⟦1⟧um volume de aproximadamente 97 pol. (246,40 cm) de largura por 54 pol. (137,15 cm) de profundidade, com altura infinita, formado pela fita na cor da ALIANÇA aplicada sobre o piso fora do CAMPO⟦/1⟧. A ÁREA DA ALIANÇA inclui as linhas de fita (Figura 9‑2).
+s0950 | - ⟦0⟧ZONA DE CARREGAMENTO (LOADING ZONE):⟦/0⟧ ⟦1⟧um volume de aproximadamente 23 pol. (58,40 cm) de largura por 11 pol. (27,95 cm) de profundidade, com altura infinita, delimitado por fita vermelha ou azul e pelos perímetros adjacentes do CAMPO⟦/1⟧. A ZONA DE CARREGAMENTO inclui as linhas de fita (Figura 9‑3). A ZONA DE CARREGAMENTO é uma zona específica de ALIANÇA, pertencente à ALIANÇA da ÁREA DA ALIANÇA adjacente.
+s0951 | - ⟦0⟧GARDEN:⟦/0⟧ ⟦1⟧um volume de aproximadamente 23 pol. (58,40 cm) por 2 pol. (5,10 cm) de largura, com altura infinita, definido pela borda externa da fita azul ou vermelha nos cantos opostos do CAMPO⟦/1⟧, como mostrado na Figura 9‑2.
+s0952 | ⟦0⟧Figura ⟦/0⟧9‑3: ZONA DE CARREGAMENTO e GARDEN (mostrados com o POLLEN oculto)
+s0953 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧9.4 Coordenadas dos ⟦/4⟧TILES
+s0954 | As coordenadas dos TILES são usadas para auxiliar na montagem do CAMPO. A Figura 9‑4 define as interseções de cada um dos TILES no CAMPO, onde as abas dos TILES se encaixam. A Figura 9‑5 define o sistema de coordenadas em grade para cada um dos TILES.
+s0955 | ⟦0⟧Figura ⟦/0⟧9‑4: Posições das emendas/linhas de abas dos TILES
+s0956 | ⟦0⟧Figura ⟦/0⟧9‑5: Posições dos TILES
+s0957 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧9.5 ÁREA DA ALIANÇA⟦/3⟧
+s0958 | Uma ÁREA DA ALIANÇA é a ÁREA DA ALIANÇA vermelha ou azul designada, adjacente ao CAMPO, onde as EQUIPES DE PILOTAGEM (DRIVE TEAMS) se posicionam durante uma PARTIDA.
+s0959 | O CAMPO é orientado de modo que a ÁREA DA ALIANÇA vermelha fique à esquerda, a partir da direção principal de visão do público.
+s0960 | O evento pode fornecer mesas baixas, suportes ou banquinhos para as equipes colocarem os seus CONSOLES DO OPERADOR, que ficarão perto do perímetro do CAMPO, dentro da ÁREA DA ALIANÇA. Se fornecidas pelo evento, essas mesas não podem ser removidas ou reorganizadas pelas equipes sem permissão do ÁRBITRO Principal (Head REFEREE), do Supervisor de CAMPO ou do FTA.
+s0961 | ⟦0⟧Figura ⟦/0⟧9‑6: ÁREA DA ALIANÇA
+s0962 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧9.6 Estrutura da HIVE⟦/3⟧
+s0963 | Figura 9‑7: Estrutura da HIVE
+s0964 | A Estrutura da HIVE fica no centro do CAMPO. Uma armação sustenta uma HIVE vermelha e uma HIVE azul. Cada HIVE é composta por 2 CELLS, uma em cada extremidade da HIVE. Cada CELL é ⟦0⟧uma estrutura tridimensional que pode conter NECTAR e POLLEN⟦/0⟧.
+s0965 | Cada HIVE fica sobre um pivô e pode tombar, de modo que uma das CELLS fique voltada para cima a qualquer momento. Cada HIVE é biestável e manterá a sua posição até que POLLEN ou NECTAR suficientes sejam LANÇADOS na CELL voltada para cima. Na face inferior de cada CELL há um AprilTag Cluster (conjunto de AprilTags) exclusivo, com 4 AprilTags distintas.
+s0966 | 9.6.1 Armação
+s0967 | A armação é formada por duas estruturas metálicas triangulares, fixadas em tiras de montagem sob os TILES e ligadas no topo por uma barra transversal. A armação tem 49,46 pol. (125,65 cm) de largura e 38,95 pol. (98,95 cm) de profundidade na base, que é também o seu ponto mais largo. A Armação sustenta 2 pivôs, com o eixo a 43,95 pol. (111,65 cm) acima dos TILES. As dimensões da armação são mostradas na Figura 9‑8.
+s0968 | Um painel com o logotipo de BIOBUZZ é fixado em cada lado da armação. Essa arte pode não estar presente em todos os eventos.
+s0969 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧Figura ⟦/2⟧9‑8: Armação
+s0970 | 9.6.2 HIVE e CELL
+s0971 | Cada HIVE é ⟦0⟧uma estrutura biestável composta por duas CELLS e um conjunto de ligação que gira em um pivô⟦/0⟧. Cada HIVE inclui duas CELLS (ambas vermelhas ou ambas azuis), separadas por aproximadamente 18,8 pol. (47,8 cm), como mostrado na Figura 9‑9. Cada HIVE gira em torno de um pivô localizado no topo da armação e tem duas posições estáveis: cada uma com uma CELL voltada para cima.
+s0972 | A abertura da CELL tem aproximadamente 20 pol. (50,8 cm) de largura por 14 pol. (35,6 cm) de altura e 12 pol. (30,5 cm) de profundidade, como mostrado na Figura 9‑11.
+s0973 | ⟦0⟧Figura ⟦/0⟧9‑9: Detalhes da HIVE
+s0974 | Figura 9‑10: Detalhes principais da HIVE e da CELL
+s0975 | ⟦0⟧⟦/0⟧⟦1⟧Figura ⟦/1⟧9‑11: CELL
+s0976 | ⟦0⟧⟦/0⟧⟦1⟧9.7 FLOWER⟦/1⟧
+s0977 | A FLOWER é ⟦0⟧uma estrutura no CAMPO na qual POLLEN e NECTAR podem ser colocados por cima, e POLLEN pode ser retirado por baixo⟦/0⟧. Há quatro FLOWERS no CAMPO, presas à parede do perímetro. Cada FLOWER tem as seguintes características principais:
+s0978 | - A abertura no topo de cada FLOWER tem aproximadamente 4 pol. (10,15 cm) de diâmetro e fica a aproximadamente 21,5 pol. (54,6 cm) acima dos TILES.
+s0979 | - Há um anteparo (backstop) no topo de cada FLOWER para ajudar a guiar o POLLEN e o NECTAR para dentro da FLOWER. Esse anteparo tem 1,25 pol. (3,15 cm) de altura, com as dimensões mostradas na Figura 9‑12.
+s0980 | - Há uma Abertura de Retirada (Retrieval Opening) na parte inferior da FLOWER, para que os ROBÔS retirem ELEMENTOS DE PONTUAÇÃO, com aproximadamente 3,55 pol. (9,0 cm) de altura e 3,57 pol. (9,1 cm) de profundidade.
+s0981 | - Há um anel inferior apoiado no piso de TILES, com aproximadamente 0,4 pol. (1,0 cm) de altura e um furo de aproximadamente 2,79 pol. (7,1 cm) de diâmetro onde o POLLEN se acomoda.
+s0982 | Os anéis superior e intermediário são ligados por quatro tubos de HIPS, e os anéis intermediário e inferior são ligados, do lado da parede do perímetro, por um perfil quadrado extrudado.
+s0983 | ⟦0⟧Figura ⟦/0⟧9‑12: Detalhes da FLOWER
+s0984 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧9.8 ELEMENTOS DE PONTUAÇÃO⟦/3⟧
+s0985 | ⟦0⟧Os ELEMENTOS DE PONTUAÇÃO (SCORING ELEMENTS) de BIOBUZZ são o POLLEN e o NECTAR⟦/0⟧.
+s0986 | - O POLLEN são ⟦0⟧bolas de polietileno Gopher ResisDent™ amarelas de aproximadamente 2,8 pol. (7,1 cm)⟦/0⟧ (⟦1⟧am-5851_yellow⟦/1⟧).
+s0987 | - O NECTAR são ⟦0⟧bolas de polietileno Gopher ResisDent™ de aproximadamente 3,6 pol. (9,1 cm), ⟦/0⟧nas cores vermelha (⟦1⟧am-5852_red⟦/1⟧) e azul (⟦2⟧am-5852_blue⟦/2⟧).
+s0988 | Há um total de 40 POLLEN, 8 NECTAR vermelhos e 8 NECTAR azuis em uma PARTIDA de BIOBUZZ.
+s0989 | O POLLEN e o NECTAR não são perfeitamente esféricos e podem variar de tamanho. As equipes deveriam levar essa variação em conta ao projetar os seus ROBÔS.
+s0990 | Figura 9‑13: ELEMENTOS DE PONTUAÇÃO: POLLEN
+s0991 | Figura 9‑14: ELEMENTOS DE PONTUAÇÃO: NECTAR
+s0992 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧9.9 AprilTags⟦/3⟧
+s0993 | As AprilTags de BIOBUZZ são alvos quadrados de 3,25 pol. (8,25 cm) da família de tags 36h11 (Figura 9‑17), usados para auxiliar na navegação e na mira dos ROBÔS.
+s0994 | As AprilTags são organizadas em AprilTag Clusters, cada um formado por quatro AprilTags dispostas em um único adesivo. Cada AprilTag individual tem um rótulo de texto de identificação (“ID”). Os AprilTag Clusters são aplicados nas CELLS como um único adesivo, alinhado por meio de Furos de Referência. Esses Furos de Referência podem ser usados para medir a posição do AprilTag Cluster em relação ao restante do CAMPO. As dimensões das AprilTags são mostradas na Figura 9‑15.
+s0995 | ⟦0⟧Figura ⟦/0⟧9‑15: Layout do AprilTag Cluster e dos Furos de Referência
+s0996 | As imagens deste manual são exemplos, não estão em escala e não se destinam a ser impressas para fins de treino.
+s0997 | ⟦0⟧Consulte a⟦/0⟧⟦1⟧⟦2⟧ ⟦/2⟧⟦/1⟧⟦3⟧⟦4⟧página Playing Field Resources⟦/4⟧ para versões imprimíveis dessas imagens.⟦/3⟧
+s0998 | Cada AprilTag Cluster é colocado na parte inferior de uma CELL, voltado para baixo, em direção aos TILES, com a sua borda inferior orientada para o centro do CAMPO (Figura 9‑16).
+s0999 | ⟦0⟧Figura ⟦/0⟧9‑16: AprilTag Cluster na CELL
+s1000 | As AprilTags ficam nas seguintes posições no CAMPO, na ordem indicada na Figura 9‑17:
+s1001 | - AprilTags de ID 30, 31, 32 e 33 na CELL vermelha do lado do CAMPO oposto ao público.
+s1002 | - AprilTags de ID 34, 35, 36 e 37 na CELL vermelha do lado do público.
+s1003 | - AprilTags de ID 38, 39, 40 e 41 na CELL azul do lado do público.
+s1004 | - AprilTags de ID 42, 43, 44 e 45 na CELL azul do lado do CAMPO oposto ao público.
+s1005 | ⟦0⟧⟦/0⟧⟦1⟧Figura ⟦/1⟧9‑17: Posições das AprilTags no CAMPO de BIOBUZZ
+s1006 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧9.10 EQUIPE DE CAMPO⟦/4⟧

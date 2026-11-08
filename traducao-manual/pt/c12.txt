@@ -1,0 +1,91 @@
+s1007 | A EQUIPE DE CAMPO é formada por ⟦0⟧voluntários presentes na ARENA e ao redor dela, responsáveis por garantir que as PARTIDAS ocorram de forma eficiente, justa e segura, com espírito de cooperação, ⟦1⟧Profissionalismo Cortês⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧⟦4⟧®⟦/4⟧⟦/3⟧⟦/2⟧ e generosidade.
+s1008 | As funções da EQUIPE DE CAMPO são exercidas por voluntários da comunidade, que se preparam para o evento com treinamento e certificação completos. Há 3 funções-chave de voluntários junto ao CAMPO que as equipes deveriam conhecer e que são incentivadas a usar como recursos para tornar a sua experiência no evento proveitosa.⟦0⟧⟦/0⟧
+s1009 | - ⟦0⟧ÁRBITRO Principal (Head REFEREE)⟦/0⟧ – treina, dirige e supervisiona os ÁRBITROS e os Apontadores Oficiais (Official Scorers). Supervisiona todos os processos e procedimentos de pontuação, em colaboração com o restante da EQUIPE DE CAMPO. Interage com ESTUDANTES, voluntários e equipe do evento. O ÁRBITRO Principal tem a autoridade final nas decisões sobre o placar das PARTIDAS, FALTAS (FOULS) e aplicação de CARTÕES AMARELOS e VERMELHOS. ⟦1⟧⟦/1⟧
+s1010 | ⟦0⟧- ⟦1⟧Consultor Técnico da ⟦2⟧FIRST⟦/2⟧ (FIRST Technical Advisor) ⟦/1⟧⟦/0⟧⟦3⟧(FTA)⟦/3⟧ - garante que os eventos ocorram de forma tranquila, segura e de acordo com os requisitos da ⟦4⟧FIRST⟦/4⟧. O FTA colabora com a equipe da ⟦5⟧FIRST⟦/5⟧, a equipe do evento e outros voluntários em muitas áreas diferentes. O FTA cuida de todos os aspectos técnicos relacionados ao CAMPO, aos ROBÔS e ao jogo, e atua como defensor de todas as equipes que competem no evento. ⟦6⟧⟦/6⟧
+s1011 | - ⟦0⟧Supervisor de CAMPO (FIELD Supervisor)⟦/0⟧ - (pode ser a mesma pessoa que o FTA ou o ÁRBITRO Principal em eventos menores) dirige as atividades no CAMPO para garantir a execução eficiente das PARTIDAS, o ritmo do evento e o bom andamento das PARTIDAS. Os Supervisores de CAMPO são responsáveis por garantir que o CAMPO esteja íntegro e lideram as equipes de reset do CAMPO, responsáveis por restaurar o CAMPO após cada PARTIDA, preparando-o para a PARTIDA seguinte. ⟦1⟧⟦/1⟧
+s1012 | Para mais detalhes sobre cada uma dessas funções, bem como sobre outras funções de voluntários do ⟦1⟧FIRST⟦/1⟧ Tech Challenge, consulte os ⟦2⟧recursos para voluntários⟦/2⟧. ⟦3⟧⟦/3⟧
+s1013 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧9.11 Sistema de Gestão do Evento⟦/2⟧
+s1014 | O sistema de gestão de eventos da ⟦0⟧FIRST⟦/0⟧ é o software responsável por gerenciar o placar das PARTIDAS e outras informações do evento. O sistema abrange todos os eletrônicos do CAMPO, incluindo computadores, telas, dispositivos eletrônicos dos ÁRBITROS e de outros voluntários, ponto de acesso sem fio, cabos de rede etc.
+s1015 | O sistema de gestão de eventos da ⟦0⟧FIRST⟦/0⟧ avisa os participantes sobre os marcos da PARTIDA usando os sinais sonoros detalhados na Tabela 9‑1. Observe que os sinais sonoros são uma cortesia aos participantes e não são marcadores oficiais da PARTIDA. Se houver divergência entre um sinal sonoro e os cronômetros visuais do CAMPO, valem os cronômetros visuais do CAMPO.
+s1016 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧Tabela ⟦/2⟧9‑1 Sinais sonoros
+s1017 | Evento
+s1018 | Valor do cronômetro
+s1019 | Sinal sonoro
+s1020 | Início da PARTIDA
+s1021 | “This MATCH begins in 3, 2, 1, GO” (opcional)⟦0/⟧ “Cavalry Charge” (toque de carga de cavalaria)
+s1022 | Fim do AUTO
+s1023 | “Buzzer x 3” (3 toques de buzina)
+s1024 | Transição do AUTO para o TELEOP
+s1025 | 0:08 a 0:01
+s1026 | “Drivers, pick up your controllers, 3-2-1” (“Pilotos, peguem os controles, 3-2-1”)
+s1027 | Início do TELEOP
+s1028 | “3 Bells” (3 sinos)
+s1029 | Liberação da posse das FLOWERS
+s1030 | “Chime” (carrilhão)
+s1031 | 20 segundos finais
+s1032 | “Train Whistle” (apito de trem)
+s1033 | Fim da PARTIDA
+s1034 | “3-second Buzzer” (buzina de 3 segundos)
+s1035 | PARTIDA interrompida
+s1036 | “Foghorn” (sirene de nevoeiro)
+s1037 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧10 Detalhes do Jogo⟦/3⟧
+s1038 | Figura 10‑1: CAMPO de BIOBUZZ
+s1039 | Em BIOBUZZ, 2 ALIANÇAS (uma ALIANÇA é ⟦0⟧uma cooperação entre 2 equipes ⟦1⟧FIRST⟦/1⟧ Tech Challenge⟦/0⟧) disputam PARTIDAS, preparadas e conduzidas conforme os detalhes descritos abaixo.
+s1040 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧10.1 Visão Geral da PARTIDA⟦6⟧⟦/6⟧
+s1041 | As PARTIDAS consistem na preparação pré-PARTIDA, ⟦0⟧um período AUTO de 30 segundos, um período de transição de 8 segundos entre o AUTO e o TELEOP e um período TELEOP de 2 minutos⟦/0⟧, seguidos do reset pós-PARTIDA.
+s1042 | Durante a PARTIDA, os ROBÔS coletam POLLEN e NECTAR para levá-los ao seu GARDEN, colocá-los nas FLOWERS e LANÇÁ-los nas suas CELLS para provocar um TOMBAMENTO DA HIVE (HIVE TIP) – tudo para ganhar pontos.
+s1043 | Cada vez que uma HIVE é TOMBADA, a ALIANÇA pode colocar em jogo um dos cinco NECTAR inicialmente posicionados na ÁREA DA ALIANÇA. Quando faltarem 60 segundos para o fim da PARTIDA, as ALIANÇAS podem colocar em jogo todo o NECTAR restante.
+s1044 | Os ROBÔS encerram a PARTIDA conquistando a posse das FLOWERS ao colocar NECTAR nelas e voltando para a sua ZONA DE CARREGAMENTO.
+s1045 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧10.2 EQUIPE DE PILOTAGEM (DRIVE TEAM)
+s1046 | Uma EQUIPE DE PILOTAGEM é ⟦0⟧um grupo de até 4 pessoas da mesma equipe ⟦1⟧FIRST⟦/1⟧ Tech Challenge, responsável pelo desempenho da equipe em uma PARTIDA específica⟦/0⟧. Há 3 funções específicas em uma EQUIPE DE PILOTAGEM que as ALIANÇAS podem usar para auxiliar os ROBÔS, e apenas 1 membro da EQUIPE DE PILOTAGEM pode não ser ESTUDANTE.
+s1047 | A intenção da definição de EQUIPE DE PILOTAGEM e das regras relacionadas é que, salvo circunstâncias atenuantes, a EQUIPE DE PILOTAGEM seja formada por pessoas que chegaram ao evento vinculadas àquela equipe e que são responsáveis pelo desempenho da sua equipe e do seu ROBÔ no evento (ou seja, uma pessoa pode estar vinculada a mais de 1 equipe).
+s1048 | A intenção não é permitir que equipes “adotem” membros de outras equipes para obter vantagem ESTRATÉGICA para a equipe que empresta, a equipe que recebe e/ou a ALIANÇA delas (por exemplo, o Líder da ALIANÇA acredita que 1 dos seus PILOTOS tem mais experiência do que um PILOTO da equipe parceira, e as equipes combinam que a equipe parceira “adotará” esse PILOTO, tornando-o membro da sua EQUIPE DE PILOTAGEM nos Playoffs).
+s1049 | A definição não é mais rígida por 2 motivos principais. Primeiro, para evitar burocracia adicional para as equipes e os voluntários do evento (por exemplo, exigir que as equipes enviem listas oficiais de membros que a Fila (Queuing) precisaria conferir antes de permitir a entrada de uma EQUIPE DE PILOTAGEM na ARENA). Segundo, para deixar espaço para circunstâncias excepcionais que dão às equipes a oportunidade de demonstrar ⟦1⟧Profissionalismo Cortês⟦/1⟧ (por exemplo, um ônibus atrasa, um TREINADOR DE PILOTAGEM fica sem PILOTOS, e os vizinhos de pit concordam em ajudar emprestando PILOTOS como membros temporários da equipe até o ônibus chegar).
+s1050 | Tabela 10‑1: Funções da EQUIPE DE PILOTAGEM
+s1051 | Função
+s1052 | Descrição
+s1053 | Máx./
+s1054 | EQUIPE DE PILOTAGEM
+s1055 | Critérios
+s1056 | TREINADOR DE PILOTAGEM (DRIVE COACH)
+s1057 | um guia ou conselheiro
+s1058 | qualquer membro da equipe, podendo ser adulto; deve usar o crachá “DRIVE COACH”
+s1059 | PILOTO (DRIVER)
+s1060 | quem opera e controla o ROBÔ
+s1061 | ESTUDANTE; deve usar o crachá “DRIVE TEAM”
+s1062 | JOGADOR HUMANO (HUMAN PLAYER)
+s1063 | responsável pelos ELEMENTOS DE PONTUAÇÃO
+s1064 | ESTUDANTE é ⟦0⟧uma pessoa que não concluiu o ensino médio, o ensino secundário ou o nível equivalente na sua REGIÃO DE ORIGEM até 1⟦1⟧º⟦/1⟧ de setembro da temporada atual⟦/0⟧.
+s1065 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧10.3 Preparação⟦/4⟧
+s1066 | Antes do início de cada PARTIDA, a EQUIPE DE CAMPO posiciona os ELEMENTOS DE PONTUAÇÃO conforme descrito na Seção ⟦0⟧10.3.1⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧ELEMENTOS DE PONTUAÇÃO⟦/2⟧. As EQUIPES DE PILOTAGEM posicionam os seus ROBÔS (conforme descrito na Seção ⟦3⟧10.3.4⟦/3⟧⟦4⟧ ⟦/4⟧⟦5⟧ROBÔS⟦/5⟧) e CONSOLES DO OPERADOR (conforme descrito na Seção ⟦6⟧10.3.3⟦/6⟧⟦7⟧ ⟦/7⟧⟦8⟧CONSOLES DO OPERADOR⟦/8⟧). Em seguida, as EQUIPES DE PILOTAGEM assumem os seus lugares conforme descrito na Seção ⟦9⟧⟦/9⟧⟦10⟧⟦/10⟧⟦11⟧⟦/11⟧⟦12⟧⟦/12⟧⟦13⟧⟦/13⟧⟦14⟧⟦/14⟧⟦15⟧⟦/15⟧⟦16⟧⟦/16⟧⟦17⟧⟦/17⟧⟦18⟧10.3.2⟦/18⟧⟦19⟧ ⟦/19⟧⟦20⟧EQUIPES DE PILOTAGEM⟦/20⟧.
+s1067 | ⟦0⟧⟦/0⟧⟦1⟧10.3.1 ELEMENTOS DE PONTUAÇÃO⟦/1⟧
+s1068 | ⟦0⟧⟦/0⟧⟦1⟧Figura ⟦/1⟧10‑2: Posições iniciais dos ELEMENTOS DE PONTUAÇÃO
+s1069 | Cada HIVE é inclinada de modo que uma CELL fique voltada para baixo e a outra para cima, como mostrado. (Uma forma fácil de lembrar é que a CELL que “aponta para” uma FLOWER deve ser a inclinada para baixo.) Os ELEMENTOS DE PONTUAÇÃO são posicionados no CAMPO da seguinte forma (Figura 10‑2):
+s1070 | A. 40 POLLEN são posicionados no CAMPO da seguinte forma:
+s1071 | i. 4 POLLEN em cada uma das 4 FLOWERS (16)
+s1072 | ii. 4 POLLEN no GARDEN vermelho (4)
+s1073 | iii. 4 POLLEN no GARDEN azul (4)
+s1074 | iv. 4 POLLEN pré-carregados em cada ROBÔ (16) (Seção ⟦0⟧10.3.4⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧ROBÔS⟦/2⟧)
+s1075 | Os POLLEN pré-carregados começam a PARTIDA dentro ou sobre o ROBÔ, ou nos TILES, encostados no ROBÔ. ROBÔS que não estiverem presentes na sua PARTIDA terão os seus POLLEN de pré-carga colocados aproximadamente no centro da ZONA DE CARREGAMENTO, encostados na parede do perímetro.
+s1076 | Os POLLEN do GARDEN são colocados em fila, começando pelo canto mais próximo da ÁREA DA ALIANÇA e encostados na parede do perímetro do lado do público ou na parede do fundo. Pode haver pequenas variações no posicionamento.
+s1077 | B. 8 NECTAR vermelhos e 8 azuis são posicionados no CAMPO da seguinte forma:
+s1078 | i. 3 NECTAR em cada CELL voltada para cima, da cor correspondente (6)
+s1079 | ii. 5 NECTAR em cada ÁREA DA ALIANÇA, da cor correspondente (10)
+s1080 | O NECTAR na CELL é colocado encostado na parede do fundo da CELL, em fila, junto ao lado mais próximo da ÁREA DA ALIANÇA da cor correspondente. Pode haver alguma variação no posicionamento desses NECTAR pelos voluntários, mas em geral eles serão colocados como mostrado.
+s1081 | Conforme descrito em ⟦0⟧15.2⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Modificação do Jogo⟦/2⟧: a quantidade, o tipo e a distribuição dos ELEMENTOS DE PONTUAÇÃO podem ser ajustados para o ⟦3⟧FIRST⟦/3⟧ Championship e para os ⟦4⟧FIRST⟦/4⟧ Premier Events. Para o ⟦5⟧FIRST⟦/5⟧ Championship, quaisquer modificações do jogo serão publicadas até a última Team Update regularmente programada, conforme descrito na Seção ⟦6⟧1.7.3⟦/6⟧⟦7⟧ ⟦/7⟧⟦8⟧Team Updates⟦/8⟧. Para os ⟦9⟧FIRST⟦/9⟧ Premier Events, as modificações do jogo serão divulgadas pelos organizadores antes do evento.
+s1082 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧10.3.2 EQUIPES DE PILOTAGEM⟦/2⟧
+s1083 | As EQUIPES DE PILOTAGEM se preparam para uma PARTIDA posicionando-se na ÁREA DA ALIANÇA depois que a EQUIPE DE PILOTAGEM da PARTIDA anterior tiver saído. As condições iniciais da EQUIPE DE PILOTAGEM estão listadas abaixo, e uma EQUIPE DE PILOTAGEM que obstruir ou atrasar qualquer uma delas corre o risco de violar a ⟦0⟧G301⟦/0⟧.
+s1084 | A. Somente os membros da EQUIPE DE PILOTAGEM designados para a próxima PARTIDA estão presentes.
+s1085 | B. Somente estão presentes membros de EQUIPES DE PILOTAGEM cujos ROBÔS foram aprovados na inspeção inicial completa.
+s1086 | C. Os membros da EQUIPE DE PILOTAGEM estão posicionados na ÁREA DA ALIANÇA designada. Se os membros da ALIANÇA não chegarem a um acordo sobre onde os membros das suas EQUIPES DE PILOTAGEM ficarão, a equipe listada no cronograma de PARTIDAS como “Red 1” ou “Blue 1” ficará mais perto do público.
+s1087 | D. Os membros da EQUIPE DE PILOTAGEM exibem claramente os seus crachás de EQUIPE DE PILOTAGEM acima da cintura.
+s1088 | E. Em uma PARTIDA de Playoff, o CAPITÃO DA ALIANÇA (ALLIANCE CAPTAIN) exibe claramente o seu identificador de CAPITÃO DA ALIANÇA (por exemplo, chapéu, braçadeira).
+s1089 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧⟦6⟧⟦/6⟧⟦7⟧⟦/7⟧⟦8⟧⟦/8⟧⟦9⟧⟦/9⟧10.3.3 CONSOLES DO OPERADOR
+s1090 | As EQUIPES DE PILOTAGEM montam os seus CONSOLES DO OPERADOR assim que se posicionam na ÁREA DA ALIANÇA. Os CONSOLES DO OPERADOR devem cumprir todas as regras pertinentes, especificamente as da Seção ⟦0⟧12.9⟦/0⟧⟦1⟧⟦2⟧ ⟦/2⟧⟦/1⟧⟦3⟧CONSOLE DO OPERADOR⟦/3⟧. Uma EQUIPE DE PILOTAGEM que obstruir ou atrasar a montagem do CONSOLE DO OPERADOR corre o risco de violar a ⟦4⟧G301⟦/4⟧.
+s1091 | A. As EQUIPES DE PILOTAGEM que pretendem executar um OpMode durante o AUTO devem selecionar um OpMode no app DRIVER STATION com o cronômetro de 30 segundos ativado.
+s1092 | B. Caso contrário, as EQUIPES DE PILOTAGEM devem selecionar um OpMode de TELEOP no app DRIVER STATION.
+s1093 | C. O OpMode selecionado deve ser inicializado pressionando o botão “INIT” no app DRIVER STATION.
+s1094 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧⟦6⟧⟦/6⟧⟦7⟧⟦/7⟧⟦8⟧⟦/8⟧⟦9⟧⟦/9⟧⟦10⟧⟦/10⟧⟦11⟧⟦/11⟧⟦12⟧⟦/12⟧⟦13⟧⟦/13⟧10.3.4 ROBÔS
+s1095 | As EQUIPES DE PILOTAGEM posicionam o seu ROBÔ de acordo com a ⟦0⟧G304⟦/0⟧. Uma EQUIPE DE PILOTAGEM que obstruir ou atrasar os requisitos de preparação do ROBÔ corre o risco de violar a ⟦1⟧G301⟦/1⟧.
+s1096 | Os ROBÔS devem começar a PARTIDA em contato com 4 POLLEN pré-carregados. O POLLEN pode estar dentro ou sobre o ROBÔ, ou colocado nos TILES totalmente contido no lado do CAMPO da sua própria ALIANÇA, em contato com o ROBÔ na sua posição inicial.
+s1097 | Se um ROBÔ for DESATIVADO (DISABLED) antes do início de uma PARTIDA, ele pode ser retirado do CAMPO em coordenação com a EQUIPE DE CAMPO. Uma equipe cujo ROBÔ esteja DESATIVADO ou ausente tem direito a receber Pontos de PARTIDA de Qualificação ou de Playoff, desde que o seu ROBÔ tenha sido aprovado na inspeção conforme a Seção ⟦0⟧3.3.1⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Inspeção⟦/2⟧ e que pelo menos um membro ESTUDANTE da EQUIPE DE PILOTAGEM esteja presente na ÁREA DA ALIANÇA

@@ -1,0 +1,133 @@
+s1098 | Se a ordem de posicionamento for importante para uma ou ambas as ALIANÇAS, a ALIANÇA avisa o ÁRBITRO Principal ou o seu designado antes da preparação daquela PARTIDA, e o ÁRBITRO Principal instrui as ALIANÇAS a alternar o posicionamento dos ROBÔS. A instrução dos ÁRBITROS é que os ROBÔS sejam posicionados na seguinte ordem:
+s1099 | 1. primeiro ROBÔ vermelho
+s1100 | 2. primeiro ROBÔ azul
+s1101 | 3. segundo ROBÔ vermelho
+s1102 | 4. segundo ROBÔ azul⟦0⟧⟦/0⟧
+s1103 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧Nas PARTIDAS de Qualificação, o ROBÔ designado como Red 1 ou Blue 1 é posicionado primeiro dentro da sua ALIANÇA. Nas PARTIDAS de Playoff, o líder da ALIANÇA decide qual ROBÔ é posicionado primeiro dentro da sua ALIANÇA.
+s1104 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧10.4 Períodos da ⟦/4⟧PARTIDA
+s1105 | O primeiro período de cada PARTIDA dura 30 segundos (0:30) e é chamado de Período Autônomo (AUTO). Durante o AUTO, os ROBÔS operam sem nenhum controle ou comando dos PILOTOS.
+s1106 | Há um período de transição de 8 segundos entre o AUTO e o TELEOP, para fins de pontuação, conforme descrito na Seção ⟦0⟧10.5⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Pontuação⟦/2⟧.
+s1107 | O ⟦0⟧terceiro período de cada PARTIDA dura 2 minutos (2:00) e é chamado de período teleoperado (TELEOP). Durante o TELEOP, os PILOTOS operam os ROBÔS remotamente⟦/0⟧ para marcar pontos. Veja a Tabela 9‑1 para os tempos detalhados da PARTIDA.
+s1108 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧⟦6⟧⟦/6⟧⟦7⟧⟦/7⟧⟦8⟧⟦/8⟧⟦9⟧⟦/9⟧⟦10⟧⟦/10⟧⟦11⟧⟦/11⟧⟦12⟧⟦/12⟧⟦13⟧⟦/13⟧⟦14⟧⟦/14⟧⟦15⟧⟦/15⟧10.5 Pontuação
+s1109 | As ALIANÇAS são recompensadas por realizar diversas ações ao longo da PARTIDA, conforme mostrado na Tabela 10‑2.
+s1110 | As ALIANÇAS são recompensadas pelo seu desempenho nas PARTIDAS por meio de pontos de PARTIDA e PONTOS DE CLASSIFICAÇÃO (RANKING POINTS – RP), que aumentam a medida usada para classificar as equipes, conforme a Seção ⟦0⟧13.6.3⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Classificação na Qualificação⟦/2⟧.
+s1111 | Todas as conquistas são atualizadas ao longo da PARTIDA. As conquistas de pontuação são avaliadas da seguinte forma:
+s1112 | A. A avaliação dos TOMBAMENTOS DA HIVE ocorre ao longo de toda a PARTIDA e continua até que todos os ELEMENTOS DE PONTUAÇÃO e ROBÔS tenham parado ao final da PARTIDA.
+s1113 | B. Os TOMBAMENTOS DA HIVE concluídos antes do início do TELEOP são avaliados como parte do AUTO.
+s1114 | C. A avaliação do POLLEN e do NECTAR que permanecem na CELL ocorrerá depois que todos os ELEMENTOS DE PONTUAÇÃO e ROBÔS tiverem parado ao final da PARTIDA.
+s1115 | D. A avaliação dos ELEMENTOS DE PONTUAÇÃO pontuados em uma FLOWER ocorrerá ao longo de toda a PARTIDA, com a avaliação final no fim do TELEOP, depois que todos os ELEMENTOS DE PONTUAÇÃO e ROBÔS tiverem parado ao final da PARTIDA.
+s1116 | E. A avaliação da pontuação no GARDEN ocorre no fim do TELEOP, quando todos os ROBÔS e ELEMENTOS DE PONTUAÇÃO tiverem parado ao final da PARTIDA.
+s1117 | F. A avaliação do LEAVE e do PARK do AUTO ocorre no fim do AUTO.
+s1118 | G. A avaliação do PARK do TELEOP ocorre no fim da PARTIDA.
+s1119 | ⟦0⟧A pontuação é avaliada e registrada por voluntários humanos. Atrasos ou erros no placar ao vivo não são considerados FALHA DA ARENA (ARENA FAULT) (veja a Seção ⟦/0⟧⟦1⟧13.2⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧Repetição de PARTIDAS⟦/3⟧⟦4⟧). Recomenda-se que as equipes garantam que fique óbvio e inequívoco que os critérios foram cumpridos.⟦/4⟧
+s1120 | Conquistas pontuadas antes do início da PARTIDA, durante o período de transição do AUTO para o TELEOP e depois do fim da PARTIDA em 0:00 podem estar sujeitas a penalidades.
+s1121 | ⟦0⟧⟦/0⟧⟦1⟧10.5.1 Critérios de Pontuação da HIVE⟦/1⟧
+s1122 | TOMBAMENTO DA HIVE (HIVE TIP)
+s1123 | A HIVE é considerada TOMBADA quando:
+s1124 | A. ela ⟦0⟧passa de um estado estável para o outro estado estável, com a CELL voltada para baixo passando a ser a CELL voltada para cima⟦/0⟧, e
+s1125 | B. em seguida, ⟦0⟧o amortecedor da HIVE que antes não estava encostado na armação passa a encostar na armação⟦/0⟧.
+s1126 | Figura 10‑3: Amortecedor da HIVE e armação
+s1127 | As HIVES foram projetadas para ser biestáveis, e na maioria das situações deveria ser óbvio que uma HIVE passou de um estado estável para o outro. Embora os critérios específicos de TOMBAMENTO DA HIVE tenham sido fornecidos, não se espera que os voluntários observem o instante exato em que o amortecedor encosta na armação.
+s1128 | As equipes deveriam estar cientes de que LANÇAR na CELL voltada para baixo enquanto uma HIVE está tombando pode atrapalhar o seu movimento e fazer com que o TOMBAMENTO não seja concluído. Embora seja improvável que isso aconteça no jogo normal, equipes nessa situação podem precisar pausar os seus LANÇAMENTOS para garantir que fique óbvio e inequívoco para os voluntários que um TOMBAMENTO foi concluído.
+s1129 | ⟦0⟧LANÇAR na CELL voltada para cima é a única forma permitida de conseguir um TOMBAMENTO DA HIVE. Os ROBÔS devem seguir a ⟦/0⟧⟦1⟧G417⟦/1⟧⟦2⟧ e não podem interferir em um TOMBAMENTO DA HIVE nem provocá-lo de outras formas.⟦/2⟧
+s1130 | POLLEN e NECTAR que permanecem na CELL
+s1131 | No fim da PARTIDA, todo POLLEN e/ou NECTAR que permanecer em uma CELL voltada para cima renderá pontos para aquela ALIANÇA.
+s1132 | 10.5.2 Critérios de Pontuação da FLOWER
+s1133 | NECTAR e POLLEN pontuam quando estão pelo menos parcialmente dentro do volume de pontuação da FLOWER: entre o anel superior e o anel intermediário, destacado em roxo e incluído na Referência CAD 10‑4.
+s1134 | ⟦0⟧Referência CAD ⟦/0⟧10‑4: Volume de pontuação da FLOWER, ⟦1⟧clique para ver mais detalhes⟦/1⟧
+s1135 | ⟦0⟧A pontuação nas FLOWERS só pode começar quando falta um minuto para o fim da PARTIDA, conforme a ⟦/0⟧⟦1⟧G410⟦/1⟧⟦2⟧. Conquistas pontuadas antes de faltar um minuto ainda contam, mas estão sujeitas a penalidades.⟦/2⟧
+s1136 | ⟦0⟧Colocar ELEMENTOS DE PONTUAÇÃO pelo topo da FLOWER é a única forma permitida de pontuar. Os ROBÔS devem seguir a ⟦/0⟧⟦1⟧G418⟦/1⟧⟦2⟧ ao interagir com a FLOWER. ⟦/2⟧
+s1137 | Bônus do NECTAR Inferior (Bottom NECTAR Bonus)
+s1138 | A ALIANÇA que tiver o NECTAR da sua cor mais abaixo, que cumpra os critérios de pontuação em uma FLOWER, ganha pontos.
+s1139 | Dona da FLOWER (FLOWER Owner)
+s1140 | A ALIANÇA que tiver o NECTAR da sua cor mais acima, que cumpra os critérios de pontuação em uma FLOWER, é dona daquela FLOWER e ganhará pontos por todo POLLEN e NECTAR que cumprir os critérios de pontuação daquela FLOWER, independentemente de qual ALIANÇA colocou o POLLEN e/ou NECTAR na FLOWER.
+s1141 | Figura 10‑5: Posse da FLOWER
+s1142 | 10.5.3 Critérios de Pontuação do GARDEN
+s1143 | Para valer pontos de GARDEN, o POLLEN ou NECTAR deve estar pelo menos parcialmente na zona do GARDEN.
+s1144 | - Os GARDENS são ESPECÍFICOS DE CADA ALIANÇA e rendem pontos para a ALIANÇA da cor correspondente, independentemente de qual ALIANÇA colocou o POLLEN ou NECTAR no GARDEN.
+s1145 | - Os GARDENS não são zonas protegidas, e qualquer ALIANÇA pode retirar ELEMENTOS DE PONTUAÇÃO de qualquer GARDEN durante a PARTIDA.
+s1146 | - O NECTAR de qualquer ALIANÇA e o POLLEN pontuam no GARDEN para a ALIANÇA que corresponde à cor do GARDEN.
+s1147 | Figura 10‑6: Pontuação no GARDEN
+s1148 | 10.5.4 Critérios de Pontuação do ROBÔ
+s1149 | LEAVE
+s1150 | Para valer pontos de LEAVE, ⟦0⟧o ROBÔ deve se mover de modo a não estar mais encostado na parede do perímetro⟦/0⟧.
+s1151 | PARK
+s1152 | Para valer pontos de PARK, ⟦0⟧o ROBÔ deve se mover de modo a ficar pelo menos parcialmente na ZONA DE CARREGAMENTO⟦/0⟧. (Figura 10‑7)
+s1153 | ⟦0⟧Figura ⟦/0⟧10‑7: Exemplos de PARK na ZONA DE CARREGAMENTO
+s1154 | 10.5.5 Valores dos Pontos
+s1155 | ⟦0⟧Tabela ⟦/0⟧10‑2: Valores dos pontos de BIOBUZZ
+s1156 | Pontos de PARTIDA
+s1157 | PONTOS DE CLASSIFICAÇÃO
+s1158 | AUTO
+s1159 | TELEOP
+s1160 | LEAVE
+s1161 | PARK
+s1162 | HIVE
+s1163 | TOMBAMENTO DA HIVE
+s1164 | POLLEN e/ou NECTAR que permanecem na CELL
+s1165 | FLOWER
+s1166 | Bônus do NECTAR Inferior
+s1167 | POLLEN e/ou NECTAR em uma FLOWER possuída
+s1168 | GARDEN
+s1169 | POLLEN e/ou NECTAR no GARDEN
+s1170 | ⟦0⟧RP SWARM – ⟦/0⟧Soma dos ⟦1⟧pontos de LEAVE + PARK igual ou acima do limite⟦/1⟧
+s1171 | ⟦0⟧RP POLLINATOR 1 – ⟦/0⟧⟦1⟧Número de TOMBAMENTOS (TIPS) igual ou acima do limite⟦/1⟧
+s1172 | ⟦0⟧RP POLLINATOR 2 – ⟦/0⟧Número de TOMBAMENTOS igual ou acima do limite
+s1173 | VITÓRIA
+s1174 | Terminar a PARTIDA com mais pontos de PARTIDA que o adversário
+s1175 | EMPATE
+s1176 | Terminar a PARTIDA com a mesma quantidade de pontos de PARTIDA que o adversário
+s1177 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧Tabela 10‑3: Limites de RP de BIOBUZZ
+s1178 | Tipo de RP
+s1179 | ⟦1⟧⟦2⟧FIRST ⟦/2⟧⟦/1⟧⟦3⟧Championship⟦/3⟧
+s1180 | Campeonatos Regionais
+s1181 | Todos os outros eventos*
+s1182 | RP SWARM
+s1183 | A definir
+s1184 | A definir
+s1185 | 16 pontos
+s1186 | RP POLLINATOR 1
+s1187 | A definir
+s1188 | A definir
+s1189 | 4 TOMBAMENTOS
+s1190 | RP POLLINATOR 2
+s1191 | A definir
+s1192 | A definir
+s1193 | 7 TOMBAMENTOS
+s1194 | Os limites de RP dos Campeonatos Regionais e do ⟦1⟧FIRST⟦/1⟧ Championship serão anunciados nas Team Updates.
+s1195 | *Os Premier Events poderão definir os seus próprios limites, para refletir da melhor forma a experiência que desejam oferecer às equipes.
+s1196 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧10.6 Violações⟦/2⟧
+s1197 | O ⟦0⟧FIRST⟦/0⟧ Tech Challenge usa 3 palavras para indicar como durações e ações são avaliadas na aplicação das regras e na atribuição de violações. Essas palavras dão uma orientação geral para descrever referências. Não se pretende que os ÁRBITROS façam contagem durante esses intervalos de tempo.
+s1198 | - MOMENTÂNEO (MOMENTARY) ⟦0⟧descreve durações menores que aproximadamente 3 segundos⟦/0⟧.
+s1199 | - CONTÍNUO (CONTINUOUS) ⟦0⟧descreve durações maiores que aproximadamente 10 segundos⟦/0⟧.
+s1200 | - REPETIDO (REPEATED) ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧descreve ações que acontecem mais de uma vez em uma mesma PARTIDA.
+s1201 | O ⟦0⟧FIRST⟦/0⟧ Tech Challenge usa a palavra ESTRATÉGICO (STRATEGIC) para descrever tipos específicos de violações que não estão de acordo com o espírito da competição, conforme descrito na Seção ⟦1⟧1.5⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧Contrato de Integridade da Competição (CIC)⟦/3⟧:
+s1202 | - ESTRATÉGICO ⟦0⟧descreve ações feitas com o objetivo de obter vantagem competitiva⟦/0⟧.
+s1203 | Algumas regras proíbem ações específicas se forem consideradas ESTRATÉGICAS, ou aplicam uma violação mais grave a ações consideradas ESTRATÉGICAS (por exemplo, impedir ou possibilitar ações de pontuação). Isso inclui ações deliberadas ou imprudentes com consequências previsíveis. Ocorrências acidentais/imprevisíveis não podem ser ESTRATÉGICAS.
+s1204 | Em geral, uma equipe pode passar por um escrutínio maior dos ÁRBITROS, que determinarão se há uma violação ESTRATÉGICA, quando:
+s1205 | A. ⟦0⟧vários avisos forem dados em uma mesma PARTIDA pela mesma violação, que individualmente pode ser considerada acidental ou imprevisível, ou ⟦/0⟧
+s1206 | B. ⟦0⟧várias ADVERTÊNCIAS VERBAIS forem dadas a uma equipe, ao longo de várias PARTIDAS, pela mesma violação, que individualmente pode ser considerada acidental ou imprevisível.⟦/0⟧
+s1207 | Situações acidentais que depois sejam usadas deliberadamente em benefício da equipe serão consideradas ESTRATÉGICAS.
+s1208 | Salvo indicação em contrário, todas as penalidades são aplicadas a cada ocorrência de violação de uma regra, e uma única ação pode violar várias regras. A descrição das penalidades está na Tabela 10‑4. Todas as regras da seção Regras do Jogo são marcadas conforme a percepção do ÁRBITRO.
+s1209 | ⟦0⟧⟦/0⟧⟦1⟧Tabela ⟦/1⟧10‑4: ⟦2⟧Violações de regras⟦/2⟧
+s1210 | Penalidade
+s1211 | Descrição
+s1212 | ADVERTÊNCIA VERBAL
+s1213 | um aviso dado pela equipe do evento ou pelo ÁRBITRO Principal
+s1214 | FALTA LEVE (MINOR FOUL)
+s1215 | um crédito de 5 pontos no total de pontos de PARTIDA do adversário
+s1216 | FALTA GRAVE (MAJOR FOUL)
+s1217 | um crédito de 20 pontos no total de pontos de PARTIDA do adversário
+s1218 | CARTÃO AMARELO (YELLOW CARD)
+s1219 | ⟦0⟧um aviso dado pelo ÁRBITRO Principal por comportamento grave do ROBÔ ou de membro da equipe, ou por violações graves de regras⟦/0⟧. Um segundo CARTÃO AMARELO na mesma fase do torneio resulta em CARTÃO VERMELHO
+s1220 | CARTÃO VERMELHO (RED CARD)
+s1221 | uma penalidade aplicada pelo ÁRBITRO Principal por comportamento grave do ROBÔ ou de membro da equipe, ou por violações graves de regras, que resulta na equipe ser DESCLASSIFICADA da PARTIDA.
+s1222 | DESATIVADO (DISABLED)
+s1223 | ⟦0⟧O ÁRBITRO instrui a equipe a parar o ROBÔ, o que desativa todas as saídas e deixa o ROBÔ inoperante pelo restante da PARTIDA⟦/0⟧.
+s1224 | DESCLASSIFICADO (DISQUALIFIED)
+s1225 | ⟦0⟧situação em que a equipe recebe 0 pontos de PARTIDA e 0 PONTOS DE CLASSIFICAÇÃO em uma PARTIDA de Qualificação, ou que faz a sua ALIANÇA receber 0 pontos de PARTIDA em uma PARTIDA de Playoff⟦/0⟧.
+s1226 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧⟦6⟧⟦/6⟧⟦7⟧⟦/7⟧⟦8⟧⟦/8⟧⟦9⟧⟦/9⟧⟦10⟧⟦/10⟧10.6.1 CARTÕES AMARELOS e VERMELHOS
+s1227 | Além das violações de regras listadas explicitamente ao longo deste documento, os CARTÕES AMARELOS e CARTÕES VERMELHOS são usados no ⟦0⟧FIRST⟦/0⟧ Tech Challenge para tratar comportamentos de equipes e ROBÔS que violam as diretrizes comportamentais e éticas descritas na Seção ⟦1⟧1.5⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧Contrato de Integridade da Competição (CIC)⟦/3⟧.
+s1228 | O ÁRBITRO Principal pode aplicar
+s1229 | - um CARTÃO AMARELO como aviso, ou
+s1230 | - um CARTÃO VERMELHO por comportamentos que violem o CIC, conforme as ⟦0⟧Diretrizes de Escalonamento (Escalation Guidelines)⟦/0⟧.
