@@ -1,0 +1,69 @@
+s1310 | A. subir nele,
+s1311 | B. pendurar-se nele,
+s1312 | C. manipulá-lo de modo que não volte ao formato original sem intervenção humana, e
+s1313 | D. danificá-lo.
+s1314 | Violação: ADVERTÊNCIA VERBAL.
+s1315 | ⟦0⟧Os membros da EQUIPE DE PILOTAGEM podem segurar o perímetro do CAMPO a qualquer momento durante a PARTIDA. Tirar o perímetro do CAMPO da posição é considerado violação da ⟦/0⟧⟦1⟧G102⟦/1⟧⟦2⟧.C⟦/2⟧⟦3⟧. ⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧⟦/3⟧
+s1316 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧11.2 Conduta⟦/2⟧
+s1317 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧G201 ⟦/4⟧⟦5⟧*Seja uma boa pessoa.⟦/5⟧ Todas as equipes devem ser cordiais com todos e respeitar os equipamentos das equipes e do evento enquanto estiverem em um evento ⟦6⟧FIRST⟦/6⟧ Tech Challenge. Consulte o ⟦8⟧Código de Conduta⟦/8⟧ da ⟦7⟧FIRST⟦/7⟧, os ⟦9⟧Valores Fundamentais⟦/9⟧ e o restante da ⟦10⟧Seção ⟦/10⟧⟦11⟧1.4.2⟦/11⟧⟦12⟧ ⟦/12⟧⟦13⟧Estrutura de Comportamentos⟦/13⟧ para mais informações.
+s1318 | Violação: ADVERTÊNCIA VERBAL. CARTÃO AMARELO se ocorrerem violações posteriores durante o evento.
+s1319 | Comportamentos particularmente desprezíveis podem resultar na expulsão de indivíduos da ARENA e na desclassificação de equipes, e podem estar sujeitos a escalonamento adicional, conforme descrito nas ⟦1⟧Diretrizes de Escalonamento⟦/1⟧.
+s1320 | ⟦0⟧⟦/0⟧⟦1⟧⟦2⟧G202 ⟦/2⟧⟦/1⟧⟦3⟧*Siga o Contrato de Integridade da Competição (CIC). ⟦/3⟧⟦4⟧⟦5⟧Ao jogar BIOBUZZ, as equipes devem seguir as regras e o Contrato de Integridade da Competição (CIC) descrito na ⟦/5⟧⟦/4⟧⟦6⟧Seção ⟦/6⟧⟦7⟧1.5⟦/7⟧⟦8⟧ ⟦/8⟧⟦9⟧Contrato de Integridade da Competição (CIC)⟦/9⟧⟦10⟧⟦11⟧ em todas as PARTIDAS. ⟦/11⟧⟦/10⟧
+s1321 | Exemplos de comportamentos que violariam esta regra incluem, entre outros:
+s1322 | A. violar deliberadamente o espírito das regras,
+s1323 | B. entregar PARTIDAS, deixar de conquistar RPs de propósito ou jogar abaixo da sua capacidade para manipular a classificação,
+s1324 | C. pedir a outras equipes que entreguem PARTIDAS, deixem de conquistar RPs de propósito ou joguem abaixo da sua capacidade para manipular a classificação,
+s1325 | D. pedir a equipes que não compareçam à sua PARTIDA,
+s1326 | E. distrair, atrapalhar e/ou provocar os adversários, ou
+s1327 | F. atrapalhar as operações da ARENA.
+s1328 | Violação: ADVERTÊNCIA VERBAL. CARTÃO AMARELO ou VERMELHO se ocorrerem violações posteriores durante o evento.
+s1329 | Estas regras não têm a intenção de impedir que uma ALIANÇA, que pretende jogar o jogo e seguir as regras, planeje e/ou execute estratégias em PARTIDAS específicas nas quais as equipes desempenhem papéis específicos, e possivelmente não convencionais, que contribuam para a sua ALIANÇA.
+s1330 | Jogar com integridade é obrigatório na ⟦2⟧FIRST⟦/2⟧; CARTÕES AMARELOS ou VERMELHOS serão dados a critério do ÁRBITRO Principal, com base na gravidade da infração e no impacto na PARTIDA.
+s1331 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧G203 ⟦/3⟧⟦4⟧*Compareça às suas PARTIDAS.⟦/4⟧ Se um ROBÔ foi aprovado na inspeção inicial completa, pelo menos 1 membro da sua EQUIPE DE PILOTAGEM deve se apresentar na ARENA e participar de cada uma das PARTIDAS de Qualificação designadas a ele.
+s1332 | Violação: DESCLASSIFICADO da PARTIDA atual.
+s1333 | A equipe deveria informar o Coordenador da Fila (Lead Queuer) se o ROBÔ da equipe não puder participar.
+s1334 | Se houver circunstâncias atenuantes que impeçam pelo menos 1 membro de uma equipe de comparecer a cada uma das suas PARTIDAS, essa equipe deveria conversar com a EQUIPE DE CAMPO sobre a possibilidade de alguma adaptação.
+s1335 | ⟦0⟧⟦/0⟧⟦1⟧G204 ⟦/1⟧⟦2⟧*Não espere ganhar prejudicando os outros.⟦/2⟧ Ações claramente destinadas a forçar a ALIANÇA adversária a violar uma regra não estão de acordo com o espírito do ⟦3⟧FIRST⟦/3⟧ Tech Challenge e não são permitidas. Violações forçadas dessa maneira não resultarão na aplicação de penalidade(s) à ALIANÇA visada.
+s1336 | Violação: FALTA GRAVE por ocorrência. FALTA GRAVE por ocorrência e CARTÃO AMARELO por PARTIDA, se REPETIDO. A ALIANÇA que foi forçada a violar uma regra não receberá penalidade.
+s1337 | Esta regra não se aplica a estratégias compatíveis com o jogo normal.
+s1338 | Esta regra exige um ato deliberado, com pouca ou nenhuma oportunidade para que a equipe afetada evite a penalidade, como:
+s1339 | A. ⟦0⟧um ROBÔ da ALIANÇA vermelha avança deliberadamente contra um ROBÔ da ALIANÇA azul que está alinhado para pontuar NECTAR em uma FLOWER faltando 65 segundos para o fim da PARTIDA, fazendo com que ele derrube o NECTAR na FLOWER antes da hora, em violação da ⟦/0⟧⟦1⟧G410⟦/1⟧⟦2⟧.⟦/2⟧
+s1340 | B. ⟦0⟧um ROBÔ da ALIANÇA vermelha atravessa a ZONA DE CARREGAMENTO azul enquanto um membro da EQUIPE DE PILOTAGEM azul está introduzindo NECTAR no CAMPO, desviando o NECTAR azul antes que ele toque o TILE da ZONA DE CARREGAMENTO, em violação da ⟦/0⟧⟦1⟧G427⟦/1⟧⟦2⟧.⟦/2⟧
+s1341 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧G205 ⟦/2⟧⟦3⟧*Violações graves ou excepcionais.⟦/3⟧ É proibido comportamento grave além do que está listado nas regras, assim como violações posteriores de qualquer regra ou procedimento durante o evento.
+s1342 | Além das violações de regras listadas explicitamente neste manual e presenciadas por um ÁRBITRO, o ÁRBITRO Principal pode aplicar um CARTÃO AMARELO ou VERMELHO por ações graves do ROBÔ ou comportamento grave de membros da equipe a qualquer momento durante o evento.
+s1343 | Violações continuadas serão levadas ao conhecimento da Sede da ⟦0⟧FIRST⟦/0⟧. A Sede da ⟦1⟧FIRST⟦/1⟧ trabalhará com a equipe do evento para determinar se é necessário um escalonamento adicional, que pode incluir a exclusão da disputa de prêmios e a remoção do evento.
+s1344 | Violar deliberadamente uma regra porque o benefício da violação supera a penalidade não está de acordo com o espírito da ⟦0⟧FIRST⟦/0⟧ e é um exemplo de comportamento grave. Por exemplo, várias violações de regras sem caminho de escalonamento porque o benefício acumulado supera a penalidade acumulada. Violar uma regra que só resulta em CARTÃO AMARELO na possível última PARTIDA de uma ALIANÇA antes de os cartões serem zerados, conforme a Seção ⟦1⟧10.6.1⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧CARTÕES AMARELOS e VERMELHOS⟦/3⟧, ou antes do fim de um evento (como a última PARTIDA de qualificação de uma equipe ou uma PARTIDA da chave inferior) será analisado com mais rigor e provavelmente resultará em CARTÃO VERMELHO.
+s1345 | Veja a Seção ⟦0⟧10.6.1⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧CARTÕES AMARELOS e VERMELHOS⟦/2⟧ para mais detalhes.
+s1346 | Violação: CARTÃO AMARELO ou VERMELHO.
+s1347 | A intenção desta regra é dar aos ÁRBITROS Principais a flexibilidade necessária para manter o evento funcionando bem, além de manter a segurança de todos os participantes como prioridade máxima.
+s1348 | O ÁRBITRO Principal pode aplicar um CARTÃO AMARELO ou VERMELHO por uma única ocorrência de violação de regra ou por várias ocorrências de violação de uma mesma regra. As equipes deveriam estar cientes de que qualquer regra deste manual pode ser escalonada para um CARTÃO AMARELO ou VERMELHO. O ÁRBITRO Principal tem a autoridade final sobre todas as regras e violações em um evento.
+s1349 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧11.3 Pré-PARTIDA⟦/4⟧
+s1350 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧G301 ⟦/2⟧⟦3⟧*Não atrase as PARTIDAS. ⟦/3⟧Os membros da EQUIPE DE PILOTAGEM não podem causar atrasos significativos no início da sua PARTIDA. As duas condições a seguir devem ser cumpridas antes que as ações da equipe sejam consideradas:
+s1351 | A. o horário previsto de início da PARTIDA já passou, e
+s1352 | B. a EQUIPE DE PILOTAGEM tem acesso à ARENA.
+s1353 | Para que uma equipe cause um atraso significativo, o ÁRBITRO Principal deve perceber que a equipe não está pronta para a PARTIDA (⟦0⟧G303⟦/0⟧) nem fazendo um esforço de boa-fé para ficar pronta rapidamente.
+s1354 | Durante as PARTIDAS de Qualificação, o horário previsto de início da PARTIDA é o horário indicado no cronograma de PARTIDAS ou ~3 minutos após o fim da PARTIDA anterior no mesmo CAMPO, o que ocorrer por último.
+s1355 | Durante as PARTIDAS de Playoff, o horário previsto de início da PARTIDA é o horário indicado no cronograma de PARTIDAS ou 8 minutos após a PARTIDA anterior de qualquer uma das ALIANÇAS, o que ocorrer por último
+s1356 | ⟦0⟧Em PARTIDAS consecutivas, ⟦/0⟧⟦1⟧T406⟦/1⟧⟦2⟧ está em vigor, e as equipes podem ter um intervalo mínimo maior.⟦/2⟧
+s1357 | Equipes que tenham 1 membro da EQUIPE DE PILOTAGEM presente e que tenham informado à EQUIPE DE CAMPO que o seu ROBÔ não participará da PARTIDA são consideradas prontas para a PARTIDA e não estão violando esta regra.
+s1358 | Violação: ADVERTÊNCIA VERBAL. FALTA GRAVE na próxima PARTIDA se ocorrer uma violação posterior na mesma fase do torneio. Em uma PARTIDA de Playoff, a ADVERTÊNCIA VERBAL é dada a toda a ALIANÇA.
+s1359 | Se a equipe/ALIANÇA não estiver pronta para a PARTIDA em até 2 minutos após a ADVERTÊNCIA VERBAL/FALTA GRAVE ter sido dada, e o ÁRBITRO Principal não perceber esforço de boa-fé da(s) EQUIPE(S) DE PILOTAGEM para ficar pronta rapidamente, o ROBÔ da equipe infratora é DESATIVADO.
+s1360 | A intenção desta regra é dar um tempo equitativo para as duas ALIANÇAS se prepararem para cada PARTIDA e dar tolerância às EQUIPES DE PILOTAGEM diante de circunstâncias atenuantes que as façam se atrasar. As equipes deveriam evitar atrapalhar as operações da ARENA e se comunicar de forma proativa com o ÁRBITRO Principal e a EQUIPE DE CAMPO para informar a sua situação.
+s1361 | A EQUIPE DE CAMPO fará um esforço de boa-fé para esperar equipes ausentes ou não preparadas e evitará iniciar qualquer PARTIDA quando houver equipes ausentes ou que não estejam prontas para a PARTIDA, mas que estejam fazendo um esforço de boa-fé para ficar prontas.
+s1362 | Depois que uma ADVERTÊNCIA VERBAL/FALTA GRAVE é dada, o ÁRBITRO Principal inicia um cronômetro de 2 minutos e faz um esforço de boa-fé para informar o andamento do cronômetro à EQUIPE DE PILOTAGEM que está atrasando.
+s1363 | Em geral, esforços de boa-fé para ficar pronto rapidamente têm como único objetivo colocar o ROBÔ em condição de jogar a PARTIDA (ou seja, não são tentativas de alterar significativamente as capacidades do ROBÔ). Exemplos de esforços de boa-fé para ficar pronto rapidamente que não seriam violação incluem, entre outros:
+s1364 | A. ⟦0⟧caminhar com segurança em direção ao CAMPO com um ROBÔ que a equipe não esteja modificando ativamente,⟦/0⟧
+s1365 | B. ⟦0⟧aplicar correções rápidas, como fita ou abraçadeiras, para deixar o ROBÔ de acordo com os requisitos de CONFIGURAÇÃO INICIAL (STARTING CONFIGURATION),⟦/0⟧
+s1366 | C. ⟦0⟧esperar um dispositivo DRIVER STATION inicializar,⟦/0⟧
+s1367 | D. ⟦0⟧trabalhar ativamente com a equipe técnica do campo, incluindo o FTA, para resolver um problema em um tempo razoável, ou ⟦/0⟧
+s1368 | E. ⟦0⟧realizar um “teste de balanço” (wiggle test) MOMENTÂNEO para confirmar a comunicação entre a DRIVER STATION e o ROBOT CONTROLLER. O ROBÔ não deveria se deslocar nem interagir com ELEMENTOS DE PONTUAÇÃO (exceto o contato com o POLLEN pré-carregado) durante esse teste. ⟦/0⟧
+s1369 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧G302 ⟦/3⟧⟦4⟧*Limite o que você leva ao CAMPO⟦/4⟧⟦5⟧⟦6⟧.⟦/6⟧⟦/5⟧⟦7⟧⟦8⟧ ⟦/8⟧⟦/7⟧Os itens levados ao CAMPO para uso em uma PARTIDA, além do ROBÔ e do CONSOLE DO OPERADOR, devem caber na ÁREA DA ALIANÇA designada à equipe, ser vestidos ou segurados pelos membros da EQUIPE DE PILOTAGEM, ou ser um item usado como adaptação (por exemplo, muletas, almofadas, tapetes para ajoelhar ou banquinhos de um degrau com no máximo 12 pol. (30,5 cm) de altura, feitos para se ficar em pé sobre eles e travados de forma que não rolem nem dobrem).
+s1370 | Independentemente de o equipamento atender aos critérios acima, ele não pode:
+s1371 | A. ser usado de forma que atrapalhe as operações normais da ARENA ou introduza um risco à segurança,
+s1372 | B. ultrapassar 6 pés e 6 pol. (~198 cm) acima dos TILES,
+s1373 | C. comunicar-se com qualquer coisa ou pessoa fora da ARENA, exceto equipamentos exigidos por motivos médicos,
+s1374 | D. bloquear a visão da EQUIPE DE CAMPO ou do público, ou
+s1375 | E. bloquear ou interferir nas capacidades de sensoriamento remoto de outra equipe.
+s1376 | São concedidas exceções à ⟦0⟧G302⟦/0⟧⟦1⟧.⟦/1⟧⟦2⟧B⟦/2⟧ para extensões MOMENTÂNEAS acima de 6 pés e 6 pol. e para pessoas usando EPI ou acessórios decorativos razoáveis, como chapéus, faixas de cabeça etc.
+s1377 | Violação: a PARTIDA não começará até que a situação seja corrigida. ADVERTÊNCIA VERBAL, se descoberto ou usado de forma inadequada durante uma PARTIDA. CARTÃO AMARELO se ocorrerem violações posteriores durante o evento.
+s1378 | ⟦0⟧Não é violação desta regra levar ao CAMPO um dispositivo de alinhamento para auxiliar na preparação e no alinhamento do ROBÔ antes da PARTIDA. O uso de qualquer dispositivo de alinhamento não deveria atrasar o início da PARTIDA, em violação da ⟦/0⟧⟦1⟧G301⟦/1⟧⟦2⟧.⟦/2⟧

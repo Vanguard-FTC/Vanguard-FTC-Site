@@ -1,0 +1,89 @@
+s1547 | Observação: a ⟦0⟧G419⟦/0⟧ e a ⟦1⟧G420⟦/1⟧ são mutuamente exclusivas. Uma única interação entre ROBÔS que viole mais de 1 dessas regras resulta na aplicação da penalidade mais severa, e somente dela.
+s1548 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧G419 ⟦/2⟧⟦3⟧*Não danifique o ROBÔ adversário.⟦/3⟧ Um ROBÔ não pode danificar nem prejudicar o funcionamento de um ROBÔ adversário.
+s1549 | Violação: ADVERTÊNCIA VERBAL. FALTA GRAVE e CARTÃO AMARELO por ocorrência, se ESTRATÉGICO. FALTA GRAVE e CARTÃO VERMELHO por ocorrência, se ESTRATÉGICO e o ROBÔ adversário não conseguir se locomover.
+s1550 | BIOBUZZ é um jogo altamente interativo e pode incluir jogadas defensivas e com muito contato. Embora esta regra impeça as equipes de danificar ESTRATEGICAMENTE os adversários e procure limitar danos graves aos ROBÔS, as equipes deveriam projetar os seus ROBÔS para ser robustos.
+s1551 | O dano ou o prejuízo ao funcionamento de COMPONENTES ou MECANISMOS expostos ou desprotegidos no decorrer do jogo normal provavelmente não será considerado violação desta regra. Isso inclui, entre outros:
+s1552 | A. ⟦0⟧um interruptor principal de energia exposto ou desprotegido (veja a ⟦/0⟧⟦1⟧R603⟦/1⟧⟦2⟧),⟦/2⟧
+s1553 | B. ⟦0⟧fiação exposta ou desprotegida, ou ⟦/0⟧
+s1554 | C. ⟦0⟧um MECANISMO construído de forma delicada (como um intake).⟦/0⟧
+s1555 | Quando o ROBÔ de uma equipe interage com um ROBÔ adversário que está em uma posição precária ou desvantajosa, essa equipe deveria deixar óbvio e inequívoco que está tentando evitar danificar o adversário.
+s1556 | Exemplos de ações que provavelmente serão consideradas ESTRATÉGICAS incluem, entre outros:
+s1557 | D. ⟦0⟧Um ROBÔ dá trombadas em alta velocidade e/ou bate REPETIDAMENTE em um ROBÔ adversário e causa danos.⟦/0⟧
+s1558 | Exemplos de prejudicar o funcionamento de outro ROBÔ incluem, entre outros:
+s1559 | E. ⟦0⟧desconectar fios dentro do CHASSI do ROBÔ necessários para o funcionamento de um COMPONENTE,⟦/0⟧
+s1560 | F. ⟦0⟧desconectar a bateria do ROBÔ adversário (isso também é um exemplo de ROBÔ que não consegue mais se locomover), ou⟦/0⟧
+s1561 | G. ⟦0⟧desligar o ROBÔ adversário encostando no seu interruptor de energia razoavelmente bem protegido. (Isso também é um exemplo de ROBÔ que não consegue mais se locomover.)⟦/0⟧
+s1562 | Ao final da PARTIDA, o ÁRBITRO Principal pode optar por inspecionar visualmente um ROBÔ para confirmar violações desta regra ocorridas durante a PARTIDA e retirar a violação se o dano não puder ser verificado.
+s1563 | "Não conseguir se locomover" significa que, por causa do incidente, o PILOTO não consegue mais conduzir o ROBÔ até um local desejado em um tempo razoável (de modo geral). Por exemplo, se um ROBÔ só consegue andar em círculos, ou só consegue se mover extremamente devagar, considera-se que ele não consegue se locomover.
+s1564 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧G420 ⟦/2⟧⟦3⟧*Não tombe nem enrosque.⟦/3⟧ Um ROBÔ não pode se prender a um ROBÔ adversário, tombá-lo ou enroscar-se nele.
+s1565 | Violação: ADVERTÊNCIA VERBAL. FALTA GRAVE e CARTÃO AMARELO por ocorrência, se ESTRATÉGICO. FALTA GRAVE e CARTÃO VERMELHO por ocorrência, se ESTRATÉGICO e CONTÍNUO ou se o ROBÔ adversário não conseguir se locomover.
+s1566 | Prender-se ou enroscar-se em COMPONENTES ou MECANISMOS expostos ou desprotegidos no decorrer do jogo normal provavelmente não será considerado violação desta regra. Isso inclui, entre outros:
+s1567 | A. ⟦0⟧fiação exposta ou desprotegida, ou⟦/0⟧
+s1568 | B. ⟦0⟧um MECANISMO construído de forma delicada (como um intake).⟦/0⟧
+s1569 | Exemplos de ações que provavelmente serão consideradas ESTRATÉGICAS incluem, entre outros:
+s1570 | C. ⟦1⟧usar um MECANISMO em forma de cunha para tombar um ROBÔ adversário,⟦/1⟧
+s1571 | D. ⟦1⟧fazer contato de estrutura contra estrutura com um ROBÔ adversário que está tentando se endireitar depois de ter caído, fazendo-o cair, ou⟦/1⟧
+s1572 | E. ⟦0⟧fazer um ROBÔ adversário tombar encostando nele depois que ele começa a tombar, se, conforme determinado pelo ÁRBITRO, esse contato pudesse ter sido evitado.⟦/0⟧
+s1573 | O tombamento como consequência não intencional de uma interação normal entre ROBÔS, incluindo batidas únicas de estrutura contra estrutura que resultem no tombamento de um ROBÔ, na percepção do ÁRBITRO, não é violação ESTRATÉGICA desta regra.
+s1574 | "Não conseguir se locomover" significa que, por causa do incidente, o PILOTO não consegue mais conduzir o ROBÔ até um local desejado em um tempo razoável (de modo geral). Por exemplo, se um ROBÔ só consegue andar em círculos ou só consegue se mover extremamente devagar, considera-se que ele não consegue se locomover.
+s1575 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧G421 ⟦/2⟧⟦3⟧*Há uma contagem de 3 para PRENSAR (PIN). ⟦/3⟧Um ROBÔ não pode PRENSAR o ROBÔ de um adversário por mais de 3 segundos. Um ROBÔ está PRENSANDO se estiver ⟦4⟧impedindo o movimento de um ROBÔ adversário por contato, direto ou indireto (como contra um elemento do CAMPO⟦/4⟧). A contagem de PRENSAGEM termina assim que qualquer um dos critérios abaixo for cumprido:
+s1576 | A. os ROBÔS ficaram separados por pelo menos 2 pés (~61 cm) um do outro por mais de 3 segundos,
+s1577 | B. qualquer um dos ROBÔS se moveu 2 pés a partir do ponto onde a PRENSAGEM começou, por mais de 3 segundos, ou
+s1578 | C. o ROBÔ que está PRENSANDO é PRENSADO.
+s1579 | Para o critério da ⟦0⟧G421⟦/0⟧⟦1⟧.⟦/1⟧⟦2⟧A⟦/2⟧, a contagem de PRENSAGEM é pausada quando os ROBÔS se separam por 2 pés, até que a PRENSAGEM termine ou o ROBÔ que está PRENSANDO volte a menos de 2 pés, momento em que a contagem é retomada.
+s1580 | Para o critério da ⟦0⟧G421⟦/0⟧⟦1⟧.⟦/1⟧⟦2⟧B⟦/2⟧, a contagem de PRENSAGEM é pausada quando qualquer um dos ROBÔS se move 2 pés a partir do ponto onde a PRENSAGEM começou, até que a PRENSAGEM termine ou até que ambos os ROBÔS voltem a menos de 2 pés, momento em que a contagem é retomada.
+s1581 | Violação: FALTA GRAVE por ocorrência e uma FALTA GRAVE adicional a cada 3 segundos em que a situação não for corrigida.
+s1582 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧⟦6⟧⟦/6⟧⟦7⟧⟦/7⟧⟦8⟧⟦/8⟧⟦9⟧⟦/9⟧⟦10⟧⟦/10⟧⟦11⟧⟦/11⟧⟦12⟧11.4.6 Humanos⟦/12⟧
+s1583 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧G422 ⟦/2⟧⟦3⟧*A EQUIPE DE PILOTAGEM fica na ÁREA DA ALIANÇA. ⟦/3⟧Depois que a PARTIDA começa, os membros da EQUIPE DE PILOTAGEM não podem sair da ÁREA DA ALIANÇA designada.
+s1584 | Violação: ADVERTÊNCIA VERBAL. FALTA LEVE por ocorrência, se ESTRATÉGICO.
+s1585 | A intenção desta regra é impedir que membros da EQUIPE DE PILOTAGEM saiam da ÁREA DA ALIANÇA designada durante uma PARTIDA para obter vantagem competitiva. Por exemplo, ir para outra parte do CAMPO para ver melhor ou estender o braço para dentro do CAMPO. Apenas ultrapassar o plano da ÁREA durante o jogo normal não é violação.
+s1586 | As EQUIPES DE PILOTAGEM podem ficar em qualquer lugar da sua ÁREA DA ALIANÇA durante a PARTIDA. Os membros da EQUIPE DE PILOTAGEM podem recolher o NECTAR da sua própria ALIANÇA que saiu do CAMPO e que consigam alcançar permanecendo na ÁREA DA ALIANÇA.
+s1587 | São concedidas exceções em casos relacionados à segurança.
+s1588 | ⟦0⟧⟦/0⟧⟦1⟧G423 ⟦/1⟧⟦2⟧*TREINADORES DE PILOTAGEM e outras equipes: mãos fora dos controles.⟦/2⟧ Depois que a PARTIDA começa, os TREINADORES DE PILOTAGEM ou membros de outra equipe não podem manusear os gamepads do CONSOLE DO OPERADOR.
+s1589 | Violação: ADVERTÊNCIA VERBAL. FALTA GRAVE e CARTÃO AMARELO por PARTIDA, se ESTRATÉGICO.
+s1590 | A penalidade é aplicada à equipe à qual pertence o membro da EQUIPE DE PILOTAGEM que violou a regra.
+s1591 | Se uma equipe estiver enfrentando circunstâncias atenuantes por causa de um conflito importante (por exemplo, feriados religiosos, provas importantes, problemas de transporte), ela deveria conversar com a EQUIPE DE CAMPO sobre a possibilidade de alguma adaptação.
+s1592 | Os TREINADORES DE PILOTAGEM, se desejado, podem ajudar os PILOTOS das seguintes formas:
+s1593 | A. ⟦0⟧segurando o dispositivo DRIVER STATION, ⟦/0⟧
+s1594 | B. ⟦0⟧resolvendo problemas do dispositivo DRIVER STATION,⟦/0⟧
+s1595 | C. ⟦0⟧selecionando OpModes no app DRIVER STATION, ⟦/0⟧
+s1596 | D. ⟦0⟧pressionando o botão INIT no app DRIVER STATION, ⟦/0⟧
+s1597 | E. ⟦0⟧pressionando o botão de início (⟦/0⟧⟦1⟧▶⟦/1⟧⟦2⟧) no app DRIVER STATION, ou ⟦/2⟧
+s1598 | F. ⟦0⟧pressionando o botão de parada (⟦/0⟧⟦1⟧■⟦/1⟧⟦2⟧) no app DRIVER STATION.⟦/2⟧
+s1599 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧G424 ⟦/2⟧⟦3⟧*TREINADORES DE PILOTAGEM, os ELEMENTOS DE PONTUAÇÃO estão fora do seu alcance. ⟦/3⟧Os TREINADORES DE PILOTAGEM não podem encostar em ELEMENTOS DE PONTUAÇÃO, exceto por motivos de segurança.
+s1600 | Violação: ADVERTÊNCIA VERBAL. FALTA LEVE por ocorrência, se ESTRATÉGICO.⟦0⟧⟦/0⟧
+s1601 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧G425 ⟦/3⟧⟦4⟧*EQUIPES DE PILOTAGEM, cuidado com o alcance.⟦/4⟧ Depois que a PARTIDA começa, um membro da EQUIPE DE PILOTAGEM não pode, direta ou indiretamente:
+s1602 | A. encostar em um ROBÔ,
+s1603 | B. encostar em um ELEMENTO DE PONTUAÇÃO que esteja em contato com um ROBÔ ou com um TILE,
+s1604 | C. atrapalhar a pontuação de ELEMENTOS DE PONTUAÇÃO, ou
+s1605 | D. encostar em um elemento do CAMPO.
+s1606 | Violação: ADVERTÊNCIA VERBAL. FALTA GRAVE e CARTÃO AMARELO por PARTIDA, se ESTRATÉGICO.
+s1607 | Controles de mão, fios pendurados, peças de roupa e outros objetos na ÁREA DA ALIANÇA podem fazer com que membros da EQUIPE DE PILOTAGEM encostem indiretamente em um ROBÔ, o que seria violação desta regra.
+s1608 | São concedidas exceções em casos relacionados à segurança.
+s1609 | ⟦0⟧Na ⟦/0⟧⟦1⟧G425⟦/1⟧⟦2⟧.⟦/2⟧⟦3⟧A⟦/3⟧⟦4⟧ e na ⟦/4⟧⟦5⟧G425⟦/5⟧⟦6⟧.⟦/6⟧⟦7⟧B⟦/7⟧⟦8⟧, a penalidade é aplicada à equipe à qual pertence o membro da EQUIPE DE PILOTAGEM, independentemente de quem iniciou o contato, o membro da EQUIPE DE PILOTAGEM ou o ROBÔ.⟦/8⟧
+s1610 | Atrapalhar a pontuação inclui, entre outros:
+s1611 | A. ⟦0⟧impedir um ROBÔ de pontuar em uma FLOWER, ou⟦/0⟧
+s1612 | B. ⟦0⟧bater ou sacudir deliberadamente a parede do perímetro para tirar NECTAR ou POLLEN pontuados da FLOWER.⟦/0⟧
+s1613 | ⟦0⟧⟦/0⟧⟦1⟧G426 ⟦/1⟧⟦2⟧Os humanos não podem colocar NECTAR no CAMPO antes da hora.⟦/2⟧ Os membros da EQUIPE DE PILOTAGEM não podem colocar NECTAR no CAMPO, exceto:
+s1614 | A. a cada vez que a HIVE da cor da sua ALIANÇA for TOMBADA, um NECTAR adicional pode ser colocado para aquela ALIANÇA, ou
+s1615 | B. quando faltarem 60 segundos ou menos para o fim da PARTIDA, todo o NECTAR restante pode ser colocado,
+s1616 | o que ocorrer primeiro.
+s1617 | Violação: FALTA LEVE por NECTAR.
+s1618 | O cronômetro principal do CAMPO é a referência que indica quando faltam 60 segundos para o fim da PARTIDA.
+s1619 | ⟦0⟧⟦1⟧O NECTAR que sair do CAMPO pode ser recolocado a qualquer momento, conforme descrito na ⟦/1⟧⟦/0⟧⟦2⟧G427⟦/2⟧⟦3⟧⟦4⟧.⟦/4⟧⟦/3⟧
+s1620 | Recomenda-se que as EQUIPES DE PILOTAGEM garantam que o NECTAR restante na sua ÁREA DA ALIANÇA esteja visível e deixem óbvio e inequívoco para os ÁRBITROS que não estão colocando NECTAR antes da hora.
+s1621 | O NECTAR não precisa ser colocado no CAMPO imediatamente quando ocorre um TOMBAMENTO DA HIVE.
+s1622 | ⟦0⟧⟦/0⟧⟦1⟧G427 ⟦/1⟧⟦2⟧Humanos, coloquem NECTAR somente pela ZONA DE CARREGAMENTO.⟦/2⟧ O NECTAR não pode ser introduzido no CAMPO, exceto da seguinte forma:
+s1623 | A. sem o uso de ferramentas,
+s1624 | B. por um membro da EQUIPE DE PILOTAGEM da ALIANÇA da cor correspondente, e
+s1625 | C. de modo que o NECTAR toque o TILE dentro da ZONA DE CARREGAMENTO antes de tocar em um ROBÔ ou em um elemento do CAMPO.
+s1626 | Violação: FALTA LEVE por NECTAR.
+s1627 | A intenção desta regra é permitir apenas que os membros da EQUIPE DE PILOTAGEM introduzam o seu próprio NECTAR na ZONA DE CARREGAMENTO. Embora haja poucas restrições sobre como isso é feito, as equipes não deveriam tentar forçar os limites desta regra para obter vantagem competitiva.
+s1628 | ⟦0⟧Humanos pontuarem em uma HIVE ou FLOWER nunca é permitido e está sujeito a violações da ⟦/0⟧⟦1⟧G202⟦/1⟧⟦2⟧. ⟦/2⟧
+s1629 | ⟦0⟧Se membros da EQUIPE DE PILOTAGEM ficarem com algum POLLEN ou NECTAR da ALIANÇA adversária que tenha saído do CAMPO, deveriam entregá-lo ao membro da EQUIPE DE CAMPO mais próximo para ser reintroduzido no CAMPO, conforme a Seção ⟦/0⟧⟦1⟧10.8⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧Outras Questões de Logística⟦/3⟧⟦4⟧.⟦/4⟧
+s1630 | ⟦0⟧Observação: ao introduzir NECTAR, os membros da EQUIPE DE PILOTAGEM devem evitar encostar em um ELEMENTO DE PONTUAÇÃO que também esteja em contato com um TILE, para não violar a ⟦/0⟧⟦1⟧G425⟦/1⟧⟦2⟧.⟦/2⟧
+s1631 | ⟦0⟧⟦/0⟧⟦1⟧G428 ⟦/1⟧⟦2⟧Humanos, não retirem ELEMENTOS DE PONTUAÇÃO do CAMPO.⟦/2⟧ Os membros da EQUIPE DE PILOTAGEM não podem retirar ELEMENTOS DE PONTUAÇÃO do CAMPO.
+s1632 | Violação: FALTA LEVE por ELEMENTO DE PONTUAÇÃO.
+s1633 | Um ELEMENTO DE PONTUAÇÃO é considerado no CAMPO se estiver tocando um TILE, ou dentro e/ou sobre um ROBÔ, um elemento do CAMPO ou um ELEMENTO DE PONTUAÇÃO.
+s1634 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧⟦6⟧⟦/6⟧⟦7⟧⟦/7⟧12 Regras de Construção do ROBÔ (R)
+s1635 | As regras listadas abaixo tratam explicitamente das peças e materiais permitidos e de como essas peças e materiais podem ser usados em um ROBÔ. Um ROBÔ é ⟦0⟧um conjunto eletromecânico construído por uma equipe ⟦1⟧FIRST⟦/1⟧ Tech Challenge para jogar o jogo da temporada atual, e inclui todos os sistemas básicos necessários para participar ativamente do jogo – energia, comunicação, controle e locomoção pelo CAMPO⟦/0⟧.

@@ -1,0 +1,93 @@
+s1454 | Ocorrências REPETIDAS de um ROBÔ CONTROLANDO 5 ou mais ELEMENTOS DE PONTUAÇÃO provavelmente serão consideradas ESTRATÉGICAS, mesmo que o ROBÔ tenha um mecanismo de triagem do tipo “fica com 4 e descarta o resto”.
+s1455 | Exemplos de interação com um ELEMENTO DE PONTUAÇÃO que não são “CONTROLE” e não violariam esta regra incluem, entre outros:
+s1456 | D. ⟦0⟧“empurrar como trator” (bulldozing) (contato acidental com um ELEMENTO DE PONTUAÇÃO que está no caminho do ROBÔ enquanto ele se desloca pelo CAMPO)⟦/0⟧
+s1457 | E. ⟦0⟧“desviar” (ser atingido por um ELEMENTO DE PONTUAÇÃO que quica no ROBÔ), ou⟦/0⟧
+s1458 | F. ⟦0⟧ELEMENTOS DE PONTUAÇÃO que foram LANÇADOS por um ROBÔ e não estão mais em contato com ele.⟦/0⟧
+s1459 | ⟦0⟧⟦/0⟧⟦1⟧⟦2⟧G408 ⟦/2⟧⟦/1⟧⟦3⟧Não CONTROLE o NECTAR do adversário. ⟦/3⟧⟦4⟧⟦5⟧Um ROBÔ não pode CONTROLAR o NECTAR do adversário. ⟦/5⟧⟦/4⟧
+s1460 | ⟦0⟧⟦1⟧Violação: ADVERTÊNCIA VERBAL. CARTÃO AMARELO por PARTIDA⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧,⟦/3⟧⟦/2⟧⟦4⟧⟦5⟧ se ⟦/5⟧⟦/4⟧⟦6⟧⟦7⟧ESTRATÉGICO⟦/7⟧⟦/6⟧⟦8⟧⟦9⟧. ⟦/9⟧⟦/8⟧
+s1461 | Ocorrências REPETIDAS de um ROBÔ CONTROLANDO o NECTAR do adversário provavelmente serão consideradas ESTRATÉGICAS, mesmo que o ROBÔ tenha um mecanismo de triagem que descarte automaticamente o NECTAR do adversário, devolvendo-o aproximadamente ao seu estado original.
+s1462 | ⟦0⟧⟦/0⟧⟦1⟧G409 ⟦/1⟧⟦2⟧Não pegue ELEMENTOS DE PONTUAÇÃO no ar.⟦/2⟧ Um ROBÔ não pode pegar no ar nem desviar um ELEMENTO DE PONTUAÇÃO liberado por uma HIVE TOMBADA, a menos que e até que esse ELEMENTO DE PONTUAÇÃO toque em qualquer outra coisa além desse ROBÔ.
+s1463 | Violação: ADVERTÊNCIA VERBAL. CARTÃO AMARELO por PARTIDA, se ESTRATÉGICO.
+s1464 | A intenção desta regra é que o POLLEN e o NECTAR que caem de uma HIVE TOMBADA atinjam o piso de TILES antes de serem coletados por qualquer ROBÔ. Não se pretende penalizar a captura acidental de ELEMENTOS DE PONTUAÇÃO por ROBÔS que por acaso estejam embaixo de uma HIVE TOMBANDO.
+s1465 | Recomenda-se que as equipes projetem os seus ROBÔS de forma que não consigam pegar ELEMENTOS DE PONTUAÇÃO acidentalmente. Isso pode envolver proteções que impeçam ELEMENTOS DE PONTUAÇÃO de ficarem presos acidentalmente em cima do ROBÔ. Características desse tipo deixarão mais claro para os ÁRBITROS que a equipe não está usando a captura como estratégia e evitarão que se considere que ela violou esta regra.
+s1466 | Exemplos de ações que provavelmente serão consideradas ESTRATÉGICAS incluem, entre outros:
+s1467 | A. ⟦0⟧Um ROBÔ para REPETIDAMENTE embaixo da HIVE esperando um TOMBAMENTO para coletar os ELEMENTOS DE PONTUAÇÃO que caem. ⟦/0⟧
+s1468 | B. ⟦0⟧Um ROBÔ tem um MECANISMO no topo que se abre amplamente para receber ELEMENTOS DE PONTUAÇÃO, e ele é usado para pegar ELEMENTOS DE PONTUAÇÃO em queda enquanto o ROBÔ passa embaixo da HIVE.⟦/0⟧
+s1469 | C. ⟦0⟧Um ROBÔ se posiciona REPETIDAMENTE de modo que vários ELEMENTOS DE PONTUAÇÃO que caem da HIVE batam no ROBÔ e se desloquem em uma direção vantajosa antes de tocar em qualquer outra coisa.⟦/0⟧
+s1470 | Exemplos de ações que provavelmente ⟦1⟧⟦2⟧não⟦/2⟧⟦/1⟧ serão consideradas ESTRATÉGICAS incluem, entre outros:
+s1471 | D. ⟦0⟧Um ROBÔ passa embaixo da HIVE e um ou dois POLLEN caem em uma superfície plana do ROBÔ enquanto ele passa.⟦/0⟧
+s1472 | E. ⟦0⟧Um ROBÔ que parou de funcionar permanece parado embaixo da HIVE e ELEMENTOS DE PONTUAÇÃO se acumulam em cima dele.⟦/0⟧
+s1473 | ⟦0⟧⟦/0⟧⟦1⟧G410 ⟦/1⟧⟦2⟧O NECTAR só entra nas FLOWERS quando falta um minuto⟦/2⟧⟦3⟧⟦4⟧.⟦/4⟧⟦/3⟧⟦5⟧ ⟦/5⟧Os ROBÔS não podem colocar NECTAR no volume de pontuação da FLOWER antes dos últimos 60 segundos da PARTIDA.
+s1474 | Violação: FALTA GRAVE por NECTAR.
+s1475 | ⟦0⟧Veja a Seção ⟦/0⟧⟦1⟧10.5.2⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧Critérios de Pontuação da FLOWER⟦/3⟧⟦4⟧ para detalhes sobre o volume de pontuação da FLOWER. ⟦/4⟧
+s1476 | O cronômetro principal do CAMPO é a referência que indica quando faltam 60 segundos para o fim da PARTIDA.
+s1477 | Recomenda-se que as equipes deixem óbvio e inequívoco para os ÁRBITROS que não estão colocando NECTAR em uma FLOWER cedo demais.
+s1478 | ⟦0⟧⟦/0⟧⟦1⟧G411 ⟦/1⟧⟦2⟧*Não acumule ELEMENTOS DE PONTUAÇÃO.⟦/2⟧⟦3⟧⟦4⟧ ⟦/4⟧⟦/3⟧⟦5⟧Uma ALIANÇA não pode impedir ESTRATEGICAMENTE que a ALIANÇA adversária tenha acesso aos⟦/5⟧ ELEMENTOS DE PONTUAÇÃO.
+s1479 | Violação: FALTA GRAVE e CARTÃO AMARELO por PARTIDA.
+s1480 | Uma ALIANÇA usar o seu próprio NECTAR e/ou POLLEN para pontuar não é violação desta regra.
+s1481 | Encurralar ELEMENTOS DE PONTUAÇÃO relevantes em uma parte limitada do CAMPO e/ou posicionar ativamente um ROBÔ para impedir o acesso da ALIANÇA adversária é violação desta regra. O GARDEN não é uma zona protegida.
+s1482 | ⟦0⟧⟦/0⟧⟦1⟧11.4.4 ROBÔ⟦/1⟧
+s1483 | ⟦0⟧⟦/0⟧⟦1⟧G412 ⟦/1⟧⟦2⟧*Os ROBÔS devem estar sob controle.⟦/2⟧ Um ROBÔ não pode representar risco indevido a uma pessoa ou a um elemento da ARENA durante uma PARTIDA das seguintes formas:
+s1484 | A. o ROBÔ, ou qualquer coisa que ele CONTROLE, isto é, um ELEMENTO DE PONTUAÇÃO, perturba algo fora do CAMPO ou atinge uma pessoa que está fora do CAMPO, ou
+s1485 | B. a operação do ROBÔ é perigosa.
+s1486 | Violação: DESATIVADO e ADVERTÊNCIA VERBAL. DESATIVADO e CARTÃO AMARELO por PARTIDA, se ocorrerem violações posteriores durante o evento.
+s1487 | Fique atento aos ÁRBITROS e a outros membros da EQUIPE DE CAMPO que trabalham ao redor da ARENA e podem estar muito perto do seu ROBÔ.
+s1488 | Exemplos de violações incluem, entre outros:
+s1489 | A. ⟦0⟧movimentos descontrolados para fora do CAMPO,⟦/0⟧
+s1490 | B. ⟦0⟧derrubar o suporte de uma DRIVER STATION,⟦/0⟧
+s1491 | C. ⟦0⟧mover/danificar o cronômetro do CAMPO, ou⟦/0⟧
+s1492 | D. ⟦0⟧encostar em membros da EQUIPE DE CAMPO ou da EQUIPE DE PILOTAGEM fora do CAMPO.⟦/0⟧
+s1493 | O contato do ROBÔ com elementos da ARENA fora do CAMPO, como o suporte de uma DRIVER STATION, o piso fora do CAMPO ou a face externa da parede do perímetro do CAMPO, não é violação desta regra.
+s1494 | ⟦0⟧⟦/0⟧⟦1⟧⟦2⟧G413 ⟦/2⟧⟦/1⟧⟦3⟧*Os ROBÔS devem parar quando instruídos.⟦/3⟧⟦4⟧⟦5⟧ Se um ÁRBITRO instruir uma equipe a DESATIVAR o seu ROBÔ, conforme a ⟦/5⟧⟦/4⟧⟦6⟧T402⟦/6⟧⟦7⟧⟦8⟧, um membro da EQUIPE DE PILOTAGEM deve pressionar o botão de parada (⟦/8⟧⟦/7⟧⟦9⟧⟦10⟧■⟦/10⟧⟦/9⟧⟦11⟧⟦12⟧) no app DRIVER STATION e largar os controles.⟦/12⟧⟦/11⟧
+s1495 | Violação: ADVERTÊNCIA VERBAL. CARTÃO VERMELHO, se ESTRATÉGICO.
+s1496 | ⟦0⟧⟦/0⟧⟦1⟧G414 ⟦/1⟧⟦2⟧*Os ROBÔS devem ser identificáveis. ⟦/2⟧O número da equipe e a cor da ALIANÇA de um ROBÔ não podem ficar indeterminados, na percepção do ÁRBITRO Principal.
+s1497 | Violação: ADVERTÊNCIA VERBAL. CARTÃO AMARELO, se ESTRATÉGICO.
+s1498 | Recomenda-se que as equipes fixem firmemente as PLACAS DO ROBÔ em locais bem visíveis do ROBÔ, de forma que não caiam facilmente nem fiquem encobertas durante o jogo normal.
+s1499 | Pode ser solicitada uma ação corretiva, como refazer as PLACAS DO ROBÔ, antes que o ROBÔ participe de uma PARTIDA seguinte.
+s1500 | ⟦0⟧⟦/0⟧⟦1⟧G415 ⟦/1⟧⟦2⟧*Cuidado com a interação com a ARENA.⟦/2⟧ Um ROBÔ está proibido de realizar as seguintes interações com um elemento da ARENA, exceto com ELEMENTOS DE PONTUAÇÃO:
+s1501 | A. agarrar,
+s1502 | B. segurar,
+s1503 | C. prender-se,
+s1504 | D. enroscar-se, ou
+s1505 | E. suspender-se.
+s1506 | Violação: ADVERTÊNCIA VERBAL. CARTÃO AMARELO por PARTIDA, se ESTRATÉGICO. DESATIVADO se o ÁRBITRO Principal perceber que é provável ocorrer dano.
+s1507 | Pode ser exigida uma ação corretiva (como remover o MECANISMO infrator e/ou reinspeção) antes que o ROBÔ possa competir nas PARTIDAS seguintes.
+s1508 | ROBÔS com formato côncavo que envolve parcialmente uma FLOWER, com finalidades como auxiliar no alinhamento, não estariam violando esta regra.
+s1509 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧G416 ⟦/5⟧⟦6⟧Os ROBÔS têm limites de construção.⟦/6⟧ Os ROBÔS não podem violar os limites descritos na ⟦7⟧R105⟦/7⟧ durante a PARTIDA. Os ROBÔS não podem:
+s1510 | A. expandir-se de modo a exceder os limites de expansão indicados na ⟦0⟧R105⟦/0⟧⟦1⟧.⟦/1⟧⟦2⟧A⟦/2⟧ ou na ⟦3⟧R105⟦/3⟧⟦4⟧.⟦/4⟧⟦5⟧B⟦/5⟧, ou
+s1511 | B. soltar peças deliberadamente, conforme a ⟦0⟧R105⟦/0⟧⟦1⟧.⟦/1⟧⟦2⟧C⟦/2⟧.
+s1512 | Violação: ADVERTÊNCIA VERBAL. FALTA GRAVE por ocorrência, se ESTRATÉGICO.
+s1513 | ⟦0⟧Um ROBÔ pode ter partes que se movem após o início da PARTIDA e se estendem para fora da sua CONFIGURAÇÃO INICIAL, mas essas extensões devem permanecer dentro do limite de expansão e não podem soltar COMPONENTES deliberadamente, conforme descrito na ⟦/0⟧⟦1⟧R105⟦/1⟧⟦2⟧.⟦/2⟧
+s1514 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧G417 ⟦/3⟧⟦4⟧Os ROBÔS não podem mexer na Estrutura da HIVE.⟦/4⟧⟦5⟧⟦6⟧ ⟦/6⟧⟦/5⟧Os ROBÔS não podem manipular o movimento da HIVE de nenhuma forma além de LANÇAR ELEMENTOS DE PONTUAÇÃO em uma CELL voltada para cima.
+s1515 | Violação: ADVERTÊNCIA VERBAL. FALTA GRAVE e CARTÃO AMARELO por PARTIDA, se ESTRATÉGICO.
+s1516 | As HIVES foram projetadas para que o TOMBAMENTO seja provocado apenas pelo LANÇAMENTO de POLLEN e NECTAR em uma CELL voltada para cima. Qualquer outra interação com a HIVE que provoque, possa provocar ou impeça um TOMBAMENTO é violação desta regra.
+s1517 | Exemplos de ações do ROBÔ que provavelmente serão consideradas ESTRATÉGICAS incluem, entre outros:
+s1518 | A. ⟦0⟧bater na armação da HIVE em alta velocidade,⟦/0⟧
+s1519 | B. ⟦0⟧bater na armação da HIVE várias vezes em um curto período,⟦/0⟧
+s1520 | C. ⟦0⟧LANÇAR deliberadamente NECTAR ou POLLEN nas faces externas inferior, laterais ou superior de uma CELL,⟦/0⟧
+s1521 | D. ⟦0⟧impedir o TOMBAMENTO da HIVE do adversário LANÇANDO NECTAR ou POLLEN contra ela,⟦/0⟧
+s1522 | E. ⟦0⟧encostar em uma HIVE diretamente ou indiretamente, por meio de um ELEMENTO DE PONTUAÇÃO CONTROLADO, ou⟦/0⟧
+s1523 | F. ⟦0⟧ações REPETIDAS depois de um aviso ter sido dado.⟦/0⟧
+s1524 | Exemplos de ações que provavelmente ⟦1⟧⟦2⟧não⟦/2⟧⟦/1⟧ serão consideradas ESTRATÉGICAS incluem, entre outros:
+s1525 | G. ⟦0⟧Um ROBÔ esbarra acidentalmente na armação da HIVE ao tentar pegar POLLEN, ou⟦/0⟧
+s1526 | H. ⟦0⟧Um ROBÔ tenta LANÇAR POLLEN ou NECTAR na CELL voltada para cima e erra, atingindo a parte inferior, as laterais ou o topo da CELL.⟦/0⟧
+s1527 | ⟦0⟧⟦/0⟧⟦1⟧G418 ⟦/1⟧⟦2⟧Os ROBÔS não podem mexer nas FLOWERS.⟦/2⟧⟦3⟧⟦4⟧ ⟦/4⟧⟦/3⟧Os ROBÔS não podem colocar ELEMENTOS DE PONTUAÇÃO em uma FLOWER nem retirá-los dela, exceto:
+s1528 | A. colocar POLLEN e NECTAR somente pelo topo da FLOWER, e
+s1529 | B. retirar POLLEN somente pela parte inferior da FLOWER.
+s1530 | Violação: ADVERTÊNCIA VERBAL. FALTA GRAVE e CARTÃO AMARELO por PARTIDA, se ESTRATÉGICO.
+s1531 | As FLOWERS foram projetadas para permitir que POLLEN e NECTAR entrem apenas pelo topo do anel superior e que apenas POLLEN (não NECTAR) seja retirado pela parte inferior do anel intermediário. Quaisquer outras ações para pontuar ou retirar ELEMENTOS DE PONTUAÇÃO da FLOWER são consideradas violação desta regra.
+s1532 | A intenção não é proibir que os ROBÔS encostem na FLOWER nem as interações que ocorrem ao tentar ações de pontuação permitidas.
+s1533 | Exemplos de ações do ROBÔ que não violam esta regra incluem:
+s1534 | A. ⟦0⟧encostar na FLOWER ao tentar colocar ou retirar ELEMENTOS DE PONTUAÇÃO,⟦/0⟧
+s1535 | B. ⟦0⟧encostar em POLLEN ou NECTAR pontuados em uma FLOWER ao tentar pontuar, ou⟦/0⟧
+s1536 | C. ⟦0⟧bater em uma FLOWER e encostar no POLLEN ou NECTAR dentro dela.⟦/0⟧
+s1537 | Exemplos de ações que provavelmente serão consideradas ESTRATÉGICAS incluem, entre outros:
+s1538 | D. ⟦0⟧Um ROBÔ tenta puxar POLLEN pela lateral da FLOWER,⟦/0⟧
+s1539 | E. ⟦0⟧Um ROBÔ agarra a FLOWER e a sacode,⟦/0⟧
+s1540 | F. ⟦0⟧Um ROBÔ força o NECTAR para fora do anel intermediário com um MECANISMO,⟦/0⟧
+s1541 | G. ⟦0⟧Um ROBÔ bate deliberadamente na parede do perímetro em alta velocidade, fazendo um ELEMENTO DE PONTUAÇÃO cair de uma FLOWER, ou⟦/0⟧
+s1542 | H. ⟦0⟧Um ROBÔ segura deliberadamente um NECTAR junto à lateral dos tubos da FLOWER de modo que ele cumpra os critérios de pontuação da FLOWER. ⟦/0⟧
+s1543 | Exemplos de ações que provavelmente ⟦1⟧⟦2⟧não⟦/2⟧⟦/1⟧ serão consideradas ESTRATÉGICAS incluem, entre outros:
+s1544 | I. ⟦0⟧Um ROBÔ bate em uma FLOWER ao tentar pegar POLLEN dos TILES e faz um POLLEN cair pelo topo da FLOWER, ou⟦/0⟧
+s1545 | J. ⟦0⟧Um ROBÔ derruba um POLLEN pontuado ao tentar pontuar outro POLLEN. ⟦/0⟧
+s1546 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧11.4.5 Interação com o Adversário

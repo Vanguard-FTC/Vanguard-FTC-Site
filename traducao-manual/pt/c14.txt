@@ -1,0 +1,79 @@
+s1231 | Um CARTÃO VERMELHO resulta na DESCLASSIFICAÇÃO da PARTIDA. Uma equipe que recebeu um CARTÃO AMARELO ou VERMELHO leva um CARTÃO AMARELO para as PARTIDAS seguintes, exceto nos casos indicados abaixo.
+s1232 | Se for determinado que uma ação que resultou na aplicação de um CARTÃO AMARELO ou VERMELHO foi consequência de uma FALHA DA ARENA, conforme a Seção ⟦0⟧13.2⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Repetição de PARTIDAS⟦/2⟧, o CARTÃO será anulado.
+s1233 | Os CARTÕES AMARELOS são cumulativos, ou seja, um segundo CARTÃO AMARELO é automaticamente convertido em CARTÃO VERMELHO. A equipe recebe um CARTÃO VERMELHO em qualquer incidente posterior no qual receba um CARTÃO AMARELO adicional, inclusive se receber um segundo CARTÃO AMARELO em uma mesma PARTIDA.
+s1234 | Um CARTÃO AMARELO, um segundo CARTÃO AMARELO ou um CARTÃO VERMELHO é indicado na tela de resultados da PARTIDA exibida ao público (Figura 10‑8). Um CARTÃO AMARELO é exibido como um retângulo amarelo, um segundo CARTÃO AMARELO como um retângulo vermelho sobre um retângulo amarelo, e um CARTÃO VERMELHO como um retângulo vermelho.
+s1235 | ⟦0⟧Figura ⟦/0⟧10‑8: Exemplo de tela de resultados da PARTIDA com os indicadores de CARTÃO AMARELO e VERMELHO
+s1236 | Caso as PARTIDAS sejam disputadas fora de ordem, uma PARTIDA seguinte é qualquer PARTIDA disputada cronologicamente depois, independentemente do horário originalmente programado ou da numeração da PARTIDA.
+s1237 | Depois que uma equipe recebe um CARTÃO AMARELO ou VERMELHO, o número da equipe é exibido com fundo amarelo na tela do público durante todas as PARTIDAS seguintes, incluindo eventuais repetições, para lembrar à equipe, aos ÁRBITROS e ao público que ela carrega um CARTÃO AMARELO.
+s1238 | ⟦0⟧Figura ⟦/0⟧10‑9: Exemplo de tela do público durante a PARTIDA com os indicadores de CARTÃO AMARELO
+s1239 | Todos os CARTÕES AMARELOS e as ADVERTÊNCIAS VERBAIS da ⟦0⟧G301⟦/0⟧ são zerados ao final das PARTIDAS de Treino, de Qualificação e dos Playoffs de divisão. As demais ADVERTÊNCIAS VERBAIS dadas pelo ÁRBITRO Principal são zeradas após as PARTIDAS de Treino e permanecem das PARTIDAS de Qualificação até as fases seguintes do torneio, salvo indicação em contrário.
+s1240 | ⟦0⟧⟦/0⟧⟦1⟧10.6.2 Aplicação de CARTÕES AMARELOS e VERMELHOS⟦/1⟧
+s1241 | Os CARTÕES AMARELOS e VERMELHOS são aplicados com base no seguinte:
+s1242 | ⟦0⟧Tabela ⟦/0⟧10‑5: Aplicação de CARTÕES AMARELOS e VERMELHOS
+s1243 | Momento em que o CARTÃO AMARELO ou VERMELHO foi recebido:
+s1244 | PARTIDA à qual o CARTÃO é aplicado:
+s1245 | Antes das PARTIDAS de Qualificação
+s1246 | Os ÁRBITROS podem ou não estar presentes no CAMPO antes do início das PARTIDAS de Qualificação. Com base nas informações da equipe do evento, o ÁRBITRO Principal pode optar por levar uma ADVERTÊNCIA VERBAL ou um CARTÃO AMARELO recebido antes das PARTIDAS de Qualificação para a primeira PARTIDA de Qualificação, em caso de comportamento particularmente grave.
+s1247 | durante as PARTIDAS de Qualificação
+s1248 | a PARTIDA atual (ou recém-concluída) da equipe na qual ela não é SUBSTITUTA (SURROGATE).
+s1249 | Nas PARTIDAS como SUBSTITUTA, o cartão é aplicado à PARTIDA de Qualificação anterior da equipe.
+s1250 | entre o fim das PARTIDAS de Qualificação e o início das PARTIDAS de Playoff
+s1251 | primeira PARTIDA de Playoff da ALIANÇA
+s1252 | durante as PARTIDAS de Playoff
+s1253 | PARTIDA atual (ou recém-concluída) da ALIANÇA
+s1254 | Uma PARTIDA deixa de ser a PARTIDA atual quando os seus resultados são publicados ou quando o ÁRBITRO Principal ou o seu designado indica que as equipes podem recolher os seus ROBÔS, o que ocorrer por último.
+s1255 | ⟦0⟧Veja exemplos de aplicação de CARTÕES AMARELOS e VERMELHOS na Seção ⟦/0⟧⟦1⟧10.6.4⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧Detalhes das Violações⟦/3⟧⟦4⟧.⟦/4⟧
+s1256 | ⟦0⟧⟦/0⟧⟦1⟧10.6.3 CARTÕES AMARELOS e VERMELHOS durante as PARTIDAS de Playoff⟦/1⟧
+s1257 | Durante as PARTIDAS de Playoff, os CARTÕES AMARELOS e VERMELHOS são aplicados a toda a ALIANÇA da equipe infratora, e não apenas à equipe infratora. Se uma ALIANÇA receber 2 CARTÕES AMARELOS, toda a ALIANÇA recebe um CARTÃO VERMELHO, o que resulta em DESCLASSIFICAÇÃO na PARTIDA correspondente.
+s1258 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧10.6.4 Detalhes das Violações
+s1259 | Há vários estilos de redação de violações usados neste manual. Abaixo estão alguns exemplos de violações e um esclarecimento de como cada violação seria avaliada. Os exemplos mostrados não representam todas as violações possíveis, e sim um conjunto representativo de combinações.
+s1260 | Tabela 10‑6: Exemplos de violações
+s1261 | Exemplo de violação
+s1262 | Interpretação detalhada
+s1263 | FALTA LEVE.
+s1264 | A cada ocorrência de violação, uma FALTA LEVE é aplicada contra a ALIANÇA infratora.
+s1265 | FALTA LEVE por ELEMENTO DE PONTUAÇÃO.
+s1266 | A cada ocorrência de violação, são aplicadas contra a ALIANÇA infratora FALTAS LEVES em número igual ao de ELEMENTOS DE PONTUAÇÃO usados em violação da regra.
+s1267 | FALTA GRAVE por ocorrência. FALTA GRAVE por ocorrência e CARTÃO AMARELO por PARTIDA, se REPETIDO.
+s1268 | Na primeira violação em uma PARTIDA, uma FALTA GRAVE é aplicada contra a ALIANÇA infratora para cada ocorrência de violação.
+s1269 | Se a condição de REPETIDO da segunda frase for cumprida – ou seja, o ROBÔ repete a infração mais uma vez na PARTIDA –, então uma FALTA GRAVE adicional é aplicada contra a ALIANÇA infratora pela ocorrência seguinte e, após a PARTIDA, a equipe infratora recebe um CARTÃO AMARELO por essa ocorrência seguinte.
+s1270 | Supondo que não haja outras infrações dessa regra por esse ROBÔ nessa PARTIDA, o ROBÔ recebe duas FALTAS GRAVES e a sua equipe recebe um CARTÃO AMARELO nessa PARTIDA. Violações adicionais dessa regra durante a PARTIDA aumentariam o número de FALTAS GRAVES aplicadas na PARTIDA, mas não o número de CARTÕES AMARELOS dados na PARTIDA.
+s1271 | FALTA GRAVE e uma FALTA GRAVE adicional a cada 3 segundos em que a situação não for corrigida
+s1272 | Na violação, uma FALTA GRAVE é aplicada contra a ALIANÇA infratora e o ÁRBITRO começa a contar. A contagem continua até que os critérios para interrompê-la sejam cumpridos, e a cada 3 segundos desse intervalo uma FALTA GRAVE adicional é aplicada contra a ALIANÇA infratora. Um ROBÔ em violação desse tipo de regra por 15 segundos recebe um total de 6 FALTAS GRAVES (supondo que nenhuma outra regra esteja sendo violada ao mesmo tempo).
+s1273 | ADVERTÊNCIA VERBAL. FALTA GRAVE e CARTÃO AMARELO por PARTIDA, se ESTRATÉGICO.
+s1274 | Em uma violação comum da regra, uma ADVERTÊNCIA VERBAL é dada à equipe infratora. No entanto, se os ÁRBITROS considerarem a violação ESTRATÉGICA, uma FALTA GRAVE é aplicada contra a ALIANÇA infratora e, após a PARTIDA, a equipe infratora recebe um CARTÃO AMARELO.
+s1275 | FALTA GRAVE por PARTIDA. FALTA GRAVE e CARTÃO AMARELO por PARTIDA, se ESTRATÉGICO.
+s1276 | Se uma ou mais violações forem cometidas por uma equipe durante a PARTIDA, uma FALTA GRAVE por PARTIDA é aplicada contra a ALIANÇA infratora.
+s1277 | No entanto, se os ÁRBITROS considerarem a violação ESTRATÉGICA, uma FALTA GRAVE por equipe por PARTIDA é aplicada contra a ALIANÇA infratora. Após a PARTIDA, a equipe recebe um CARTÃO AMARELO por PARTIDA.
+s1278 | Uma equipe só pode receber 1 FALTA GRAVE e até 1 CARTÃO AMARELO em uma mesma PARTIDA.
+s1279 | ADVERTÊNCIA VERBAL. CARTÃO AMARELO se ocorrerem violações posteriores durante o evento.
+s1280 | Na primeira ocorrência de violação, uma ADVERTÊNCIA VERBAL é dada à equipe infratora. Se ocorrer outra violação da mesma regra mais adiante no evento, ou seja, em uma PARTIDA da mesma fase ou de uma fase posterior do evento, então, a cada violação posterior, a equipe infratora recebe um CARTÃO AMARELO por ocorrência, após a PARTIDA.
+s1281 | ADVERTÊNCIA VERBAL. FALTA GRAVE e CARTÃO AMARELO por ocorrência, se ESTRATÉGICO. FALTA GRAVE e CARTÃO VERMELHO por ocorrência, se ESTRATÉGICO e CONTÍNUO ou se o ROBÔ adversário não conseguir se locomover.
+s1282 | Em uma violação comum desta regra, uma ADVERTÊNCIA VERBAL é dada à equipe infratora. No entanto, se os ÁRBITROS considerarem a violação ESTRATÉGICA, uma FALTA GRAVE é aplicada contra a ALIANÇA infratora e, após a PARTIDA, a equipe recebe um CARTÃO AMARELO.
+s1283 | No entanto, se os ÁRBITROS considerarem a violação ESTRATÉGICA e o ROBÔ adversário não conseguir se locomover ou o enroscamento durar 10 segundos ou mais, então, na violação, uma FALTA GRAVE é aplicada contra a ALIANÇA infratora. Após a PARTIDA, a equipe recebe um CARTÃO VERMELHO.
+s1284 | Só é possível receber 1 FALTA GRAVE e 1 CARTÃO por ocorrência de violação; no entanto, várias FALTAS GRAVES e CARTÕES podem ser recebidos em uma mesma PARTIDA se houver várias ocorrências da violação durante a PARTIDA.
+s1285 | 10.7 ÁRBITRO Principal
+s1286 | O ÁRBITRO Principal tem a autoridade máxima na ARENA durante o evento, conforme a ⟦0⟧T401⟦/0⟧, mas pode receber informações de outras fontes, por exemplo, pessoal da ⟦1⟧FIRST⟦/1⟧, FTA, Diretor do Evento ou outros membros da equipe do evento. As decisões do ÁRBITRO Principal são definitivas. Nenhum membro da equipe do evento, incluindo o ÁRBITRO Principal, analisará vídeos, fotos, representações artísticas etc. de qualquer PARTIDA, de qualquer fonte, em nenhuma circunstância.
+s1287 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧⟦6⟧⟦/6⟧⟦7⟧⟦/7⟧⟦8⟧⟦/8⟧⟦9⟧⟦/9⟧⟦10⟧⟦/10⟧⟦11⟧⟦/11⟧⟦12⟧⟦/12⟧⟦13⟧⟦/13⟧⟦14⟧⟦/14⟧10.8 Outras Questões de Logística
+s1288 | 10.8.1 Participação nas PARTIDAS de Treino
+s1289 | O FTA, o LRI ou o ÁRBITRO Principal pode proibir uma equipe de participar de uma PARTIDA de Treino se determinar que o seu ROBÔ é inseguro ou tem probabilidade de danificar a ARENA.
+s1290 | 10.8.2 Logística dos ELEMENTOS DE PONTUAÇÃO
+s1291 | O POLLEN que sair do CAMPO será reintroduzido no CAMPO pela EQUIPE DE CAMPO na primeira oportunidade segura, no local conveniente mais próximo.
+s1292 | O NECTAR que sair do CAMPO será devolvido à EQUIPE DE PILOTAGEM daquela ALIANÇA para ser reintroduzido conforme a Seção ⟦0⟧11.4.6⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Humanos⟦/2⟧. Não é marcada FALHA DA ARENA em PARTIDAS em que haja atrasos razoáveis da EQUIPE DE CAMPO na reintrodução do POLLEN no CAMPO ou na devolução do NECTAR a uma EQUIPE DE PILOTAGEM.
+s1293 | Não é marcada FALHA DA ARENA (um erro na operação da ARENA, descrito na Seção ⟦0⟧13.2⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Repetição de PARTIDAS⟦/2⟧) em PARTIDAS que começam acidentalmente com:
+s1294 | - ELEMENTOS DE PONTUAÇÃO danificados,
+s1295 | - a quantidade incorreta de ELEMENTOS DE PONTUAÇÃO, ou
+s1296 | - ELEMENTOS DE PONTUAÇÃO posicionados incorretamente.
+s1297 | Os ELEMENTOS DE PONTUAÇÃO danificados só são substituídos no próximo reset da PARTIDA. As EQUIPES DE PILOTAGEM deveriam avisar a EQUIPE DE CAMPO sobre quaisquer ELEMENTOS DE PONTUAÇÃO ausentes, posicionados incorretamente ou danificados antes do início da PARTIDA.
+s1298 | 10.8.3 Mitigação do CAMPO
+s1299 | Durante uma PARTIDA, a EQUIPE DE CAMPO pode seguir os passos do ⟦0⟧Guia de Mitigação do Campo⟦/0⟧ para mitigar alguns problemas do CAMPO durante a PARTIDA.
+s1300 | 10.8.4 Reset do CAMPO
+s1301 | Quando a PARTIDA termina e o ÁRBITRO Principal ou o seu designado determina que o CAMPO e a EQUIPE DE CAMPO estão prontos, ele dará um sinal, que inicia o reset do CAMPO e indica às EQUIPES DE PILOTAGEM que podem recolher os seus ROBÔS.
+s1302 | Durante o reset do CAMPO, os ROBÔS e CONSOLES DO OPERADOR da PARTIDA que acabou de terminar são retirados do CAMPO, os ROBÔS e CONSOLES DO OPERADOR da PARTIDA seguinte são levados ao CAMPO pelas EQUIPES DE PILOTAGEM, e a EQUIPE DE CAMPO restaura os elementos da ARENA.
+s1303 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧11 Regras do Jogo⟦/5⟧ (G)
+s1304 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧11.1 Segurança Pessoal⟦/4⟧
+s1305 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧G101 ⟦/2⟧⟦3⟧*Humanos, fiquem fora do CAMPO durante a PARTIDA.⟦/3⟧ Um membro da equipe não pode entrar no CAMPO durante uma PARTIDA.
+s1306 | Violação: ADVERTÊNCIA VERBAL.
+s1307 | ⟦0⟧A intenção desta regra é que os membros da equipe fiquem fora do perímetro do CAMPO durante a PARTIDA e não interfiram nela, exceto conforme permitido na Seção ⟦/0⟧⟦1⟧11.4.6⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧Humanos⟦/3⟧⟦4⟧. Um membro da equipe que pisar no CAMPO ou debruçar uma grande parte do corpo sobre o CAMPO está violando esta regra. ⟦/4⟧
+s1308 | Um membro da equipe que apontar com o braço, acenar ou se inclinar sobre a parede do perímetro do CAMPO sem interferir na PARTIDA não está violando a regra.
+s1309 | ⟦0⟧⟦/0⟧⟦1⟧G102 ⟦/1⟧⟦2⟧*Cuidado ao interagir com os elementos da ARENA.⟦/2⟧ Um membro da equipe está proibido de realizar as seguintes ações na interação com os elementos da ARENA:

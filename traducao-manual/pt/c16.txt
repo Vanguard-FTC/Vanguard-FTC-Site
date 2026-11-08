@@ -1,0 +1,75 @@
+s1379 | Exemplos de equipamentos que podem ser considerados um risco à segurança no espaço restrito da ÁREA DA ALIANÇA incluem, entre outros: uma escada ou um dispositivo de sinalização grande.
+s1380 | ⟦0⟧Usar um item com a comunicação sem fio desativada está de acordo com a ⟦/0⟧⟦1⟧G302⟦/1⟧⟦2⟧.C⟦/2⟧⟦3⟧ acima. ⟦/3⟧
+s1381 | Exemplos de bloqueio ou interferência nas capacidades de sensoriamento remoto incluem, entre outros: imitar as AprilTags do CAMPO e apontar luzes fortes ou ponteiras laser para o CAMPO durante uma PARTIDA.
+s1382 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧G303 ⟦/3⟧⟦4⟧*Os ROBÔS no CAMPO devem chegar prontos para jogar a PARTIDA.⟦/4⟧ Um ROBÔ deve cumprir todos os seguintes requisitos de início de PARTIDA:
+s1383 | A. não representa risco para pessoas, elementos da ARENA ou outros ROBÔS,
+s1384 | ⟦0⟧⟦/0⟧⟦1⟧B. cumpre todos os requisitos da Seção ⟦/1⟧⟦2⟧3.3⟦/2⟧⟦3⟧ ⟦/3⟧⟦4⟧Regras de Elegibilidade para PARTIDAS⟦/4⟧, incluindo os referentes a inspeção/reinspeção,
+s1385 | C. é o único item fornecido pela equipe deixado no CAMPO, e
+s1386 | D. tem PLACAS DO ROBÔ que indicam a cor correta da ALIANÇA (veja a ⟦0⟧R402⟦/0⟧).
+s1387 | Violação: a PARTIDA não começará até que todos os requisitos sejam cumpridos, se houver solução rápida. DESATIVADO, se não houver solução rápida, e, a critério do ÁRBITRO Principal, o ROBÔ deve ser reinspecionado. CARTÃO VERMELHO se o ROBÔ de uma equipe que não cumpre a ⟦0⟧G303⟦/0⟧⟦1⟧.⟦/1⟧⟦2⟧B⟦/2⟧ participar da PARTIDA.
+s1388 | Para avaliar muitos dos itens listados acima, o ÁRBITRO Principal provavelmente consultará o LRI.
+s1389 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧G304 ⟦/3⟧⟦4⟧*Os ROBÔS devem ser preparados corretamente no CAMPO.⟦/4⟧⟦5⟧⟦6⟧ Um ROBÔ deve ser posicionado no CAMPO de modo a cumprir todos os seguintes requisitos:⟦/6⟧⟦/5⟧⟦7⟧⟦8⟧ ⟦/8⟧⟦/7⟧
+s1390 | ⟦0⟧A. totalmente contido no lado do CAMPO da sua própria ALIANÇA (colunas A, B, C do CAMPO para o vermelho, ou colunas D, E, F do CAMPO para o azul) (⟦/0⟧Figura 9‑4),
+s1391 | B. não preso a, enroscado em ou suspenso de nenhum elemento do CAMPO,
+s1392 | C. encostado na parede do perímetro do CAMPO,
+s1393 | D. sem contato com uma FLOWER e fora do volume de pontuação dela,
+s1394 | E. fora da ZONA DE CARREGAMENTO,
+s1395 | F. limitado à sua CONFIGURAÇÃO INICIAL (veja a ⟦0⟧R102⟦/0⟧ e a ⟦1⟧R103⟦/1⟧),
+s1396 | G. em contato com exatamente 4 POLLEN de pré-carga, conforme descrito na Seção ⟦0⟧10.3.1⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧ELEMENTOS DE PONTUAÇÃO⟦/2⟧, totalmente contidos no lado do CAMPO da sua própria ALIANÇA, e
+s1397 | H. totalmente imóvel após concluir a inicialização do OpMode,
+s1398 | ⟦0⟧⟦1⟧Violação: ⟦/1⟧⟦/0⟧a PARTIDA não começará até que todos os requisitos sejam cumpridos, se houver solução rápida. DESATIVADO ou retirado do CAMPO, se não houver solução rápida.
+s1399 | ⟦0⟧G304⟦/0⟧⟦1⟧.A⟦/1⟧⟦2⟧⟦3⟧ ⟦/3⟧⟦/2⟧⟦4⟧exige que o ROBÔ esteja totalmente contido dentro do perímetro do CAMPO e não fique projetado sobre a parede do perímetro do CAMPO.⟦/4⟧
+s1400 | ⟦0⟧Cada ROBÔ deve começar em contato com 4 POLLEN de pré-carga, localizados dentro ou sobre o ROBÔ, ou nos TILES encostados no ROBÔ. Esses POLLEN de pré-carga são especificamente destinados, 4 para cada equipe, conforme descrito na Seção ⟦/0⟧⟦1⟧10.3.1⟦/1⟧⟦2⟧ ⟦/2⟧⟦3⟧ELEMENTOS DE PONTUAÇÃO⟦/3⟧⟦4⟧. Os ROBÔS podem encostar em outros POLLEN posicionados no CAMPO, mas estes não contam para o requisito de pré-carga. ROBÔS que não comparecerem à sua PARTIDA terão o seu POLLEN colocado na ZONA DE CARREGAMENTO, encostado na parede do perímetro.⟦/4⟧
+s1401 | ⟦0⟧⟦1⟧A Figura 11‑1⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧ mostra exemplos de várias posições iniciais permitidas para o ROBÔ.⟦/3⟧⟦/2⟧
+s1402 | ⟦0⟧⟦1⟧⟦2⟧Figura ⟦/2⟧⟦/1⟧⟦/0⟧⟦3⟧⟦4⟧11⟦/4⟧⟦/3⟧⟦5⟧⟦6⟧‑⟦/6⟧⟦/5⟧⟦7⟧⟦8⟧1⟦/8⟧⟦/7⟧⟦9⟧⟦10⟧:⟦/10⟧⟦/9⟧⟦11⟧⟦12⟧ Exemplos de posições iniciais permitidas para o ROBÔ⟦/12⟧⟦/11⟧
+s1403 | ⟦0⟧⟦/0⟧⟦1⟧G305 ⟦/1⟧⟦2⟧*As equipes devem selecionar um OpMode.⟦/2⟧ Um OpMode deve ser selecionado no app DRIVER STATION e inicializado pressionando o botão INIT. Se esse OpMode for um OpMode de AUTO, o cronômetro de AUTO de 30 segundos deve estar ativado.
+s1404 | Violação: a PARTIDA não começará até que a situação seja corrigida. DESATIVADO se o ROBÔ não conseguir inicializar um OpMode ou se a situação não puder ser corrigida rapidamente.
+s1405 | Esta regra exige que todas as equipes selecionem um OpMode e deem INIT nele, independentemente de planejarem ou não usar um OpMode de AUTO durante o AUTO. A EQUIPE DE CAMPO usará isso como indicação de que a equipe está pronta para iniciar a PARTIDA.
+s1406 | Equipes sem OpMode de AUTO deveriam considerar criar um OpMode de AUTO padrão usando o exemplo BasicOpMode e usar o ⟦1⟧recurso de carregamento automático (auto-loading)⟦/1⟧ para deixar o seu OpMode de TELEOP na fila automaticamente. ⟦2⟧⟦/2⟧
+s1407 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧11.4 Durante a PARTIDA⟦/3⟧
+s1408 | As regras desta seção se referem ao jogo a partir do início da PARTIDA.
+s1409 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧11.4.1 AUTO⟦/2⟧
+s1410 | O AUTO corresponde ⟦0⟧aos primeiros 30 segundos da PARTIDA, durante os quais os PILOTOS não podem enviar comandos aos seus ROBÔS, de modo que os ROBÔS operam apenas com as suas instruções pré-programadas⟦/0⟧. As regras desta seção se aplicam somente durante o período AUTO.
+s1411 | ⟦0⟧⟦/0⟧⟦1⟧G401 ⟦/1⟧⟦2⟧*Não interaja com o ROBÔ durante o AUTO.⟦/2⟧ Desde o início da contagem regressiva para o começo da PARTIDA até o fim do AUTO, os membros da EQUIPE DE PILOTAGEM não podem interagir direta ou indiretamente com um ROBÔ ou um CONSOLE DO OPERADOR, com as seguintes exceções:
+s1412 | A. para pressionar o botão de início (▶) dentro de uma margem MOMENTÂNEA a partir do início da PARTIDA,
+s1413 | B. para pressionar o botão de parada (■), a critério da equipe, ou
+s1414 | C. por segurança pessoal ou do CONSOLE DO OPERADOR.
+s1415 | Violação: ADVERTÊNCIA VERBAL. FALTA GRAVE e CARTÃO AMARELO por PARTIDA, se ESTRATÉGICO.
+s1416 | As equipes não precisam iniciar um OpMode se optarem por não executar um OpMode de AUTO.
+s1417 | ⟦0⟧A intenção da ⟦/0⟧⟦1⟧G401⟦/1⟧⟦2⟧.A⟦/2⟧⟦3⟧ é que as equipes iniciem o AUTO no horário, considerando alguma variação devida a fatores humanos.⟦/3⟧
+s1418 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧G402 ⟦/2⟧⟦3⟧Sem interferência no adversário durante o AUTO. ⟦/3⟧Durante o AUTO, uma equipe não pode atrapalhar o AUTO da ALIANÇA adversária.
+s1419 | Violação: FALTA GRAVE por PARTIDA. FALTA GRAVE e CARTÃO AMARELO por PARTIDA, se ESTRATÉGICO.
+s1420 | ⟦0⟧⟦1⟧Durante o AUTO, as colunas A, B, C do CAMPO formam o lado vermelho do CAMPO, e as colunas D, E, F (⟦/1⟧⟦/0⟧⟦2⟧Figura 9‑5⟦/2⟧⟦3⟧⟦4⟧) formam o lado azul do CAMPO. Cada ALIANÇA tem prioridade sobre os elementos de CAMPO e ELEMENTOS DE PONTUAÇÃO do seu lado do CAMPO.⟦/4⟧⟦/3⟧
+s1421 | Entrar no lado do CAMPO da ALIANÇA adversária durante o AUTO é uma estratégia de jogo arriscada, que pode ser considerada ESTRATÉGICA.
+s1422 | Exemplos de ações consideradas como atrapalhar o AUTO incluem, entre outros:
+s1423 | ⟦0⟧A. ⟦/0⟧⟦1⟧⟦2⟧CONTROLAR (CONTROL) ELEMENTOS DE PONTUAÇÃO localizados no lado do CAMPO da ALIANÇA adversária, e ⟦/2⟧⟦/1⟧
+s1424 | ⟦0⟧B. ⟦/0⟧⟦1⟧⟦2⟧encostar em um ROBÔ adversário no lado do CAMPO dele.⟦/2⟧⟦/1⟧
+s1425 | ELEMENTOS DE PONTUAÇÃO que por acaso entrem no outro lado do CAMPO depois de serem desviados por outro objeto no CAMPO (por exemplo, um elemento do CAMPO ou um ROBÔ) provavelmente não serão penalizados.⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧
+s1426 | 11.4.2 TELEOP
+s1427 | ⟦0⟧⟦/0⟧⟦1⟧⟦2⟧G403 ⟦/2⟧⟦/1⟧⟦3⟧*Os ROBÔS ficam imóveis entre o AUTO e o TELEOP.⟦/3⟧⟦4⟧⟦5⟧ Nenhum movimento motorizado do ROBÔ ou de qualquer um dos seus MECANISMOS é permitido durante o período de transição entre o AUTO e o TELEOP.⟦/5⟧⟦/4⟧
+s1428 | Violação: ADVERTÊNCIA VERBAL. FALTA GRAVE e CARTÃO AMARELO por PARTIDA, se ESTRATÉGICO.
+s1429 | Movimentos causados por inércia, gravidade, desenergização de atuadores etc. não são considerados movimento motorizado.
+s1430 | As equipes podem pressionar botões no app DRIVER STATION para parar o OpMode de AUTO, inicializar ou iniciar um OpMode de TELEOP durante o período de transição do AUTO para o TELEOP. Se a parte INIT do OpMode fizer o ROBÔ violar esta regra (energizando atuadores de modo que eles se movam ou deem qualquer tipo de tranco), a equipe deveria esperar o início do TELEOP antes de pressionar INIT.
+s1431 | ⟦0⟧⟦/0⟧⟦1⟧⟦2⟧G404 ⟦/2⟧⟦/1⟧⟦3⟧*Os ROBÔS ficam imóveis no fim do TELEOP⟦/3⟧⟦4⟧⟦5⟧.⟦/5⟧⟦/4⟧⟦6⟧⟦7⟧ ⟦/7⟧⟦/6⟧⟦8⟧⟦9⟧Os ROBÔS não podem mais ter movimento motorizado após o fim do TELEOP até que o ÁRBITRO Principal ou o seu designado sinalize que as equipes podem recolher os seus ROBÔS. ⟦/9⟧⟦/8⟧
+s1432 | Violação: ADVERTÊNCIA VERBAL. FALTA GRAVE e CARTÃO AMARELO por PARTIDA, se ESTRATÉGICO.
+s1433 | ⟦0⟧⟦1⟧As EQUIPES DE PILOTAGEM deveriam deixar claro que os ROBÔS não estão mais sendo controlados, pressionando o botão de parada (⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧■⟦/3⟧⟦/2⟧⟦4⟧⟦5⟧) no app DRIVER STATION ou interrompendo qualquer operação do ROBÔ até o fim do período da PARTIDA e largando os controles. ⟦/5⟧⟦/4⟧
+s1434 | ⟦0⟧⟦1⟧Movimentos ⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧causados por ⟦/3⟧⟦/2⟧⟦4⟧⟦5⟧inércia, ⟦/5⟧⟦/4⟧⟦6⟧⟦7⟧gravidade⟦/7⟧⟦/6⟧⟦8⟧⟦9⟧,⟦/9⟧⟦/8⟧⟦10⟧⟦11⟧ ⟦/11⟧⟦/10⟧⟦12⟧⟦13⟧desenergização de atuadores etc.⟦/13⟧⟦/12⟧⟦14⟧⟦15⟧ ⟦/15⟧⟦/14⟧⟦16⟧⟦17⟧não são considerados movimento motorizado. ⟦/17⟧⟦/16⟧
+s1435 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧⟦6⟧11.4.3 ELEMENTOS DE PONTUAÇÃO⟦/6⟧⟦7⟧⟦/7⟧
+s1436 | ⟦0⟧⟦/0⟧⟦1⟧G405 ⟦/1⟧⟦2⟧*Mantenha os ELEMENTOS DE PONTUAÇÃO dentro do campo.⟦/2⟧ Um ROBÔ não pode ejetar deliberadamente um ELEMENTO DE PONTUAÇÃO para fora do CAMPO (seja diretamente, seja fazendo-o quicar em um elemento do CAMPO ou em outro ROBÔ).
+s1437 | Violação: FALTA GRAVE por ELEMENTO DE PONTUAÇÃO.
+s1438 | ELEMENTOS DE PONTUAÇÃO que saem do CAMPO durante tentativas de pontuação, por um ROBÔ bloquear a tentativa de pontuação de outro ROBÔ, ou em consequência de interações entre ROBÔS, não são considerados ejeções deliberadas e não violam esta regra.
+s1439 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧G406 ⟦/3⟧⟦4⟧*Não danifique nem faça bagunça na ARENA.⟦/4⟧ Nem um ROBÔ nem um membro da EQUIPE DE PILOTAGEM pode fazer bagunça ou danificar qualquer parte da ARENA.
+s1440 | Violação: ADVERTÊNCIA VERBAL. FALTA GRAVE e CARTÃO AMARELO por PARTIDA, se ESTRATÉGICO. DESATIVADO se o dano for causado por um ROBÔ e o ÁRBITRO Principal perceber que é provável que ocorram mais danos.
+s1441 | Pode ser exigida uma ação corretiva (como eliminar cantos vivos, remover o MECANISMO que causa o dano e/ou reinspeção) antes que o ROBÔ possa competir nas PARTIDAS seguintes.
+s1442 | ⟦0⟧A intenção desta regra é evitar que membros da EQUIPE DE PILOTAGEM e ROBÔS afetem negativamente a ARENA, incluindo os elementos do CAMPO e os ELEMENTOS DE PONTUAÇÃO, de forma que resulte em reparos significativos ou em uma limpeza extensa que atrapalhe as operações da ARENA. A regra ⟦/0⟧⟦1⟧R201⟦/1⟧⟦2⟧ descreve exemplos de características do ROBÔ relacionadas a esta regra que são examinadas durante a inspeção.⟦/2⟧
+s1443 | Espera-se que os ELEMENTOS DE PONTUAÇÃO sofram um desgaste razoável ao serem manuseados por ROBÔS e pessoas, como arranhões, marcas e, eventualmente, danos por fadiga. Fazer sulcos, arrancar pedaços ou marcar os ELEMENTOS DE PONTUAÇÃO de forma rotineira são violações desta regra.
+s1444 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧G407 ⟦/3⟧⟦4⟧No máximo 4 por vez.⟦/4⟧ Um ROBÔ não pode CONTROLAR mais de 4 ELEMENTOS DE PONTUAÇÃO ao mesmo tempo.
+s1445 | Violação: ADVERTÊNCIA VERBAL. FALTA GRAVE e CARTÃO AMARELO por PARTIDA, se ESTRATÉGICO.
+s1446 | A intenção desta regra é que os ROBÔS joguem as PARTIDAS CONTROLANDO no máximo 4 ELEMENTOS DE PONTUAÇÃO por vez.
+s1447 | ROBÔS que CONTROLAREM 5 ou mais ELEMENTOS DE PONTUAÇÃO a qualquer momento durante a PARTIDA serão analisados para determinar se isso é ESTRATÉGICO.
+s1448 | Exemplos de ações que provavelmente serão consideradas ESTRATÉGICAS incluem, entre outros:
+s1449 | A. ⟦0⟧Um ROBÔ que pega e CONTROLA 6 ou mais ELEMENTOS DE PONTUAÇÃO, levando-os a um local de pontuação.⟦/0⟧
+s1450 | B. ⟦0⟧Várias ocorrências, ao longo da PARTIDA, de CONTROLE por mais que um tempo MOMENTÂNEO de 5 ou mais ELEMENTOS DE PONTUAÇÃO por um ROBÔ. ⟦/0⟧
+s1451 | Exemplos de ações que provavelmente ⟦1⟧⟦2⟧não⟦/2⟧⟦/1⟧ serão consideradas ESTRATÉGICAS incluem, entre outros:
+s1452 | C. ⟦0⟧Um ROBÔ CONTROLA MOMENTANEAMENTE 5 ELEMENTOS DE PONTUAÇÃO e “reverte” rapidamente, de modo que pelo menos um ELEMENTO DE PONTUAÇÃO volte aproximadamente ao seu estado original. ⟦/0⟧
+s1453 | Recomenda-se que as equipes projetem os seus ROBÔS para evitar o CONTROLE acidental ou deliberado de mais de 4 ELEMENTOS DE PONTUAÇÃO. Isso pode envolver proteções que impeçam ELEMENTOS DE PONTUAÇÃO de ficarem presos acidentalmente em cima do ROBÔ e sistemas que impeçam a coleta/intake ativa de mais de 4 ELEMENTOS DE PONTUAÇÃO.

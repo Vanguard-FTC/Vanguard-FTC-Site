@@ -9,7 +9,7 @@ Pipeline (rodar a partir da pasta scratchpad):
 3. tools/build.py manual/src -> pt-raw.html ; depois render (tools/render.js) com aviso de tradução não oficial
    na capa e no rodapé de todas as páginas; sumário (MsoToc) traduzir a partir dos títulos.
 
-Concluídos: c00–c13 (seções 1 a 10.6.1).  Próximo: c14 (a partir de s1231).
+Concluídos: c00–c18 (seções 1 a 12, início).  Próximo: c19 (a partir de s1636, Regras de Construção do ROBÔ).
 Glossário adotado: ROBOT=ROBÔ, MATCH=PARTIDA, ALLIANCE=ALIANÇA, FIELD=CAMPO, REFEREE=ÁRBITRO,
 INSPECTOR=INSPETOR, STUDENT=ESTUDANTE, PORTFOLIO=PORTFÓLIO, HOME REGION=REGIÃO DE ORIGEM,
 COMPONENT=COMPONENTE, MECHANISM=MECANISMO, OPERATOR CONSOLE=CONSOLE DO OPERADOR, ROBOT SIGN=PLACA DO ROBÔ,
@@ -21,7 +21,8 @@ Glossário (c10+): DRIVE TEAM=EQUIPE DE PILOTAGEM, DRIVER=PILOTO, DRIVE COACH=TR
 SCORING ELEMENT=ELEMENTO DE PONTUAÇÃO, ALLIANCE AREA=ÁREA DA ALIANÇA, LOADING ZONE=ZONA DE CARREGAMENTO, ALLIANCE CAPTAIN=CAPITÃO DA ALIANÇA,
 LAUNCH=LANÇAR/LANÇAMENTO, TIP/TIPPED=TOMBAMENTO/TOMBADA (HIVE TIP=TOMBAMENTO DA HIVE), RANKING POINTS=PONTOS DE CLASSIFICAÇÃO (RP),
 MINOR FOUL=FALTA LEVE, MAJOR FOUL=FALTA GRAVE, YELLOW/RED CARD=CARTÃO AMARELO/VERMELHO, DISABLED=DESATIVADO, DISQUALIFIED=DESCLASSIFICADO,
-ARENA FAULT=FALHA DA ARENA, STRATEGIC=ESTRATÉGICO, MOMENTARY=MOMENTÂNEO, CONTINUOUS=CONTÍNUO, REPEATED=REPETIDO, Head REFEREE=ÁRBITRO Principal.
+ARENA FAULT=FALHA DA ARENA, SURROGATE=SUBSTITUTA, CONTROL=CONTROLAR/CONTROLE, PIN=PRENSAR/PRENSAGEM, STARTING CONFIGURATION=CONFIGURAÇÃO INICIAL,
+"Violation:"=Violação:, "per instance"=por ocorrência, "if STRATEGIC"=se ESTRATÉGICO, STRATEGIC=ESTRATÉGICO, MOMENTARY=MOMENTÂNEO, CONTINUOUS=CONTÍNUO, REPEATED=REPETIDO, Head REFEREE=ÁRBITRO Principal.
 Mantidos em inglês: TILE, DRIVER STATION, ROBOT CONTROLLER, OpMode, AUTO, TELEOP, LEAVE, PARK, SWARM, POLLINATOR, GARDEN, CELL, AprilTag.
 Números com vírgula decimal (2,5 cm); in. = pol.
 Elementos do jogo (POLLEN, NECTAR, FLOWER, HIVE, GARDEN...) — manter em inglês (nomes próprios do jogo).
@@ -31,6 +32,6 @@ Elementos do jogo (POLLEN, NECTAR, FLOWER, HIVE, GARDEN...) — manter em inglê
 - traducao-manual/manual/src/en-local.html — HTML oficial (cm-html) com imagens apontando para files/
 - traducao-manual/manual/src/files/ — figuras do manual
 - traducao-manual/segs.json, chunks/ — gerados por tools/segment.py a partir de en-local.html
-- traducao-manual/pt/ — traduções (c00–c09 + auto.txt)
+- traducao-manual/pt/ — traduções (c00–c18 + auto.txt)
 Obs.: os scripts usam caminhos "manual/src/..." relativos à pasta de trabalho; ajuste conforme a nova estrutura
 (ex.: copiar segs.json, chunks/ e pt/ para manual/src/ antes de rodar check.py/build.py).
