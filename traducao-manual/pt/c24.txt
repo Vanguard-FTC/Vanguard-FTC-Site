@@ -1,0 +1,62 @@
+s2100 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧12.8 Sistemas Pneumáticos⟦/3⟧ e Dispositivos de Fluxo de Ar
+s2101 | ⟦0⟧⟦/0⟧⟦1⟧R801 ⟦/1⟧⟦2⟧*Sem atuadores pneumáticos, sopradores de alta velocidade ou aspiradores.⟦/2⟧ Os ROBÔS têm restrições no uso de ar, das seguintes formas:
+s2102 | ⟦0⟧⟦1⟧A. ⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧os ROBÔS só podem usar sistemas de ar fechados, selados e COTS, pré-carregados pelo fabricante (como amortecedores a gás),⟦/3⟧⟦/2⟧
+s2103 | ⟦0⟧⟦1⟧B. ⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧os ROBÔS não podem usar COMPONENTES de pressão armazenada que sejam acionados por um dispositivo como um solenoide e/ou que possam mudar o seu estado estável,⟦/3⟧⟦/2⟧
+s2104 | ⟦0⟧⟦1⟧C. ⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧os ROBÔS não podem gerar pressão ou vácuo, ⟦/3⟧⟦/2⟧
+s2105 | ⟦0⟧⟦1⟧D. ⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧os ROBÔS não podem usar recipientes de armazenamento de gás ajustáveis pelo usuário, exceto rodas COTS cheias de ar (pneumáticas), e⟦/3⟧⟦/2⟧
+s2106 | ⟦0⟧⟦1⟧E. ⟦/1⟧⟦/0⟧⟦2⟧⟦3⟧os ROBÔS não podem usar nenhum dispositivo que gere fluxo de ar de alta velocidade, exceto ventoinhas de resfriamento integradas a dispositivos de computação COTS.⟦/3⟧⟦/2⟧
+s2107 | A intenção desta regra é que os ROBÔS não possam usar atuadores pneumáticos, dispositivos de armazenamento de pressão ou vácuo, compressores, geradores de vácuo ou sopradores de ar, mas possam usar sistemas de “ar fechado” selados pelo fabricante. Isso inclui itens como molas a gás e amortecedores.
+s2108 | Exemplos de “dispositivo que gera fluxo de ar de alta velocidade” incluem, entre outros, um ventilador projetado para mover ELEMENTOS DE PONTUAÇÃO no CAMPO. ⟦1/⟧ Flywheels ou roletes de alta velocidade usados para manipular ELEMENTOS DE PONTUAÇÃO não seriam, por si só, considerados dispositivos de fluxo de ar de alta velocidade.
+s2109 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧⟦6⟧⟦/6⟧⟦7⟧⟦/7⟧⟦8⟧⟦/8⟧⟦9⟧⟦/9⟧12.9 CONSOLE DO OPERADOR
+s2110 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧R901 ⟦/2⟧⟦3⟧*Use apenas um dispositivo DRIVER STATION especificado.⟦/3⟧ O CONSOLE DO OPERADOR só pode ter um dispositivo DRIVER STATION aprovado, baseado em Android, conectado e ligado. O CONSOLE DO OPERADOR deve ter pelo menos um dos seguintes:
+s2111 | A. REV Driver Hub (REV-31-1596), ou
+s2112 | B. qualquer dispositivo Android, com ou sem qualquer combinação de cabos USB (incluindo cabos USB OTG) e/ou hubs USB (alimentados ou não, com ou sem OTG integrado ao hub), para conectar um ou mais gamepads.
+s2113 | Por causa de variações imprevisíveis no software Android entre fabricantes e atualizações, o REV Driver Hub é o único dispositivo DRIVER STATION com suporte oficial. As equipes que optarem por usar qualquer outro dispositivo sem suporte (por exemplo, smartphones) são responsáveis por testar e verificar a sua compatibilidade, funcionalidade e desempenho.
+s2114 | As equipes que quiserem ter um dispositivo DRIVER STATION reserva como parte do CONSOLE DO OPERADOR podem fazê-lo, desde que apenas um dispositivo DRIVER STATION esteja conectado e ligado de cada vez.
+s2115 | ⟦0⟧⟦/0⟧⟦1⟧R902 ⟦/1⟧⟦2⟧*O CONSOLE DO OPERADOR deve deixar a tela sensível ao toque acessível.⟦/2⟧ O CONSOLE DO OPERADOR, ⟦3⟧o conjunto de COMPONENTES e MECANISMOS usado pela EQUIPE DE PILOTAGEM para enviar comandos ao ROBÔ⟦/3⟧, deve deixar acessível a tela sensível ao toque do dispositivo DRIVER STATION. O dispositivo DRIVER STATION deve ficar posicionado no CONSOLE DO OPERADOR de modo que a tela possa ser vista claramente durante a inspeção e em uma PARTIDA. A tela sensível ao toque do dispositivo DRIVER STATION deve funcionar sem a necessidade de acessórios adicionais (por exemplo, mouse).
+s2116 | ⟦0⟧⟦/0⟧⟦1⟧R903 ⟦/1⟧⟦2⟧*Requisitos físicos do CONSOLE DO OPERADOR.⟦/2⟧ O CONSOLE DO OPERADOR, incluindo todas as fontes de energia (por exemplo, power banks), não pode exceder um volume de 3 pés de largura, 1 pé e 6 pol. de profundidade e 2 pés de altura (91,4 cm por 45,7 cm por 61,0 cm), sem contar os itens segurados ou vestidos pelos PILOTOS durante a PARTIDA.
+s2117 | ⟦0⟧Consulte também a ⟦/0⟧⟦1⟧R203⟦/1⟧⟦2⟧ para restrições no projeto de CONSOLES DO OPERADOR quanto a jogo limpo e segurança da ARENA.⟦/2⟧
+s2118 | Observe que, embora não haja limite rígido de peso, CONSOLES DO OPERADOR com mais de 20 lb (~9 kg) atrairão maior escrutínio, pois tendem a atrapalhar as operações normais da ARENA.
+s2119 | As equipes que quiserem ter um hub USB externo reserva como parte do CONSOLE DO OPERADOR podem fazê-lo, desde que apenas um hub USB esteja conectado de cada vez.
+s2120 | A intenção desta regra é permitir que as equipes usem um recipiente para guardar, organizar e transportar o dispositivo DRIVER STATION e os eletrônicos de apoio. As regras do CONSOLE DO OPERADOR não têm a intenção de permitir sistemas que funcionem como carrinho do ROBÔ ou que substituam o suporte, a mesa etc. do CONSOLE DO OPERADOR fornecidos pela competição.
+s2121 | ⟦0⟧⟦/0⟧⟦1⟧R904 ⟦/1⟧⟦2⟧*Somente comunicação sem fio do aplicativo do ROBÔ.⟦/2⟧ Além da conexão controlada pelo app ROBOT CONTROLLER executado no ROBÔ e pelo app DRIVER STATION executado no dispositivo DRIVER STATION, nenhuma outra forma de comunicação sem fio pode ser usada para se comunicar com o CONSOLE DO OPERADOR, a partir dele ou dentro dele durante uma PARTIDA.
+s2122 | Exemplos de sistemas sem fio proibidos incluem, entre outros, placas de rede sem fio ativas, comunicação sem fio de gamepads e dispositivos Bluetooth.
+s2123 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧13 Torneio⟦/5⟧ (T)
+s2124 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧13.1 Visão Geral⟦/4⟧
+s2125 | Cada competição ⟦0⟧FIRST⟦/0⟧ Tech Challenge é disputada em formato de torneio com confrontos diretos. Cada torneio tem 3 tipos de PARTIDAS: PARTIDAS de Treino (não disputadas em todos os eventos), PARTIDAS de Qualificação e PARTIDAS de Playoff.
+s2126 | - As PARTIDAS de Treino dão às equipes a oportunidade de operar o seu ROBÔ em um CAMPO de competição antes do início das PARTIDAS de Qualificação.
+s2127 | - As PARTIDAS de Qualificação permitem que cada equipe conquiste pontos de PARTIDA e PONTOS DE CLASSIFICAÇÃO, que determinam a sua posição na classificação e podem classificá-la para as PARTIDAS de Playoff.
+s2128 | - As PARTIDAS de Playoff determinam a ALIANÇA vencedora do evento.
+s2129 | Estas regras se aplicam a todos os tipos de evento descritos na Seção ⟦0⟧4⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Avanço⟦/2⟧. Regras adicionais podem se aplicar a League Meets e League Tournaments, conforme a Seção ⟦3⟧14⟦/3⟧⟦4⟧ ⟦/4⟧⟦5⟧Torneios de Liga (L)⟦/5⟧.
+s2130 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧⟦6⟧⟦/6⟧⟦7⟧⟦/7⟧⟦8⟧⟦/8⟧⟦9⟧⟦/9⟧13.2 Repetição de PARTIDAS⟦10⟧⟦/10⟧
+s2131 | ⟦0⟧⟦/0⟧⟦1⟧T201 ⟦/1⟧⟦2⟧*Repetições são permitidas, mas raras.⟦/2⟧ A repetição de PARTIDAS só é permitida em circunstâncias extremas, por causa de uma FALHA DA ARENA, ou em PARTIDAS interrompidas porque a EQUIPE DE CAMPO previu danos ao CAMPO ou ferimentos a pessoas.
+s2132 | Uma FALHA DA ARENA é ⟦0⟧um erro na operação da ARENA⟦/0⟧ que inclui, entre outros:
+s2133 | A. elementos do CAMPO quebrados durante o jogo normal e esperado,
+s2134 | B. elementos do CAMPO quebrados por uso abusivo dos elementos do CAMPO por um ROBÔ, que afete o resultado da PARTIDA para os adversários dele,
+s2135 | Um elemento do CAMPO quebrado por uso abusivo de um ROBÔ que afete o resultado da PARTIDA para a própria ALIANÇA não é FALHA DA ARENA.
+s2136 | C. elementos do CAMPO que se movem além das tolerâncias normais (não em consequência de interação com ROBÔS),
+s2137 | D. interferência sem fio generalizada, normalmente afetando vários ROBÔS ao mesmo tempo e nas duas ALIANÇAS,
+s2138 | E. falha do cronômetro da PARTIDA, ou
+s2139 | F. erros da EQUIPE DE CAMPO (exceto os listados na Seção ⟦0⟧10.8⟦/0⟧⟦1⟧ ⟦/1⟧⟦2⟧Outras Questões de Logística⟦/2⟧).
+s2140 | Se, conforme determinado pelo ÁRBITRO Principal, ocorrer uma FALHA DA ARENA que afete o resultado da PARTIDA e qualquer equipe da ALIANÇA afetada quiser uma repetição, a PARTIDA será repetida. Além disso, a Sede da ⟦0⟧FIRST⟦/0⟧ se reserva o direito de, consultando o ÁRBITRO Principal e a EQUIPE DE CAMPO, repetir qualquer PARTIDA em que uma FALHA DA ARENA afete o resultado de um evento.
+s2141 | Comportamentos inesperados do ROBÔ que sejam culpa da equipe não justificam uma repetição. Condições como, entre outras, bateria do ROBÔ fraca, problemas de programação ou problemas mecânicos do ROBÔ não são motivo para repetição.
+s2142 | O resultado da PARTIDA é afetado se ocorrer um erro que, na percepção do ÁRBITRO Principal, mude qual ALIANÇA teria vencido a PARTIDA e/ou a atribuição de PONTOS DE CLASSIFICAÇÃO.
+s2143 | O resultado de um evento é afetado se ocorrer um erro que, no julgamento da Sede da ⟦1⟧FIRST⟦/1⟧, mude a atribuição de PONTOS DE CLASSIFICAÇÃO ou tenha efeito drástico sobre os pontos usados nos critérios de classificação.
+s2144 | Observe que uma FALHA DA ARENA que não afete o resultado da PARTIDA, na percepção do ÁRBITRO Principal, não leva à repetição da PARTIDA. Exemplos incluem, entre outros:
+s2145 | A. ⟦0⟧um pedaço de plástico do CAMPO cai dentro do CAMPO, longe de qualquer atividade de pessoas ou ROBÔS, de forma que não afeta o resultado da PARTIDA,⟦/0⟧
+s2146 | B. ⟦0⟧atraso na reprodução de um som da ARENA, e ⟦/0⟧
+s2147 | ⟦0⟧⟦1⟧C. ⟦/1⟧⟦/0⟧⟦2⟧qualquer ajuste ou atraso na atribuição de uma penalidade ou conquista de pontuação (incluindo os feitos após a PARTIDA).⟦/2⟧
+s2148 | ⟦0⟧⟦/0⟧⟦1⟧T202 ⟦/1⟧⟦2⟧*As repetições reproduzirão as condições da PARTIDA original.⟦/2⟧ Todo esforço razoável é feito para criar as mesmas condições ao repetir uma PARTIDA causada por FALHA DA ARENA ou dano ao CAMPO. Isso inclui:
+s2149 | A. um ROBÔ que não estava presente na PARTIDA ou que estava DESATIVADO antes do início da PARTIDA original a ser repetida fica DESATIVADO na PARTIDA de repetição
+s2150 | B. será usado o mesmo CAMPO, a menos que o ÁRBITRO Principal considere necessário o contrário por causa da gravidade do dano ao CAMPO
+s2151 | As exceções a esta regra são:
+s2152 | C. as posições iniciais dos ROBÔS e das EQUIPES DE PILOTAGEM e os ELEMENTOS DE PONTUAÇÃO pré-carregados não precisam ser reproduzidos ao repetir uma PARTIDA
+s2153 | Embora sejam feitos esforços para reproduzir as mesmas condições da PARTIDA original, há fatores ambientais, como mudanças na iluminação do ambiente, que podem estar fora do controle do evento.
+s2154 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧13.3 Esclarecimentos sobre os Resultados das PARTIDAS⟦/5⟧ (“Question Box”)
+s2155 | Cada evento terá uma ou mais Question Boxes (pontos de dúvidas) designadas na área da ARENA. Se uma EQUIPE DE PILOTAGEM tiver uma dúvida sobre uma PARTIDA, o CAMPO etc., ela pode enviar até dois representantes usando crachá de EQUIPE DE PILOTAGEM à Question Box correspondente. Dependendo do horário, o ÁRBITRO Principal ou o FTA pode adiar a conversa solicitada até o fim da PARTIDA seguinte.
+s2156 | Dúvidas técnicas sobre a operação do CAMPO ou do ROBÔ são tratadas pelo FTA, e outros membros da equipe podem participar dessas conversas, se necessário. Se uma EQUIPE DE PILOTAGEM precisar de esclarecimento sobre uma decisão ou sobre os resultados da PARTIDA, conforme a ⟦0⟧T301⟦/0⟧, até dois representantes deveriam falar com o ÁRBITRO Principal depois que os resultados da PARTIDA forem exibidos.
+s2157 | Embora o software de gestão de eventos da ⟦0⟧FIRST⟦/0⟧ registre a quantidade de FALTAS LEVES e FALTAS GRAVES, a ⟦1⟧FIRST⟦/1⟧ orienta os ÁRBITROS a não registrar por conta própria os detalhes das FALTAS LEVES e FALTAS GRAVES; por isso, não se espera que os ÁRBITROS lembrem os detalhes de quais FALTAS LEVES e FALTAS GRAVES foram marcadas, quando ocorreram e contra quem.
+s2158 | Qualquer pergunta razoável é válida na Question Box, e os ÁRBITROS Principais farão um esforço de boa-fé para dar um retorno útil (por exemplo, como/por que certas FALTAS estão sendo marcadas, por que um determinado ROBÔ pode estar mais sujeito a certas FALTAS por causa do seu projeto ou estilo de jogo, como regras específicas estão sendo marcadas ou interpretadas), mas saiba que eles podem não conseguir fornecer detalhes específicos.
+s2159 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧T301 ⟦/2⟧⟦3⟧*Interações com o ÁRBITRO Principal.⟦/3⟧ Uma equipe só pode falar com o ÁRBITRO Principal com no máximo 2 pessoas, sendo que 1 delas deve ser ESTUDANTE.
+s2160 | Violação: o ÁRBITRO Principal não atenderá membros adicionais da equipe que não cumpram a regra nem conversas paralelas.
+s2161 | Alguns eventos podem restringir o acesso à ARENA aos membros da EQUIPE DE PILOTAGEM. Os membros da equipe podem trocar os crachás entre si, conforme necessário, para ter acesso à Question Box.

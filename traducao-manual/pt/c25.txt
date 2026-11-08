@@ -1,0 +1,68 @@
+s2162 | ⟦0⟧Na medida do possível, o ESTUDANTE deveria participar ativamente da conversa. As equipes não deveriam gravar as interações sem consentimento (veja a ⟦/0⟧⟦1⟧E116⟦/1⟧⟦2⟧).⟦/2⟧
+s2163 | ⟦0⟧⟦/0⟧⟦1⟧T302 ⟦/1⟧⟦2⟧*As dúvidas sobre PARTIDAS devem ser apresentadas a tempo. ⟦/2⟧Se uma equipe quiser esclarecer ou contestar os resultados de uma PARTIDA usando o processo da ⟦3⟧T301⟦/3⟧, ela deve apresentar o seu representante ESTUDANTE na Question Box dentro do prazo, conforme abaixo:
+s2164 | A. dúvidas sobre acontecimentos de uma PARTIDA de Qualificação podem ser apresentadas a qualquer momento antes do início da seleção de ALIANÇAS, ou em até 5 minutos após a última PARTIDA de Qualificação, em eventos sem PARTIDAS de Playoff, e
+s2165 | B. dúvidas sobre acontecimentos de uma PARTIDA de Playoff devem ser apresentadas antes do início da rodada seguinte de Playoff ou, no caso da última PARTIDA de Playoff, logo após a PARTIDA.
+s2166 | Lembre-se de que os nossos ÁRBITROS são humanos, e quanto mais tempo passar desde a PARTIDA em questão, menor a chance de eles se lembrarem dos detalhes de uma PARTIDA específica. O melhor é pedir esclarecimento ou contestar os resultados de uma PARTIDA em até 3 PARTIDAS.
+s2167 | Recomenda-se que as equipes façam as perguntas o quanto antes. Perguntas feitas mais de 5 minutos após a última PARTIDA de Playoff provavelmente não serão atendidas.
+s2168 | ⟦0⟧⟦/0⟧⟦1⟧T303 ⟦/1⟧⟦2⟧*Mantenha as perguntas objetivas e construtivas. ⟦/2⟧As equipes que forem à Question Box deveriam pensar nos seus pedidos com antecedência e são incentivadas a ter à mão referências relevantes às regras ou ao ⟦3⟧site de Perguntas e Respostas (Q&A)⟦/3⟧ para ajudar na conversa.
+s2169 | Não deveria haver consequências negativas para equipes que usam a Question Box para defender os seus interesses, mas todos deveriam lembrar que pode ser uma situação muito estressante tanto para os jovens das equipes quanto para os voluntários, e é importante lembrar dos ⟦1⟧Valores Fundamentais da ⟦2⟧FIRST⟦/2⟧⟦/1⟧ durante essas conversas. ⟦3/⟧ Em alguns eventos, os resultados das PARTIDAS podem estar disponíveis na página ⟦4⟧FTC-Events⟦/4⟧.
+s2170 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧⟦/4⟧⟦5⟧⟦/5⟧⟦6⟧⟦/6⟧⟦7⟧⟦/7⟧⟦8⟧⟦/8⟧⟦9⟧⟦/9⟧⟦10⟧⟦/10⟧⟦11⟧⟦/11⟧⟦12⟧13.4 ⟦/12⟧Regras Gerais do Torneio⟦13⟧⟦/13⟧⟦14⟧⟦/14⟧
+s2171 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧T401 ⟦/2⟧⟦3⟧*O ÁRBITRO Principal tem a autoridade máxima e final sobre o jogo durante o evento.⟦/3⟧⟦4⟧⟦5⟧ O ÁRBITRO Principal pode receber ⟦/5⟧⟦/4⟧informações de outras fontes, por exemplo, pessoal da ⟦6⟧FIRST⟦/6⟧, FTA, Diretor do Evento, Parceiro de Entrega do Programa e outros membros da equipe do evento. As decisões do ÁRBITRO Principal são definitivas. Nenhum membro da equipe do evento, incluindo o ÁRBITRO Principal, analisará vídeos, fotos, representações artísticas etc. de qualquer PARTIDA, de qualquer fonte, em nenhuma circunstância.
+s2172 | A. Ao aplicar um CARTÃO VERMELHO ou CARTÃO AMARELO, o ÁRBITRO Principal deve registrar a regra violada.
+s2173 | B. Os Diretores de Evento e os Parceiros de Entrega do Programa não podem anular uma decisão do ÁRBITRO Principal.
+s2174 | C. Violações da ⟦0⟧Estrutura de Comportamentos⟦/0⟧ e do⟦1⟧ ⟦/1⟧⟦2⟧Contrato de Integridade da Competição (CIC)⟦/2⟧ podem ser escalonadas além da decisão inicial do ÁRBITRO Principal.
+s2175 | D. Toda PARTIDA de Qualificação e de Playoff deve ser acompanhada por um ÁRBITRO Principal certificado. Os ÁRBITROS Principais só podem acompanhar 1 PARTIDA por vez.
+s2176 | As regras deste manual foram escritas para serem aplicadas por ÁRBITROS Principais ⟦2⟧humanos⟦/2⟧. Algumas têm critérios claros e inequívocos, fáceis de verificar, mas outras dependem do julgamento humano. Pede-se aos ÁRBITROS Principais que tomem a melhor decisão possível no momento, com base no que eles ou outros ÁRBITROS observaram durante a PARTIDA.
+s2177 | Quando há uma situação ambígua ou uma marcação polêmica, é instinto humano se perguntar qual seria a “decisão certa” ou pensar “e se...” – para fins do jogo do ⟦2⟧FIRST⟦/2⟧ Tech Challenge, a decisão certa é a tomada de boa-fé pelo ÁRBITRO Principal com as informações que ele tinha disponíveis naquele momento.
+s2178 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦4⟧T402 ⟦/4⟧⟦/3⟧⟦5⟧*Somente os ÁRBITROS podem declarar um ROBÔ DESATIVADO. ⟦/5⟧Um ROBÔ só é considerado DESATIVADO depois que um ÁRBITRO o declara DESATIVADO durante uma PARTIDA. Um ROBÔ só pode ser DESATIVADO como consequência de uma violação de regra. Se um ÁRBITRO DESATIVAR um ROBÔ, ele pode instruir a equipe a levar o ROBÔ até uma posição neutra específica no CAMPO antes de DESATIVÁ-LO.
+s2179 | ⟦0⟧⟦/0⟧⟦1⟧⟦2⟧T403 ⟦/2⟧⟦/1⟧⟦3⟧*O Diretor do Evento tem a autoridade máxima sobre todas as decisões não relacionadas ao jogo durante o evento.⟦/3⟧⟦4⟧⟦5⟧ O Manual de Competição tem o objetivo de fornecer um conjunto de regras para a competição, incluindo o jogo e a avaliação dos juízes, mas não é uma compilação completa de diretrizes para realizar um evento ⟦6⟧FIRST⟦/6⟧ Tech Challenge. Questões fora das regras específicas do jogo, que estão sob a autoridade do ÁRBITRO Principal conforme a ⟦/5⟧⟦/4⟧⟦7⟧T401⟦/7⟧⟦8⟧⟦9⟧, ficam a critério do Diretor do Evento, como, entre outras:⟦/9⟧⟦/8⟧
+s2180 | A. acesso ao local conforme publicado na programação pública,
+s2181 | B. tamanho dos pits e acesso a infraestrutura (energia etc.),
+s2182 | C. saúde e segurança,
+s2183 | D. inscrição das equipes e elegibilidade para a competição, e
+s2184 | E. conduta das equipes fora da ARENA.
+s2185 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧T404 ⟦/2⟧⟦3⟧*Todos os CAMPOS de competição de um evento devem ser consistentes entre si. ⟦/3⟧Eventos com vários CAMPOS de competição (conforme indicado no cronograma de PARTIDAS, Figura 13‑1) terão CAMPOS consistentes entre si. Exemplos de itens da montagem que devem ser considerados incluem, entre outros:
+s2186 | A. elevação do CAMPO em relação ao chão,
+s2187 | B. telas de exibição do CAMPO,
+s2188 | C. tipo de perímetro do CAMPO, e
+s2189 | D. tamanho e tipo dos TILES do CAMPO.
+s2190 | Outros CAMPOS do evento (por exemplo, CAMPOS de treino) não precisam ser consistentes entre si nem com os CAMPOS de competição.
+s2191 | ⟦0⟧⟦/0⟧⟦1⟧T405 ⟦/1⟧⟦2⟧*Durante os horários opcionais de medição e calibração do CAMPO, os ROBÔS não podem treinar no CAMPO.⟦/2⟧ Durante qualquer período em que a ARENA estiver aberta para medição, os ROBÔS podem executar OpModes, mas não podem se deslocar (por exemplo, o CHASSI) pelo CAMPO com a própria energia.
+s2192 | Violação: ADVERTÊNCIA VERBAL. CARTÃO AMARELO se ocorrerem violações posteriores durante o evento.
+s2193 | A critério do Diretor do Evento, a ARENA pode ficar aberta por pelo menos 30 minutos antes do início das PARTIDAS de Qualificação; durante esse tempo, as equipes podem examinar e/ou medir a ARENA e levar os ROBÔS ao CAMPO para calibrar sensores. O horário específico em que o CAMPO ficará aberto será informado às equipes no evento. As equipes podem levar perguntas ou comentários específicos ao ÁRBITRO Principal ou ao FTA.
+s2194 | Atividades permitidas durante os horários de calibração e medição dos ROBÔS incluem:
+s2195 | A. ⟦0⟧o ROBÔ pode ser ligado,⟦/0⟧
+s2196 | B. ⟦0⟧a equipe pode inicializar um OpMode,⟦/0⟧
+s2197 | C. ⟦0⟧o ROBÔ pode operar ou estender MECANISMOS para fora do CHASSI do ROBÔ,⟦/0⟧
+s2198 | D. ⟦0⟧o ROBÔ pode CONTROLAR ELEMENTOS DE PONTUAÇÃO,⟦/0⟧
+s2199 | E. ⟦0⟧o ROBÔ pode ser conectado a notebooks de programação e outros dispositivos,⟦/0⟧
+s2200 | F. ⟦0⟧membros da equipe podem ficar no CAMPO com o ROBÔ,⟦/0⟧
+s2201 | G. ⟦0⟧membros da equipe podem mover manualmente o ROBÔ para várias posições do CAMPO (ou seja, sem que o ROBÔ se desloque com a própria energia), e⟦/0⟧
+s2202 | H. ⟦0⟧membros da equipe ou ROBÔS podem medir o CAMPO com ferramentas (por exemplo, trenas) ou sensores.⟦/0⟧
+s2203 | Atividades não permitidas durante os horários de calibração e medição dos ROBÔS incluem:
+s2204 | I. ⟦0⟧o CHASSI do ROBÔ não pode se deslocar pelo CAMPO com a própria energia (ou seja, “dirigir” como parte do AUTO ou do TELEOP),⟦/0⟧
+s2205 | J. ⟦0⟧o ROBÔ não pode LANÇAR ELEMENTOS DE PONTUAÇÃO, e⟦/0⟧
+s2206 | K. ⟦0⟧membros da equipe não podem treinar (por exemplo, ações repetitivas de um membro da equipe na ÁREA DA ALIANÇA colocando ELEMENTOS DE PONTUAÇÃO). ⟦/0⟧
+s2207 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧T406 ⟦/3⟧⟦4⟧*Não há pedido de tempo pelas equipes, mas há intervalos entre as PARTIDAS.⟦/4⟧ Equipes que jogam PARTIDAS consecutivas terão um intervalo mínimo entre as suas PARTIDAS, da seguinte forma:
+s2208 | A. Nas PARTIDAS de Qualificação, cada equipe terá no mínimo 5 minutos entre a publicação dos resultados da sua PARTIDA anterior e o horário previsto de início da sua próxima PARTIDA, para fins da ⟦0⟧G301⟦/0⟧.
+s2209 | B. Nas PARTIDAS de Playoff, cada equipe terá no mínimo 8 minutos entre a publicação dos resultados da sua PARTIDA anterior e o horário previsto de início da sua próxima PARTIDA, para fins da ⟦0⟧G301⟦/0⟧.
+s2210 | Se os resultados de uma PARTIDA não forem publicados (por exemplo, por causa de uma repetição imediata), cada equipe terá um tempo razoável para se preparar, a critério do ÁRBITRO Principal.
+s2211 | Esses intervalos são controlados automaticamente pelo sistema de gestão de eventos da ⟦1⟧FIRST⟦/1⟧. A EQUIPE DE CAMPO informará às equipes os horários previstos de início, conforme apropriado. As equipes podem perguntar ao FTA, ao ÁRBITRO Principal ou ao seu designado sobre os horários das PARTIDAS afetadas.
+s2212 | ⟦0⟧⟦/0⟧⟦1⟧T407 ⟦/1⟧⟦2⟧*As PARTIDAS são disputadas em ordem. ⟦/2⟧As PARTIDAS de Qualificação e de Playoff serão disputadas em ordem numérica, exceto em circunstâncias atenuantes, a critério do ÁRBITRO Principal em consulta com o Diretor do Evento. Todas as PARTIDAS de Qualificação devem ser disputadas antes do início da seleção de ALIANÇAS, e todas as PARTIDAS de Playoff da rodada atual devem ser disputadas antes do início da rodada seguinte. Os horários de PARTIDAS disputadas fora de ordem ou repetidas serão informados às equipes envolvidas pela EQUIPE DE CAMPO ou pela equipe do evento.
+s2213 | Circunstâncias atenuantes que podem levar uma PARTIDA a ser disputada fora de ordem incluem, entre outras:
+s2214 | A. ⟦0⟧Uma repetição de PARTIDA feita no próximo intervalo disponível, no fim do dia, após as demais PARTIDAS de Qualificação ou no fim da rodada de playoff atual.⟦/0⟧
+s2215 | B. ⟦0⟧Um reparo demorado em um CAMPO de competição que impeça a continuidade das PARTIDAS nesse CAMPO, enquanto os outros CAMPOS continuam sendo usados. ⟦/0⟧
+s2216 | C. ⟦0⟧Circunstâncias urgentes e/ou atenuantes relacionadas a uma equipe. ⟦/0⟧
+s2217 | ⟦0⟧A intenção desta regra é garantir que as PARTIDAS sejam disputadas de forma organizada, com flexibilidade para circunstâncias imprevistas. Independentemente da ordem de disputa, a ⟦/0⟧⟦1⟧T406⟦/1⟧⟦2⟧ e a ⟦/2⟧⟦3⟧G301⟦/3⟧⟦4⟧ continuam em vigor.⟦/4⟧
+s2218 | ⟦0⟧⟦/0⟧⟦1⟧13.5 PARTIDAS de Treino⟦/1⟧
+s2219 | As PARTIDAS de Treino são disputadas antes das PARTIDAS de Qualificação, nos eventos que as têm. O cronograma das PARTIDAS de Treino é disponibilizado o quanto antes, no máximo até o início das PARTIDAS de Treino. Os cronogramas também podem estar disponíveis no site ⟦0⟧FTC-Events⟦/0⟧.
+s2220 | As PARTIDAS de Treino são sorteadas, e as equipes não podem trocar as PARTIDAS de Treino programadas. Cada equipe recebe o mesmo número de PARTIDAS de Treino, a menos que o número de equipes multiplicado pelo número de PARTIDAS de Treino não seja divisível por 4. Nesse caso, o software de gestão do evento sorteia algumas equipes para jogar uma PARTIDA de Treino extra.
+s2221 | As PARTIDAS de Treino não são garantidas em todos os eventos, por limitações de cronograma.
+s2222 | 13.5.1 Fila de Reserva (Filler Line)
+s2223 | A Fila de Reserva é usada para preencher vagas abertas em eventos com PARTIDAS de Treino programadas, ou todas as vagas em eventos com cronograma de PARTIDAS de Treino aberto. As equipes da Fila de Reserva são chamadas por ordem de chegada para preencher vagas vazias nas PARTIDAS de Treino deixadas por outras equipes que não se apresentaram na Fila (Queueing). O número de equipes na Fila de Reserva depende do espaço disponível no local.
+s2224 | Somente as equipes que cumprirem todos os critérios abaixo podem entrar na Fila de Reserva:
+s2225 | A. os ROBÔS na Fila de Reserva devem ter sido aprovados na inspeção (essa exigência pode ser dispensada em eventos com cronograma de PARTIDAS de Treino aberto),
+s2226 | B. as EQUIPES DE PILOTAGEM devem entrar na Fila de Reserva com o seu ROBÔ,
+s2227 | C. as equipes não podem trabalhar no ROBÔ enquanto estiverem na Fila de Reserva,
+s2228 | D. as equipes não podem ocupar mais de 1 lugar na Fila de Reserva, e
+s2229 | E. se uma equipe estiver na fila para a sua PARTIDA de Treino, ela não pode entrar também na Fila de Reserva.

@@ -1,0 +1,73 @@
+s2027 | B. a energia de uma porta específica só pode alimentar dispositivos ligados exatamente a essa porta. Não faça ligações cruzadas de energia para outras portas nem combine a energia de várias portas em um único barramento/linha,
+s2028 | C. a energia de 6 V dos módulos/injetores de energia para servos aprovados só pode ser usada para alimentar servos, e
+s2029 | D. a porta +5V Aux de um hub REV pode ser usada para alimentar dispositivos que não estejam ligados a outros dispositivos de regulação de energia, exceto via USB.
+s2030 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧⟦4⟧12.7 Sistema de Controle, Comando e Sinais⟦/4⟧
+s2031 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧R701 ⟦/3⟧⟦4⟧*Controle o ROBÔ com um único ROBOT CONTROLLER.⟦/4⟧ Os ROBÔS devem ser controlados por 1 ROBOT CONTROLLER programável. O ROBOT CONTROLLER é a única fonte de controle dos atuadores do ROBÔ e deve ser composto por:
+s2032 | ⟦0⟧A. um REV Control Hub (REV-31-1595)⟦/0⟧, ou
+s2033 | ⟦0⟧B. um smartphone Android ligado a um REV Expansion Hub (REV-31-1153)⟦/0⟧.
+s2034 | Além de A ou B, um ROBÔ também pode ter:
+s2035 | C. no máximo um REV Expansion Hub (REV-31-1153) adicional.
+s2036 | Recomendamos que as equipes mantenham sempre atualizado o software de todos os dispositivos do sistema de controle. Consulte a ⟦1⟧página de atualização de firmware do ⟦2⟧FIRST⟦/2⟧ Tech Challenge (Firmware Update Page)⟦/1⟧ para ver os anúncios de lançamento e as versões de software mais recentes.
+s2037 | Por causa de variações imprevisíveis no software Android entre fabricantes e atualizações, o REV Control Hub é o único dispositivo ROBOT CONTROLLER com suporte oficial. As equipes que optarem por usar qualquer outro dispositivo sem suporte (por exemplo, smartphones) são responsáveis por testar e verificar a sua compatibilidade, funcionalidade e desempenho.
+s2038 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦4⟧R702 ⟦/4⟧⟦/3⟧⟦5⟧*As equipes não podem alterar o software de coprocessadores.⟦/5⟧⟦6⟧⟦7⟧ As equipes não podem modificar o software de coprocessadores, a menos que isso seja explicitamente permitido nesta regra. Atualizações de firmware em formato binário fornecidas pelo fabricante podem ser aplicadas conforme orientação do fabricante.⟦/7⟧⟦/6⟧⟦8⟧⟦9⟧ Coprocessadores de visão programáveis com suporte nativo no FTC SDK são uma exceção a esta regra, e é permitido reprogramá-los. A lista de coprocessadores de visão programáveis está ⟦/9⟧⟦/8⟧na Tabela 12‑9.
+s2039 | ⟦0⟧Tabela ⟦/0⟧12‑9: Coprocessadores de visão programáveis com suporte
+s2040 | Dispositivo
+s2041 | Código da peça
+s2042 | Limelight Vision Limelight 3A
+s2043 | LL_3A
+s2044 | Seguem exemplos de dispositivos permitidos e não permitidos:
+s2045 | Exemplo 1: O Adafruit BNO055 Absolute Orientation Sensor é uma IMU com um coprocessador embarcado baseado em ARM Cortex-M0, que processa os dados dos sensores e produz uma saída combinada. O seu coprocessador contém software que o fabricante não pretende que seja modificado pelos usuários. Este dispositivo é permitido.
+s2046 | Exemplo 2: O SparkFun Optical Tracking Odometry Sensor é um dispositivo de rastreamento com laser e IMU que usa um microcontrolador embarcado para fazer cálculos complexos e produzir resultados simplificados. A SparkFun fornece o código-fonte e as ferramentas para que usuários avançados modifiquem/atualizem o software, o que não é permitido por esta regra. As atualizações de firmware fornecidas pela SparkFun podem ser aplicadas ao dispositivo. Este dispositivo é permitido.
+s2047 | Exemplo 3: O Digital Chicken Labs OctoQuad FTC Edition é uma interface de 8 canais para encoder/PWM que usa um coprocessador Raspberry Pi Pico. As equipes não podem modificar o software executado no dispositivo, incluindo substituí-lo por um software próprio. Atualizações fornecidas em formato binário pelo fabricante (Digital Chicken Labs) podem ser aplicadas ao dispositivo. Este dispositivo é permitido.
+s2048 | ⟦0⟧⟦1⟧Exemplo 4: Os sensores de fluxo óptico (Optical Flow) são um exemplo de sensor que usa um coprocessador de visão e que é tratado como qualquer outro coprocessador, conforme a ⟦/1⟧⟦/0⟧⟦2⟧R702⟦/2⟧⟦3⟧⟦4⟧. Esses dispositivos são permitidos.⟦/4⟧⟦/3⟧
+s2049 | ⟦0⟧⟦1⟧Exemplo 5: A DFRobot HuskyLens e a Charmed Labs Pixy2 são exemplos de coprocessadores de visão configuráveis, mas não programáveis, e são tratados como qualquer outro coprocessador, conforme a ⟦/1⟧⟦/0⟧⟦2⟧R702⟦/2⟧⟦3⟧⟦4⟧. Esses dispositivos são permitidos.⟦/4⟧⟦/3⟧
+s2050 | Exemplo 6: A OpenMV Cam, a Luxonis OAK-1 e a LimeLight Vision Limelight 3G são exemplos de coprocessadores de visão programáveis que são proibidos.
+s2051 | ⟦0⟧⟦/0⟧⟦1⟧R703 ⟦/1⟧⟦2⟧*Smartphones Android usados como ROBOT CONTROLLER devem ser ligados ao REV Expansion Hub por USB. ⟦/2⟧Se usado como ROBOT CONTROLLER, o smartphone Android deve ser ligado, pela sua porta USB integrada, a um REV Expansion Hub, com qualquer combinação de cabos USB (incluindo cabos USB OTG) e/ou hubs USB (alimentados ou não, com ou sem OTG integrado ao hub).
+s2052 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧R704 ⟦/3⟧⟦4⟧* Use as redes e a largura de banda conforme orientado. ⟦/4⟧As equipes e os ROBÔS devem usar as redes Wi-Fi e a largura de banda de forma que permita um jogo justo e não interfira em outras equipes nem nas operações da ARENA. As equipes devem seguir as seguintes diretrizes:
+s2053 | A. As equipes não podem usar nenhuma outra forma de comunicação sem fio, além das oferecidas pelas ferramentas oficiais fornecidas, para se comunicar com o ROBÔ, a partir dele ou dentro dele.
+s2054 | B. As equipes não podem interferir nas redes dos ROBÔS. Todos os sinais de comunicação devem partir apenas do dispositivo ROBOT CONTROLLER ou do dispositivo DRIVER STATION, usando a rede Wi-Fi do ROBOT CONTROLLER. Nenhum outro dispositivo pode tentar se conectar, interferir ou alterar a rede Wi-Fi do ROBOT CONTROLLER.
+s2055 | C. Garanta que todos os notebooks de programação e outros dispositivos (exceto o dispositivo DRIVER STATION) estejam desconectados da rede Wi-Fi do ROBOT CONTROLLER durante as PARTIDAS.
+s2056 | D. Softwares com acesso à rede Wi-Fi do ROBOT CONTROLLER devem limitar a quantidade de dados transmitidos continuamente (streaming) pelo Wi-Fi. O software só pode transmitir dados de controle do robô, dados de depuração e telemetria de e para o ROBÔ usando o aplicativo FTC Driver Station. Serviços adicionais de registro/streaming, como os oferecidos por plugins e ferramentas de terceiros como FTC Dashboard, FTControl Panels e outros, são proibidos. Nenhum stream de vídeo contínuo é permitido.
+s2057 | E. Alguns eventos podem designar bandas e/ou canais de Wi-Fi para as equipes. Se solicitado pela equipe do evento, as equipes devem usar a banda de frequência ou o canal específico no dia da competição.
+s2058 | ⟦0⟧⟦/0⟧⟦1⟧R705 ⟦/1⟧⟦2⟧*Configure os dispositivos com o número da sua equipe. ⟦/2⟧O ROBOT CONTROLLER, a DRIVER STATION e quaisquer reservas usadas devem ser configurados/nomeados de acordo com o número correto da equipe, da seguinte forma:
+s2059 | A. o ROBOT CONTROLLER deveria se chamar &lt;número da equipe&gt;-RC (por exemplo, 12345-RC),
+s2060 | B. a DRIVER STATION deveria se chamar &lt;número da equipe&gt;-DS (por exemplo, 12345-DS), e
+s2061 | C. se um ROBOT CONTROLLER ou DRIVER STATION reserva for configurado, pode ser adicionada uma letra de identificação &lt;número da equipe&gt;-&lt;letra&gt;-RC/DS (por exemplo, 12345-A-DS, 12345-B-DS)
+s2062 | Veja as ⟦1⟧Instruções da DRIVER STATION⟦/1⟧⟦2⟧⟦/2⟧⟦3⟧⟦/3⟧ e as ⟦4⟧Instruções do ROBOT CONTROLLER⟦/4⟧ para o procedimento detalhado de atualização dos “nomes” da DRIVER STATION e do ROBOT CONTROLLER.
+s2063 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧R706 ⟦/2⟧⟦3⟧*Somente as modificações especificadas são permitidas nos dispositivos principais do sistema de controle.⟦/3⟧ O dispositivo e o software DRIVER STATION, o dispositivo ROBOT CONTROLLER baseado em Android, o(s) interruptor(es) de energia principal e secundário(s), os dispositivos de regulação de energia, os fusíveis e as baterias não podem ser adulterados, modificados ou ajustados de nenhuma forma (adulteração inclui furar, cortar, usinar, refazer a fiação, desmontar, pintar, remover invólucros e substituí-los por invólucros personalizados etc.), com as seguintes exceções:
+s2064 | A. fios, cabos e linhas de sinal podem ser ligados pelos pontos de conexão padrão dos dispositivos,
+s2065 | B. fixadores (incluindo adesivos) podem ser usados para prender os dispositivos ao CONSOLE DO OPERADOR ou ao ROBÔ, ou para prender cabos ao dispositivo,
+s2066 | C. material de interface térmica pode ser usado para melhorar a condução de calor,
+s2067 | D. podem ser aplicadas etiquetas para indicar a identificação, a finalidade, a conexão, o desempenho funcional etc. do dispositivo, desde que não cubram etiquetas ou marcações usadas para identificar o produto,
+s2068 | E. jumpers ou chaves podem ser mudados para configurar os dispositivos conforme o manual do fabricante,
+s2069 | F. o firmware do dispositivo pode ser atualizado com firmware fornecido pelo fabricante,
+s2070 | G. os fios integrados dos controladores de motor e das baterias podem ser cortados, descascados e/ou receber conectores,
+s2071 | H. os dispositivos, exceto baterias, podem ser reparados, desde que o desempenho e as especificações do dispositivo após o reparo sejam idênticos aos de antes do reparo,
+s2072 | I. pode ser adicionado material isolante em condutores expostos,
+s2073 | J. pode ser aplicada fita para proteção contra detritos, e
+s2074 | K. os suportes de fixação dos interruptores de energia podem ser modificados ou substituídos.
+s2075 | Observe que, embora reparos sejam permitidos, essa permissão é independente de qualquer garantia do fabricante. As equipes fazem reparos por sua conta e risco e deveriam considerar que perdem qualquer garantia ou opção de devolução. Os reparos devem ser funcionalmente equivalentes à condição original do dispositivo.
+s2076 | Saiba que diagnosticar e reparar COMPONENTES como esses pode ser difícil.
+s2077 | Por exemplo, “reparos” que mudam os tipos de conector, incluem modificações no formato do dispositivo ou acrescentam melhorias mecânicas são proibidos. ⟦1/⟧
+s2078 | ⟦0⟧⟦/0⟧⟦1⟧R707 ⟦/1⟧⟦2⟧*O USB é para visão.⟦/2⟧ Somente os seguintes dispositivos podem ser ligados ao sistema de controle do ROBÔ por USB:
+s2079 | A. webcams e sensores ópticos de visão, conforme a ⟦0⟧R708⟦/0⟧,
+s2080 | B. hub USB ou chave USB, e
+s2081 | C. um REV Expansion Hub.
+s2082 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧R708 ⟦/2⟧⟦3⟧*Use apenas dispositivos de visão USB com suporte.⟦/3⟧ Somente dispositivos de visão com um único sensor de imagem e suporte nativo no app ROBOT CONTROLLER podem ser ligados por USB (câmeras estereoscópicas não são permitidas). Isso inclui:
+s2083 | A. todas as webcams USB compatíveis com UVC (Logitech C270 e semelhantes), e
+s2084 | B. coprocessadores de visão permitidos conforme a ⟦0⟧R702⟦/0⟧.
+s2085 | Webcams USB compatíveis com UVC só podem usar o stream / os dados fornecidos via UVC. Nenhuma outra interface ou dado fornecido pela webcam pode ser usado.
+s2086 | Para solicitar suporte (ou fornecer drivers de exemplo) para outros dispositivos de visão USB para inclusão em futuras temporadas do ⟦1⟧FIRST⟦/1⟧ Tech Challenge, envie um e-mail para ⟦2⟧customerservice@firstinspires.org⟦/2⟧ com os seguintes detalhes:
+s2087 | - ⟦0⟧O assunto do e-mail deve ser: “USB Vision Future Support Request”⟦/0⟧
+s2088 | - ⟦0⟧Dados de contato para retorno ou esclarecimentos⟦/0⟧
+s2089 | - ⟦0⟧Detalhes do dispositivo para o qual se solicita suporte⟦/0⟧
+s2090 | ⟦0⟧⟦/0⟧⟦1⟧R709 ⟦/1⟧⟦2⟧*Dispositivos de gravação são permitidos.⟦/2⟧⟦3⟧⟦4⟧ ⟦/4⟧⟦/3⟧Dispositivos autônomos de gravação de vídeo (GoPro ou semelhantes) são permitidos, desde que usados apenas para visualização após a PARTIDA, sem função no jogo, e com a comunicação sem fio desligada.
+s2091 | ⟦0⟧⟦/0⟧⟦1⟧R710 ⟦/1⟧⟦2⟧*Lasers só são permitidos se fizerem parte de um sensor, forem de baixa energia e não visíveis.⟦/2⟧ Lasers não são permitidos, a menos que cumpram todos os seguintes critérios:
+s2092 | A. devem fazer parte de um sensor,
+s2093 | B. devem ser classificados como IEC/EN 60825-1 ”Classe I” ou IEC/EN 62471 “Isento” (Exempt), e
+s2094 | C. devem usar o espectro não visível.
+s2095 | ⟦0⟧⟦/0⟧⟦1⟧⟦/1⟧⟦2⟧R711 ⟦/2⟧⟦3⟧*Configure corretamente os dispositivos Android.⟦/3⟧ Os dispositivos Android usados como ROBOT CONTROLLER e DRIVER STATION (smartphones, REV Control Hub, REV Driver Hub) também devem ser configurados das seguintes formas:
+s2096 | A. os usuários do REV Control Hub devem ⟦0⟧trocar a senha do Wi-Fi⟦/0⟧ por uma senha diferente da padrão,
+s2097 | B. os usuários de smartphone devem ativar o Modo Avião,
+s2098 | C. nos dispositivos Android usados como ROBOT CONTROLLER e DRIVER STATION, o Wi-Fi deve estar ativado e o Bluetooth desativado, e
+s2099 | D. nos dispositivos Android usados como DRIVER STATION, remova todos os grupos Wi-Fi Direct e conexões Wi-Fi memorizados, deixando apenas a conexão Wi-Fi do ROBOT CONTROLLER.

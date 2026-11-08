@@ -9,7 +9,7 @@ Pipeline (rodar a partir da pasta scratchpad):
 3. tools/build.py manual/src -> pt-raw.html ; depois render (tools/render.js) com aviso de tradução não oficial
    na capa e no rodapé de todas as páginas; sumário (MsoToc) traduzir a partir dos títulos.
 
-Concluídos: c00–c22 (até R613.A).  Próximo: c23 (a partir de s2027).
+Concluídos: c00–c25 (até 13.5.1).  Próximo: c26 (a partir de s2230).
 Glossário adotado: ROBOT=ROBÔ, MATCH=PARTIDA, ALLIANCE=ALIANÇA, FIELD=CAMPO, REFEREE=ÁRBITRO,
 INSPECTOR=INSPETOR, STUDENT=ESTUDANTE, PORTFOLIO=PORTFÓLIO, HOME REGION=REGIÃO DE ORIGEM,
 COMPONENT=COMPONENTE, MECHANISM=MECANISMO, OPERATOR CONSOLE=CONSOLE DO OPERADOR, ROBOT SIGN=PLACA DO ROBÔ,
@@ -32,6 +32,6 @@ Elementos do jogo (POLLEN, NECTAR, FLOWER, HIVE, GARDEN...) — manter em inglê
 - traducao-manual/manual/src/en-local.html — HTML oficial (cm-html) com imagens apontando para files/
 - traducao-manual/manual/src/files/ — figuras do manual
 - traducao-manual/segs.json, chunks/ — gerados por tools/segment.py a partir de en-local.html
-- traducao-manual/pt/ — traduções (c00–c22 + auto.txt)
+- traducao-manual/pt/ — traduções (c00–c25 + auto.txt)
 Obs.: os scripts usam caminhos "manual/src/..." relativos à pasta de trabalho; ajuste conforme a nova estrutura
 (ex.: copiar segs.json, chunks/ e pt/ para manual/src/ antes de rodar check.py/build.py).
