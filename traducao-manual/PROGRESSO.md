@@ -9,7 +9,7 @@ Pipeline (rodar a partir da pasta scratchpad):
 3. tools/build.py manual/src -> pt-raw.html ; depois render (tools/render.js) com aviso de tradução não oficial
    na capa e no rodapé de todas as páginas; sumário (MsoToc) traduzir a partir dos títulos.
 
-Concluídos: c00–c29 (tradução completa).  Próximo: montar o PDF (build.py + render.js).
+Concluídos: c00–c29 + sumário (pt/toc.txt). PDF final gerado em media/manual-biobuzz-ptbr.pdf (160 páginas).
 Glossário adotado: ROBOT=ROBÔ, MATCH=PARTIDA, ALLIANCE=ALIANÇA, FIELD=CAMPO, REFEREE=ÁRBITRO,
 INSPECTOR=INSPETOR, STUDENT=ESTUDANTE, PORTFOLIO=PORTFÓLIO, HOME REGION=REGIÃO DE ORIGEM,
 COMPONENT=COMPONENTE, MECHANISM=MECANISMO, OPERATOR CONSOLE=CONSOLE DO OPERADOR, ROBOT SIGN=PLACA DO ROBÔ,
@@ -35,3 +35,10 @@ Elementos do jogo (POLLEN, NECTAR, FLOWER, HIVE, GARDEN...) — manter em inglê
 - traducao-manual/pt/ — traduções (c00–c29 + auto.txt)
 Obs.: os scripts usam caminhos "manual/src/..." relativos à pasta de trabalho; ajuste conforme a nova estrutura
 (ex.: copiar segs.json, chunks/ e pt/ para manual/src/ antes de rodar check.py/build.py).
+
+## Como regenerar o PDF (rodar na pasta de trabalho, com manual/src contendo en-local.html, files/, segs.json e pt/)
+1. python3 -I tools/segment.py manual/src/en-local.html manual/src/en-marked.html /tmp/segs.json   (gera en-marked.html)
+2. python3 -I tools/toc.py          (traduz o sumário -> pt/toc.txt)
+3. python3 -I tools/build.py manual/src   (-> pt-raw.html)
+4. python3 -I tools/finalize.py     (capa com aviso -> pt-final.html)
+5. node tools/render2.js "$PWD/manual/src/pt-final.html" "$PWD/manual/manual-pt.pdf"   (aviso no rodapé de todas as páginas)

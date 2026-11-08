@@ -1,0 +1,87 @@
+s0001 | Sumário
+s0002 | 1⟦2⟧ ⟦/2⟧Introdução⟦3⟧. ⟦/3⟧⟦4⟧5⟦/4⟧
+s0003 | 1.1⟦2⟧ ⟦/2⟧Sobre a FIRST®⟦5⟧. ⟦/5⟧⟦6⟧5⟦/6⟧
+s0004 | 1.2⟦2⟧ ⟦/2⟧FIRST® Tech Challenge⟦5⟧. ⟦/5⟧⟦6⟧5⟦/6⟧
+s0005 | 1.3⟦2⟧ ⟦/2⟧Ethos e Valores Fundamentais da FIRST⟦4⟧. ⟦/4⟧⟦5⟧6⟦/5⟧
+s0006 | 1.4⟦2⟧ ⟦/2⟧O Espírito da Competição⟦3⟧. ⟦/3⟧⟦4⟧10⟦/4⟧
+s0007 | 1.5⟦2⟧ ⟦/2⟧Contrato de Integridade da Competição (CIC)⟦3⟧. ⟦/3⟧⟦4⟧14⟦/4⟧
+s0008 | 1.6⟦2⟧ ⟦/2⟧Acessibilidade e Inclusão⟦3⟧. ⟦/3⟧⟦4⟧16⟦/4⟧
+s0009 | 1.7⟦2⟧ ⟦/2⟧Compreendendo e Usando o Manual de Competição
+s0010 | 2⟦2⟧ ⟦/2⟧Visão Geral da Temporada FIRST
+s0011 | 3⟦2⟧ ⟦/2⟧Elegibilidade para a Competição e Inspeção (I)⟦3⟧. ⟦/3⟧⟦4⟧22⟦/4⟧
+s0012 | 3.1⟦2⟧ ⟦/2⟧Regras de Elegibilidade das Equipes⟦3⟧. ⟦/3⟧⟦4⟧22⟦/4⟧
+s0013 | 3.2⟦2⟧ ⟦/2⟧Regras de Elegibilidade para Premiações⟦3⟧. ⟦/3⟧⟦4⟧23⟦/4⟧
+s0014 | 3.3⟦2⟧ ⟦/2⟧Regras de Elegibilidade para PARTIDAS⟦3⟧. ⟦/3⟧⟦4⟧23⟦/4⟧
+s0015 | 4⟦2⟧ ⟦/2⟧Avanço
+s0016 | 4.1⟦2⟧ ⟦/2⟧Cálculo dos Pontos de Avanço⟦3⟧. ⟦/3⟧⟦4⟧28⟦/4⟧
+s0017 | 4.2⟦2⟧ ⟦/2⟧Distribuição de Avanço por Região⟦3⟧. ⟦/3⟧⟦4⟧31⟦/4⟧
+s0018 | 5⟦2⟧ ⟦/2⟧Regras do Evento (E)⟦3⟧. ⟦/3⟧⟦4⟧33⟦/4⟧
+s0019 | 5.1⟦2⟧ ⟦/2⟧Regras Gerais⟦3⟧. ⟦/3⟧⟦4⟧33⟦/4⟧
+s0020 | 5.2⟦2⟧ ⟦/2⟧Oficinas Mecânicas e Espaços de Construção da Equipe Anfitriã⟦3⟧. ⟦/3⟧⟦4⟧37⟦/4⟧
+s0021 | 5.3⟦2⟧ ⟦/2⟧Regras de Comunicação Sem Fio⟦3⟧. ⟦/3⟧⟦4⟧37⟦/4⟧
+s0022 | 5.4⟦2⟧ ⟦/2⟧Carregamento (Load-In)⟦3⟧. ⟦/3⟧⟦4⟧38⟦/4⟧
+s0023 | 5.5⟦2⟧ ⟦/2⟧Boxes (Pits)⟦3⟧. ⟦/3⟧⟦4⟧38⟦/4⟧
+s0024 | 5.6⟦2⟧ ⟦/2⟧Carrinhos do ROBÔ⟦3⟧. ⟦/3⟧⟦4⟧40⟦/4⟧
+s0025 | 5.7⟦2⟧ ⟦/2⟧Cerimônias⟦3⟧. ⟦/3⟧⟦4⟧41⟦/4⟧
+s0026 | 6⟦2⟧ ⟦/2⟧Premiações (A)⟦3⟧. ⟦/3⟧⟦4⟧43⟦/4⟧
+s0027 | 6.1⟦2⟧ ⟦/2⟧Visão Geral e Cronograma dos Prêmios Julgados de Equipe⟦3⟧. ⟦/3⟧⟦4⟧43⟦/4⟧
+s0028 | 6.2⟦2⟧ ⟦/2⟧Regras dos Prêmios Julgados de Equipe⟦3⟧. ⟦/3⟧⟦4⟧48⟦/4⟧
+s0029 | 6.3⟦2⟧ ⟦/2⟧Descrições dos Prêmios Julgados de Equipe⟦3⟧. ⟦/3⟧⟦4⟧53⟦/4⟧
+s0030 | 6.4⟦2⟧ ⟦/2⟧Prêmios de ALIANÇA do Torneio⟦3⟧. ⟦/3⟧⟦4⟧57⟦/4⟧
+s0031 | 6.5⟦2⟧ ⟦/2⟧Prêmios Individuais⟦3⟧. ⟦/3⟧⟦4⟧58⟦/4⟧
+s0032 | 6.6⟦2⟧ ⟦/2⟧Prêmios Globais Baseados em Projetos⟦3⟧. ⟦/3⟧⟦4⟧59⟦/4⟧
+s0033 | 7⟦2⟧ ⟦/2⟧Reconhecimento ao Patrocinador do Jogo⟦3⟧. ⟦/3⟧⟦4⟧61⟦/4⟧
+s0034 | 8⟦2⟧ ⟦/2⟧Visão Geral do Jogo
+s0035 | 9⟦2⟧ ⟦/2⟧ARENA
+s0036 | 9.1⟦2⟧ ⟦/2⟧Dimensões e Precisão⟦3⟧. ⟦/3⟧⟦4⟧63⟦/4⟧
+s0037 | 9.2⟦2⟧ ⟦/2⟧CAMPO
+s0038 | 9.3⟦2⟧ ⟦/2⟧Áreas, Zonas e Marcações⟦3⟧. ⟦/3⟧⟦4⟧65⟦/4⟧
+s0039 | 9.4⟦2⟧ ⟦/2⟧Coordenadas dos TILES⟦3⟧. ⟦/3⟧⟦4⟧67⟦/4⟧
+s0040 | 9.5⟦2⟧ ⟦/2⟧ÁREA DA ALIANÇA
+s0041 | 9.6⟦2⟧ ⟦/2⟧Estrutura da HIVE⟦3⟧. ⟦/3⟧⟦4⟧69⟦/4⟧
+s0042 | 9.7⟦2⟧ ⟦/2⟧FLOWER
+s0043 | 9.8⟦2⟧ ⟦/2⟧ELEMENTOS DE PONTUAÇÃO
+s0044 | 9.9⟦2⟧ ⟦/2⟧AprilTags⟦3⟧. ⟦/3⟧⟦4⟧74⟦/4⟧
+s0045 | 9.10⟦2⟧ ⟦/2⟧EQUIPE DE CAMPO⟦3⟧. ⟦/3⟧⟦4⟧78⟦/4⟧
+s0046 | 9.11⟦2⟧ ⟦/2⟧Sistema de Gestão do Evento
+s0047 | 10⟦2⟧ ⟦/2⟧Detalhes do Jogo⟦3⟧. ⟦/3⟧⟦4⟧81⟦/4⟧
+s0048 | 10.1⟦2⟧ ⟦/2⟧Visão Geral da PARTIDA
+s0049 | 10.2⟦2⟧ ⟦/2⟧EQUIPE DE PILOTAGEM (DRIVE TEAM)
+s0050 | 10.3⟦2⟧ ⟦/2⟧Preparação⟦3⟧. ⟦/3⟧⟦4⟧82⟦/4⟧
+s0051 | 10.4⟦2⟧ ⟦/2⟧Períodos da PARTIDA⟦3⟧. ⟦/3⟧⟦4⟧85⟦/4⟧
+s0052 | 10.5⟦2⟧ ⟦/2⟧Pontuação⟦3⟧. ⟦/3⟧⟦4⟧86⟦/4⟧
+s0053 | 10.6⟦2⟧ ⟦/2⟧Violações⟦3⟧. ⟦/3⟧⟦4⟧92⟦/4⟧
+s0054 | 10.7⟦2⟧ ⟦/2⟧ÁRBITRO Principal⟦3⟧. ⟦/3⟧⟦4⟧97⟦/4⟧
+s0055 | 10.8⟦2⟧ ⟦/2⟧Outras Questões de Logística⟦3⟧. ⟦/3⟧⟦4⟧97⟦/4⟧
+s0056 | 11⟦2⟧ ⟦/2⟧Regras do Jogo (G)⟦3⟧. ⟦/3⟧⟦4⟧99⟦/4⟧
+s0057 | 11.1⟦2⟧ ⟦/2⟧Segurança Pessoal⟦3⟧. ⟦/3⟧⟦4⟧99⟦/4⟧
+s0058 | 11.2⟦2⟧ ⟦/2⟧Conduta
+s0059 | 11.3⟦2⟧ ⟦/2⟧Pré-PARTIDA
+s0060 | 11.4⟦2⟧ ⟦/2⟧Durante a PARTIDA
+s0061 | 12⟦2⟧ ⟦/2⟧Regras de Construção do ROBÔ (R)⟦3⟧. ⟦/3⟧⟦4⟧119⟦/4⟧
+s0062 | 12.1⟦2⟧ ⟦/2⟧Projeto Geral do ROBÔ⟦3⟧. ⟦/3⟧⟦4⟧121⟦/4⟧
+s0063 | 12.2⟦2⟧ ⟦/2⟧Jogo Limpo e Prevenção de Danos⟦3⟧. ⟦/3⟧⟦4⟧125⟦/4⟧
+s0064 | 12.3⟦2⟧ ⟦/2⟧Fabricação⟦3⟧. ⟦/3⟧⟦4⟧127⟦/4⟧
+s0065 | 12.4⟦2⟧ ⟦/2⟧Regras da PLACA DO ROBÔ⟦3⟧. ⟦/3⟧⟦4⟧129⟦/4⟧
+s0066 | 12.5⟦2⟧ ⟦/2⟧Motores e Atuadores⟦3⟧. ⟦/3⟧⟦4⟧132⟦/4⟧
+s0067 | 12.6⟦2⟧ ⟦/2⟧Distribuição de Energia⟦3⟧. ⟦/3⟧⟦4⟧135⟦/4⟧
+s0068 | 12.7⟦2⟧ ⟦/2⟧Sistema de Controle, Comando e Sinais
+s0069 | 12.8⟦2⟧ ⟦/2⟧Sistemas Pneumáticos e Dispositivos de Fluxo de Ar⟦3⟧. ⟦/3⟧⟦4⟧144⟦/4⟧
+s0070 | 12.9⟦2⟧ ⟦/2⟧CONSOLE DO OPERADOR⟦3⟧. ⟦/3⟧⟦4⟧144⟦/4⟧
+s0071 | 13⟦2⟧ ⟦/2⟧Torneio (T)⟦3⟧. ⟦/3⟧⟦4⟧147⟦/4⟧
+s0072 | 13.1⟦2⟧ ⟦/2⟧Visão Geral
+s0073 | 13.2⟦2⟧ ⟦/2⟧Repetição de PARTIDAS⟦3⟧. ⟦/3⟧⟦4⟧147⟦/4⟧
+s0074 | 13.3⟦2⟧ ⟦/2⟧Esclarecimentos sobre os Resultados das PARTIDAS (“Question Box”)⟦3⟧. ⟦/3⟧⟦4⟧148⟦/4⟧
+s0075 | 13.4⟦2⟧ ⟦/2⟧Regras Gerais do Torneio⟦3⟧. ⟦/3⟧⟦4⟧150⟦/4⟧
+s0076 | 13.5⟦2⟧ ⟦/2⟧PARTIDAS de Treino
+s0077 | 13.6⟦2⟧ ⟦/2⟧PARTIDAS de Qualificação
+s0078 | 13.7⟦2⟧ ⟦/2⟧PARTIDAS de Playoff
+s0079 | 13.8⟦2⟧ ⟦/2⟧Eventos com Duas Divisões⟦3⟧. ⟦/3⟧⟦4⟧163⟦/4⟧
+s0080 | 14⟦2⟧ ⟦/2⟧Torneios de Liga (L)⟦3⟧. ⟦/3⟧⟦4⟧167⟦/4⟧
+s0081 | 15⟦2⟧ ⟦/2⟧FIRST Championship (C)⟦4⟧. ⟦/4⟧⟦5⟧169⟦/5⟧
+s0082 | 15.1⟦2⟧ ⟦/2⟧Modificações nos Prêmios⟦3⟧. ⟦/3⟧⟦4⟧169⟦/4⟧
+s0083 | 15.2⟦2⟧ ⟦/2⟧Modificação do Jogo⟦3⟧. ⟦/3⟧⟦4⟧169⟦/4⟧
+s0084 | 15.3⟦2⟧ ⟦/2⟧ALIANÇAS de 3 ROBÔS
+s0085 | 15.4⟦2⟧ ⟦/2⟧Equipes de Pit no FIRST Championship⟦4⟧. ⟦/4⟧⟦5⟧170⟦/5⟧
+s0086 | 15.5⟦2⟧ ⟦/2⟧Playoffs do FIRST Championship⟦4⟧. ⟦/4⟧⟦5⟧170⟦/5⟧
+s0087 | 16⟦2⟧ ⟦/2⟧Glossário⟦3⟧. ⟦/3⟧⟦4⟧171⟦/4⟧
