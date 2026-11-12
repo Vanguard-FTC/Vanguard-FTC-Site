@@ -1085,3 +1085,18 @@ footer { border-top: 1px solid var(--line); padding: 40px var(--pad-x); }
 @media (max-width: 980px) {
   .manual::before { width: 100%; top: 40%; }
 }
+/* ---------- Robo: foto no lugar do scanner (mesmo padrao das outras fotos) ---------- */
+.robot-visual {
+  display: flex; align-items: center; justify-content: center;
+  padding: clamp(32px, 6vh, 64px) var(--pad-x);
+  overflow: visible; cursor: default;
+}
+.robot-photo {
+  --ratio: 4 / 5;           /* foto vertical */
+  --focus: 50% 62%;         /* centraliza o robo no recorte */
+  width: auto; height: 100%; max-height: 680px;
+}
+@media (max-width: 980px) {
+  .robot-visual { aspect-ratio: auto; max-height: none; height: auto; padding: 40px var(--pad-x); justify-content: flex-start; }
+  .robot-photo { height: auto; width: calc(100% - var(--frame-off)); max-width: 520px; }
+}
